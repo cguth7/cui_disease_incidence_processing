@@ -1,0 +1,12 @@
+{
+  "cui": "C4049273",
+  "cui_name": "Systemic immune activation",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too vague and heterogeneous to estimate meaningfully. Systemic immune activation encompasses diverse pathological processes (sepsis, SIRS, cytokine release syndrome) with vastly different etiologies, incidence rates, and clinical significance. Requires specification of underlying etiology or clinical context.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

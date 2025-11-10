@@ -1,0 +1,12 @@
+{
+  "cui": "C0751510",
+  "cui_name": "Sleep-Related Neurogenic Tachypnea",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Sleep-Related Breathing Disorders",
+  "reasoning": "Extremely rare neurogenic respiratory condition during sleep with limited published epidemiological data. Estimated <0.01-0.1 per 100k based on case reports in sleep medicine literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

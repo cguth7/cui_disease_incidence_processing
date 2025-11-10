@@ -1,0 +1,12 @@
+{
+  "cui": "C0008445",
+  "cui_name": "Chondrodysplasia Punctata",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Skeletal Dysplasia",
+  "reasoning": "Chondrodysplasia punctata is a heterogeneous group of skeletal dysplasias with multiple genetic subtypes (X-linked dominant, autosomal recessive, X-linked recessive). Estimated incidence <0.05 per 100k births based on limited case reports and clinical registries. The disease encompasses distinct genetic variants with varying severity.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

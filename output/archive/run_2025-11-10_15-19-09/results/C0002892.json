@@ -1,0 +1,12 @@
+{
+  "cui": "C0002892",
+  "cui_name": "Anemia, Pernicious",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Vitamin B12 Deficiency Anemia",
+  "reasoning": "Pernicious anemia is a specific autoimmune form of B12 deficiency with documented incidence ~1.2 per 100k globally. Well-characterized disease with clear diagnostic criteria and moderate geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

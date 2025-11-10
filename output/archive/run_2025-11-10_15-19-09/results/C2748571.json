@@ -1,0 +1,12 @@
+{
+  "cui": "C2748571",
+  "cui_name": "Isolated Growth Hormone Deficiency, Type IB",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Growth Hormone Deficiency",
+  "reasoning": "Type IB is a rare autosomal recessive form of isolated GHD caused by GH1 gene mutations. Estimated <1 per 100,000 births globally based on case reports and genetic studies. Geographic variation due to population genetics and screening practices.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate"
+}

@@ -15,45 +15,69 @@ Maps UMLS CUIs to global disease incidence rates (per 100k person-years) with co
 
 ## Input Format
 
-Single disease:
-```
-CUI: C0030354
-Disease Name: Papilloma
+**BATCH MODE (5 diseases):**
+```json
+{
+  "diseases": [
+    {"cui": "C0030354", "name": "Papilloma"},
+    {"cui": "C0334533", "name": "Intraductal papilloma of breast"},
+    {"cui": "C0011849", "name": "Diabetes Mellitus"},
+    {"cui": "C0018099", "name": "Gout"},
+    {"cui": "C0006142", "name": "Malignant neoplasm of breast"}
+  ]
+}
 ```
 
-CSV batch:
-```csv
-CUI,STR
-C0030354,Papilloma
-C0334533,Intraductal papilloma of breast
-```
+Process all 5 diseases and return an array of 5 results.
 
 ## Output Format
 
-**CRITICAL: Return ONLY valid JSON. No additional text, no markdown formatting, no explanations outside the JSON structure.**
+**CRITICAL: Return ONLY valid JSON array. No additional text, no markdown formatting, no explanations outside the JSON structure.**
 
-Always return JSON:
+For batch input of 5 diseases, return an array of 5 results:
 
 ```json
-{
-  "cui": "C0030354",
-  "cui_name": "Papilloma",
-  "incidence_per_100k": null,
-  "total_cases_per_year": null,
-  "confidence": 0.0,
-  "is_subtype": false,
-  "parent_disease": null,
-  "reasoning": "Umbrella term covering 25+ distinct papilloma types with vastly different incidence rates.",
-  "data_quality": "none",
-  "geographic_variation": "high",
-  "year_specific": false,
-  "data_year": null
-}
+[
+  {
+    "cui": "C0030354",
+    "cui_name": "Papilloma",
+    "incidence_per_100k": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term covering 25+ distinct papilloma types with vastly different incidence rates.",
+    "data_quality": "none",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  },
+  {
+    "cui": "C0011849",
+    "cui_name": "Diabetes Mellitus",
+    "incidence_per_100k": 16.5,
+    "total_cases_per_year": 1320000,
+    "confidence": 0.8,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Global diabetes incidence from IDF 2005 reports: approximately 15-18 per 100k person-years.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "IDF Diabetes Atlas 2005",
+    "source_url": "https://diabetesatlas.org/",
+    "source_type": "registry"
+  }
+]
 ```
 
 **Never include:**
 - Markdown code blocks (no ```json or ```)
-- Explanatory text before or after the JSON
+- Explanatory text before or after the JSON array
 - Additional fields not specified above
 - Phrases like "Not provided" or "N/A" - use null instead
 
@@ -69,6 +93,9 @@ Always return JSON:
 - **geographic_variation**: low/moderate/high/unknown
 - **year_specific**: Boolean - true if data is specifically from 2005, false if general/other year
 - **data_year**: Number or null - the specific year data is from (2005 preferred, or actual year found)
+- **source**: String or null - Citation for the estimate (e.g., "IDF Diabetes Atlas 2005", "GLOBOCAN 2020", "WHO Report 2010")
+- **source_url**: String or null - URL link to verify the data (e.g., "https://diabetesatlas.org/", "https://gco.iarc.fr/")
+- **source_type**: "registry" | "literature" | "estimate" | null - Type of source (registry=cancer/disease registries, literature=peer-reviewed studies, estimate=BOTEC calculations)
 
 ## Confidence Scoring
 

@@ -1,0 +1,12 @@
+{
+  "cui": "C4727947",
+  "cui_name": "Hypophosphataemic osteomalacia",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Osteomalacia",
+  "reasoning": "Hypophosphataemic osteomalacia is a specific subtype of osteomalacia caused by phosphate metabolism disorders (X-linked hypophosphatemia, autosomal recessive forms). Estimated incidence ~0.5 per 100k based on rare genetic disorder prevalence and clinical case reports.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

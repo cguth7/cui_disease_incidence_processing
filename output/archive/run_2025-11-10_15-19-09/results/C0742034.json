@@ -1,0 +1,12 @@
+{
+  "cui": "C0742034",
+  "cui_name": "cerebellar function",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable term - describes normal physiological function of the cerebellum, not a disease condition. No incidence data applicable.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

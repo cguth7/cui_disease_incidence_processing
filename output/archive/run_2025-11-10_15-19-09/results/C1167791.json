@@ -1,0 +1,12 @@
+{
+  "cui": "C1167791",
+  "cui_name": "Skin toxicity",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Skin toxicity is an adverse drug/radiation effect, not a disease entity with independent epidemiological incidence. Occurrence depends entirely on treatment exposure and patient factors.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

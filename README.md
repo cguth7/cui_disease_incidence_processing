@@ -1,305 +1,398 @@
 # CUI Disease Incidence Processing
 
-Maps UMLS CUI disease codes to global incidence rates using Claude Code agents with parallel processing.
+**Orchestrator-driven system for mapping UMLS CUI disease codes to global incidence rates with source tracking and confidence scoring.**
 
 ## Overview
 
-This system processes disease codes from pharmaceutical patents and maps them to global disease incidence rates (per 100k person-years) with confidence scoring, hierarchy detection, and year-specific data tracking (prioritizing 2005 data).
+This system processes disease codes from pharmaceutical patents and maps them to global disease incidence rates (per 100k person-years). It uses Claude Code's orchestrator pattern with batch processing agents for efficient, verifiable epidemiological data collection.
 
 **Key Features:**
-- ✅ Agent-based processing: Claude orchestrator → parallel Task agents → JSON files
-- ✅ 2005-specific incidence data prioritization (with fallback to general estimates)
-- ✅ Parallel batch processing (20-100 diseases at a time)
-- ✅ Automatic git commit/push workflow
-- ✅ Progress tracking with markdown logs
-- ✅ Confidence scoring and hierarchy detection
-- ✅ Aggregate estimates for umbrella terms
+- ✅ **Orchestrator-driven**: You communicate with Claude, who manages everything
+- ✅ **Batch processing**: 5 diseases per agent (5x more efficient)
+- ✅ **Source tracking**: Every estimate includes citations and URLs
+- ✅ **Deterministic output**: Always `output/current_run/` - zero ambiguity
+- ✅ **Incremental git commits**: Progress saved every 50 diseases
+- ✅ **Confidence scoring**: Data quality assessment (0.0-1.0 scale)
+- ✅ **Hierarchy detection**: Identifies disease subtypes and parent conditions
+
+---
 
 ## Quick Start
 
-### Slash Command (Recommended)
+### Process Diseases (Orchestrator-Driven)
 
-Open the project in Claude Code and run:
+Simply tell Claude what you want to process:
 
 ```
-/process-diseases --model haiku --end-row 100
+Process diseases 4001-5000
 ```
 
-**What happens:**
-1. Command expands to instructions for Claude orchestrator (Sonnet)
-2. Claude reads the CSV and creates a timestamped output directory
-3. Claude launches parallel Task agents (using haiku model for cost efficiency)
-4. Each agent researches a disease and writes a JSON file
-5. Claude commits and pushes results to git automatically
+**Claude will:**
+1. Archive any previous run to `output/archive/`
+2. Create fresh `output/current_run/` directory
+3. Create git branch: `claude/process-diseases-4001-5000`
+4. Process in batches of 50 diseases (10 agents × 5 diseases each)
+5. Report back after each batch
+6. Commit + push every 50 diseases
+7. Generate final summary when complete
 
-### Manual Processing (Alternative)
+**You can:**
+- Monitor progress in real-time
+- Ask questions between batches
+- Pause/resume as needed
+- Review the PR before merging to main
 
-If you prefer manual control, run the Python helper script:
-
-```bash
-python scripts/batch_processor.py --end-row 100
-```
-
-The script prints Task prompts for you to copy/paste manually into Claude.
+---
 
 ## Project Structure
 
 ```
 cui_disease_incidence_processing/
-├── .claude/
-│   ├── commands/
-│   │   └── process-diseases.md       # Slash command for automated workflow
-│   └── skills/
-│       └── cui-incidence-mapper_2/   # Skill (prompt instructions for agents)
-│           └── SKILL.md              # Instructions for mapping CUIs to incidence
-├── scripts/
-│   └── batch_processor.py            # Optional: Manual helper script
+├── README.md                    # This file
+├── PROGRESS.md                  # Master progress tracking (always updated)
 ├── data/
-│   └── disease_codes_Charlie.csv     # Input: 15k CUI codes & disease names
+│   └── disease_codes_Charlie.csv    # 15,163 UMLS CUI codes
 ├── output/
-│   └── runs/                         # Output from each run
-│       └── run_2025-11-10_18-31-40/  # Example timestamped run
-│           ├── results/              # 100 JSON files (one per disease)
-│           ├── progress.md           # Batch-by-batch progress tracking
-│           └── summary.json          # Final statistics
-├── progress.md                       # Root-level progress across all runs
-└── README.md
+│   ├── archive/                     # Previous runs (timestamped)
+│   │   ├── run_2025-11-10_15-19-09/
+│   │   └── run_2025-11-10_18-31-40/
+│   └── current_run/                 # Active run (deterministic path!)
+│       ├── progress.md              # Detailed batch-by-batch log
+│       ├── results/                 # Individual disease JSON files
+│       │   ├── C0011849.json
+│       │   ├── C0018099.json
+│       │   └── ... (one per CUI)
+│       └── summary.json             # Generated at completion
+├── .claude/
+│   ├── settings.local.json          # Git permissions
+│   └── skills/
+│       └── cui-incidence-mapper_2/  # Batch processing skill
+│           └── SKILL.md             # Agent instructions
+└── .gitignore
 ```
 
-## How It Actually Works
+**Key Insight:** `output/current_run/` is ALWAYS the active directory. No timestamps, no ambiguity.
+
+---
+
+## How It Works
 
 ### Architecture
 
 ```
-You → /process-diseases
-  ↓
-Claude Sonnet (orchestrator)
-  ↓
-Reads CSV, creates output directory
-  ↓
-Launches 20-100 Task agents in parallel (haiku model)
-  ↓
-Each agent:
-  1. Receives CUI + disease name
-  2. Reads skill instructions from .claude/skills/cui-incidence-mapper_2/
-  3. Researches disease (reasoning, web search if needed)
-  4. Writes JSON file to output/runs/run_TIMESTAMP/results/{CUI}.json
-  ↓
-Claude orchestrator waits for all 20 agents to complete
-  ↓
-Claude commits batch results to git
-  ↓
-Repeat for next batch (5 batches total for 100 diseases)
-  ↓
-Claude generates summary.json and pushes to GitHub
+┌─────────────────────────────────┐
+│   YOU (User)                    │
+│   "Process diseases 4001-5000"  │
+└────────────┬────────────────────┘
+             │
+┌────────────▼────────────────────┐
+│   CLAUDE (Orchestrator)         │
+│   - Creates current_run/        │
+│   - Launches processing agents  │
+│   - Aggregates results          │
+│   - Reports back to you         │
+│   - Commits to git              │
+└────────────┬────────────────────┘
+             │
+             │ (10 agents × 5 diseases each)
+             ↓
+┌─────────────────────────────────┐
+│   PROCESSING AGENTS (Haiku)     │
+│   - Use cui-incidence-mapper_2  │
+│   - Process 5 CUIs in batch     │
+│   - Include source citations    │
+│   - Write JSON files            │
+└─────────────────────────────────┘
 ```
 
-**Key Points:**
-- **No Python execution** in the slash command workflow (Python script is optional)
-- **Skills are just prompt instructions** - not code that executes
-- **Agents write JSON files directly** - data doesn't "return" to orchestrator
-- **Git workflow** - results committed and pushed automatically
+### Workflow Example
 
-### Slash Command Options
+**You say:**
+> "Process diseases 4001-5000"
 
-```bash
-# Process first 100 diseases (5 batches of 20)
-/process-diseases --model haiku --end-row 100
+**Claude responds:**
+> "Starting new run for diseases 4001-5000 (1000 total)
+> - Archived previous run to output/archive/run_2025-11-10_15-19-09/
+> - Created fresh output/current_run/
+> - Branch: claude/process-diseases-4001-5000
+> - Processing in 20 batches of 50 diseases each
+>
+> Launching batch 1 (diseases 4001-4050) via 10 agents..."
 
-# Process first 500 diseases
-/process-diseases --model haiku --end-row 500
+[Agents process in parallel]
 
-# Process diseases 100-200
-/process-diseases --model haiku --start-row 100 --end-row 200
-```
+**Claude reports:**
+> "Batch 1 complete: 50/1000 (5%)
+> - Mappable: 42 diseases
+> - Unmappable: 8 diseases
+> - High confidence: 28 results
+> - Needs review: 3 diseases (showing questionable estimates)
+> - Committed and pushed to branch
+> - PROGRESS.md updated
+>
+> Continuing with batch 2..."
 
-### Manual Python Script (Alternative)
+[Repeats for all 20 batches]
 
-```bash
-# For manual control - prints prompts for you to copy/paste
-python scripts/batch_processor.py --end-row 100
+**Final report:**
+> "Run complete! 1000/1000 diseases processed (100%)
+> - Results: output/current_run/results/ (1000 JSON files)
+> - Summary: output/current_run/summary.json
+> - All batches committed to branch: claude/process-diseases-4001-5000
+> - Ready to merge PR to main"
 
-# Check status of runs
-python scripts/batch_processor.py --status
-```
-
-## What Are "Skills"?
-
-Skills in Claude Code are **prompt instructions** stored in `.claude/skills/`. They're not executable code.
-
-When an agent is told to "use the cui-incidence-mapper_2 skill", it:
-1. Reads the SKILL.md file (markdown with instructions)
-2. Follows those instructions to complete the task
-3. Returns results based on the instructions
-
-The `cui-incidence-mapper_2` skill tells agents:
-- How to research disease incidence rates
-- What data sources to prioritize (GLOBOCAN 2005, WHO reports, etc.)
-- How to score confidence (0.0-1.0)
-- How to detect disease hierarchies (subtypes vs umbrella terms)
-- What JSON format to output
-
-## Input Format
-
-The CSV file `data/disease_codes_Charlie.csv` has 15,163 rows with columns:
-- `disease_id`: Sequential ID (1-15163)
-- `diseaseid`: UMLS CUI code (e.g., C0018099)
-- `diseasename`: Disease name (e.g., "Gout")
-
-Example:
-```csv
-disease_id,diseaseid,diseasename
-1,C0018099,Gout
-2,C0020557,Hypertriglyceridemia
-3,C0003864,Arthritis
-```
+---
 
 ## Output Format
 
-Each disease gets a JSON file in `output/runs/run_TIMESTAMP/results/{CUI}.json`:
+### Individual Disease JSON
+
+Each disease gets a JSON file in `output/current_run/results/{CUI}.json`:
 
 ```json
 {
-  "cui": "C0018099",
-  "cui_name": "Gout",
-  "incidence_per_100k": 120,
-  "total_cases_per_year": 9600000,
-  "confidence": 0.85,
-  "year_specific": true,
-  "data_year": 2005,
+  "cui": "C0011849",
+  "cui_name": "Diabetes Mellitus",
+  "incidence_per_100k": 16.5,
+  "total_cases_per_year": 1320000,
+  "confidence": 0.8,
   "is_subtype": false,
   "parent_disease": null,
-  "reasoning": "Based on GLOBOCAN 2005 data showing 120 per 100k incidence...",
-  "data_quality": "good",
-  "geographic_variation": "moderate"
+  "reasoning": "Global diabetes incidence from IDF 2005 reports...",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "source": "IDF Diabetes Atlas 2005",
+  "source_url": "https://diabetesatlas.org/...",
+  "source_type": "registry",
+  "year_specific": true,
+  "data_year": 2005
 }
 ```
 
-**New Fields (added for 2005 data tracking):**
-- `year_specific`: Boolean - true if 2005-specific data was found
-- `data_year`: Number or null - actual year of the data source (2005 if found, other year or null if not)
+**Key Fields:**
+- `incidence_per_100k`: New cases per 100,000 person-years
+- `confidence`: 0.0-1.0 (data quality/reliability)
+- `source`: Citation for the estimate
+- `source_url`: Link to verify the data
+- `source_type`: registry | literature | estimate
 
-**For unmappable diseases:**
-```json
-{
-  "cui": "C0001418",
-  "cui_name": "Adenocarcinoma",
-  "incidence_per_100k": null,
-  "confidence": 0.0,
-  "year_specific": false,
-  "data_year": null,
-  "reasoning": "Too generic - adenocarcinoma can occur in many organs with vastly different incidence rates..."
-}
-```
+### Summary Statistics
 
-### Confidence Scoring
-
-| Score | Meaning |
-|-------|---------|
-| 0.9-1.0 | Strong registry data (WHO, cancer registries) |
-| 0.7-0.8 | Good medical literature estimates |
-| 0.5-0.6 | Educated guess from disease category |
-| 0.3-0.4 | Very uncertain, limited data |
-| 0.2-0.3 | **Aggregate umbrella estimate** (BOTEC sum) |
-| 0.1-0.2 | Wild guess based on disease class |
-| 0.0 | Unmappable - too broad to estimate |
-
-### Umbrella Terms
-
-For broad categories like "Neoplasms", the system provides aggregate BOTEC estimates:
+`output/current_run/summary.json`:
 
 ```json
 {
-  "cui": "C0027651",
-  "cui_name": "Neoplasms",
-  "incidence_per_100k": 45000,
-  "total_cases_per_year": 3600000000,
-  "confidence": 0.2,
-  "year_specific": false,
-  "data_year": null,
-  "reasoning": "Aggregate BOTEC summing major cancer types: lung (47), breast (40), colorectal (32)..."
+  "total_diseases": 1000,
+  "completed": 920,
+  "unmappable": 80,
+  "success_rate": 0.92,
+  "confidence_distribution": {
+    "high (0.7-1.0)": 590,
+    "medium (0.3-0.7)": 250,
+    "low (0.1-0.3)": 80,
+    "unmappable (0.0)": 80
+  },
+  "subtypes_identified": 450,
+  "data_sources": {
+    "registry": 520,
+    "literature": 350,
+    "estimate": 50,
+    "unmappable": 80
+  }
 }
 ```
+
+---
 
 ## Progress Tracking
 
-After processing, check the progress files:
+### Two Progress Files
 
-### Root Progress (`progress.md`)
-Shows overall progress across all runs:
-- Total diseases processed (100 of 15,163 = 0.67%)
-- Success rate (92%)
-- High confidence results (59)
+**1. `PROGRESS.md` (Root - Master Summary)**
 
-### Run Progress (`output/runs/run_TIMESTAMP/progress.md`)
-Shows batch-by-batch details:
-- Which batches are complete
-- Mappable vs unmappable per batch
-- List of all CUIs processed
+Always updated, shows:
+- Current run status
+- Overall statistics
+- Historical runs in archive
 
-### Summary (`output/runs/run_TIMESTAMP/summary.json`)
-Final statistics:
+**2. `output/current_run/progress.md` (Detailed Log)**
+
+Batch-by-batch details:
+- Batch 1: Diseases 4001-4050 ✓ (50 diseases)
+- Batch 2: Diseases 4051-4100 ✓ (50 diseases)
+- Complete CUI lists
+- Timestamps
+- Mappable vs unmappable counts
+
+---
+
+## Git Workflow
+
+### Branch Strategy
+
+One feature branch per run:
+```
+claude/process-diseases-{start}-{end}
+
+Example: claude/process-diseases-4001-5000
+```
+
+### Commit Pattern
+
+**Every 50 diseases:**
+```bash
+git add PROGRESS.md output/current_run/
+git commit -m "Batch X: Process diseases {start}-{end} ({completed}/{total})"
+git push origin claude/process-diseases-4001-5000
+```
+
+**Files committed:**
+- `PROGRESS.md` (master progress)
+- `output/current_run/progress.md` (detailed log)
+- `output/current_run/results/*.json` (new disease files)
+
+**End of run:**
+- Final commit includes `output/current_run/summary.json`
+- PR is ready to merge to main
+- You review and merge when satisfied
+
+---
+
+## Data Quality
+
+### Confidence Scoring
+
+| Score | Meaning | Example |
+|-------|---------|---------|
+| **0.8-1.0** | Strong | Cancer registry data (GLOBOCAN) |
+| **0.6-0.8** | Moderate-High | Published cohort studies |
+| **0.3-0.6** | Moderate | Case reports, limited registries |
+| **0.1-0.3** | Low | Rare diseases, sparse data |
+| **0.0** | Unmappable | Umbrella terms, non-diseases |
+
+### Source Types
+
+- **registry**: Cancer registries, WHO databases, CDC surveillance
+- **literature**: Published peer-reviewed studies
+- **estimate**: Back-of-envelope calculations (BOTEC) for umbrella terms
+
+### Unmappable Categories
+
+Some CUIs cannot be mapped to meaningful incidence:
+- **Umbrella terms**: "Neoplasms" (too broad)
+- **Pathology descriptors**: "Invasive Carcinoma" (no organ specified)
+- **Biological processes**: "Carcinogenesis" (not a disease)
+- **Functional terms**: "Cerebellar function" (not pathology)
+- **Research models**: "Ehrlich Tumor" (mouse model, not human disease)
+
+---
+
+## Input Data
+
+### CSV Format
+
+`data/disease_codes_Charlie.csv` (15,163 rows):
+
+| disease_id | diseaseid | diseasename |
+|------------|-----------|-------------|
+| 1 | C0018099 | Gout |
+| 2 | C0011849 | Diabetes Mellitus |
+| ... | ... | ... |
+
+**Column Descriptions:**
+- `disease_id`: Sequential ID (1-15,163)
+- `diseaseid`: UMLS CUI code (Concept Unique Identifier)
+- `diseasename`: Disease name
+
+---
+
+## Advanced Usage
+
+### Resume Processing
+
+If interrupted, Claude can resume:
+
+```
+Resume processing from disease 4500
+```
+
+Claude will check PROGRESS.md and continue from where it left off.
+
+### Custom Ranges
+
+Process specific subsets:
+
+```
+Process diseases 1-1000
+Process diseases 10000-11000
+```
+
+### Review Questionable Results
+
+After each batch, Claude flags low-confidence results:
+
+```
+Review these 3 questionable mappings:
+1. C0123456 (confidence: 0.25) - Limited data
+2. C0234567 (confidence: 0.15) - Rare syndrome
+3. C0345678 (confidence: 0.0) - Unmappable umbrella term
+```
+
+---
+
+## Skill Details
+
+### cui-incidence-mapper_2
+
+**Location:** `.claude/skills/cui-incidence-mapper_2/SKILL.md`
+
+**Input:** Array of 5 CUIs
 ```json
-{
-  "total_diseases": 100,
-  "completed": 92,
-  "unmappable": 8,
-  "success_rate": 0.92,
-  "confidence_distribution": {
-    "high (0.7-1.0)": 59,
-    "medium (0.3-0.7)": 25,
-    "low (0.1-0.3)": 8,
-    "unmappable (0.0)": 8
-  },
-  "subtypes_identified": 45
-}
+["C0011849", "C0018099", "C0012345", "C0023456", "C0034567"]
 ```
 
-## Scaling Up
+**Output:** Array of 5 results with source tracking
 
-### Current Status
-- ✅ Processed: 100 diseases (0.67% of 15k dataset)
-- ✅ Success rate: 92%
-- ⏳ Remaining: 15,063 diseases
+**Processing Logic:**
+1. Research each disease in medical literature
+2. Find incidence data (prioritize 2005 if available)
+3. Assess confidence based on data quality
+4. Identify if disease is a subtype of another condition
+5. Include source citation and URL
+6. Return structured JSON
 
-### Processing Larger Batches
+---
 
-You can process 100 diseases at a time instead of 20:
+## Troubleshooting
 
+### "No diseases found in range"
+
+The CSV only has 15,163 diseases. Ensure your range is valid:
 ```
-/process-diseases --model haiku --start-row 100 --end-row 600
+Valid: Process diseases 1-1000 ✅
+Invalid: Process diseases 20000-21000 ❌
 ```
 
-This will process diseases 100-600 in 5 batches of 100 agents each (faster than 25 batches of 20).
+### "Git push failed"
 
-### Estimated Costs (using haiku model)
-- Per disease: ~$0.01-0.02
-- 100 diseases: ~$1-2
-- 1000 diseases: ~$10-20
-- Full 15k dataset: ~$150-300
+Check that `.claude/settings.local.json` allows git operations.
 
-## 2005 Data Priority
+### "Branch already exists"
 
-The skill prioritizes finding 2005-specific incidence data:
-- **Sources**: GLOBOCAN 2005, WHO 2005 reports, cancer registries circa 2005
-- **Fallback**: If 2005 data unavailable, uses best available estimate from any year
-- **Tracking**: `year_specific` and `data_year` fields show whether 2005 data was found
+Archive the current run and Claude will create a fresh branch.
 
-**Note**: Currently only batch 5 (diseases 81-100) has the 2005 tracking fields. Batches 1-4 can be reprocessed if needed for consistency.
+---
 
-## Common Unmappable Terms
+## Contributing
 
-Based on first 100 diseases, these types are typically unmappable (confidence 0.0):
-- Generic pathology terms: "Adenocarcinoma" (without organ specification)
-- Biological processes: "Carcinogenesis"
-- Overly broad umbrella terms: "Neoplasms" (though we provide BOTEC estimates)
-- Umbrella disease categories: "Primary malignant neoplasm"
+When adding new features:
+1. Keep output in `output/current_run/` (deterministic!)
+2. Update `PROGRESS.md` on every commit
+3. Include source tracking in any new data fields
+4. Document in this README
 
-Success rate: **92%** are successfully mapped to incidence estimates.
+---
 
-## Questions?
+## License
 
-- Check the skill documentation: `.claude/skills/cui-incidence-mapper_2/SKILL.md`
-- View progress tracking: `progress.md` and `output/runs/*/progress.md`
-- Review results: `output/runs/*/results/*.json`
-- Check slash command: `.claude/commands/process-diseases.md`
+Proprietary - For pharmaceutical patent analysis use only.

@@ -1,0 +1,12 @@
+{
+  "cui": "C0751511",
+  "cui_name": "Subwakefullness Syndrome",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Sleep-Wake Disorders",
+  "reasoning": "Rare sleep-wake disorder characterized by difficulty maintaining wakefulness. Limited epidemiological data; estimated incidence based on sleep disorder prevalence studies and clinical case reports. Considerably rarer than narcolepsy or other major sleep disorders.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

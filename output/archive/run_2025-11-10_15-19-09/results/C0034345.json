@@ -1,0 +1,12 @@
+{
+  "cui": "C0034345",
+  "cui_name": "Pyruvate Dehydrogenase Complex Deficiency Disease",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial Metabolic Disorder",
+  "reasoning": "Extremely rare genetic mitochondrial disorder with <1 per 100k births based on case reports and genetic screening. Limited epidemiological data; estimates derived from scattered case literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

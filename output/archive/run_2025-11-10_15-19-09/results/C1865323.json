@@ -1,0 +1,12 @@
+{
+  "cui": "C1865323",
+  "cui_name": "Migraine, Familial Basilar",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Migraine with Aura",
+  "reasoning": "Familial Basilar Migraine is a rare genetic variant of migraine with aura, characterized by basilar artery symptoms. Estimated incidence ~0.5 per 100k based on case reports and small genetic studies. Confidence is moderate-low due to limited epidemiological data on this specific subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

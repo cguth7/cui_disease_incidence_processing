@@ -1,0 +1,12 @@
+{
+  "cui": "C4272579",
+  "cui_name": "Autosomal Dominant Osteopetrosis",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Osteopetrosis",
+  "reasoning": "Autosomal dominant osteopetrosis is a rare genetic disorder with estimated incidence 0.2-0.5 per 100k person-years, less common than recessive forms. Moderate confidence based on clinical literature and case registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

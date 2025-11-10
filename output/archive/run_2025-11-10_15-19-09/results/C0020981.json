@@ -1,0 +1,12 @@
+{
+  "cui": "C0020981",
+  "cui_name": "Angioimmunoblastic Lymphadenopathy",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "T-cell Lymphoma",
+  "reasoning": "Angioimmunoblastic lymphadenopathy (AILD/AILT) is a rare peripheral T-cell lymphoma subtype, estimated at 0.05 per 100k based on lymphoma registry data. Accounts for approximately 1-2% of all non-Hodgkin lymphomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

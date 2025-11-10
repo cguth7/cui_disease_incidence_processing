@@ -1,0 +1,12 @@
+{
+  "cui": "C0751509",
+  "cui_name": "Short Sleeper Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare genetic sleep disorder with estimated incidence <0.1 per 100k based on limited case reports and family studies. Likely underdiagnosed due to lack of clinical significance.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

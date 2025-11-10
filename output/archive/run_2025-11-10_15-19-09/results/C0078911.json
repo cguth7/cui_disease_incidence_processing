@@ -1,0 +1,12 @@
+{
+  "cui": "C0078911",
+  "cui_name": "AIDS-Associated Nephropathy",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "HIV/AIDS Complications",
+  "reasoning": "Well-documented HIV complication with incidence ~4-5 per 100k globally in ART era. Rates vary by population (higher in African Americans) and decline with viral suppression. Estimate reflects modern treatment landscape.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

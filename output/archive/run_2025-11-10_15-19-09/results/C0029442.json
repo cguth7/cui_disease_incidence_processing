@@ -1,0 +1,12 @@
+{
+  "cui": "C0029442",
+  "cui_name": "Osteomalacia",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Osteomalacia incidence varies by region (1-5 per 100k) depending on sunlight exposure, dietary vitamin D intake, and healthcare access. Global average ~2.5 per 100k based on population studies and clinical registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

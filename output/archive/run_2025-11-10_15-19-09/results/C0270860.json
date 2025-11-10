@@ -1,0 +1,12 @@
+{
+  "cui": "C0270860",
+  "cui_name": "Basilar-Type Migraine",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Migraine",
+  "reasoning": "Basilar-type migraine is a specific subtype representing approximately 3-10% of all migraines. With overall migraine incidence ~25-30 per 100k, basilar-type represents roughly 2-3 per 100k. Confidence moderate due to heterogeneous reporting and limited dedicated epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

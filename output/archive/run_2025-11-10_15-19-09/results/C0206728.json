@@ -1,0 +1,12 @@
+{
+  "cui": "C0206728",
+  "cui_name": "Plexiform Neurofibroma",
+  "incidence_per_100k": 0.1,
+  "total_cases_per_year": 8000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Neurofibromatosis Type 1",
+  "reasoning": "Plexiform neurofibromas affect approximately 20-30% of NF1 patients. NF1 has an incidence of ~40 per 100k births; plexiform neurofibromas represent a clinically significant subtype with higher morbidity. Estimate ~0.1 per 100k general population based on prevalence in NF1 cohorts and medical literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

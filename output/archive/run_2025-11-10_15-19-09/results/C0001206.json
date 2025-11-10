@@ -1,0 +1,12 @@
+{
+  "cui": "C0001206",
+  "cui_name": "Acromegaly",
+  "incidence_per_100k": 3.0,
+  "total_cases_per_year": 240000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acromegaly is a specific endocrine disorder with relatively well-documented epidemiological data. Global incidence estimated at 2-4 per 100k person-years based on pituitary tumor registries and endocrinology cohort studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}
