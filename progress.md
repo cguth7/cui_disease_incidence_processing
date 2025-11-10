@@ -1,64 +1,57 @@
-# CUI Disease Incidence Processing - Overall Progress
+# CUI Disease Incidence Processing - Progress
 
-## Current Status
+## Current Run
 
-**Active Run:** `run_2025-11-10_15-19-09`
-**Model:** Haiku
-**Progress:** 50 / 1000 diseases (5% 🚀 IN PROGRESS)
-
----
-
-## Summary Statistics
-
-### Current Run (run_2025-11-10_15-19-09)
-- **Total Processed:** 50 diseases (batch 1 complete)
-- **Target:** 1000 diseases (rows 4001-5000 from disease_codes_Charlie.csv)
-- **Remaining:** 950 diseases
-- **Batches Completed:** 1/20
-
-### All-Time Totals
-- **Total Diseases in Dataset:** ~15,163 (disease_codes_Charlie.csv)
-- **Total Processed Across All Runs:** 150
-- **Completion:** 0.99% of full dataset
+**Status:** Not Started
+**Range:** N/A
+**Branch:** N/A
+**Started:** N/A
 
 ---
 
-## Active Runs
+## Statistics
 
-| Run ID | Date | Model | Target | Progress | Status |
-|--------|------|-------|--------|----------|--------|
-| run_2025-11-10_15-19-09 | 2025-11-10 | haiku | 1000 (rows 4001-5000) | 50/1000 (5%) | 🚀 In Progress |
-| run_2025-11-10_18-31-40 | 2025-11-10 | haiku | 100 | 100/100 (100%) | ✅ Complete |
+| Metric | Count | Percentage |
+|--------|-------|------------|
+| **Total Diseases** | 0 | - |
+| **Mappable** | 0 | 0% |
+| **Unmappable** | 0 | 0% |
+| **High Confidence (0.7-1.0)** | 0 | 0% |
+| **Medium Confidence (0.3-0.7)** | 0 | 0% |
+| **Low Confidence (0.1-0.3)** | 0 | 0% |
 
----
+### Data Sources
 
-## Quick Stats
-
-✅ **Mapped Diseases:** 92
-❌ **Unmappable:** 8
-📊 **Success Rate:** 92%
-🎯 **High Confidence Results:** 59 (64% of mappable)
-
-### Common Unmappable Categories
-- Generic pathology terms (e.g., "Adenocarcinoma" without organ)
-- Biological processes (e.g., "Carcinogenesis")
-- Overly broad umbrella terms (e.g., "Neoplasms")
-
----
-
-## Next Steps
-
-- [x] Complete remaining 60 diseases in current run (batches 3-5) ✅
-- [x] Generate final summary.json for run ✅
-- [ ] Plan next run for diseases 101-500 (consider 100-disease batches for speed)
+| Source Type | Count | Percentage |
+|-------------|-------|------------|
+| **Registry** | 0 | 0% |
+| **Literature** | 0 | 0% |
+| **Estimate** | 0 | 0% |
+| **Unmappable** | 0 | 0% |
 
 ---
 
-## View Detailed Progress
+## Historical Runs
 
-📂 **Run Details:** `output/runs/run_2025-11-10_18-31-40/progress.md`
-📂 **Results:** `output/runs/run_2025-11-10_18-31-40/results/`
+### Archived Runs
+
+| Run ID | Date | Range | Diseases | Success Rate | Location |
+|--------|------|-------|----------|--------------|----------|
+| run_2025-11-10_18-31-40 | 2025-11-10 | 1-100 | 100 | 92% | \`output/archive/run_2025-11-10_18-31-40/\` |
+| run_2025-11-10_15-19-09 | 2025-11-10 | 4001-5000 | 100 (incomplete) | - | \`output/archive/run_2025-11-10_15-19-09/\` |
+
+**Total Processed Across All Runs:** 100 diseases
+**Overall Dataset:** 15,163 diseases total
+**Completion:** 0.66% of full dataset
 
 ---
 
-*Last Updated: 2025-11-10 15:20 UTC (Batch 1 complete, starting Batch 2)*
+## Notes
+
+- This file is updated after **every batch commit** (every 50 diseases)
+- Detailed batch-by-batch logs are in \`output/current_run/progress.md\`
+- Individual disease results are in \`output/current_run/results/\`
+
+---
+
+*Last Updated: Never (awaiting first run)*
