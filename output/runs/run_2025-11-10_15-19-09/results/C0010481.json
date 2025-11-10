@@ -1,0 +1,12 @@
+{
+  "cui": "C0010481",
+  "cui_name": "Cushing Syndrome",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cushing syndrome has well-documented incidence of approximately 1-2 per 100k per year from hospital-based registries and epidemiological studies. Global average ~1.2 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

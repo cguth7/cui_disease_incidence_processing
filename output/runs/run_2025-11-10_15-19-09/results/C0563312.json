@@ -1,0 +1,12 @@
+{
+  "cui": "C0563312",
+  "cui_name": "IgM monoclonal gammopathy of uncertain significance",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Monoclonal Gammopathy of Uncertain Significance (MGUS)",
+  "reasoning": "IgM-MGUS is a specific subtype of MGUS (overall incidence ~3-4 per 100k), representing approximately 10-15% of all MGUS cases. Estimate based on published hematology cohorts and registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

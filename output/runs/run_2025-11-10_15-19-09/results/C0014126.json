@@ -1,0 +1,12 @@
+{
+  "cui": "C0014126",
+  "cui_name": "Endocervical polyp",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Cervical polyp",
+  "reasoning": "Endocervical polyps are benign cervical growths with limited population-based incidence data. Estimates derived from gynecological pathology studies suggest 1-5 per 100k, with global average of ~2.5 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate"
+}

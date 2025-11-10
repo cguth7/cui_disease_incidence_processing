@@ -1,0 +1,12 @@
+{
+  "cui": "C0282126",
+  "cui_name": "Depression, Neurotic",
+  "incidence_per_100k": 45.0,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Major Depressive Disorder",
+  "reasoning": "Neurotic depression is a subtype of depression with documented psychiatric epidemiology. Global incidence estimated at ~45 per 100k based on WHO mental health surveys and longitudinal psychiatric cohorts, though term usage varies by region.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

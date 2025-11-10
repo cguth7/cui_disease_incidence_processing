@@ -1,0 +1,12 @@
+{
+  "cui": "C0086133",
+  "cui_name": "Depressive Syndrome",
+  "incidence_per_100k": 800,
+  "total_cases_per_year": 64000000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Depressive Syndrome is a broad umbrella term covering depressive episodes, major depressive disorder, and related mood disorders. Aggregate BOTEC estimate summing major depressive conditions: MDD (~300-400 per 100k), persistent depressive disorder (~100 per 100k), depressive episodes in bipolar disorder (~100-150 per 100k), adjustment disorder with depressed mood (~150-200 per 100k). Total ~800 per 100k. Moderate confidence due to heterogeneity and potential overlap between categories.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

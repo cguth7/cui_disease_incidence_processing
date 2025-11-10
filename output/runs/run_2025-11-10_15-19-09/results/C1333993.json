@@ -1,0 +1,12 @@
+{
+  "cui": "C1333993",
+  "cui_name": "hereditary paraganglioma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Paraganglioma",
+  "reasoning": "Hereditary paragangliomas are rare neuroendocrine tumors with estimated incidence of 0.2-0.4 per 100k based on limited population studies and genetic registry data. Multiple genetic forms (SDH mutations) with variable penetrance contribute to estimation uncertainty.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

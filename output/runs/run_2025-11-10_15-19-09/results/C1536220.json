@@ -1,0 +1,12 @@
+{
+  "cui": "C1536220",
+  "cui_name": "ST segment elevation myocardial infarction",
+  "incidence_per_100k": 22.5,
+  "total_cases_per_year": 1800000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Acute Myocardial Infarction",
+  "reasoning": "STEMI is a well-characterized acute MI subtype with strong registry data from major cardiovascular surveillance systems (WHO, ESC, ACC). Global incidence estimated at 22.5 per 100k person-years; represents ~40-50% of all acute MIs.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

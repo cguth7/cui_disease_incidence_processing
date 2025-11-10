@@ -1,0 +1,12 @@
+{
+  "cui": "C0349476",
+  "cui_name": "Congenital goiter",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital goiter incidence varies with iodine status: ~0.1-0.3 per 100k in iodine-sufficient regions, higher in iodine-deficient areas. Global weighted average ~0.7 per 100k considering variable iodine deficiency worldwide.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

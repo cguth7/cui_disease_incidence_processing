@@ -1,0 +1,12 @@
+{
+  "cui": "C0271148",
+  "cui_name": "Secondary Open Angle Glaucoma",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Glaucoma",
+  "reasoning": "Secondary OAG accounts for 10-15% of glaucoma cases (~4-5 per 100k global incidence). Data from ophthalmological surveys and glaucoma registries indicate moderate confidence. Incidence varies by region and underlying causes (corticosteroid use, anterior uveitis, ocular trauma).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

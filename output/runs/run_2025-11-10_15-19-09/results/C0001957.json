@@ -1,0 +1,12 @@
+{
+  "cui": "C0001957",
+  "cui_name": "Alcohol Withdrawal Delirium",
+  "incidence_per_100k": 5.0,
+  "total_cases_per_year": 400000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Alcohol Withdrawal Syndrome",
+  "reasoning": "Alcohol withdrawal delirium (delirium tremens) occurs in 5-15% of individuals experiencing alcohol withdrawal. With ~100 million people dependent on alcohol globally and ~50% experiencing withdrawal symptoms, estimated incidence ~5 per 100k. Medical literature documents this as a serious but manageable complication.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

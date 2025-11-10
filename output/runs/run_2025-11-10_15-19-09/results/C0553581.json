@@ -1,0 +1,12 @@
+{
+  "cui": "C0553581",
+  "cui_name": "Round cell sarcoma",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Sarcoma",
+  "reasoning": "Round cell sarcomas (Ewing sarcoma, embryonal rhabdomyosarcoma) are relatively rare malignancies with combined incidence ~2-3 per 100k. Moderate confidence due to heterogeneity within the category and variable epidemiologic data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

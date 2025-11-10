@@ -1,0 +1,12 @@
+{
+  "cui": "C1334603",
+  "cui_name": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Uterine Malignancy",
+  "reasoning": "Rare biphasic malignancy (carcinosarcoma) with estimated incidence ~0.8 per 100k globally. Primarily uterine origin, accounts for 1-5% of uterine malignancies. Data from cancer registries support this estimate.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0033822",
+  "cui_name": "Pseudomyxoma Peritonei",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pseudomyxoma peritonei is a rare mucinous neoplasm of peritoneal origin, with incidence estimated <0.1 per 100k based on case report frequencies. Often arises from ruptured appendiceal mucinous neoplasms.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

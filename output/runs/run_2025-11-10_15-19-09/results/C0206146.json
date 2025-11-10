@@ -1,0 +1,12 @@
+{
+  "cui": "C0206146",
+  "cui_name": "Myocardial Stunning",
+  "incidence_per_100k": 75.0,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Acute Myocardial Infarction",
+  "reasoning": "Myocardial stunning occurs in 50-80% of successfully reperfused acute MI patients. With global MI incidence of ~100-150 per 100k, stunning affects approximately 75 per 100k. Well-documented in cardiology literature and interventional studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low"
+}

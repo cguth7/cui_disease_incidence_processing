@@ -1,0 +1,12 @@
+{
+  "cui": "C1960398",
+  "cui_name": "HER2-positive carcinoma of breast",
+  "incidence_per_100k": 7.5,
+  "total_cases_per_year": 600000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "HER2-positive breast cancer accounts for 15-20% of all breast cancers with global incidence ~7.5 per 100k. Strong epidemiological data from cancer registries and clinical trials.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

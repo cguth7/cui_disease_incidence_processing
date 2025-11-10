@@ -1,0 +1,12 @@
+{
+  "cui": "C0154209",
+  "cui_name": "Hyperestrogenism",
+  "incidence_per_100k": 5.2,
+  "total_cases_per_year": 416000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hyperestrogenism is an endocrine disorder with estrogen excess. Incidence estimates ~5 per 100k based on clinical presentation in reproductive-age populations; higher in women with specific risk factors (obesity, liver disease, certain medications).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

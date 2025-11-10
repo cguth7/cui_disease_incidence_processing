@@ -1,0 +1,12 @@
+{
+  "cui": "C0042974",
+  "cui_name": "von Willebrand Disease",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "von Willebrand Disease is a well-characterized inherited bleeding disorder affecting ~1% of the general population. Global incidence estimated at 8-10 per 100k based on epidemiological surveys and hematology registries.",
+  "data_quality": "strong",
+  "geographic_variation": "low"
+}

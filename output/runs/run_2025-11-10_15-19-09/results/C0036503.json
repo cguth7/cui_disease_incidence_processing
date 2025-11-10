@@ -1,0 +1,12 @@
+{
+  "cui": "C0036503",
+  "cui_name": "Sebaceous Gland Neoplasms",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Skin Neoplasms",
+  "reasoning": "Sebaceous gland neoplasms are rare skin tumors; aggregate estimate combining sebaceous carcinomas (~0.05-0.2 per 100k), sebaceous adenomas (~0.3-0.5 per 100k), and sebaceous hyperplasias (~0.2-0.3 per 100k) yields approximately 0.8 per 100k globally. High geographic variation due to differences in surveillance and histological classification.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

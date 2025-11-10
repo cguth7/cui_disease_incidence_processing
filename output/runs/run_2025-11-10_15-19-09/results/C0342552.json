@@ -1,0 +1,12 @@
+{
+  "cui": "C0342552",
+  "cui_name": "Autoimmune endocrine disease",
+  "incidence_per_100k": 45.0,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major autoimmune endocrine conditions: Graves' disease (~15 per 100k), Hashimoto's thyroiditis (~10 per 100k), Type 1 diabetes (~5 per 100k), Addison's disease (~1 per 100k), primary biliary cholangitis (~5 per 100k). Total ~45 per 100k. Low confidence due to heterogeneity and potential overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}
