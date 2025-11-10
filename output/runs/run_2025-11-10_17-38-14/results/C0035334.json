@@ -1,0 +1,12 @@
+{
+  "cui": "C0035334",
+  "cui_name": "Retinitis Pigmentosa",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Retinitis Pigmentosa is a genetic retinal degenerative disorder with global incidence ~1-2 per 100k person-years, based on population studies and genetic screening data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

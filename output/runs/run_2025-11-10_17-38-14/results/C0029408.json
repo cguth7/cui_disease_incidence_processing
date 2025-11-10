@@ -1,0 +1,12 @@
+{
+  "cui": "C0029408",
+  "cui_name": "Degenerative polyarthritis",
+  "incidence_per_100k": 100,
+  "total_cases_per_year": 8000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Osteoarthritis",
+  "reasoning": "Degenerative polyarthritis (polyarticular osteoarthritis) has incidence ~100 per 100k based on rheumatology registries and cohort studies. Affects multiple joints, distinct from monoarticular OA.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

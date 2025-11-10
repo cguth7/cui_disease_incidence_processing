@@ -1,0 +1,12 @@
+{
+  "cui": "C4520843",
+  "cui_name": "Pterygium of eye",
+  "incidence_per_100k": 80.0,
+  "total_cases_per_year": 6400000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pterygium is a well-defined ocular surface condition with documented regional incidence data. Global incidence estimated ~80 per 100k based on epidemiological studies showing 50-300 per 100k in high UV regions (Australia, tropics) and <20 per 100k in temperate zones. Geographic variation extremely high due to UV exposure patterns.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

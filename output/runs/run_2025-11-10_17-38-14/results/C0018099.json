@@ -1,0 +1,12 @@
+{
+  "cui": "C0018099",
+  "cui_name": "Gout",
+  "incidence_per_100k": 100.0,
+  "total_cases_per_year": 8000000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": "Crystal Arthropathy",
+  "reasoning": "Gout is a well-defined inflammatory arthritis with strong epidemiological data. Global incidence ~100 per 100k person-years (ranges 50-250 by region). Higher in Western populations, men, and older adults. Registry and cohort study data worldwide.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

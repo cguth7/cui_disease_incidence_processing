@@ -1,0 +1,12 @@
+{
+  "cui": "C0020557",
+  "cui_name": "Hypertriglyceridemia",
+  "incidence_per_100k": 1100,
+  "total_cases_per_year": 88000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Dyslipidemia",
+  "reasoning": "Hypertriglyceridemia (triglycerides >150 mg/dL) has estimated global incidence ~1100 per 100k person-years based on lipid screening studies and cardiovascular cohorts. Common metabolic condition strongly associated with obesity, diabetes, and metabolic syndrome. Moderate confidence due to variable diagnostic thresholds and population-dependent rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

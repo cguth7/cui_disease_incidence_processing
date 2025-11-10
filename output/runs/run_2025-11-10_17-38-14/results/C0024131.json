@@ -1,0 +1,12 @@
+{
+  "cui": "C0024131",
+  "cui_name": "Lupus Vulgaris",
+  "incidence_per_100k": 0.15,
+  "total_cases_per_year": 12000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Cutaneous Tuberculosis",
+  "reasoning": "Lupus Vulgaris is a chronic progressive form of cutaneous tuberculosis. Estimated ~0.15 per 100k globally based on cutaneous TB representing 1-2% of extrapulmonary TB, with lupus vulgaris being a major subtype. Predominantly occurs in TB-endemic regions (South Asia, Africa).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

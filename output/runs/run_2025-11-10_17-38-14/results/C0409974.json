@@ -1,0 +1,12 @@
+{
+  "cui": "C0409974",
+  "cui_name": "Lupus Erythematosus",
+  "incidence_per_100k": 5.0,
+  "total_cases_per_year": 400000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term predominantly referring to systemic lupus erythematosus (SLE) with global incidence ~5 per 100k. Includes minor contributions from discoid and drug-induced forms. Strong epidemiological data for SLE from multiple registries and cohort studies.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -10,14 +10,12 @@ venv/
 dist/
 build/
 
-# Output files (keep structure, ignore results)
-output/runs/*/results/*.json
-output/runs/*/checkpoint.json
-output/runs/*/progress.log
-output/runs/*/summary.json
+# Output files - COMMIT results to preserve work
+# Note: Results are stored in git since we're processing incrementally
+# and need to preserve progress across sessions
 
-# Keep the directory structure
-!output/runs/.gitkeep
+# Ignore large temporary files if needed (commented out for now)
+# output/runs/*/progress.log
 
 # IDE
 .vscode/

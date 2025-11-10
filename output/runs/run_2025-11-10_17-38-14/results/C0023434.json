@@ -1,0 +1,12 @@
+{
+  "cui": "C0023434",
+  "cui_name": "Chronic Lymphocytic Leukemia",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Lymphocytic Leukemia",
+  "reasoning": "CLL is well-documented with global average ~2.5 per 100k, but shows high geographic variation (4-5 per 100k in Western countries, <1 per 100k in Asia). Strong cancer registry data from SEER, WHO, and national cancer registries.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

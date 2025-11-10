@@ -1,0 +1,12 @@
+{
+  "cui": "C0033999",
+  "cui_name": "Pterygium",
+  "incidence_per_100k": 120,
+  "total_cases_per_year": 9600000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pterygium is a UV-related conjunctival growth with global average incidence ~120 per 100k. Extreme geographic variation: <10 per 100k in high latitudes, >300 per 100k in tropical regions within the pterygium belt (30°N-30°S). Based on regional epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

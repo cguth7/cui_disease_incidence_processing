@@ -1,0 +1,12 @@
+{
+  "cui": "C0003873",
+  "cui_name": "Rheumatoid Arthritis",
+  "incidence_per_100k": 35.0,
+  "total_cases_per_year": 2800000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented autoimmune disease with global incidence ~35 per 100k (range 20-50 across populations), supported by rheumatology registries and large cohort studies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

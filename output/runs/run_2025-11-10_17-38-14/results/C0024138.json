@@ -1,0 +1,12 @@
+{
+  "cui": "C0024138",
+  "cui_name": "Lupus Erythematosus, Discoid",
+  "incidence_per_100k": 3.0,
+  "total_cases_per_year": 240000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Cutaneous Lupus Erythematosus",
+  "reasoning": "DLE is the most common form of cutaneous lupus, accounting for 60-80% of cases. Cutaneous lupus incidence ~4-5 per 100k, so DLE ~3 per 100k based on dermatology cohorts and lupus registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

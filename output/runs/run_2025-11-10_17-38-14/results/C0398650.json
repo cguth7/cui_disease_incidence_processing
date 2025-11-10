@@ -1,0 +1,12 @@
+{
+  "cui": "C0398650",
+  "cui_name": "Immune thrombocytopenic purpura",
+  "incidence_per_100k": 4.0,
+  "total_cases_per_year": 320000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "ITP is a well-defined autoimmune disorder with strong registry data showing global incidence of ~4 per 100k per year (2-5 in adults, 2-6 in children). Multiple population-based studies provide consistent estimates.",
+  "data_quality": "strong",
+  "geographic_variation": "low"
+}
