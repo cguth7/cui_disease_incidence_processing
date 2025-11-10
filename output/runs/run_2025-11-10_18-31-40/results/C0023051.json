@@ -1,0 +1,12 @@
+{
+  "cui": "C0023051",
+  "cui_name": "Laryngeal Diseases",
+  "incidence_per_100k": 1500,
+  "total_cases_per_year": 120000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major laryngeal conditions: acute laryngitis (~800), chronic laryngitis (~400), laryngeal cancer (~1.5), vocal cord dysfunction and other conditions (~300). Low confidence due to heterogeneous etiologies, variable diagnostic criteria, self-limiting infections, and significant geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate"
+}

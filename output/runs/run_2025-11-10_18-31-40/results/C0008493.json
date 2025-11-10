@@ -1,0 +1,12 @@
+{
+  "cui": "C0008493",
+  "cui_name": "Hydatidiform Mole, Invasive",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hydatidiform Mole",
+  "reasoning": "Invasive hydatidiform mole represents 10-15% of molar pregnancies. Overall molar pregnancy incidence ~1 per 1000 pregnancies (higher in Asia and Latin America, lower in North America/Europe). Estimated ~0.2 per 100k person-years globally with significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

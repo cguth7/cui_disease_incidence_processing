@@ -61,6 +61,12 @@ The `scripts/batch_processor.py` script is designed for **human users** who want
    - Count successes/failures
    - Create summary.json with statistics
 
+6. **Commit and push results to GitHub:**
+   - Add all files: `git add -A`
+   - Commit with descriptive message
+   - Push to your claude/ branch: `git push`
+   - Results are saved on GitHub automatically!
+
 ---
 
 # Example Workflow for Claude

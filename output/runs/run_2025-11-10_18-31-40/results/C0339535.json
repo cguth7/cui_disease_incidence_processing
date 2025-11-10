@@ -1,0 +1,12 @@
+{
+  "cui": "C0339535",
+  "cui_name": "Night blindness, congenital stationary",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Congenital retinal disorders",
+  "reasoning": "Rare inherited retinal disorder with nyctalopia phenotype. Limited epidemiological data available; estimate based on prevalence of inherited retinal dystrophies and case frequency in ophthalmology literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

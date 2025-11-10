@@ -1,0 +1,12 @@
+{
+  "cui": "C1608408",
+  "cui_name": "Malignant transformation",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable umbrella term referring to the biological process of normal cells becoming cancerous, not a specific disease entity. Malignant transformation occurs across all cancer types with vastly different incidence rates depending on tissue/organ and etiology. Too broad and generic to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

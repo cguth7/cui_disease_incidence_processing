@@ -1,0 +1,12 @@
+{
+  "cui": "C0494165",
+  "cui_name": "Secondary malignant neoplasm of liver",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Liver Cancer",
+  "reasoning": "Secondary liver malignancies represent metastatic cancer from other primary sites. Estimated ~25 per 100k based on global cancer epidemiology and frequency of liver metastasis in advanced cancer patients.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

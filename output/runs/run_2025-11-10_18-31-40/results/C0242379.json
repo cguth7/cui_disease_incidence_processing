@@ -1,0 +1,12 @@
+{
+  "cui": "C0242379",
+  "cui_name": "Malignant neoplasm of lung",
+  "incidence_per_100k": 22.5,
+  "total_cases_per_year": 1800000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lung cancer has strong cancer registry data (WHO/IARC). Global incidence ~22.5 per 100k, with significant geographic variation from <5 per 100k in low-tobacco regions to >35 in high-prevalence areas.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

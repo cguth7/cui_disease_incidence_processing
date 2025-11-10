@@ -1,0 +1,12 @@
+{
+  "cui": "C0342386",
+  "cui_name": "Follicle Stimulating Hormone Deficiency",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Gonadotropin Deficiency",
+  "reasoning": "FSH deficiency is a rare form of secondary hypogonadism caused by pituitary dysfunction. Estimated at ~0.3 per 100k based on pituitary disorder prevalence; isolated FSH deficiency is uncommon as specific incidence data is limited.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

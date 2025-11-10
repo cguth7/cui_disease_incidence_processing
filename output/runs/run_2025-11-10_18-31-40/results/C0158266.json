@@ -1,0 +1,12 @@
+{
+  "cui": "C0158266",
+  "cui_name": "Intervertebral Disc Degeneration",
+  "incidence_per_100k": 12.5,
+  "total_cases_per_year": 1000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Common age-related degenerative spine condition with incidence estimates of 5-20 per 100k annually for symptomatic cases. Confidence moderate due to variation in case definitions (radiographic vs. symptomatic) and strong age-dependency. Global estimate ~12.5 per 100k accounting for aging populations in developed countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

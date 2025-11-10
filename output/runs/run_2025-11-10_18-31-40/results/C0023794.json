@@ -1,0 +1,12 @@
+{
+  "cui": "C0023794",
+  "cui_name": "Lipoidosis",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major lipid storage disorders: Gaucher disease (~1.5), Niemann-Pick disease (~0.7), Fabry disease (~0.45), gangliosidosis (~0.5), and other lysosomal lipidoses (~0.3) = ~2.5 per 100k. Low confidence due to heterogeneity, rarity, and significant ethnic/geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

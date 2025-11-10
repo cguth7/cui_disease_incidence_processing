@@ -1,0 +1,12 @@
+{
+  "cui": "C0151744",
+  "cui_name": "Myocardial Ischemia",
+  "incidence_per_100k": 35.0,
+  "total_cases_per_year": 2800000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myocardial ischemia has well-documented global incidence ~35 per 100k per year, based on acute coronary syndromes and chronic ischemic presentations from WHO and cardiac epidemiology studies. Significant geographic variation due to differences in risk factor prevalence and healthcare access.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

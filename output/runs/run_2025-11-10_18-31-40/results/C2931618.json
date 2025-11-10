@@ -1,0 +1,12 @@
+{
+  "cui": "C2931618",
+  "cui_name": "Gestational trophoblastic disease",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pregnancy-related malignancy with global incidence approximately 1-2 per 10,000 pregnancies, translating to ~0.8 per 100k. Significantly higher in Asian and Latin American populations. Based on WHO cancer registry and medical literature data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

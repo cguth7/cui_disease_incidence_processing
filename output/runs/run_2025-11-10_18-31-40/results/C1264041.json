@@ -1,0 +1,12 @@
+{
+  "cui": "C1264041",
+  "cui_name": "von Willebrand Disease, Type 3",
+  "incidence_per_100k": 0.01,
+  "total_cases_per_year": 800,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "von Willebrand Disease",
+  "reasoning": "Type 3 vWD represents complete von Willebrand factor deficiency, comprising ~5% of all vWD cases. Estimated incidence ~0.01 per 100k per year based on hematology registries and specialist center diagnostic data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

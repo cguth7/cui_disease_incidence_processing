@@ -45,7 +45,9 @@ Always return JSON:
   "parent_disease": null,
   "reasoning": "Umbrella term covering 25+ distinct papilloma types with vastly different incidence rates.",
   "data_quality": "none",
-  "geographic_variation": "high"
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
 }
 ```
 
@@ -60,12 +62,13 @@ Always return JSON:
 - **incidence_per_100k**: Number, "extremely rare", or null (single point estimate only - no ranges)
 - **total_cases_per_year**: Estimated global cases per year (calculate as: incidence_per_100k × 80000 for global population of ~8 billion), or null
 - **confidence**: 0.0 (unmappable) to 1.0 (certain)
-- **confidence**: 0.0 (unmappable) to 1.0 (certain)
 - **is_subtype**: Boolean - is this a specific subtype?
 - **parent_disease**: Name of broader category (if applicable)
 - **reasoning**: 1-2 sentence explanation
 - **data_quality**: strong/moderate/weak/none
 - **geographic_variation**: low/moderate/high/unknown
+- **year_specific**: Boolean - true if data is specifically from 2005, false if general/other year
+- **data_year**: Number or null - the specific year data is from (2005 preferred, or actual year found)
 
 ## Confidence Scoring
 
@@ -127,16 +130,40 @@ For umbrella terms that are TOO broad to estimate:
 
 **CRITICAL: Always provide a single point estimate - never use ranges like "range: X-Y".**
 
+**TARGET YEAR: 2005**
+- **PRIORITIZE finding 2005-specific incidence data** from registries, WHO reports, or epidemiological studies
+- If 2005 data is available, set `year_specific: true` and `data_year: 2005`
+- If 2005 data is NOT available, use the best available estimate from any year
+  - Set `year_specific: false`
+  - Set `data_year` to the actual year of the data (if known) or null
+  - Note in reasoning if using data from a different year
+- Common sources for 2005 data: GLOBOCAN 2005, WHO 2005 reports, cancer registry data circa 2005
+
 For diseases with geographic variation, provide a global average or median and note the variation in the `geographic_variation` field and `reasoning`.
 
-### When You Have Strong Data
+### When You Have Strong Data (2005-specific)
 ```json
 {
   "incidence_per_100k": 15.2,
   "total_cases_per_year": 1216000,
   "confidence": 0.9,
   "data_quality": "strong",
-  "reasoning": "Type 2 diabetes has well-documented global incidence ~15 per 100k (IDF/WHO data)."
+  "reasoning": "Type 2 diabetes incidence from IDF 2005 report: ~15 per 100k globally.",
+  "year_specific": true,
+  "data_year": 2005
+}
+```
+
+### When 2005 Data Not Available
+```json
+{
+  "incidence_per_100k": 18.5,
+  "total_cases_per_year": 1480000,
+  "confidence": 0.85,
+  "data_quality": "strong",
+  "reasoning": "No 2005-specific data available. Using 2010 WHO estimate of ~18.5 per 100k.",
+  "year_specific": false,
+  "data_year": 2010
 }
 ```
 
@@ -150,7 +177,9 @@ When incidence varies significantly by region, provide a global average and note
   "total_cases_per_year": 960000,
   "confidence": 0.8,
   "geographic_variation": "high",
-  "reasoning": "HCC global average ~12 per 100k, but varies from <2 in North America to >25 in East Asia due to HBV/HCV."
+  "reasoning": "HCC global average ~12 per 100k from GLOBOCAN 2005, varies from <2 in North America to >25 in East Asia due to HBV/HCV.",
+  "year_specific": true,
+  "data_year": 2005
 }
 ```
 
@@ -160,7 +189,9 @@ When incidence varies significantly by region, provide a global average and note
   "incidence_per_100k": "extremely rare",
   "total_cases_per_year": "extremely rare",
   "confidence": 0.3,
-  "reasoning": "Tetraphocomelia: <0.01 per 100k births based on case reports."
+  "reasoning": "Tetraphocomelia: <0.01 per 100k births based on case reports.",
+  "year_specific": false,
+  "data_year": null
 }
 ```
 
@@ -174,7 +205,9 @@ When incidence varies significantly by region, provide a global average and note
   "parent_disease": null,
   "reasoning": "Aggregate BOTEC estimate summing major respiratory conditions: asthma (1500), COPD (400), pneumonia (5000), acute bronchitis (3000), URI (5000+) = ~15,000 per 100k. Low confidence due to heterogeneity and overlap between categories.",
   "data_quality": "weak",
-  "geographic_variation": "high"
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
 }
 ```
 
@@ -186,7 +219,9 @@ When incidence varies significantly by region, provide a global average and note
   "confidence": 0.0,
   "reasoning": "Umbrella term too broad and generic to estimate meaningfully. Would require specification of organ system or disease type.",
   "data_quality": "none",
-  "geographic_variation": "unknown"
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
 }
 ```
 

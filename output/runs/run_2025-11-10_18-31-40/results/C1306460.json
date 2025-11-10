@@ -1,0 +1,12 @@
+{
+  "cui": "C1306460",
+  "cui_name": "Primary malignant neoplasm of lung",
+  "incidence_per_100k": 16.5,
+  "total_cases_per_year": 1320000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lung cancer has well-documented global incidence of approximately 16.5 per 100k from WHO GLOBOCAN cancer registries and international cancer surveillance systems. Strong epidemiological data from multiple cancer registries.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}
