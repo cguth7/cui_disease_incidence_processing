@@ -1,0 +1,14 @@
+{
+  "cui": "C0278764",
+  "cui_name": "Adult Burkitt Lymphoma",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Burkitt Lymphoma",
+  "reasoning": "Adult-onset Burkitt lymphoma represents approximately 1-2% of NHL cases. Based on NHL incidence of 15-20 per 100k globally, adult Burkitt lymphoma estimated at 0.2 per 100k from cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

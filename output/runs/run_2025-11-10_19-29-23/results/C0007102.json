@@ -1,0 +1,14 @@
+{
+  "cui": "C0007102",
+  "cui_name": "Malignant tumor of colon",
+  "incidence_per_100k": 20.0,
+  "total_cases_per_year": 1600000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Colorectal cancer",
+  "reasoning": "Colon cancer incidence from GLOBOCAN 2005: ~20 per 100k globally. Strong registry data from WHO cancer surveillance.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

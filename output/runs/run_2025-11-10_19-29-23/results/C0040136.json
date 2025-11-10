@@ -1,0 +1,14 @@
+{
+  "cui": "C0040136",
+  "cui_name": "Thyroid Neoplasm",
+  "incidence_per_100k": 3.0,
+  "total_cases_per_year": 240000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Thyroid cancer global incidence approximately 3 per 100k based on GLOBOCAN data. Includes papillary (most common ~80%), follicular, medullary, and anaplastic carcinomas. Higher incidence in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010
+}

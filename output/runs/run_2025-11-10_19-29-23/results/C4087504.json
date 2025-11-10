@@ -1,0 +1,14 @@
+{
+  "cui": "C4087504",
+  "cui_name": "Peritoneal dissemination",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Peritoneal dissemination is a clinical manifestation of advanced malignancy (e.g., ovarian, gastric, pancreatic cancer), not a distinct disease. Incidence depends on the underlying primary cancer.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

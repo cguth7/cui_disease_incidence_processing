@@ -1,0 +1,14 @@
+{
+  "cui": "C1512433",
+  "cui_name": "Cervical high grade squamous intraepithelial lesion",
+  "incidence_per_100k": 12.5,
+  "total_cases_per_year": 1000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cervical Intraepithelial Neoplasia",
+  "reasoning": "HSIL (CIN3) is a well-documented cervical precancer lesion detected through screening programs. Global average ~12.5 per 100k from WHO cervical cancer surveillance data, with high regional variation based on HPV prevalence and screening capacity.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0262584",
+  "cui_name": "Carcinoma, Small Cell",
+  "incidence_per_100k": 7.0,
+  "total_cases_per_year": 560000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Small cell carcinoma comprises ~13-15% of lung cancers with global incidence of ~50-55 per 100k, yielding approximately 7 per 100k for SCLC. Based on cancer registry data from GLOBOCAN 2005 and WHO epidemiological estimates.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

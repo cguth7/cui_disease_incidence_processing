@@ -1,0 +1,14 @@
+{
+  "cui": "C0011854",
+  "cui_name": "Diabetes Mellitus, Insulin-Dependent",
+  "incidence_per_100k": 15.0,
+  "total_cases_per_year": 1200000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus",
+  "reasoning": "Type 1 diabetes has well-documented global incidence of approximately 15 per 100k from IDF and WHO registries. Geographic variation exists (higher in Scandinavia ~30-40, lower in Asia ~5-10), but global average is well-established from strong epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

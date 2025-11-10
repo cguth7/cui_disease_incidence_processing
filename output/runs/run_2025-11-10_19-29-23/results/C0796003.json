@@ -1,0 +1,14 @@
+{
+  "cui": "C0796003",
+  "cui_name": "Juberg-Marsidi syndrome",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare X-linked intellectual disability syndrome with skeletal and dental abnormalities. Fewer than 100 cases reported worldwide, estimated <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

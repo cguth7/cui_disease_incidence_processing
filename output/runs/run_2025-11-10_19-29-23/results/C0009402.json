@@ -1,0 +1,14 @@
+{
+  "cui": "C0009402",
+  "cui_name": "Colorectal Carcinoma",
+  "incidence_per_100k": 37.0,
+  "total_cases_per_year": 2960000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Colorectal cancer is the 4th most common cancer globally with strong registry data. GLOBOCAN 2005 estimates global crude incidence at approximately 37 per 100k, with significant geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

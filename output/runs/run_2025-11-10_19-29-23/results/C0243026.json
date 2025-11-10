@@ -1,0 +1,14 @@
+{
+  "cui": "C0243026",
+  "cui_name": "Sepsis",
+  "incidence_per_100k": 150.0,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global sepsis incidence estimated at ~150 per 100k based on epidemiological studies. Moderate confidence due to variable clinical definitions and significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

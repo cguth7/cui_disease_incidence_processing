@@ -1,0 +1,14 @@
+{
+  "cui": "C0206708",
+  "cui_name": "Cervical Intraepithelial Neoplasia",
+  "incidence_per_100k": 8.0,
+  "total_cases_per_year": 640000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cervical Neoplasm",
+  "reasoning": "CIN is a well-documented precancerous lesion with incidence ~8 per 100,000 from WHO cancer registries and cervical cancer surveillance programs. Global average reflects variation by screening access and HPV prevalence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

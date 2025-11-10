@@ -1,0 +1,14 @@
+{
+  "cui": "C0079772",
+  "cui_name": "T-Cell Lymphoma",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "T-cell lymphomas represent ~10-15% of NHL. Global incidence estimated at 2.5 per 100k from cancer registries (GLOBOCAN-based estimates). Multiple subtypes (peripheral T-cell NOS, angioimmunoblastic, cutaneous variants) with varying regional prevalence due to HTLV-1 distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

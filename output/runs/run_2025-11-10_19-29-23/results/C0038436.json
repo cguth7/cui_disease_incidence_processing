@@ -1,0 +1,14 @@
+{
+  "cui": "C0038436",
+  "cui_name": "Post-Traumatic Stress Disorder",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "PTSD global incidence estimated at 1-3 per 100k based on epidemiological studies and DSM-5 diagnostic criteria. Variation depends on population trauma exposure, conflict zones, and natural disasters.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

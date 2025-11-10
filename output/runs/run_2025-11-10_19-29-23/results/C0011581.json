@@ -1,0 +1,14 @@
+{
+  "cui": "C0011581",
+  "cui_name": "Depressive disorder",
+  "incidence_per_100k": 17.0,
+  "total_cases_per_year": 1360000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Major depressive disorder has well-documented global incidence ~17 per 100k person-years from large epidemiological studies and psychiatric registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

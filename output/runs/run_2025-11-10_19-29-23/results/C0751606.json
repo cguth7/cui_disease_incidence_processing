@@ -1,0 +1,14 @@
+{
+  "cui": "C0751606",
+  "cui_name": "Adult Acute Lymphocytic Leukemia",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Acute Lymphocytic Leukemia",
+  "reasoning": "Adult ALL (age 15+) incidence approximately 1.5 per 100k globally based on cancer registry data. Strong epidemiological data from GLOBOCAN and SEER registries, though variation exists by developed vs developing regions.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

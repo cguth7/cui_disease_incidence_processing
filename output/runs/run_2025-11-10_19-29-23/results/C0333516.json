@@ -1,0 +1,14 @@
+{
+  "cui": "C0333516",
+  "cui_name": "Tumor necrosis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tumor necrosis is a pathological finding describing tissue death in tumors, not a disease entity itself. Incidence cannot be estimated without specification of the primary tumor type.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0023473",
+  "cui_name": "Myeloid Leukemia, Chronic",
+  "incidence_per_100k": 1.8,
+  "total_cases_per_year": 144000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Chronic myeloid leukemia is a well-defined hematologic malignancy with global incidence of ~1.8 per 100k from cancer registry data and WHO estimates.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005
+}

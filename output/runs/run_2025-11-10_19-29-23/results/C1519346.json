@@ -1,0 +1,14 @@
+{
+  "cui": "C1519346",
+  "cui_name": "Skin Carcinogenesis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Skin carcinogenesis refers to the pathological process of cancer formation in skin tissue, not a specific disease entity. Incidence cannot be estimated for a mechanism rather than a disease diagnosis.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0004943",
+  "cui_name": "Behcet Syndrome",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare systemic vasculitis with global incidence approximately 1-3 per 100k per year. Significant geographic variation with higher rates in Mediterranean and Middle Eastern populations. Using conservative global average of 1.5 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

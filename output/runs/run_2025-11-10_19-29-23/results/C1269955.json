@@ -1,0 +1,14 @@
+{
+  "cui": "C1269955",
+  "cui_name": "Tumor Cell Invasion",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pathological process/mechanism describing tumor behavior rather than a specific disease entity. Cannot be mapped to meaningful incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

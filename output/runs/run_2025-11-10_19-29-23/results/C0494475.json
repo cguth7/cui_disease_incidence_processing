@@ -1,0 +1,14 @@
+{
+  "cui": "C0494475",
+  "cui_name": "Tonic-clonic seizures",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Tonic-clonic seizures (generalized tonic-clonic/grand mal seizures) represent approximately 50-60% of all epilepsy presentations. Global epilepsy incidence is 40-50 per 100k; estimating tonic-clonic seizures at ~25 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

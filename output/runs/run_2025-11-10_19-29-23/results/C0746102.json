@@ -1,0 +1,14 @@
+{
+  "cui": "C0746102",
+  "cui_name": "Chronic lung disease",
+  "incidence_per_100k": 1217,
+  "total_cases_per_year": 97360000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major chronic lung disease categories: COPD (~75), asthma (~1100), pulmonary fibrosis (~15), cystic fibrosis (~0.5), bronchiectasis (~7), other chronic lung diseases (~20) = ~1217 per 100k. Low confidence due to heterogeneity and category overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

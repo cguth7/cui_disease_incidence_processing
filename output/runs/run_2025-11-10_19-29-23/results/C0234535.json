@@ -1,0 +1,14 @@
+{
+  "cui": "C0234535",
+  "cui_name": "Clonic Seizures",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Clonic seizures are a specific seizure morphology within epilepsy. Global epilepsy incidence approximately 50 per 100k; clonic seizures represent an estimated 15-20% of seizure presentations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

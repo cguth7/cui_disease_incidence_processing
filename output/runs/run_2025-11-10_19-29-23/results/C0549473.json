@@ -1,0 +1,14 @@
+{
+  "cui": "C0549473",
+  "cui_name": "Thyroid carcinoma",
+  "incidence_per_100k": 9.0,
+  "total_cases_per_year": 720000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Thyroid cancer is a well-documented malignancy with strong epidemiological data from cancer registries. Global incidence from GLOBOCAN 2005: ~9 per 100k, with geographic variation due to screening practices.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

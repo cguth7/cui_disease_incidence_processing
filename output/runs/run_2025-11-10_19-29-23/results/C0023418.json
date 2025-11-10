@@ -1,0 +1,14 @@
+{
+  "cui": "C0023418",
+  "cui_name": "leukemia",
+  "incidence_per_100k": 13.0,
+  "total_cases_per_year": 1040000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major leukemia subtypes: acute lymphoblastic leukemia (ALL ~2), acute myeloid leukemia (AML ~4), chronic lymphocytic leukemia (CLL ~2), chronic myeloid leukemia (CML ~1), and other leukemias (~4) = approximately 13 per 100k globally. Confidence moderate due to heterogeneity across subtypes and significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0020443",
+  "cui_name": "Hypercholesterolemia",
+  "incidence_per_100k": 1200,
+  "total_cases_per_year": 96000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypercholesterolemia encompasses familial (prevalence ~1 in 250-500) and polygenic forms with high geographic variation. Global annual incidence estimated at ~1200 per 100k based on population studies, though this includes both new diagnoses and newly developed elevated cholesterol.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

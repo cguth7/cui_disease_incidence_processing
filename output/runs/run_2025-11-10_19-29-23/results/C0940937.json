@@ -1,0 +1,14 @@
+{
+  "cui": "C0940937",
+  "cui_name": "precancerous lesions",
+  "incidence_per_100k": 1100,
+  "total_cases_per_year": 88000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major precancerous lesion categories: cervical intraepithelial neoplasia (~8 per 100k), actinic keratosis (~500 per 100k), dysplastic nevi and skin precancers (~150 per 100k), Barrett's esophagus (~1 per 100k), colonic polyps with dysplasia (~250 per 100k), carcinoma in situ across organs (~100 per 100k), oral leukoplakia (~40 per 100k), and other precancerous conditions (~50 per 100k) = ~1,100 per 100k. Low confidence due to heterogeneous case definitions, variable screening detection across populations, and overlapping categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

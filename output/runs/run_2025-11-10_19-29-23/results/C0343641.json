@@ -1,0 +1,14 @@
+{
+  "cui": "C0343641",
+  "cui_name": "Human papillomavirus infection",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "HPV infection global incidence estimated at ~150 per 100k based on epidemiological studies and WHO data. Prevalence is much higher (~11% globally), but annual incident cases are lower. Significant variation by region, age, sexual activity, and vaccination status.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

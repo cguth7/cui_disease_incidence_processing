@@ -1,0 +1,14 @@
+{
+  "cui": "C3854222",
+  "cui_name": "Human immunodeficiency virus (HIV) II infection category B1",
+  "incidence_per_100k": 0.08,
+  "total_cases_per_year": 6400,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Human immunodeficiency virus II infection",
+  "reasoning": "HIV-2 is geographically restricted primarily to West Africa with global incidence approximately 0.05-0.1 per 100k. Category B1 represents a specific CDC clinical stage, reducing the proportion of all HIV-2 cases. Confidence is moderate due to limited global surveillance data for HIV-2 specifically.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}
