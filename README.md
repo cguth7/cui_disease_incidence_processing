@@ -45,9 +45,10 @@ cui_disease_incidence_processing/
 │   └── skills/
 │       └── cui-incidence-mapper_2/   # Incidence mapping skill
 ├── scripts/
-│   └── batch_processor.py            # Main processing script
+│   ├── batch_processor.py            # Main processing script
+│   └── generate_batches.py           # Batch generation utility
 ├── data/
-│   └── disease_codes_Charlie.csv     # Input: CUI codes & names
+│   └── disease_codes_Charlie.csv     # Input: 15,162 CUI codes & names
 ├── output/
 │   └── runs/                         # Output runs
 │       ├── run_2025-11-10_12-34-56/
@@ -81,6 +82,22 @@ python scripts/batch_processor.py --batch-size 50
 
 # Custom output directory
 python scripts/batch_processor.py --output-dir test_run_v2
+
+# Non-interactive mode (for automation)
+python scripts/batch_processor.py --non-interactive --end-row 100
+```
+
+### Batch Generation Utility
+
+```bash
+# View summary of all batches
+python scripts/generate_batches.py --summary
+
+# Get specific batch details
+python scripts/generate_batches.py --batch-num 5 --batch-size 100
+
+# Get batch for specific row range
+python scripts/generate_batches.py --start-row 100 --end-row 200 --batch-num 0
 ```
 
 ### Slash Command
@@ -106,16 +123,18 @@ This will show the documentation and command options.
 ## Input Format
 
 CSV file with columns:
-- `CUI`: UMLS Concept Unique Identifier
-- `STR`: Disease name/string
-- `val`: Provided incidence number (optional)
+- `diseaseid`: UMLS Concept Unique Identifier (CUI)
+- `diseasename`: Disease name/string
+- `disease_id`: Numeric identifier (provided incidence number)
 
 Example:
 ```csv
-CUI,STR,val
-C0009443,Common Cold,9685009838
-C0040425,Acute tonsillitis,6456673226
+disease_id,diseaseid,diseasename
+963,C0018099,Gout
+1156,C0020557,Hypertriglyceridemia
 ```
+
+**Dataset**: Contains 15,162 diseases from pharmaceutical patent analysis
 
 ## Output Format
 
@@ -254,11 +273,50 @@ python scripts/batch_processor.py --resume
 
 **Solution**: Check `checkpoint.json` for `failed_cuis` list. Re-run those manually or adjust batch size.
 
+## Processing Strategy for 15,162 Diseases
+
+Given the scale (152 batches of 100 diseases each), recommended approach:
+
+### Option 1: Incremental Sessions
+Process in chunks across multiple Claude Code sessions:
+
+```bash
+# Session 1: First 500 diseases (rows 0-500)
+python scripts/batch_processor.py --start-row 0 --end-row 500 --non-interactive
+
+# Session 2: Next 500 (rows 500-1000)
+python scripts/batch_processor.py --start-row 500 --end-row 1000 --non-interactive
+
+# Session 3: Continue...
+python scripts/batch_processor.py --start-row 1000 --end-row 1500 --non-interactive
+```
+
+### Option 2: Parallel Task Agents
+Launch 10-20 Task agents in parallel per message to maximize throughput. Process batch by batch.
+
+### Current Progress
+
+As of 2025-11-10:
+- **Total diseases**: 15,162
+- **Processed**: 15 diseases (0.1%)
+- **Remaining**: 15,147 diseases
+- **Latest run**: `output/runs/run_2025-11-10_17-38-14/`
+
+Completed CUIs:
+- C0018099 (Gout), C0020557 (Hypertriglyceridemia), C0003864 (Arthritis)
+- C0029408 (Degenerative polyarthritis), C0003873 (Rheumatoid Arthritis)
+- C0036646 (Age-related cataract), C4520843 (Pterygium of eye)
+- C1867441 (Pterygium Of Conjunctiva And Cornea), C0033999 (Pterygium)
+- C0035334 (Retinitis Pigmentosa), C0398650 (Immune thrombocytopenic purpura)
+- C0409974 (Lupus Erythematosus), C0024131 (Lupus Vulgaris)
+- C0024138 (Lupus Erythematosus, Discoid), C0023434 (Chronic Lymphocytic Leukemia)
+
 ## Tips
 
-- **Start small**: Test with `--end-row 100` first
+- **Start small**: Test with `--end-row 100` first to verify workflow
 - **Monitor progress**: Check `progress.log` for detailed logging
-- **Batch size**: Adjust based on your system (50-100 works well)
+- **Batch size**: 100 works well for parallel Task agents (adjust with `--batch-size`)
+- **Use --non-interactive**: For automated workflows without manual intervention
 - **Resume frequently**: The system checkpoints after each batch
 - **Review failures**: Check `failed_cuis` in summary.json
 

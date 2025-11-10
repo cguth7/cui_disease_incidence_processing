@@ -21,11 +21,13 @@ class BatchProcessor:
         output_dir: Optional[str] = None,
         start_row: Optional[int] = None,
         end_row: Optional[int] = None,
+        non_interactive: bool = False,
     ):
         self.csv_path = Path(csv_path)
         self.batch_size = batch_size
         self.start_row = start_row or 0
         self.end_row = end_row
+        self.non_interactive = non_interactive
 
         # Setup output directory
         if output_dir:
@@ -93,9 +95,9 @@ class BatchProcessor:
                     break
                 diseases.append({
                     "row_num": i,
-                    "cui": row.get("CUI", "").strip(),
-                    "name": row.get("STR", "").strip(),
-                    "incidence_number": row.get("val", "").strip()
+                    "cui": row.get("diseaseid", "").strip(),
+                    "name": row.get("diseasename", "").strip(),
+                    "incidence_number": row.get("disease_id", "").strip()
                 })
         return diseases
 
@@ -161,10 +163,11 @@ Return the final JSON result in your response."""
             print(prompt)
             print("-" * 80)
 
-        print("\n" + "="*80)
-        print("After all Task agents complete, press ENTER to continue...")
-        print("="*80)
-        input()
+        if not self.non_interactive:
+            print("\n" + "="*80)
+            print("After all Task agents complete, press ENTER to continue...")
+            print("="*80)
+            input()
 
         # Check which succeeded
         completed = []
@@ -248,6 +251,7 @@ def main():
     parser.add_argument("--end-row", type=int, help="End at specific row")
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
     parser.add_argument("--status", action="store_true", help="Show status of latest run")
+    parser.add_argument("--non-interactive", action="store_true", help="Run in non-interactive mode (for automation)")
 
     args = parser.parse_args()
 
@@ -280,6 +284,7 @@ def main():
         output_dir=args.output_dir,
         start_row=args.start_row,
         end_row=args.end_row,
+        non_interactive=args.non_interactive,
     )
 
     processor.run(resume=args.resume)
