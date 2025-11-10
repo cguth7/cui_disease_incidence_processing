@@ -1,0 +1,17 @@
+{
+  "run_id": "run_2025-11-10_19-29-23",
+  "start_time": "2025-11-10T19:29:23Z",
+  "model": "haiku",
+  "skill_used": "cui-incidence-mapper_2",
+  "csv_source": "data/disease_codes_Charlie.csv",
+  "row_range": {
+    "start": 100,
+    "end": 1000
+  },
+  "total_diseases": 900,
+  "batch_size": 100,
+  "total_batches": 9,
+  "status": "in_progress",
+  "completed_batches": 2,
+  "completed_diseases": 210
+}
