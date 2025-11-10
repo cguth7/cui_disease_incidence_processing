@@ -1,0 +1,12 @@
+{
+  "cui": "C1332199",
+  "cui_name": "Adult Desmoplastic Small Round Cell Tumor",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Soft Tissue Sarcoma",
+  "reasoning": "DSRCT is a rare aggressive soft tissue sarcoma with approximately 40-50 cases diagnosed globally per year (<0.01 per 100k), primarily affecting young adults and adolescents with intra-abdominal/peritoneal presentation.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

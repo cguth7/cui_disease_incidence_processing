@@ -1,0 +1,12 @@
+{
+  "cui": "C0024623",
+  "cui_name": "Malignant neoplasm of stomach",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gastric cancer has well-documented global incidence from WHO GLOBOCAN and national cancer registries (~12 per 100k). Higher in East Asia (20-40 per 100k) due to H. pylori prevalence; lower in Western countries (5-10 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

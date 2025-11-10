@@ -1,0 +1,12 @@
+{
+  "cui": "C0024299",
+  "cui_name": "Lymphoma",
+  "incidence_per_100k": 5.8,
+  "total_cases_per_year": 464000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lymphoma has well-documented global incidence ~5.8 per 100k from WHO cancer registries, including both Hodgkin and non-Hodgkin subtypes. Heterogeneous category with published epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

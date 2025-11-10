@@ -1,0 +1,12 @@
+{
+  "cui": "C0919267",
+  "cui_name": "ovarian neoplasm",
+  "incidence_per_100k": 4.0,
+  "total_cases_per_year": 320000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ovarian cancer has well-documented global incidence of approximately 6-7 per 100k in women, translating to ~4 per 100k in the general population. WHO estimates ~311,000 new cases annually. Moderate confidence reflects established cancer registry data with minor geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

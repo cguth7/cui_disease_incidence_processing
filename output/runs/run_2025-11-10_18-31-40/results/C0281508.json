@@ -1,0 +1,12 @@
+{
+  "cui": "C0281508",
+  "cui_name": "Desmoplastic Small Round Cell Tumor",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Soft Tissue Sarcoma",
+  "reasoning": "DSRCT is a rare pediatric soft tissue sarcoma with characteristic t(11;22) translocation. Estimated 30-50 cases globally per year (~0.0004 per 100k). Well-characterized histologically but extremely low incidence limits epidemiological precision.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

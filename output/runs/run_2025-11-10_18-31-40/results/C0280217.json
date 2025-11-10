@@ -1,0 +1,12 @@
+{
+  "cui": "C0280217",
+  "cui_name": "stage, non-small cell lung cancer",
+  "incidence_per_100k": 18.5,
+  "total_cases_per_year": 1480000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Non-small cell lung cancer is a well-defined histological subtype comprising approximately 80-85% of all lung cancers, with global incidence ~18-19 per 100k based on WHO cancer registries and comprehensive epidemiological studies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

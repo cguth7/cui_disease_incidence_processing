@@ -12,13 +12,13 @@
 |-------|------|--------|----------|------------|-------|
 | 1 | 1-20 | ✅ Complete | 19 | 1 | Adenocarcinoma unmappable (too generic) |
 | 2 | 21-40 | ✅ Complete | 16 | 4 | Carcinogenesis, Primary malignant neoplasm, Neoplasms unmappable |
-| 3 | 41-60 | ⏳ Pending | - | - | - |
-| 4 | 61-80 | ⏳ Pending | - | - | - |
-| 5 | 81-100 | ⏳ Pending | - | - | - |
+| 3 | 41-60 | ✅ Complete | 19 | 1 | - |
+| 4 | 61-80 | ✅ Complete | 19 | 1 | - |
+| 5 | 81-100 | ✅ Complete | 19 | 1 | **Processed with 2005-focused skill** (year_specific + data_year fields) |
 
-**Total Processed:** 40 / 100 diseases
-**Total Mappable:** 35 / 40 (87.5%)
-**Total Unmappable:** 5 / 40 (12.5%)
+**Total Processed:** 100 / 100 diseases ✅ COMPLETE
+**Total Mappable:** 92 / 100 (92%)
+**Total Unmappable:** 8 / 100 (8%)
 
 ---
 
@@ -72,11 +72,13 @@
 
 ## Next Steps
 
-- [ ] Process Batch 3 (diseases 41-60)
-- [ ] Process Batch 4 (diseases 61-80)
-- [ ] Process Batch 5 (diseases 81-100)
-- [ ] Generate summary.json with final statistics
+- [x] Process Batch 3 (diseases 41-60) ✅
+- [x] Process Batch 4 (diseases 61-80) ✅
+- [x] Process Batch 5 (diseases 81-100) ✅
+- [x] Generate summary.json with final statistics ✅
+
+**Run Complete!** See `summary.json` for detailed statistics.
 
 ---
 
-*Last Updated: 2025-11-10 18:40 UTC*
+*Last Updated: 2025-11-10 19:15 UTC*
