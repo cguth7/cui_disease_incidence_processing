@@ -1,0 +1,14 @@
+{
+  "cui": "C4551722",
+  "cui_name": "Encephalocele",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Neural Tube Defects",
+  "reasoning": "Congenital neural tube defect with global incidence ~1 per 100k births. Incidence varies significantly by region, higher in developing countries (up to 5+ per 100k in some regions).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0949541",
+  "cui_name": "Hurthle Cell Tumor",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Cancer",
+  "reasoning": "Hurthle cell carcinoma is a histological subtype of thyroid cancer representing 3-8% of all thyroid cancers. Global thyroid cancer incidence is ~3-10 per 100k; Hurthle cell represents approximately 0.2-0.8 of this range.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

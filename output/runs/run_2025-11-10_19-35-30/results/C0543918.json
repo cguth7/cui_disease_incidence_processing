@@ -1,0 +1,14 @@
+{
+  "cui": "C0543918",
+  "cui_name": "SCHIZOPHRENIA 10",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Schizophrenia",
+  "reasoning": "Global incidence ~1.5 per 100k based on WHO epidemiological studies and psychiatric registries. Designation '10' suggests genetic subtype (likely SZFR10 locus), but general schizophrenia incidence data used due to limited subtype-specific epidemiology. Moderate confidence reflects good literature base with some geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

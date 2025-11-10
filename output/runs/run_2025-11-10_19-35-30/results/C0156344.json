@@ -1,0 +1,14 @@
+{
+  "cui": "C0156344",
+  "cui_name": "Endometriosis of ovary",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Endometriosis",
+  "reasoning": "Ovarian endometriosis is a specific anatomical variant, estimated at 1-2 per 100k population based on endometriosis literature (~2-8 per 100k) with 17-44% ovarian involvement. Moderate confidence due to limited subtype-specific incidence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

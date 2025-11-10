@@ -1,0 +1,14 @@
+{
+  "cui": "C0236733",
+  "cui_name": "Amphetamine-Related Disorders",
+  "incidence_per_100k": 280,
+  "total_cases_per_year": 22400000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Substance-Related Disorders",
+  "reasoning": "Aggregate BOTEC estimate summing major amphetamine-related conditions: amphetamine dependence (~120), amphetamine abuse (~100), amphetamine intoxication (~35), amphetamine withdrawal (~15), amphetamine-induced psychotic disorder (~8), amphetamine-induced mood/anxiety disorders (~2). Total ~280 per 100k. Based on UNODC 2005 epidemiological data with significant adjustment for global variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

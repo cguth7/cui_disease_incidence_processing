@@ -1,0 +1,14 @@
+{
+  "cui": "C1846006",
+  "cui_name": "Ectodermal dysplasia, hypohidrotic, with immune deficiency",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Hypohidrotic Ectodermal Dysplasia",
+  "reasoning": "Ultra-rare genetic syndrome (HED-ID/NEMO-deficiency), estimated <0.01 per 100k births. Fewer than 200 cases reported worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

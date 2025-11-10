@@ -1,0 +1,14 @@
+{
+  "cui": "C0206623",
+  "cui_name": "Adenosquamous carcinoma",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Carcinoma",
+  "reasoning": "Adenosquamous carcinoma is a rare histological type combining adenocarcinoma and squamous cell carcinoma features, occurring across multiple organs (lung, pancreas, esophagus, bile duct). Estimated global incidence ~0.7 per 100k based on prevalence data across organ-specific cancer registries (typically 0.5-4% of adenocarcinomas and squamous carcinomas). Limited specific aggregate registry data for this histological combination.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

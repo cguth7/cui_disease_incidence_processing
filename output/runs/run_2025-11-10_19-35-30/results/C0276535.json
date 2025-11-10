@@ -1,0 +1,14 @@
+{
+  "cui": "C0276535",
+  "cui_name": "AIDS with Kaposi's sarcoma",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Acquired Immunodeficiency Syndrome (AIDS)",
+  "reasoning": "AIDS with Kaposi's sarcoma is a specific AIDS-defining malignancy. Global incidence estimate ~1.5 per 100k based on ~3.5M annual AIDS cases with 3-5% developing KS (varies by HAART access and HHV-8 prevalence). High geographic variation between developed nations (lower, due to HAART) and resource-limited settings (higher).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

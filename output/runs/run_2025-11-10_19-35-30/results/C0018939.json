@@ -1,0 +1,14 @@
+{
+  "cui": "C0018939",
+  "cui_name": "Hematological Disease",
+  "incidence_per_100k": 65,
+  "total_cases_per_year": 5200000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major hematological disease categories: leukemias (10), lymphomas (15), multiple myeloma (5), hemophilia/coagulation disorders (2), sickle cell/hemoglobinopathies (2), thalassemia (1), immune thrombocytopenia (5), hereditary RBC membrane disorders (1), iron deficiency anemia new diagnoses (20), other anemias (5) = ~65 per 100k globally. Low confidence due to heterogeneous conditions, overlapping categories, and variation between new incidence vs. chronic disease management.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

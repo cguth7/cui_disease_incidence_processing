@@ -1,0 +1,14 @@
+{
+  "cui": "C1510502",
+  "cui_name": "Oxyphilic Adenoma",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Adenoma",
+  "reasoning": "Oxyphilic adenoma (oncocytoma) is a rare benign neoplasm, most commonly in salivary glands where it represents ~1-5% of tumors. Limited epidemiological data; estimate based on salivary gland tumor incidence (~0.5-1 per 100k) with assumption of ~5% oncocytoma prevalence. Limited incidence tracking due to benign classification.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

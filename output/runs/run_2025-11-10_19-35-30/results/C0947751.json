@@ -1,0 +1,14 @@
+{
+  "cui": "C0947751",
+  "cui_name": "Vascular inflammations",
+  "incidence_per_100k": 95,
+  "total_cases_per_year": 7600000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major vascular inflammatory conditions: vasculitis/primary systemic vasculitides (~50 per 100k), endocarditis (~5 per 100k), myocarditis (~15 per 100k), pericarditis (~8 per 100k), giant cell/temporal arteritis (~10 per 100k), and other arteritides (~7 per 100k) = ~95 per 100k. Heterogeneous conditions with clinical and epidemiological variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

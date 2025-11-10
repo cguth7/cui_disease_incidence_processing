@@ -1,0 +1,14 @@
+{
+  "cui": "C0872084",
+  "cui_name": "Sarcopenia",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Age-related skeletal muscle loss and weakness. Incidence estimated at ~8-9 per 100k globally from epidemiological studies, with significant variation by age group (minimal in young adults, increases dramatically in 70+ populations) and geographic factors. Limited 2005-specific data; definition evolved through 2000s-2010s.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

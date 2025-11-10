@@ -1,0 +1,14 @@
+{
+  "cui": "C0745103",
+  "cui_name": "Hyperlipoproteinemia Type IIa",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Familial Hypercholesterolemia",
+  "reasoning": "Type IIa familial hypercholesterolemia (heterozygous form) has a birth prevalence of approximately 1 in 300-500, translating to an annual incidence of ~2.5 per 100k. Well-characterized genetic lipid disorder with strong epidemiological data from genetic registries and population studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

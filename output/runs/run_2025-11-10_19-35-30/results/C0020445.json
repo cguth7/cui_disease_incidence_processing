@@ -1,0 +1,14 @@
+{
+  "cui": "C0020445",
+  "cui_name": "Hypercholesterolemia, Familial",
+  "incidence_per_100k": 20,
+  "total_cases_per_year": 1600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Familial hypercholesterolemia is a well-documented genetic disorder with prevalence ~1 in 500 globally. Incidence of new diagnoses estimated at ~20 per 100k per year based on typical screening practices, with diagnosis often occurring in childhood to early adulthood.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

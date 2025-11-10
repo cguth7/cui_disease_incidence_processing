@@ -1,0 +1,14 @@
+{
+  "cui": "C1843013",
+  "cui_name": "Alzheimer disease, familial, type 3",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Familial Alzheimer disease",
+  "reasoning": "PSEN1-related familial Alzheimer's disease (type 3) is a rare genetic form. Familial AD represents approximately 5-10% of all Alzheimer's cases (~1-2 per 100k incidence), with type 3 being one of the less frequently documented genetic subtypes, estimated at ~0.2 per 100k based on genetic registry data and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

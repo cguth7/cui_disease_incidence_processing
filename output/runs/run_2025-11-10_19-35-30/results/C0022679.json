@@ -1,0 +1,14 @@
+{
+  "cui": "C0022679",
+  "cui_name": "Cystic kidney",
+  "incidence_per_100k": 0.25,
+  "total_cases_per_year": 20000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major cystic kidney disease types: ADPKD (~0.15 per 100k), ARPKD (~0.05 per 100k), other congenital cystic diseases (~0.05 per 100k). Low confidence due to heterogeneity and variable case ascertainment across disease subtypes.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

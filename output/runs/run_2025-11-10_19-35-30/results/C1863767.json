@@ -1,0 +1,14 @@
+{
+  "cui": "C1863767",
+  "cui_name": "Light Fixation Seizure Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Photosensitive Seizure Disorders",
+  "reasoning": "Light Fixation Seizure Syndrome is an extremely rare specific subtype of photosensitive seizures affecting <0.01 per 100k. Limited epidemiological data available; primarily documented through clinical case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

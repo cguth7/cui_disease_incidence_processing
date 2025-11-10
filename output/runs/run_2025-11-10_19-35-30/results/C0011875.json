@@ -1,0 +1,14 @@
+{
+  "cui": "C0011875",
+  "cui_name": "Diabetic Angiopathies",
+  "incidence_per_100k": 85,
+  "total_cases_per_year": 6800000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus",
+  "reasoning": "Diabetic angiopathies are vascular complications of diabetes mellitus (retinopathy, nephropathy, macroangiopathy). Estimated incidence based on ~7-8 million annual new diabetes cases with ~30-40% developing vascular complications over disease progression.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0022821",
+  "cui_name": "Kyphosis deformity of spine",
+  "incidence_per_100k": 12.5,
+  "total_cases_per_year": 1000000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Kyphosis deformity includes adolescent-onset (Scheuermann's disease ~1-8% incidence) and age-related progressive cases. Conservative global estimate ~12.5 per 100k combining clinical incidence across age groups from epidemiological literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

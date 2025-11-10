@@ -1,0 +1,14 @@
+{
+  "cui": "C2931845",
+  "cui_name": "Neurodegeneration with brain iron accumulation",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "NBIA is a rare inherited neurological disorder with global prevalence of 1-3 per million. Encompasses multiple genetic subtypes (PKAN, BPAN, MPAN, and others) with limited epidemiological incidence data. Annual incidence estimated at <0.1 per million based on genetic registry and case report literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

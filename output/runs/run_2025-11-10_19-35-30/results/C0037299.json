@@ -1,0 +1,14 @@
+{
+  "cui": "C0037299",
+  "cui_name": "Skin Ulcer",
+  "incidence_per_100k": 300,
+  "total_cases_per_year": 24000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major etiologies: diabetic foot ulcers (~100-150), venous leg ulcers (~50-100), pressure ulcers (~50-100), arterial ulcers (~10-20), other causes (~20-50). Total ~300 per 100k with potential overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

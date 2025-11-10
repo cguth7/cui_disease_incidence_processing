@@ -1,0 +1,14 @@
+{
+  "cui": "C0152427",
+  "cui_name": "Polydactyly",
+  "incidence_per_100k": 2.6,
+  "total_cases_per_year": 210000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Common congenital anomaly occurring in ~1.5-2 per 1000 live births globally, translating to ~2.6 per 100,000 person-years. Significant geographic variation exists: lower in East Asian populations (~1-3 per 1000) and substantially higher in African populations (~10-20 per 1000).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

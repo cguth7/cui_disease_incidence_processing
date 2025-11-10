@@ -1,0 +1,602 @@
+[
+  {
+    "disease_id": "3761",
+    "cui": "C0236733",
+    "name": "Amphetamine-Related Disorders",
+    "row_index": 1001
+  },
+  {
+    "disease_id": "2553",
+    "cui": "C0079840",
+    "name": "Milk Allergy",
+    "row_index": 1002
+  },
+  {
+    "disease_id": "4411",
+    "cui": "C0266815",
+    "name": "Cow milk allergy",
+    "row_index": 1003
+  },
+  {
+    "disease_id": "2201",
+    "cui": "C0037299",
+    "name": "Skin Ulcer",
+    "row_index": 1004
+  },
+  {
+    "disease_id": "1022",
+    "cui": "C0018939",
+    "name": "Hematological Disease",
+    "row_index": 1005
+  },
+  {
+    "disease_id": "677",
+    "cui": "C0013386",
+    "name": "Dyskinesia, Drug-Induced",
+    "row_index": 1006
+  },
+  {
+    "disease_id": "8021",
+    "cui": "C0751088",
+    "name": "Dyskinesia, Medication-Induced",
+    "row_index": 1007
+  },
+  {
+    "disease_id": "1452",
+    "cui": "C0024419",
+    "name": "Waldenstrom Macroglobulinemia",
+    "row_index": 1008
+  },
+  {
+    "disease_id": "13864",
+    "cui": "C2931845",
+    "name": "Neurodegeneration with brain iron accumulation (NBIA)",
+    "row_index": 1009
+  },
+  {
+    "disease_id": "5302",
+    "cui": "C0280449",
+    "name": "secondary acute myeloid leukemia",
+    "row_index": 1010
+  },
+  {
+    "disease_id": "13760",
+    "cui": "C2931206",
+    "name": "Usher syndrome, type 1B",
+    "row_index": 1011
+  },
+  {
+    "disease_id": "5043",
+    "cui": "C0276535",
+    "name": "AIDS with Kaposi's sarcoma",
+    "row_index": 1012
+  },
+  {
+    "disease_id": "11338",
+    "cui": "C1843013",
+    "name": "Alzheimer disease, familial, type 3",
+    "row_index": 1013
+  },
+  {
+    "disease_id": "7388",
+    "cui": "C0555971",
+    "name": "Oral infection",
+    "row_index": 1014
+  },
+  {
+    "disease_id": "11474",
+    "cui": "C1846006",
+    "name": "Ectodermal dysplasia, hypohidrotic, with immune deficiency",
+    "row_index": 1015
+  },
+  {
+    "disease_id": "12316",
+    "cui": "C1863767",
+    "name": "Light Fixation Seizure Syndrome",
+    "row_index": 1016
+  },
+  {
+    "disease_id": "8994",
+    "cui": "C0949541",
+    "name": "Hurthle Cell Tumor",
+    "row_index": 1017
+  },
+  {
+    "disease_id": "10128",
+    "cui": "C1378050",
+    "name": "Oncocytic Neoplasm",
+    "row_index": 1018
+  },
+  {
+    "disease_id": "10322",
+    "cui": "C1510502",
+    "name": "Oxyphilic Adenoma",
+    "row_index": 1019
+  },
+  {
+    "disease_id": "13867",
+    "cui": "C2931852",
+    "name": "Clear-cell metastatic renal cell carcinoma",
+    "row_index": 1020
+  },
+  {
+    "disease_id": "9894",
+    "cui": "C1334177",
+    "name": "Infiltrating Cervical Carcinoma",
+    "row_index": 1021
+  },
+  {
+    "disease_id": "335",
+    "cui": "C0007103",
+    "name": "Malignant neoplasm of endometrium",
+    "row_index": 1022
+  },
+  {
+    "disease_id": "3362",
+    "cui": "C0206623",
+    "name": "Adenosquamous carcinoma",
+    "row_index": 1023
+  },
+  {
+    "disease_id": "5240",
+    "cui": "C0279671",
+    "name": "Cervical Squamous Cell Carcinoma",
+    "row_index": 1024
+  },
+  {
+    "disease_id": "651",
+    "cui": "C0013080",
+    "name": "Down Syndrome",
+    "row_index": 1025
+  },
+  {
+    "disease_id": "635",
+    "cui": "C0012546",
+    "name": "Diphtheria",
+    "row_index": 1026
+  },
+  {
+    "disease_id": "14690",
+    "cui": "C3469521",
+    "name": "FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)",
+    "row_index": 1027
+  },
+  {
+    "disease_id": "14288",
+    "cui": "C3160738",
+    "name": "FANCONI ANEMIA, COMPLEMENTATION GROUP D2",
+    "row_index": 1028
+  },
+  {
+    "disease_id": "825",
+    "cui": "C0015625",
+    "name": "Fanconi Anemia",
+    "row_index": 1029
+  },
+  {
+    "disease_id": "3248",
+    "cui": "C0175704",
+    "name": "LEOPARD Syndrome",
+    "row_index": 1030
+  },
+  {
+    "disease_id": "1597",
+    "cui": "C0026850",
+    "name": "Muscular Dystrophy",
+    "row_index": 1031
+  },
+  {
+    "disease_id": "162",
+    "cui": "C0003504",
+    "name": "Aortic Valve Insufficiency",
+    "row_index": 1032
+  },
+  {
+    "disease_id": "12855",
+    "cui": "C2062441",
+    "name": "Influenza A",
+    "row_index": 1033
+  },
+  {
+    "disease_id": "2331",
+    "cui": "C0040115",
+    "name": "Thymus Hyperplasia",
+    "row_index": 1034
+  },
+  {
+    "disease_id": "1467",
+    "cui": "C0024535",
+    "name": "Malaria, Falciparum",
+    "row_index": 1035
+  },
+  {
+    "disease_id": "528",
+    "cui": "C0010054",
+    "name": "Coronary Arteriosclerosis",
+    "row_index": 1036
+  },
+  {
+    "disease_id": "622",
+    "cui": "C0011875",
+    "name": "Diabetic Angiopathies",
+    "row_index": 1037
+  },
+  {
+    "disease_id": "896",
+    "cui": "C0017152",
+    "name": "Gastritis",
+    "row_index": 1038
+  },
+  {
+    "disease_id": "9989",
+    "cui": "C1335377",
+    "name": "periampullary adenocarcinoma",
+    "row_index": 1039
+  },
+  {
+    "disease_id": "7851",
+    "cui": "C0745103",
+    "name": "Hyperlipoproteinemia Type IIa",
+    "row_index": 1040
+  },
+  {
+    "disease_id": "1121",
+    "cui": "C0020445",
+    "name": "Hypercholesterolemia, Familial",
+    "row_index": 1041
+  },
+  {
+    "disease_id": "8932",
+    "cui": "C0947751",
+    "name": "Vascular inflammations",
+    "row_index": 1042
+  },
+  {
+    "disease_id": "16268",
+    "cui": "C4048306",
+    "name": "Multiple endocrine neoplasia Type 2",
+    "row_index": 1043
+  },
+  {
+    "disease_id": "17631",
+    "cui": "C4551683",
+    "name": "Adrenal Gland Pheochromocytoma",
+    "row_index": 1044
+  },
+  {
+    "disease_id": "1905",
+    "cui": "C0031511",
+    "name": "Pheochromocytoma",
+    "row_index": 1045
+  },
+  {
+    "disease_id": "3508",
+    "cui": "C0220704",
+    "name": "Shprintzen syndrome",
+    "row_index": 1046
+  },
+  {
+    "disease_id": "7289",
+    "cui": "C0543918",
+    "name": "SCHIZOPHRENIA 10",
+    "row_index": 1047
+  },
+  {
+    "disease_id": "13327",
+    "cui": "C2717961",
+    "name": "Thrombotic Microangiopathies",
+    "row_index": 1048
+  },
+  {
+    "disease_id": "6120",
+    "cui": "C0344482",
+    "name": "Hypoplasia of corpus callosum",
+    "row_index": 1049
+  },
+  {
+    "disease_id": "680",
+    "cui": "C0013403",
+    "name": "Dysplastic Nevus Syndrome",
+    "row_index": 1050
+  },
+  {
+    "disease_id": "1419",
+    "cui": "C0024117",
+    "name": "Chronic Obstructive Airway Disease",
+    "row_index": 1051
+  },
+  {
+    "disease_id": "3754",
+    "cui": "C0236642",
+    "name": "Pick Disease of the Brain",
+    "row_index": 1052
+  },
+  {
+    "disease_id": "5666",
+    "cui": "C0338451",
+    "name": "Frontotemporal dementia",
+    "row_index": 1053
+  },
+  {
+    "disease_id": "8480",
+    "cui": "C0815107",
+    "name": "psychological distress",
+    "row_index": 1054
+  },
+  {
+    "disease_id": "4417",
+    "cui": "C0266929",
+    "name": "Chronic Periodontitis",
+    "row_index": 1055
+  },
+  {
+    "disease_id": "2918",
+    "cui": "C0153252",
+    "name": "Systemic candidiasis",
+    "row_index": 1056
+  },
+  {
+    "disease_id": "3108",
+    "cui": "C0156344",
+    "name": "Endometriosis of ovary",
+    "row_index": 1057
+  },
+  {
+    "disease_id": "8806",
+    "cui": "C0872084",
+    "name": "Sarcopenia",
+    "row_index": 1058
+  },
+  {
+    "disease_id": "2186",
+    "cui": "C0037116",
+    "name": "Silicosis",
+    "row_index": 1059
+  },
+  {
+    "disease_id": "2272",
+    "cui": "C0038525",
+    "name": "Subarachnoid Hemorrhage",
+    "row_index": 1060
+  },
+  {
+    "disease_id": "2634",
+    "cui": "C0085584",
+    "name": "Encephalopathies",
+    "row_index": 1061
+  },
+  {
+    "disease_id": "5316",
+    "cui": "C0280783",
+    "name": "Juvenile Pilocytic Astrocytoma",
+    "row_index": 1062
+  },
+  {
+    "disease_id": "2772",
+    "cui": "C0149925",
+    "name": "Small cell carcinoma of lung",
+    "row_index": 1063
+  },
+  {
+    "disease_id": "1950",
+    "cui": "C0032584",
+    "name": "polyps",
+    "row_index": 1064
+  },
+  {
+    "disease_id": "7781",
+    "cui": "C0740858",
+    "name": "Substance abuse problem",
+    "row_index": 1065
+  },
+  {
+    "disease_id": "8058",
+    "cui": "C0751265",
+    "name": "Learning Disabilities",
+    "row_index": 1066
+  },
+  {
+    "disease_id": "17642",
+    "cui": "C4551722",
+    "name": "Encephalocele",
+    "row_index": 1067
+  },
+  {
+    "disease_id": "2899",
+    "cui": "C0152427",
+    "name": "Polydactyly",
+    "row_index": 1068
+  },
+  {
+    "disease_id": "718",
+    "cui": "C0014065",
+    "name": "Congenital cerebral hernia",
+    "row_index": 1069
+  },
+  {
+    "disease_id": "1278",
+    "cui": "C0022679",
+    "name": "Cystic kidney",
+    "row_index": 1070
+  },
+  {
+    "disease_id": "6595",
+    "cui": "C0399373",
+    "name": "Amelogenesis imperfecta, hypomaturation hypoplasia type with taurodontism",
+    "row_index": 1071
+  },
+  {
+    "disease_id": "4324",
+    "cui": "C0266039",
+    "name": "Taurodontism",
+    "row_index": 1072
+  },
+  {
+    "disease_id": "12283",
+    "cui": "C1863012",
+    "name": "Amelogenesis Imperfecta, Type IV",
+    "row_index": 1073
+  },
+  {
+    "disease_id": "89",
+    "cui": "C0002452",
+    "name": "Amelogenesis Imperfecta",
+    "row_index": 1074
+  },
+  {
+    "disease_id": "13917",
+    "cui": "C2936777",
+    "name": "Nevo syndrome (disorder)",
+    "row_index": 1075
+  },
+  {
+    "disease_id": "700",
+    "cui": "C0013720",
+    "name": "Ehlers-Danlos Syndrome",
+    "row_index": 1076
+  },
+  {
+    "disease_id": "7426",
+    "cui": "C0575158",
+    "name": "Kyphoscoliosis deformity of spine",
+    "row_index": 1077
+  },
+  {
+    "disease_id": "1292",
+    "cui": "C0022821",
+    "name": "Kyphosis deformity of spine",
+    "row_index": 1078
+  },
+  {
+    "disease_id": "7527",
+    "cui": "C0600033",
+    "name": "Acquired Kyphoscoliosis",
+    "row_index": 1079
+  },
+  {
+    "disease_id": "6163",
+    "cui": "C0345392",
+    "name": "Congenital kyphoscoliosis",
+    "row_index": 1080
+  },
+  {
+    "disease_id": "1563",
+    "cui": "C0026351",
+    "name": "Moderate intellectual disability",
+    "row_index": 1081
+  },
+  {
+    "disease_id": "9704",
+    "cui": "C1328504",
+    "name": "Hormone refractory prostate cancer",
+    "row_index": 1082
+  },
+  {
+    "disease_id": "10780",
+    "cui": "C1739363",
+    "name": "Prostatic Hypertrophy",
+    "row_index": 1083
+  },
+  {
+    "disease_id": "5790",
+    "cui": "C0340231",
+    "name": "Tracheobronchomalacia",
+    "row_index": 1084
+  },
+  {
+    "disease_id": "4520",
+    "cui": "C0268181",
+    "name": "Lactose Intolerance, Adult Type",
+    "row_index": 1085
+  },
+  {
+    "disease_id": "1187",
+    "cui": "C0020875",
+    "name": "Ileal Diseases",
+    "row_index": 1086
+  },
+  {
+    "disease_id": "3615",
+    "cui": "C0221715",
+    "name": "Intestinal carcinoma",
+    "row_index": 1087
+  },
+  {
+    "disease_id": "10775",
+    "cui": "C1737329",
+    "name": "Dysmorphism",
+    "row_index": 1088
+  },
+  {
+    "disease_id": "6741",
+    "cui": "C0410000",
+    "name": "Overlap syndrome",
+    "row_index": 1089
+  },
+  {
+    "disease_id": "11434",
+    "cui": "C1845235",
+    "name": "Heterotopia, Periventricular, Ehlers-Danlos Variant",
+    "row_index": 1090
+  },
+  {
+    "disease_id": "11381",
+    "cui": "C1843851",
+    "name": "Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis",
+    "row_index": 1091
+  },
+  {
+    "disease_id": "2023",
+    "cui": "C0034072",
+    "name": "Cor pulmonale",
+    "row_index": 1092
+  },
+  {
+    "disease_id": "18064",
+    "cui": "C4733093",
+    "name": "progesterone receptor-negative breast cancer",
+    "row_index": 1093
+  },
+  {
+    "disease_id": "8986",
+    "cui": "C0949059",
+    "name": "Polyp of large intestine",
+    "row_index": 1094
+  },
+  {
+    "disease_id": "3618",
+    "cui": "C0221757",
+    "name": "alpha 1-Antitrypsin Deficiency",
+    "row_index": 1095
+  },
+  {
+    "disease_id": "1918",
+    "cui": "C0032019",
+    "name": "Pituitary Neoplasms",
+    "row_index": 1096
+  },
+  {
+    "disease_id": "11050",
+    "cui": "C1836330",
+    "name": "ERYTHROKERATODERMIA VARIABILIS 3 (disorder)",
+    "row_index": 1097
+  },
+  {
+    "disease_id": "17967",
+    "cui": "C4721886",
+    "name": "MYOPATHY, MYOFIBRILLAR, 4",
+    "row_index": 1098
+  },
+  {
+    "disease_id": "1690",
+    "cui": "C0027868",
+    "name": "Neuromuscular Diseases",
+    "row_index": 1099
+  },
+  {
+    "disease_id": "11815",
+    "cui": "C1853710",
+    "name": "HEREDITARY MOTOR AND SENSORY NEUROPATHY, TYPE IIC (disorder)",
+    "row_index": 1100
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "cui": "C0038525",
+  "cui_name": "Subarachnoid Hemorrhage",
+  "incidence_per_100k": 9.5,
+  "total_cases_per_year": 760000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Cerebrovascular Disease",
+  "reasoning": "Subarachnoid hemorrhage incidence estimated at ~9-10 per 100k per year globally based on stroke registries and WHO epidemiological data. Well-documented acute neurological emergency with moderate geographic variation (higher in Nordic countries, lower in North America).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

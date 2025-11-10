@@ -1,0 +1,14 @@
+{
+  "cui": "C0399373",
+  "cui_name": "Amelogenesis imperfecta, hypomaturation hypoplasia type with taurodontism",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Amelogenesis imperfecta",
+  "reasoning": "Extremely rare genetic subtype of amelogenesis imperfecta with taurodontism, <0.01 per 100k births. Limited epidemiological data; primarily documented through case reports and clinical case series.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

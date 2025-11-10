@@ -1,0 +1,14 @@
+{
+  "cui": "C0014065",
+  "cui_name": "Congenital cerebral hernia",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Congenital Anomalies",
+  "reasoning": "Rare congenital birth defect with estimated incidence of approximately 1 in 20,000 live births, equivalent to ~0.7 per 100k population-years. Limited epidemiological data available, primarily from case reports and hospital registries.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

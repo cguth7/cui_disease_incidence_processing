@@ -1,0 +1,14 @@
+{
+  "cui": "C1378050",
+  "cui_name": "Oncocytic Neoplasm",
+  "incidence_per_100k": 8.0,
+  "total_cases_per_year": 640000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major oncocytic neoplasm subcategories: renal oncocytoma (5-10 per 100k), parotid/salivary gland oncocytoma (0.5-1 per 100k), thyroid oncocytic carcinoma (1-2 per 100k), and other organ-specific oncocytomas (0.5-1 per 100k). Total ~8 per 100k. Low confidence due to heterogeneous histological category spanning multiple organ systems with limited global incidence data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

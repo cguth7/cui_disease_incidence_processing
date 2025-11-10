@@ -1,0 +1,14 @@
+{
+  "cui": "C0600033",
+  "cui_name": "Acquired Kyphoscoliosis",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Kyphoscoliosis",
+  "reasoning": "Acquired kyphoscoliosis is a specific spinal deformity developing after birth, commonly secondary to degenerative disc disease, osteoporosis, or neuromuscular disorders. Limited specific incidence data in epidemiological literature; estimated ~1-2 per 100k based on spinal disorder prevalence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

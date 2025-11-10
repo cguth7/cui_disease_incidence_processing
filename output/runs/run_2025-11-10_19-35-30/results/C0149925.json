@@ -1,0 +1,14 @@
+{
+  "cui": "C0149925",
+  "cui_name": "Small cell carcinoma of lung",
+  "incidence_per_100k": 6.0,
+  "total_cases_per_year": 480000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Small cell lung cancer (SCLC) is a well-documented histological subtype comprising ~15-20% of all lung cancers. Global incidence approximately 6 per 100k based on GLOBOCAN and WHO cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

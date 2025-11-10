@@ -1,0 +1,14 @@
+{
+  "cui": "C0085584",
+  "cui_name": "Encephalopathies",
+  "incidence_per_100k": 8.75,
+  "total_cases_per_year": 700000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major encephalopathy types: viral encephalitis (~2), bacterial (~1), autoimmune (~0.75), metabolic/toxic (~3), other causes (~2). Low confidence due to heterogeneity, wide geographic variation, and variable clinical definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

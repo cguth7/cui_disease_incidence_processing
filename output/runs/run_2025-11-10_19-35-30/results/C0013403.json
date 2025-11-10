@@ -1,0 +1,14 @@
+{
+  "cui": "C0013403",
+  "cui_name": "Dysplastic Nevus Syndrome",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare hereditary melanoma predisposition syndrome. Incidence data limited; estimated ~0.4 per 100k based on disease prevalence of 0.1-0.3% and annual new diagnoses in at-risk families.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

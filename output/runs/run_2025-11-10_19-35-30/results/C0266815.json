@@ -1,0 +1,14 @@
+{
+  "cui": "C0266815",
+  "cui_name": "Cow milk allergy",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.70,
+  "is_subtype": true,
+  "parent_disease": "Food Allergy",
+  "reasoning": "Cow milk allergy (CMA) incidence ~2-3% in infants globally, translating to ~4.5 per 100k population annual incidence. Most cases develop in infancy (0-2 years); prevalence decreases significantly with age. Data primarily from developed countries; estimates vary by diagnostic criteria (IgE-mediated vs non-IgE-mediated).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

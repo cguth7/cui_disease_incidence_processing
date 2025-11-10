@@ -1,0 +1,14 @@
+{
+  "cui": "C0555971",
+  "cui_name": "Oral infection",
+  "incidence_per_100k": 850,
+  "total_cases_per_year": 68000000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Oral infections encompass candidiasis (~2-5% annual incidence), bacterial infections including periodontitis and tooth abscess (~15-20% annual acute episodes), and viral infections. Aggregate estimate ~850 per 100k based on treatment-seeking patterns and oral health epidemiology.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

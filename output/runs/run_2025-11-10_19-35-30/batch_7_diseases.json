@@ -1,0 +1,602 @@
+[
+  {
+    "disease_id": "6558",
+    "cui": "C0398623",
+    "name": "Thrombophilia",
+    "row_index": 1601
+  },
+  {
+    "disease_id": "8810",
+    "cui": "C0876991",
+    "name": "Histiocytosis haematophagic",
+    "row_index": 1602
+  },
+  {
+    "disease_id": "2911",
+    "cui": "C0152915",
+    "name": "Acute miliary tuberculosis",
+    "row_index": 1603
+  },
+  {
+    "disease_id": "6318",
+    "cui": "C0349530",
+    "name": "Early gastric cancer",
+    "row_index": 1604
+  },
+  {
+    "disease_id": "2758",
+    "cui": "C0149826",
+    "name": "Gastric adenoma",
+    "row_index": 1605
+  },
+  {
+    "disease_id": "7517",
+    "cui": "C0598790",
+    "name": "lung sarcoma",
+    "row_index": 1606
+  },
+  {
+    "disease_id": "984",
+    "cui": "C0018564",
+    "name": "Hand deformities",
+    "row_index": 1607
+  },
+  {
+    "disease_id": "3603",
+    "cui": "C0221373",
+    "name": "Claw hand",
+    "row_index": 1608
+  },
+  {
+    "disease_id": "1552",
+    "cui": "C0026010",
+    "name": "Microphthalmos",
+    "row_index": 1609
+  },
+  {
+    "disease_id": "4077",
+    "cui": "C0263630",
+    "name": "Hypertrophic disorder of skin, unspecified",
+    "row_index": 1610
+  },
+  {
+    "disease_id": "3575",
+    "cui": "C0221228",
+    "name": "Comedone",
+    "row_index": 1611
+  },
+  {
+    "disease_id": "6254",
+    "cui": "C0346989",
+    "name": "Secondary malignant neoplasm of peritoneum",
+    "row_index": 1612
+  },
+  {
+    "disease_id": "6251",
+    "cui": "C0346976",
+    "name": "Secondary malignant neoplasm of pancreas",
+    "row_index": 1613
+  },
+  {
+    "disease_id": "2070",
+    "cui": "C0035243",
+    "name": "Respiratory Tract Infections",
+    "row_index": 1614
+  },
+  {
+    "disease_id": "8614",
+    "cui": "C0855002",
+    "name": "Recurrent Lung Carcinoma Cell Type Unspecified",
+    "row_index": 1615
+  },
+  {
+    "disease_id": "8765",
+    "cui": "C0862802",
+    "name": "Recurrent lung cancer",
+    "row_index": 1616
+  },
+  {
+    "disease_id": "16768",
+    "cui": "C4280734",
+    "name": "Facet joint arthrosis",
+    "row_index": 1617
+  },
+  {
+    "disease_id": "2290",
+    "cui": "C0039101",
+    "name": "synovial sarcoma",
+    "row_index": 1618
+  },
+  {
+    "disease_id": "4106",
+    "cui": "C0264184",
+    "name": "Degenerative spondylolisthesis",
+    "row_index": 1619
+  },
+  {
+    "disease_id": "2563",
+    "cui": "C0085077",
+    "name": "Sweet Syndrome",
+    "row_index": 1620
+  },
+  {
+    "disease_id": "1255",
+    "cui": "C0022572",
+    "name": "keratoacanthoma",
+    "row_index": 1621
+  },
+  {
+    "disease_id": "1793",
+    "cui": "C0029799",
+    "name": "Other specified forms of pleural effusion, except tuberculous",
+    "row_index": 1622
+  },
+  {
+    "disease_id": "272",
+    "cui": "C0005818",
+    "name": "Blood Platelet Disorders",
+    "row_index": 1623
+  },
+  {
+    "disease_id": "10387",
+    "cui": "C1519787",
+    "name": "Undifferentiated Neuroblastoma",
+    "row_index": 1624
+  },
+  {
+    "disease_id": "8744",
+    "cui": "C0860659",
+    "name": "Aloof",
+    "row_index": 1625
+  },
+  {
+    "disease_id": "7912",
+    "cui": "C0748355",
+    "name": "Acute respiratory distress",
+    "row_index": 1626
+  },
+  {
+    "disease_id": "2066",
+    "cui": "C0035222",
+    "name": "Respiratory Distress Syndrome, Adult",
+    "row_index": 1627
+  },
+  {
+    "disease_id": "14786",
+    "cui": "C3495949",
+    "name": "Locally advanced breast cancer",
+    "row_index": 1628
+  },
+  {
+    "disease_id": "10071",
+    "cui": "C1336905",
+    "name": "Endometrial Endometrioid Adenocarcinoma",
+    "row_index": 1629
+  },
+  {
+    "disease_id": "4787",
+    "cui": "C0270921",
+    "name": "Axonal neuropathy",
+    "row_index": 1630
+  },
+  {
+    "disease_id": "14309",
+    "cui": "C3160909",
+    "name": "Autoimmune arthritis",
+    "row_index": 1631
+  },
+  {
+    "disease_id": "1800",
+    "cui": "C0029883",
+    "name": "Otitis Media with Effusion",
+    "row_index": 1632
+  },
+  {
+    "disease_id": "7887",
+    "cui": "C0747085",
+    "name": "Recurrent otitis media",
+    "row_index": 1633
+  },
+  {
+    "disease_id": "3596",
+    "cui": "C0221355",
+    "name": "Macrocephaly",
+    "row_index": 1634
+  },
+  {
+    "disease_id": "5432",
+    "cui": "C0332887",
+    "name": "Congenital hypertrophy",
+    "row_index": 1635
+  },
+  {
+    "disease_id": "1150",
+    "cui": "C0020541",
+    "name": "Portal Hypertension",
+    "row_index": 1636
+  },
+  {
+    "disease_id": "10142",
+    "cui": "C1384600",
+    "name": "Systemic onset juvenile chronic arthritis",
+    "row_index": 1637
+  },
+  {
+    "disease_id": "2725",
+    "cui": "C0087031",
+    "name": "Juvenile-Onset Still Disease",
+    "row_index": 1638
+  },
+  {
+    "disease_id": "11253",
+    "cui": "C1840264",
+    "name": "IMMUNE SUPPRESSION",
+    "row_index": 1639
+  },
+  {
+    "disease_id": "14306",
+    "cui": "C3160889",
+    "name": "Node-negative breast cancer",
+    "row_index": 1640
+  },
+  {
+    "disease_id": "5483",
+    "cui": "C0334036",
+    "name": "Apocrine metaplasia",
+    "row_index": 1641
+  },
+  {
+    "disease_id": "494",
+    "cui": "C0009421",
+    "name": "Comatose",
+    "row_index": 1642
+  },
+  {
+    "disease_id": "6334",
+    "cui": "C0349619",
+    "name": "Medulloblastoma of cerebellum",
+    "row_index": 1643
+  },
+  {
+    "disease_id": "236",
+    "cui": "C0004903",
+    "name": "Beckwith-Wiedemann Syndrome",
+    "row_index": 1644
+  },
+  {
+    "disease_id": "7326",
+    "cui": "C0546966",
+    "name": "Monilethrix",
+    "row_index": 1645
+  },
+  {
+    "disease_id": "6749",
+    "cui": "C0410189",
+    "name": "Muscular Dystrophy, Emery-Dreifuss",
+    "row_index": 1646
+  },
+  {
+    "disease_id": "2445",
+    "cui": "C0042345",
+    "name": "Varicosity",
+    "row_index": 1647
+  },
+  {
+    "disease_id": "11051",
+    "cui": "C1836336",
+    "name": "CHARCOT-MARIE-TOOTH DISEASE, TYPE 4H",
+    "row_index": 1648
+  },
+  {
+    "disease_id": "6594",
+    "cui": "C0399372",
+    "name": "Amelogenesis Imperfecta hypomaturation type",
+    "row_index": 1649
+  },
+  {
+    "disease_id": "2545",
+    "cui": "C0079748",
+    "name": "Precursor cell lymphoblastic lymphoma",
+    "row_index": 1650
+  },
+  {
+    "disease_id": "5137",
+    "cui": "C0278721",
+    "name": "Adult Lymphoblastic Lymphoma",
+    "row_index": 1651
+  },
+  {
+    "disease_id": "5188",
+    "cui": "C0279525",
+    "name": "Childhood Lymphoblastic Lymphoma",
+    "row_index": 1652
+  },
+  {
+    "disease_id": "2095",
+    "cui": "C0035455",
+    "name": "Rhinitis",
+    "row_index": 1653
+  },
+  {
+    "disease_id": "9923",
+    "cui": "C1334461",
+    "name": "Salivary Gland Lymphoepithelial Carcinoma",
+    "row_index": 1654
+  },
+  {
+    "disease_id": "627",
+    "cui": "C0011884",
+    "name": "Diabetic Retinopathy",
+    "row_index": 1655
+  },
+  {
+    "disease_id": "9140",
+    "cui": "C1153706",
+    "name": "Endometrial adenocarcinoma",
+    "row_index": 1656
+  },
+  {
+    "disease_id": "10424",
+    "cui": "C1531608",
+    "name": "Smoldering myeloma",
+    "row_index": 1657
+  },
+  {
+    "disease_id": "9107",
+    "cui": "C1136249",
+    "name": "Mental Retardation, X-Linked",
+    "row_index": 1658
+  },
+  {
+    "disease_id": "3419",
+    "cui": "C0206693",
+    "name": "Medullary carcinoma",
+    "row_index": 1659
+  },
+  {
+    "disease_id": "1105",
+    "cui": "C0020192",
+    "name": "Hyaline Membrane Disease",
+    "row_index": 1660
+  },
+  {
+    "disease_id": "11503",
+    "cui": "C1846545",
+    "name": "Autoimmune Lymphoproliferative Syndrome Type 2B",
+    "row_index": 1661
+  },
+  {
+    "disease_id": "629",
+    "cui": "C0011989",
+    "name": "Camurati-Engelmann Syndrome",
+    "row_index": 1662
+  },
+  {
+    "disease_id": "1015",
+    "cui": "C0018889",
+    "name": "Helminthiasis",
+    "row_index": 1663
+  },
+  {
+    "disease_id": "5741",
+    "cui": "C0339526",
+    "name": "Autosomal recessive retinitis pigmentosa",
+    "row_index": 1664
+  },
+  {
+    "disease_id": "2403",
+    "cui": "C0041466",
+    "name": "Typhoid Fever",
+    "row_index": 1665
+  },
+  {
+    "disease_id": "417",
+    "cui": "C0008149",
+    "name": "Chlamydia Infections",
+    "row_index": 1666
+  },
+  {
+    "disease_id": "7411",
+    "cui": "C0563625",
+    "name": "Agnosia for Pain",
+    "row_index": 1667
+  },
+  {
+    "disease_id": "7765",
+    "cui": "C0740394",
+    "name": "Hyperuricemia",
+    "row_index": 1668
+  },
+  {
+    "disease_id": "1805",
+    "cui": "C0029927",
+    "name": "Ovarian Cysts",
+    "row_index": 1669
+  },
+  {
+    "disease_id": "7361",
+    "cui": "C0553580",
+    "name": "Ewings sarcoma",
+    "row_index": 1670
+  },
+  {
+    "disease_id": "972",
+    "cui": "C0018378",
+    "name": "Guillain-Barre Syndrome",
+    "row_index": 1671
+  },
+  {
+    "disease_id": "3839",
+    "cui": "C0238339",
+    "name": "Hereditary pancreatitis",
+    "row_index": 1672
+  },
+  {
+    "disease_id": "2247",
+    "cui": "C0038220",
+    "name": "Status Epilepticus",
+    "row_index": 1673
+  },
+  {
+    "disease_id": "106",
+    "cui": "C0002874",
+    "name": "Aplastic Anemia",
+    "row_index": 1674
+  },
+  {
+    "disease_id": "12829",
+    "cui": "C1998028",
+    "name": "Photoreceptor degeneration",
+    "row_index": 1675
+  },
+  {
+    "disease_id": "15786",
+    "cui": "C3888461",
+    "name": "Dry age-related macular degeneration",
+    "row_index": 1676
+  },
+  {
+    "disease_id": "7348",
+    "cui": "C0549463",
+    "name": "X-Linked Lymphoproliferative Disorder",
+    "row_index": 1677
+  },
+  {
+    "disease_id": "1488",
+    "cui": "C0024809",
+    "name": "Marijuana Abuse",
+    "row_index": 1678
+  },
+  {
+    "disease_id": "1072",
+    "cui": "C0019340",
+    "name": "Herpes NOS",
+    "row_index": 1679
+  },
+  {
+    "disease_id": "12320",
+    "cui": "C1863925",
+    "name": "Nonmedullary thyroid carcinoma, with or without cell oxyphilia",
+    "row_index": 1680
+  },
+  {
+    "disease_id": "7627",
+    "cui": "C0685707",
+    "name": "Muscular ventricular septum defect",
+    "row_index": 1681
+  },
+  {
+    "disease_id": "17772",
+    "cui": "C4554010",
+    "name": "Isomerism (body)",
+    "row_index": 1682
+  },
+  {
+    "disease_id": "7804",
+    "cui": "C0741916",
+    "name": "Cardiac defects",
+    "row_index": 1683
+  },
+  {
+    "disease_id": "8502",
+    "cui": "C0850673",
+    "name": "congenital metabolic disorder",
+    "row_index": 1684
+  },
+  {
+    "disease_id": "1546",
+    "cui": "C0025521",
+    "name": "Inborn Errors of Metabolism",
+    "row_index": 1685
+  },
+  {
+    "disease_id": "15737",
+    "cui": "C3887938",
+    "name": "Deuteranomaly",
+    "row_index": 1686
+  },
+  {
+    "disease_id": "12983",
+    "cui": "C2350873",
+    "name": "Beryllium Disease",
+    "row_index": 1687
+  },
+  {
+    "disease_id": "9678",
+    "cui": "C1321756",
+    "name": "Achalasia",
+    "row_index": 1688
+  },
+  {
+    "disease_id": "784",
+    "cui": "C0014848",
+    "name": "Esophageal Achalasia",
+    "row_index": 1689
+  },
+  {
+    "disease_id": "2424",
+    "cui": "C0042065",
+    "name": "Genitourinary Neoplasms",
+    "row_index": 1690
+  },
+  {
+    "disease_id": "8144",
+    "cui": "C0751569",
+    "name": "Genitourinary Cancer",
+    "row_index": 1691
+  },
+  {
+    "disease_id": "5205",
+    "cui": "C0279593",
+    "name": "Adult B Acute Lymphoblastic Leukemia",
+    "row_index": 1692
+  },
+  {
+    "disease_id": "5202",
+    "cui": "C0279584",
+    "name": "Childhood B Acute Lymphoblastic Leukemia",
+    "row_index": 1693
+  },
+  {
+    "disease_id": "6341",
+    "cui": "C0349636",
+    "name": "Pre B-cell acute lymphoblastic leukemia",
+    "row_index": 1694
+  },
+  {
+    "disease_id": "2671",
+    "cui": "C0085859",
+    "name": "Polyglandular Type I Autoimmune Syndrome",
+    "row_index": 1695
+  },
+  {
+    "disease_id": "14760",
+    "cui": "C3495488",
+    "name": "Axenfeld-Rieger syndrome",
+    "row_index": 1696
+  },
+  {
+    "disease_id": "16414",
+    "cui": "C4085595",
+    "name": "AL-RAQAD SYNDROME",
+    "row_index": 1697
+  },
+  {
+    "disease_id": "15668",
+    "cui": "C3854603",
+    "name": "FNAITP",
+    "row_index": 1698
+  },
+  {
+    "disease_id": "88",
+    "cui": "C0002448",
+    "name": "Ameloblastoma",
+    "row_index": 1699
+  },
+  {
+    "disease_id": "1727",
+    "cui": "C0028880",
+    "name": "Odontogenic Tumors",
+    "row_index": 1700
+  }
+]

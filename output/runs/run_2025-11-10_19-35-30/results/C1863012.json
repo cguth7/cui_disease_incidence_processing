@@ -1,0 +1,14 @@
+{
+  "cui": "C1863012",
+  "cui_name": "Amelogenesis Imperfecta, Type IV",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Amelogenesis Imperfecta",
+  "reasoning": "Rare autosomal dominant enamel dysplasia with hypomaturation phenotype. Type IV represents approximately 10-15% of AI cases. Overall AI incidence ~1 in 10,000-15,000; Type IV subset estimated <0.5 per 100k based on proportional classification.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

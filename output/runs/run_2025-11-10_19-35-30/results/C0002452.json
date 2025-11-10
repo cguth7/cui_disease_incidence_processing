@@ -1,0 +1,14 @@
+{
+  "cui": "C0002452",
+  "cui_name": "Amelogenesis Imperfecta",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare genetic disorder affecting enamel development with estimated global incidence of 0.5-1.0 per 100k. Confidence moderate due to reliance on case reports and genetic studies rather than large population registries.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

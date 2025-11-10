@@ -1,0 +1,14 @@
+{
+  "cui": "C0034072",
+  "cui_name": "Cor pulmonale",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cor pulmonale incidence derived from chronic respiratory disease epidemiology, varying by region based on COPD and smoking prevalence. Global average approximately 12 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C1836330",
+  "cui_name": "ERYTHROKERATODERMIA VARIABILIS 3 (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Erythrokeratodermia Variabilis",
+  "reasoning": "Extremely rare autosomal dominant genetic skin disorder, subtype 3 of erythrokeratodermia variabilis. Incidence likely <0.01 per 100k births based on case reports and genetic databases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

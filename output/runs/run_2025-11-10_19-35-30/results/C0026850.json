@@ -1,0 +1,14 @@
+{
+  "cui": "C0026850",
+  "cui_name": "Muscular Dystrophy",
+  "incidence_per_100k": 12,
+  "total_cases_per_year": 960000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major muscular dystrophy subtypes: Duchenne (~3 per 100k), Becker (~1 per 100k), myotonic (~4 per 100k), FSHD (~2 per 100k), LGMD (~1 per 100k), congenital (~1 per 100k). Total ~12 per 100k. Low confidence due to heterogeneity and variation in incidence estimates across regions.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

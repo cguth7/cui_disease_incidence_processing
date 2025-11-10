@@ -1,0 +1,14 @@
+{
+  "cui": "C0032584",
+  "cui_name": "Polyps",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and heterogeneous to estimate meaningfully. Encompasses colorectal polyps, nasal polyps, gastric polyps, endometrial polyps, and other tissue growths with vastly different incidence rates, clinical significance, and detection methods. Requires anatomical specification.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

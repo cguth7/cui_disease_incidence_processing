@@ -1,0 +1,14 @@
+{
+  "cui": "C0344482",
+  "cui_name": "Hypoplasia of corpus callosum",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Corpus Callosum Malformations",
+  "reasoning": "Rare congenital CNS malformation with incidence <0.1 per 100k in general population. Case reports and small studies suggest 0.01-0.1% of births, but limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

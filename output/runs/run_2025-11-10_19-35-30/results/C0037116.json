@@ -1,0 +1,14 @@
+{
+  "cui": "C0037116",
+  "cui_name": "Silicosis",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Occupational lung disease with well-documented epidemiology. Global incidence ~1.5 per 100k from WHO/ILO occupational health surveillance. Higher in mining-intensive and industrial regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

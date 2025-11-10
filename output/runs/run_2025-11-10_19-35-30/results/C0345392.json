@@ -1,0 +1,14 @@
+{
+  "cui": "C0345392",
+  "cui_name": "Congenital kyphoscoliosis",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Congenital spinal deformities",
+  "reasoning": "Rare congenital spinal deformity combining kyphosis and scoliosis. Estimated incidence <0.5 per 100k based on case reports and pediatric orthopedic registries. Limited population-based epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

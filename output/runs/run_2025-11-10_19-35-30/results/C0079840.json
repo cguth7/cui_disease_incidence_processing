@@ -1,0 +1,14 @@
+{
+  "cui": "C0079840",
+  "cui_name": "Milk Allergy",
+  "incidence_per_100k": 18.5,
+  "total_cases_per_year": 1480000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Milk allergy is a well-defined IgE-mediated food allergy affecting 2-3% of infants globally. Estimated incidence ~18-20 per 100k person-years based on pediatric cohort studies and registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0340231",
+  "cui_name": "Tracheobronchomalacia",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare airway disorder with limited epidemiological data. Estimate based on pediatric incidence (~1 per 2000-4500 live births) scaled to general population. Most evidence from case reports and small pulmonology/pediatric cohorts rather than population-based registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}
