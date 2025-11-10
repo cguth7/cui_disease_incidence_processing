@@ -1,0 +1,14 @@
+{
+  "cui": "C1458155",
+  "cui_name": "Mammary Neoplasms",
+  "incidence_per_100k": 27.5,
+  "total_cases_per_year": 2200000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Breast cancer global incidence approximately 27.5 per 100k from GLOBOCAN 2005 registry data. One of the most well-documented cancers globally with strong epidemiological evidence.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

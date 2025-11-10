@@ -1,0 +1,14 @@
+{
+  "cui": "C0020615",
+  "cui_name": "Hypoglycemia",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypoglycemia is a metabolic complication/symptom rather than a primary disease. It occurs secondary to diabetes treatment, insulinoma, post-bariatric surgery, or medications. No independent population-level incidence rate exists.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

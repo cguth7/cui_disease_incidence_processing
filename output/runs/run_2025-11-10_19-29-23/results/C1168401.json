@@ -1,0 +1,14 @@
+{
+  "cui": "C1168401",
+  "cui_name": "Squamous cell carcinoma of the head and neck",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Head and Neck Cancer",
+  "reasoning": "GLOBOCAN 2005 estimates ~640,000 new head and neck cancer cases annually, with squamous cell carcinoma comprising ~90% of cases, yielding ~8.5 per 100k globally. Strong cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

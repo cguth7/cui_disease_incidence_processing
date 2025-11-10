@@ -1,0 +1,14 @@
+{
+  "cui": "C1332977",
+  "cui_name": "Childhood Leukemia",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 63000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Childhood leukemia (ages 0-14) has well-documented incidence ~3.5 per 100,000 children per year from international cancer registries (WHO/GLOBOCAN). ALL predominates (75-80%), with AML comprising 15-20%. Strong registry-based evidence.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

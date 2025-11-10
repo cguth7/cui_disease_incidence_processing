@@ -1,0 +1,14 @@
+{
+  "cui": "C0334307",
+  "cui_name": "Tubulovillous adenoma",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Colorectal adenoma",
+  "reasoning": "Tubulovillous adenomas are intermediate colorectal polyps, representing approximately 5-15% of adenomas detected in screening programs. Estimated global incidence ~25 per 100k based on adenoma prevalence and subtype distribution, with high geographic variation reflecting screening practices and access to colonoscopy.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

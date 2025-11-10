@@ -1,0 +1,14 @@
+{
+  "cui": "C0007134",
+  "cui_name": "Renal Cell Carcinoma",
+  "incidence_per_100k": 12.3,
+  "total_cases_per_year": 984000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-established global incidence from GLOBOCAN 2005 and cancer registries. Estimated ~12 per 100k globally, with higher rates in developed countries (15-20 per 100k) and lower rates in developing regions.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

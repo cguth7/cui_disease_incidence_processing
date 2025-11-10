@@ -1,0 +1,14 @@
+{
+  "cui": "C0007847",
+  "cui_name": "Malignant tumor of cervix",
+  "incidence_per_100k": 15.3,
+  "total_cases_per_year": 1224000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm",
+  "reasoning": "Cervical cancer is well-documented globally with strong WHO/GLOBOCAN registry data from 2005. Global incidence approximately 15.3 per 100,000 women per year, with significant geographic variation due to HPV prevalence and screening program availability.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

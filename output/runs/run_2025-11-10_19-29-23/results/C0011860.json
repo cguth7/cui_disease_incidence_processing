@@ -1,0 +1,14 @@
+{
+  "cui": "C0011860",
+  "cui_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+  "incidence_per_100k": 15.0,
+  "total_cases_per_year": 1200000,
+  "confidence": 0.95,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus",
+  "reasoning": "Type 2 diabetes has well-documented global incidence of ~15 per 100k from IDF/WHO registries circa 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

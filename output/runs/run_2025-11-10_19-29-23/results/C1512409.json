@@ -1,0 +1,14 @@
+{
+  "cui": "C1512409",
+  "cui_name": "Hepatocarcinogenesis",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": "Hepatocellular Carcinoma",
+  "reasoning": "Hepatocarcinogenesis refers to HCC development process. Global HCC incidence ~12 per 100k from GLOBOCAN 2005, varies from <2 in North America/Europe to >25 in East Asia due to HBV/HCV prevalence and cirrhosis.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

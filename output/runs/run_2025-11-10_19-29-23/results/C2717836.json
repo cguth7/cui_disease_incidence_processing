@@ -1,0 +1,14 @@
+{
+  "cui": "C2717836",
+  "cui_name": "Steroid Sulfatase Deficiency Disease",
+  "incidence_per_100k": 25,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Ichthyosis",
+  "reasoning": "X-linked ichthyosis caused by steroid sulfatase deficiency, incidence approximately 1 in 2,000-6,000 live male births, estimated ~25 per 100k globally.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

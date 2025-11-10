@@ -1,0 +1,14 @@
+{
+  "cui": "C0023452",
+  "cui_name": "Childhood Acute Lymphoblastic Leukemia",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Acute Lymphoblastic Leukemia",
+  "reasoning": "Childhood ALL is the most common pediatric leukemia with well-documented incidence from international cancer registries. Global incidence approximately 2 per 100k population, with higher rates in developed countries due to improved diagnosis and registration.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

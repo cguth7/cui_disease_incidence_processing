@@ -1,0 +1,14 @@
+{
+  "cui": "C0017636",
+  "cui_name": "Glioblastoma",
+  "incidence_per_100k": 2.8,
+  "total_cases_per_year": 224000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Glioma",
+  "reasoning": "Glioblastoma is a well-documented primary malignant brain tumor with strong global registry data from GLOBOCAN and cancer registries. Global incidence approximately 2.8 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005
+}

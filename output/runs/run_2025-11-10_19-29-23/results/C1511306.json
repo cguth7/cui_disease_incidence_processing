@@ -1,0 +1,14 @@
+{
+  "cui": "C1511306",
+  "cui_name": "Breast Diffuse Large B-Cell Lymphoma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin's Lymphoma",
+  "reasoning": "Primary DLBCL of the breast is a rare presentation of the most common NHL subtype. Estimated at ~0.3 per 100k based on cancer registry data and oncology literature, though breast-specific data is limited.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

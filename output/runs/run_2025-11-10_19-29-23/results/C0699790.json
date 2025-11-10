@@ -1,0 +1,14 @@
+{
+  "cui": "C0699790",
+  "cui_name": "Colon Carcinoma",
+  "incidence_per_100k": 23.0,
+  "total_cases_per_year": 1840000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Cancer",
+  "reasoning": "Well-documented malignancy with strong registry data. Colon carcinoma (excluding rectum) incidence approximately 23 per 100k globally from GLOBOCAN 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

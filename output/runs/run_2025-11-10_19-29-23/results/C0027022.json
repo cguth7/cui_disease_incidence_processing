@@ -1,0 +1,14 @@
+{
+  "cui": "C0027022",
+  "cui_name": "Myeloproliferative disease",
+  "incidence_per_100k": 2.8,
+  "total_cases_per_year": 224000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myeloproliferative neoplasms (MPNs) aggregate estimate: CML (~1.0), Polycythemia Vera (~1.0), Essential Thrombocythemia (~0.9), Primary Myelofibrosis (~0.5), other MPNs (~0.4) = ~2.8 per 100k. Moderate confidence based on WHO and hematologic registries, though some variation in classification systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

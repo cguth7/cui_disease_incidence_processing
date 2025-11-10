@@ -1,0 +1,14 @@
+{
+  "cui": "C0206704",
+  "cui_name": "Carcinoma, Large Cell",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Large cell lung cancer represents ~10-15% of lung cancer cases. Global lung cancer incidence ~23-25 per 100k (2005 data), making large cell carcinoma approximately 3-4 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

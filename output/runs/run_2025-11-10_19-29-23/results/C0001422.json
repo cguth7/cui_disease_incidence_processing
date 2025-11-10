@@ -1,0 +1,14 @@
+{
+  "cui": "C0001422",
+  "cui_name": "Adenofibroma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare benign mixed tumor, primarily ovarian adenofibroma. Limited epidemiological data; estimated <0.5 per 100k based on rarity relative to other ovarian neoplasms.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

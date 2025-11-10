@@ -1,0 +1,14 @@
+{
+  "cui": "C0206682",
+  "cui_name": "Follicular thyroid carcinoma",
+  "incidence_per_100k": 0.45,
+  "total_cases_per_year": 36000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Thyroid cancer",
+  "reasoning": "Follicular thyroid carcinoma is the second most common thyroid cancer, accounting for ~10-15% of differentiated thyroid cancers. Global incidence estimated at ~0.45 per 100k based on cancer registry data and epidemiological studies, with moderate geographic variation due to iodine intake differences.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C1290886",
+  "cui_name": "Chronic inflammatory disorder",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and generic to estimate meaningfully. Covers multiple distinct chronic inflammatory conditions (rheumatoid arthritis, inflammatory bowel disease, systemic lupus erythematosus, vasculitis, etc.) with vastly different incidence rates and clinical presentations.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0036346",
+  "cui_name": "Schizophrenia, Childhood",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Schizophrenia",
+  "reasoning": "Childhood-onset schizophrenia (COS) is a rare psychiatric disorder with estimated incidence of 1-2 per 100k children based on epidemiological studies. Moderate confidence due to published research but limited large-scale registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

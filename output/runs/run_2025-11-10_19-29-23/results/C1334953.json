@@ -1,0 +1,14 @@
+{
+  "cui": "C1334953",
+  "cui_name": "Neuroblastic tumors",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Neuroblastoma is the most common extracranial solid malignancy in children with incidence ~7-10 per 100k children. Accounting for pediatric population proportion in global demographics, general population incidence approximately 1-2 per 100k. Strong registry data available from cancer surveillance systems.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010
+}

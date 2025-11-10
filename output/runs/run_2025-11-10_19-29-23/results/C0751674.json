@@ -1,0 +1,14 @@
+{
+  "cui": "C0751674",
+  "cui_name": "Lymphangioleiomyomatosis",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare systemic disease affecting smooth muscle, estimated incidence 1-2 per million globally (0.5 per 100k). Data from medical literature and case registries suggest potential underdiagnosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

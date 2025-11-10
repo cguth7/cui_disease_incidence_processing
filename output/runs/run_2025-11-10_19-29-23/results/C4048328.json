@@ -1,0 +1,14 @@
+{
+  "cui": "C4048328",
+  "cui_name": "cervical cancer",
+  "incidence_per_100k": 15.3,
+  "total_cases_per_year": 1224000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-established cervical cancer incidence from GLOBOCAN 2005 approximately 15-16 per 100k globally. Strong registry data from WHO and cancer registries worldwide.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C3898709",
+  "cui_name": "Intestinal-Type Sinonasal Adenocarcinoma",
+  "incidence_per_100k": 0.35,
+  "total_cases_per_year": 28000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Sinonasal Adenocarcinoma",
+  "reasoning": "Rare sinonasal adenocarcinoma subtype with estimated incidence 0.3-0.5 per 100k based on cancer registry data and epidemiological studies. Limited specific data available for this histological subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

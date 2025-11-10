@@ -1,0 +1,14 @@
+{
+  "cui": "C0007860",
+  "cui_name": "Uterine Cervicitis",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cervicitis is inflammation of the cervix, commonly caused by STIs. Estimated incidence ~150 per 100k population annually, primarily affecting reproductive-age women (15-49). Estimates based on STI epidemiology and gynecological clinic data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

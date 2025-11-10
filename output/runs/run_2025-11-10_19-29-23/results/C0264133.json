@@ -1,0 +1,14 @@
+{
+  "cui": "C0264133",
+  "cui_name": "Acquired flat foot",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Pes Planus",
+  "reasoning": "Acquired flat foot (pes planus acuta) incidence estimated at 3-4 per 100k annually based on posterior tibial tendon dysfunction and traumatic flat foot literature. Low-moderate confidence due to limited epidemiological registries and frequent underdiagnosis.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

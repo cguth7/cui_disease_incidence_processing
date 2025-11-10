@@ -1,0 +1,14 @@
+{
+  "cui": "C1861172",
+  "cui_name": "Venous Thromboembolism",
+  "incidence_per_100k": 120,
+  "total_cases_per_year": 9600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-established condition with strong epidemiological data from registries and cohort studies. Global incidence ~100-160 per 100k person-years, using 120 as global average. Higher rates in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

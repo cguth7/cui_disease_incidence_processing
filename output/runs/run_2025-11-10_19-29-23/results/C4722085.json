@@ -1,0 +1,14 @@
+{
+  "cui": "C4722085",
+  "cui_name": "Malignant neoplasm of colon and/or rectum",
+  "incidence_per_100k": 30.5,
+  "total_cases_per_year": 2440000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm",
+  "reasoning": "Colorectal cancer is a well-defined disease with strong cancer registry data worldwide. Global incidence approximately 30.5 per 100k from GLOBOCAN 2005, with geographic variation from 15 per 100k in developing regions to 40-50 per 100k in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

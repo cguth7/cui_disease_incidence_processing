@@ -1,0 +1,14 @@
+{
+  "cui": "C0010606",
+  "cui_name": "Adenoid Cystic Carcinoma",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Salivary Gland Carcinoma",
+  "reasoning": "Adenoid cystic carcinoma is a rare, specific histological type of cancer primarily affecting salivary glands. Global incidence estimated at ~0.8 per 100k based on cancer registry data and specialty literature, though 2005-specific data is limited.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

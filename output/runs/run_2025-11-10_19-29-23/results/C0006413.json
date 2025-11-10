@@ -1,0 +1,14 @@
+{
+  "cui": "C0006413",
+  "cui_name": "Burkitt Lymphoma",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Burkitt Lymphoma is a well-defined aggressive B-cell lymphoma with documented global incidence ~1.5 per 100k from cancer registries. Geographic variation significant: endemic in Africa (>10 per 100k in some regions) due to EBV/malaria interaction, <2 per 100k in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

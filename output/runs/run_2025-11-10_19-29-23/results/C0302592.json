@@ -1,0 +1,14 @@
+{
+  "cui": "C0302592",
+  "cui_name": "Cervix carcinoma",
+  "incidence_per_100k": 13.8,
+  "total_cases_per_year": 1104000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of cervix",
+  "reasoning": "Cervical cancer incidence from GLOBOCAN 2005: ~13.8 per 100,000 women globally. Well-documented through cancer registries with strong epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}
