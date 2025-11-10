@@ -1,0 +1,14 @@
+{
+  "cui": "C0039730",
+  "cui_name": "Thalassemia",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Clinically significant thalassemia incidence globally estimated at 1-2 per 100k live births. Subtypes include Thalassemia Major, Intermedia, and Minor with distinct epidemiology. Geographic variation is very high, with high prevalence in Mediterranean, Middle Eastern, and Southeast Asian populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

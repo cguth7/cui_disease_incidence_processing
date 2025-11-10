@@ -1,0 +1,14 @@
+{
+  "cui": "C0026277",
+  "cui_name": "Mixed Salivary Gland Tumor",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Salivary Gland Tumors",
+  "reasoning": "Mixed salivary gland tumors (pleomorphic adenomas and mixed carcinomas) estimated at ~1 per 100k globally based on cancer registry data. Specific 2005 data for mixed subtype not readily available from primary sources.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

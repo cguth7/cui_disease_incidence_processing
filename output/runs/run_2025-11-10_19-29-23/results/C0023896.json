@@ -1,0 +1,14 @@
+{
+  "cui": "C0023896",
+  "cui_name": "Alcoholic Liver Diseases",
+  "incidence_per_100k": 11.5,
+  "total_cases_per_year": 920000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Alcoholic liver disease (including steatosis, hepatitis, and cirrhosis) has global incidence estimated at 11-12 per 100k person-years based on WHO estimates and epidemiological studies, with substantial geographic variation driven by regional alcohol consumption patterns.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0206245",
+  "cui_name": "Amyloid Neuropathies, Familial",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Amyloidosis",
+  "reasoning": "Familial amyloid neuropathies are rare inherited disorders with estimated incidence <0.5 per 100k globally, with significant geographic variation (endemic foci in Portugal, Sweden, Japan).",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

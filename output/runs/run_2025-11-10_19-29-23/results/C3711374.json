@@ -1,0 +1,14 @@
+{
+  "cui": "C3711374",
+  "cui_name": "Nonsyndromic Deafness",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Deafness",
+  "reasoning": "Nonsyndromic deafness incidence estimated from congenital cases (~1.5 per 1000 births globally) plus acquired cases from noise exposure, ototoxic medications, and infections. Multiple etiologies create heterogeneity in incidence estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

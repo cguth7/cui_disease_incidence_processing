@@ -1,0 +1,14 @@
+{
+  "cui": "C2751310",
+  "cui_name": "Hyperuricemic Nephropathy, Familial Juvenile 2",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Hyperuricemic Nephropathy",
+  "reasoning": "Rare genetic disorder of renal uric acid handling affecting <100 cases worldwide. Familial juvenile form 2 (UMOD-related) represents specific genetic subtype with ultra-rare incidence <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0023484",
+  "cui_name": "Leukemia, Plasma Cell",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Plasma cell leukemia is a rare aggressive variant of plasma cell dyscrasias, estimated at 0.2-0.5 per 100k based on case frequency and cancer registry data. Represents approximately 2-5% of plasma cell malignancies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

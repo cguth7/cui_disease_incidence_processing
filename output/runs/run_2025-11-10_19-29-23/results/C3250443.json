@@ -1,0 +1,14 @@
+{
+  "cui": "C3250443",
+  "cui_name": "MYOTONIC DYSTROPHY 1",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Myotonic Dystrophy",
+  "reasoning": "Myotonic Dystrophy Type 1 is the most common form of myotonic dystrophy with incidence estimated at 2-5 per 100k per year globally. Well-documented genetic disorder with multiple registries, though incidence estimates vary by population and geographic region.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0375023",
+  "cui_name": "Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Respiratory syncytial virus infection",
+  "reasoning": "RSV infections are highly prevalent globally, particularly in children. This ICD-10 classification variant for RSV in other conditions with unspecified site is estimated at ~4.5 per 100k per year globally, lower than primary RSV bronchiolitis/pneumonia due to its secondary/complication nature. Based on epidemiological surveillance data and clinical reports.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

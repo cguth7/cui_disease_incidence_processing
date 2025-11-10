@@ -1,0 +1,14 @@
+{
+  "cui": "C0079218",
+  "cui_name": "Fibromatosis, Aggressive",
+  "incidence_per_100k": 0.03,
+  "total_cases_per_year": 2400,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggressive fibromatosis (desmoid tumors) is a rare mesenchymal tumor with estimated incidence of 2-4 per million per year globally. Data from multiple cancer registries and epidemiological studies provide moderate evidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

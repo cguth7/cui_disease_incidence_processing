@@ -1,0 +1,14 @@
+{
+  "cui": "C1332922",
+  "cui_name": "Cervical Squamous Intraepithelial Neoplasia",
+  "incidence_per_100k": 18.0,
+  "total_cases_per_year": 1440000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CIN incidence from cervical screening programs: estimated ~18 per 100k based on registry data from screened populations circa 2005. Highly variable by HPV prevalence and screening coverage.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

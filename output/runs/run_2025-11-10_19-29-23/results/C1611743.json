@@ -1,0 +1,14 @@
+{
+  "cui": "C1611743",
+  "cui_name": "Familial Pulmonary Arterial Hypertension (FPAH)",
+  "incidence_per_100k": 0.1,
+  "total_cases_per_year": 8000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary Arterial Hypertension",
+  "reasoning": "Familial PAH accounts for ~6-10% of all PAH cases. Global PAH incidence ~1-2 per 100k, so familial form estimated at ~0.1 per 100k. Data from pulmonary hypertension registries provides moderate confidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

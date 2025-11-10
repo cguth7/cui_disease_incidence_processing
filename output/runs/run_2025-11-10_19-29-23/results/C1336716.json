@@ -1,0 +1,14 @@
+{
+  "cui": "C1336716",
+  "cui_name": "testicular embryonal carcinoma and teratoma",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Testicular Germ Cell Tumors",
+  "reasoning": "Embryonal carcinoma and teratoma combined represent approximately 40-50% of testicular germ cell tumors. Global testicular cancer incidence ~4-5 per 100k males. Estimate ~1.2 per 100k overall population based on subtype prevalence within testicular cancers.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

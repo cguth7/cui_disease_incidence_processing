@@ -1,0 +1,14 @@
+{
+  "cui": "C0023479",
+  "cui_name": "Acute myelomonocytic leukemia",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "Acute myelomonocytic leukemia (FAB M4) represents approximately 20-25% of AML cases. Estimated at ~0.8 per 100k based on AML global incidence of ~3.5 per 100k from cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

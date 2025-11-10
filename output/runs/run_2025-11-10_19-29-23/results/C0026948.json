@@ -1,0 +1,14 @@
+{
+  "cui": "C0026948",
+  "cui_name": "Mycosis Fungoides",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare cutaneous T-cell lymphoma with documented incidence from cancer registries. Global incidence approximately 0.3-0.5 per 100k, representing ~32,000 new cases annually worldwide.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

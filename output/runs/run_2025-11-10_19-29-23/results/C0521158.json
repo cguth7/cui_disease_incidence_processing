@@ -1,0 +1,14 @@
+{
+  "cui": "C0521158",
+  "cui_name": "Recurrent tumor",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term describing tumor recurrence state rather than a specific disease. Incidence depends on primary tumor type and previous treatment, making aggregate estimation not meaningful.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

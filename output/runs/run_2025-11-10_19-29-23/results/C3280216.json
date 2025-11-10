@@ -1,0 +1,14 @@
+{
+  "cui": "C3280216",
+  "cui_name": "HYPERURICEMIC NEPHROPATHY, FAMILIAL JUVENILE, 3",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Familial Hyperuricemic Nephropathy",
+  "reasoning": "Extremely rare autosomal recessive genetic disorder affecting urate transporter (likely SLC22A12/URAT1 mutations). Fewer than 100 cases reported worldwide; <0.01 per 100k births based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

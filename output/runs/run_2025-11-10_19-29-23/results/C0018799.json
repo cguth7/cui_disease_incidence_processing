@@ -1,0 +1,14 @@
+{
+  "cui": "C0018799",
+  "cui_name": "Heart Diseases",
+  "incidence_per_100k": 350,
+  "total_cases_per_year": 28000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major cardiovascular conditions: acute MI (~75 per 100k), stroke (~125 per 100k), heart failure (~75 per 100k), arrhythmias including AF (~40 per 100k), other cardiac events (~35 per 100k) = ~350 per 100k. Confidence low due to heterogeneity, overlap between categories, and significant geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

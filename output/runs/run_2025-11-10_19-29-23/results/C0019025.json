@@ -1,0 +1,14 @@
+{
+  "cui": "C0019025",
+  "cui_name": "Hemoglobin F Disease",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Hemoglobinopathy",
+  "reasoning": "Hemoglobin F disease (persistent fetal hemoglobin and related disorders) is rare, primarily detected through hemoglobin screening. Estimated <0.1 per 100k based on case frequency in population surveys and newborn screening programs.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

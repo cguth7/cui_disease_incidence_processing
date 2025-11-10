@@ -1,0 +1,14 @@
+{
+  "cui": "C0339789",
+  "cui_name": "Congenital deafness",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 27000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital hearing loss incidence approximately 1.5 per 1000 live births globally (150 per 100,000 births). Estimate based on newborn hearing screening data and pediatric audiology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

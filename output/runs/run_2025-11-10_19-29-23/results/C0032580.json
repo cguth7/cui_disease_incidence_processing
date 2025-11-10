@@ -1,0 +1,14 @@
+{
+  "cui": "C0032580",
+  "cui_name": "Adenomatous Polyposis Coli",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Familial Adenomatous Polyposis (FAP) is a well-characterized autosomal dominant genetic disorder. Estimated incidence ~1 per 100,000 person-years based on genetic registry data and family studies. Good epidemiological documentation from cancer surveillance systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

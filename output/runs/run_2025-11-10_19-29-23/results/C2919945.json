@@ -1,0 +1,14 @@
+{
+  "cui": "C2919945",
+  "cui_name": "Cavernous Hemangioma of Brain",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Intracranial Vascular Malformations",
+  "reasoning": "Rare benign vascular malformation with estimated incidence 0.1-0.4 per 100k per year. Many are asymptomatic and discovered incidentally on neuroimaging. Wide uncertainty due to variable detection rates across regions and populations.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

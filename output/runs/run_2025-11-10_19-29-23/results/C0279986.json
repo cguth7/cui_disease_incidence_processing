@@ -1,0 +1,14 @@
+{
+  "cui": "C0279986",
+  "cui_name": "Childhood Leiomyosarcoma",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Leiomyosarcoma",
+  "reasoning": "Rare pediatric soft tissue sarcoma, leiomyosarcoma comprises <5% of childhood soft tissue sarcomas (childhood STS incidence ~8-10 per million children). Estimated <0.5 per million children annually, or <0.005 per 100k global population.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

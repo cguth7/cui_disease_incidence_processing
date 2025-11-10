@@ -1,0 +1,14 @@
+{
+  "cui": "C0030354",
+  "cui_name": "Papilloma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering 25+ distinct papilloma types with vastly different incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

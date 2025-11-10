@@ -1,0 +1,14 @@
+{
+  "cui": "C4551687",
+  "cui_name": "Sarcoma of soft tissue",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Soft tissue sarcomas are well-documented in cancer registries with global incidence ~3.5 per 100k from GLOBOCAN 2005 data. Specific disease category with defined pathological classification.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C2362324",
+  "cui_name": "Pediatric Obesity",
+  "incidence_per_100k": 520,
+  "total_cases_per_year": 41600000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Obesity",
+  "reasoning": "Pediatric obesity incidence estimated from WHO/epidemiological studies circa 2005-2010. Annual obesity onset in children (5-17 years) approximately 2-5% of pediatric population globally, translating to ~520 per 100k of total global population. Significant geographic variation between developed and developing regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

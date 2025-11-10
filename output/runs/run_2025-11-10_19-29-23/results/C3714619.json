@@ -1,0 +1,14 @@
+{
+  "cui": "C3714619",
+  "cui_name": "Insulin resistance syndrome",
+  "incidence_per_100k": 22.0,
+  "total_cases_per_year": 1760000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Metabolic/insulin resistance syndrome global incidence ~20-25 per 100k person-years from epidemiological studies. Aggregate condition of insulin resistance combined with obesity, dyslipidemia, and hypertension clustering.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

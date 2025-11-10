@@ -1,0 +1,14 @@
+{
+  "cui": "C0003850",
+  "cui_name": "Arteriosclerosis",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering atherosclerotic and non-atherosclerotic arterial disease. Aggregate BOTEC estimate combining major manifestations: atherosclerotic coronary disease (~80-100), cerebrovascular disease (~100-150), and peripheral arterial disease (~20-30) with overlap adjustment. Low confidence due to broad definition and heterogeneous manifestations.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

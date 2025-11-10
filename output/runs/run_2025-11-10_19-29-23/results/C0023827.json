@@ -1,0 +1,14 @@
+{
+  "cui": "C0023827",
+  "cui_name": "liposarcoma",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Soft tissue sarcoma",
+  "reasoning": "Liposarcoma is the most common soft tissue sarcoma, accounting for approximately 20-30% of all soft tissue sarcoma cases. Global soft tissue sarcoma incidence is 2-5 per 100k, making liposarcoma approximately 0.6-0.9 per 100k based on cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

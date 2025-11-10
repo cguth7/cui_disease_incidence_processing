@@ -1,0 +1,14 @@
+{
+  "cui": "C0206630",
+  "cui_name": "Endometrial Stromal Sarcoma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Uterine Sarcoma",
+  "reasoning": "Rare endometrial malignancy with incidence ~0.3 per 100k in general population. Rare cancer registry data indicates approximately 500-600 cases annually in US, translating to global incidence of ~0.3 per 100k. Distinct histological subtype of uterine sarcomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

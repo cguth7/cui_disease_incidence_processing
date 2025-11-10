@@ -1,0 +1,14 @@
+{
+  "cui": "C1864040",
+  "cui_name": "Cerebral Cavernous Malformations 3",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Cerebral Cavernous Malformations",
+  "reasoning": "CCM3 is a rare genetic form caused by PDCD10 mutations, accounting for ~5-10% of familial CCM cases. Overall CCM incidence ~0.4-0.8 per 100k; CCM3 subset estimated <0.1 per 100k based on molecular epidemiology studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

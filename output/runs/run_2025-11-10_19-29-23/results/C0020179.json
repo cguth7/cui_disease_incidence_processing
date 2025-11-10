@@ -1,0 +1,14 @@
+{
+  "cui": "C0020179",
+  "cui_name": "Huntington Disease",
+  "incidence_per_100k": 0.75,
+  "total_cases_per_year": 60000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-defined genetic neurodegenerative disorder with established incidence of approximately 0.5-1.0 per 100k based on epidemiological studies and genetic registries. Global estimate of 0.75 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

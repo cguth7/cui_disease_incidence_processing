@@ -1,0 +1,14 @@
+{
+  "cui": "C0026848",
+  "cui_name": "Myopathy",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major myopathy categories: inflammatory myopathies (~3 per 100k), muscular dystrophies (~2 per 100k), metabolic/mitochondrial/congenital myopathies (~1.5 per 100k) = ~6.5 per 100k. Heterogeneous group with overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

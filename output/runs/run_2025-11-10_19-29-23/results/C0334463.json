@@ -1,0 +1,14 @@
+{
+  "cui": "C0334463",
+  "cui_name": "Malignant Fibrous Histiocytoma",
+  "incidence_per_100k": 0.6,
+  "total_cases_per_year": 48000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Soft Tissue Sarcoma",
+  "reasoning": "Malignant fibrous histiocytoma (MFH) is a specific histological subtype of soft tissue sarcoma, representing approximately 20-30% of adult soft tissue sarcomas. Global soft tissue sarcoma incidence is 2-3 per 100k; MFH subset estimated at 0.6 per 100k. Modern classification reclassifies many cases as undifferentiated pleomorphic sarcoma (UPS), creating uncertainty in historical vs. current incidence estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

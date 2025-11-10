@@ -1,0 +1,14 @@
+{
+  "cui": "C1833683",
+  "cui_name": "NEPHROLITHIASIS, CALCIUM OXALATE",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Nephrolithiasis",
+  "reasoning": "Calcium oxalate nephrolithiasis is the most common kidney stone type (~75% of all stones). Global incidence of all nephrolithiasis is ~10-15 per 100k; calcium oxalate represents ~70-80% of cases, estimated at ~8.5 per 100k. Data from urological registries and epidemiological studies show moderate geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0024314",
+  "cui_name": "Lymphoproliferative Disorders",
+  "incidence_per_100k": 35,
+  "total_cases_per_year": 2800000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major lymphoproliferative conditions: Non-Hodgkin's lymphoma (~15), Hodgkin's lymphoma (~2), chronic lymphocytic leukemia (~3), acute lymphoblastic leukemia (~1.5), multiple myeloma (~4), other lymphoproliferative disorders (~5) = ~35 per 100k. Low confidence due to heterogeneity and overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

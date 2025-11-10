@@ -1,0 +1,14 @@
+{
+  "cui": "C1704423",
+  "cui_name": "Milroy Disease",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Primary Lymphedema",
+  "reasoning": "Milroy disease is a rare genetic disorder caused by VEGFR3 mutations leading to hereditary lymphedema. Incidence estimated <0.1 per 100k based on case reports and genetic studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

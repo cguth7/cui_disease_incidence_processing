@@ -1,0 +1,14 @@
+{
+  "cui": "C0007138",
+  "cui_name": "Carcinoma, Transitional Cell",
+  "incidence_per_100k": 9.2,
+  "total_cases_per_year": 736000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Bladder Cancer",
+  "reasoning": "Transitional cell carcinoma (urothelial carcinoma) is the predominant histological type of bladder cancer, accounting for ~90% of cases. Global incidence from GLOBOCAN 2005 approximately 9.2 per 100k, with higher rates in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

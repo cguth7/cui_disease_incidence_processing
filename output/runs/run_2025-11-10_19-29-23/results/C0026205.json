@@ -1,0 +1,14 @@
+{
+  "cui": "C0026205",
+  "cui_name": "Miosis disorder",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Miosis disorder is a symptom-based category encompassing multiple underlying conditions (Horner's syndrome, pharmacological effects, pontine lesions, neurological disorders). No specific incidence data available for miosis as a primary diagnosis.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0011168",
+  "cui_name": "Deglutition Disorders",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dysphagia incidence estimated at ~4-5 per 100k based on major etiologies: post-stroke dysphagia (~15% of 100-150/100k stroke incidence), Parkinson's disease-related dysphagia (~2 per 100k), and other neurological/structural causes. Heterogeneous condition with variable incidence across populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

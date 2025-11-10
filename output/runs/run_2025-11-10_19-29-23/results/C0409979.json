@@ -1,0 +1,14 @@
+{
+  "cui": "C0409979",
+  "cui_name": "Neonatal Systemic lupus erythematosus",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Systemic Lupus Erythematosus",
+  "reasoning": "Neonatal SLE is a rare manifestation occurring in 0.5-1 per 100k births, resulting from maternal anti-Ro/La antibody transfer. Based on case reports and small cohort studies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

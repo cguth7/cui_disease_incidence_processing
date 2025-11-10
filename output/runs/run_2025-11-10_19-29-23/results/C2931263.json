@@ -1,0 +1,14 @@
+{
+  "cui": "C2931263",
+  "cui_name": "Familial cerebral cavernous malformation",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Cerebral cavernous malformation",
+  "reasoning": "Familial form of cerebral cavernous malformation caused by germline CCM gene mutations. Rare genetic disorder with estimated incidence <0.5 per 100k globally. Limited epidemiological data from clinical case series and genetic studies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

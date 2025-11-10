@@ -1,0 +1,14 @@
+{
+  "cui": "C0032927",
+  "cui_name": "Precancerous Conditions",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and heterogeneous to estimate meaningfully. Encompasses diverse precancerous lesions (dysplasia, polyps, leukoplakia, Barrett's esophagus) across multiple organ systems with vastly different incidence rates and clinical significance.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

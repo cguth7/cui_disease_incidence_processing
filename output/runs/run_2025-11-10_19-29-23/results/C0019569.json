@@ -1,0 +1,14 @@
+{
+  "cui": "C0019569",
+  "cui_name": "Hirschsprung Disease",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Congenital Intestinal Anomalies",
+  "reasoning": "Well-documented congenital disorder with incidence of approximately 1 in 5,000 live births (2-3 per 100k). Consistent data from multiple population-based registries and epidemiological studies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

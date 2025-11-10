@@ -1,0 +1,14 @@
+{
+  "cui": "C0376544",
+  "cui_name": "Hematopoietic Neoplasms",
+  "incidence_per_100k": 27.0,
+  "total_cases_per_year": 2160000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major hematopoietic malignancies: Non-Hodgkin's lymphoma (~10), Hodgkin's lymphoma (~2.5), multiple myeloma (~4.5), chronic lymphocytic leukemia (~2.5), acute myeloid leukemia (~2.5), chronic myeloid leukemia (~1), acute lymphoblastic leukemia (~1.5), other blood cancers (~2.5) = ~27 per 100k. Low confidence due to heterogeneity of disease types and significant variation by geographic region.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

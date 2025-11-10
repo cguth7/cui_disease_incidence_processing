@@ -1,0 +1,14 @@
+{
+  "cui": "C0004153",
+  "cui_name": "Atherosclerosis",
+  "incidence_per_100k": 220.0,
+  "total_cases_per_year": 17600000,
+  "confidence": 0.70,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Clinical atherosclerotic disease incidence approximately 220 per 100k globally based on cardiovascular epidemiology literature. Incidence definition varies (symptomatic vs imaging-detected), and rates are substantially higher in developed countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

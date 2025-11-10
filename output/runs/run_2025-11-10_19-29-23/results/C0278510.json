@@ -1,0 +1,14 @@
+{
+  "cui": "C0278510",
+  "cui_name": "Childhood Medulloblastoma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Medulloblastoma",
+  "reasoning": "Medulloblastoma is the most common malignant pediatric brain tumor with incidence ~0.5-1.0 per 100,000 children globally. Estimated incidence per 100,000 person-years: ~0.3, accounting for age distribution in global population.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

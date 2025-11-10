@@ -1,0 +1,14 @@
+{
+  "cui": "C1261473",
+  "cui_name": "Sarcoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term encompassing diverse sarcoma types (osteosarcoma, Ewing sarcoma, synovial sarcoma, liposarcoma, leiomyosarcoma) with vastly different incidence rates. Too broad without organ or histological specification to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

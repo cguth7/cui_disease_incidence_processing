@@ -1,0 +1,14 @@
+{
+  "cui": "C0278608",
+  "cui_name": "Adult Liposarcoma",
+  "incidence_per_100k": 0.6,
+  "total_cases_per_year": 48000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Soft tissue sarcoma",
+  "reasoning": "Adult liposarcoma is the most common type of soft tissue sarcoma, accounting for approximately 20-25% of all STS cases. Estimated incidence ~0.6 per 100k based on sarcoma registry data and epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

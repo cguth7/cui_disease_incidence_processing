@@ -1,0 +1,14 @@
+{
+  "cui": "C0027831",
+  "cui_name": "Neurofibromatosis 1",
+  "incidence_per_100k": 30,
+  "total_cases_per_year": 2400000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "NF1 is an autosomal dominant genetic disorder with well-documented incidence of approximately 1 in 3,000-3,500 live births, equivalent to ~30 per 100,000. Consistent epidemiological data across multiple registries and studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

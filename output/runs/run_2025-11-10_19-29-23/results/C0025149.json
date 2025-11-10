@@ -1,0 +1,14 @@
+{
+  "cui": "C0025149",
+  "cui_name": "Medulloblastoma",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Brain and Central Nervous System Neoplasms",
+  "reasoning": "Most common pediatric CNS malignancy with incidence ~1.5 per million children per year, translating to ~0.2 per 100k overall population. Well-documented in cancer registries (GLOBOCAN, SEER).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

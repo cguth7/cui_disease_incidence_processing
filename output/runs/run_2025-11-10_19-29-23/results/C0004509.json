@@ -1,0 +1,14 @@
+{
+  "cui": "C0004509",
+  "cui_name": "Azoospermia",
+  "incidence_per_100k": 75,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Azoospermia (absence of sperm) affects 0.5-2% of male population globally, with prevalence-based incidence estimate of ~75 per 100k. Data from fertility clinic surveys and epidemiological studies; moderate variation by geography and diagnostic protocols.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C2960065",
+  "cui_name": "High grade dysplastic nodule",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Dysplastic Nodule",
+  "reasoning": "HGDN is a pathological finding in cirrhotic livers, not a primary disease. Estimated incidence based on cirrhosis prevalence (~150 million globally) and HGDN detection rate in surveillance populations (2-3% annually). Low confidence reflects data quality limitations for radiological/histological findings.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

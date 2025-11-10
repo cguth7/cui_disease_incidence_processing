@@ -1,0 +1,14 @@
+{
+  "cui": "C0019189",
+  "cui_name": "Hepatitis, Chronic",
+  "incidence_per_100k": 10.0,
+  "total_cases_per_year": 800000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic hepatitis encompasses HBV, HCV, autoimmune, and other etiologies. Global incidence estimated ~10-15 per 100k based on hepatitis surveillance data, with substantial geographic variation driven by regional HBV/HCV prevalence differences.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0010823",
+  "cui_name": "Cytomegalovirus Infections",
+  "incidence_per_100k": 0.9,
+  "total_cases_per_year": 72000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CMV disease incidence estimated at ~0.9 per 100k globally. Primary infections are common but mostly asymptomatic; symptomatic disease concentrated in immunocompromised populations (HIV, transplant recipients).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

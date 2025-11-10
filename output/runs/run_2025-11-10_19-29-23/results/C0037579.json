@@ -1,0 +1,14 @@
+{
+  "cui": "C0037579",
+  "cui_name": "Soft Tissue Neoplasms",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Soft tissue sarcomas estimated at 3-4 per 100k per cancer registries (GLOBOCAN). Term encompasses both benign and malignant neoplasms, though clinically sarcomas are most relevant. Moderate confidence due to term heterogeneity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

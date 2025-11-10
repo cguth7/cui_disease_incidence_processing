@@ -1,0 +1,14 @@
+{
+  "cui": "C1956346",
+  "cui_name": "Coronary Artery Disease",
+  "incidence_per_100k": 113.5,
+  "total_cases_per_year": 9080000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Strong epidemiological data from WHO Global Burden of Disease and international cardiovascular registries. Global incidence ~113-114 per 100k per year with significant regional variation (higher in developed countries).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

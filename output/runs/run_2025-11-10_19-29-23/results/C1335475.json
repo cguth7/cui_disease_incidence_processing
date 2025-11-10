@@ -1,0 +1,14 @@
+{
+  "cui": "C1335475",
+  "cui_name": "Primary Carcinoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad without organ specification. Primary carcinoma can arise in any organ system with vastly different incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

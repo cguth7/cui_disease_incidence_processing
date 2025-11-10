@@ -1,0 +1,14 @@
+{
+  "cui": "C0042373",
+  "cui_name": "Vascular Diseases",
+  "incidence_per_100k": 110,
+  "total_cases_per_year": 8800000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major vascular conditions: coronary artery disease (~40), stroke (~25), heart failure (~12), peripheral arterial disease (~8), arrhythmias (~8), venous thromboembolism (~2), aortic/other vascular (~15) = ~110 per 100k. Low confidence due to heterogeneity and significant overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

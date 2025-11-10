@@ -1,0 +1,14 @@
+{
+  "cui": "C0038644",
+  "cui_name": "Sudden infant death syndrome",
+  "incidence_per_100k": 1.8,
+  "total_cases_per_year": 144000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "SIDS global incidence approximately 1.5-3 per 1000 live births (CDC/WHO surveillance data). Converted to per 100k person-years: ~1.8. Strong epidemiological surveillance from national registries despite significant geographic variation between developed and developing regions.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

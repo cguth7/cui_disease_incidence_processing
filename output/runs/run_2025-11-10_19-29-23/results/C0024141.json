@@ -1,0 +1,14 @@
+{
+  "cui": "C0024141",
+  "cui_name": "Lupus Erythematosus, Systemic",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "SLE is a well-documented autoimmune disease with global incidence estimates of 1-3 per 100k, averaging ~2 per 100k from epidemiological registries and cohort studies. Significant geographic variation with higher rates in African, Hispanic, and Asian populations.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0376618",
+  "cui_name": "Endotoxemia",
+  "incidence_per_100k": 75.0,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Sepsis/Severe Infection",
+  "reasoning": "Endotoxemia occurs in approximately 40-50% of sepsis cases with gram-negative bacterial involvement. Estimated from global sepsis incidence (~150-200 per 100k) multiplied by proportion with gram-negative organisms. Incidence varies significantly by healthcare setting and surveillance methodology.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

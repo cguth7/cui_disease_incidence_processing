@@ -1,0 +1,14 @@
+{
+  "cui": "C0003467",
+  "cui_name": "Anxiety",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": "Mental Disorders",
+  "reasoning": "Anxiety disorders have documented annual incidence of 3-5 per 100k globally. Moderate confidence due to variation in diagnostic criteria and regional healthcare differences.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

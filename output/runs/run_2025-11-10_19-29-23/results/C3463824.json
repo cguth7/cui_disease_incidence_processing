@@ -1,0 +1,14 @@
+{
+  "cui": "C3463824",
+  "cui_name": "MYELODYSPLASTIC SYNDROME",
+  "incidence_per_100k": 3.8,
+  "total_cases_per_year": 304000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myelodysplastic syndrome is a well-defined group of hematologic malignancies with documented registry incidence of approximately 3-4 per 100k in developed countries, with global estimate of ~3.8 per 100k. Incidence increases significantly with age.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

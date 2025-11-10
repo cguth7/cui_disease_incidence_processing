@@ -1,0 +1,14 @@
+{
+  "cui": "C0023269",
+  "cui_name": "leiomyosarcoma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Soft tissue sarcoma",
+  "reasoning": "Leiomyosarcoma is a specific subtype of soft tissue sarcoma, representing approximately 5-10% of all STS cases. Estimated incidence ~0.3 per 100k globally based on STS incidence (~3-4 per 100k) and proportion data from tumor registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0023487",
+  "cui_name": "Acute Promyelocytic Leukemia",
+  "incidence_per_100k": 0.15,
+  "total_cases_per_year": 12000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "APL is a cytogenetically distinct AML subtype (t15;17) representing 5-10% of AML cases. Global incidence estimated ~0.15 per 100k from clinical trial registries and epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

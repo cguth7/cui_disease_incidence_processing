@@ -1,0 +1,14 @@
+{
+  "cui": "C2751492",
+  "cui_name": "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Amyloidosis",
+  "reasoning": "Hereditary transthyretin amyloidosis is a rare genetic disorder with estimated incidence of approximately 0.05 per 100k globally. Estimate based on prevalence studies and diagnostic frequency in medical literature; confidence moderate due to limited registry data and significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}
