@@ -1,0 +1,14 @@
+{
+  "cui": "C0024301",
+  "cui_name": "Lymphoma, Follicular",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Follicular lymphoma is the most common indolent NHL, accounting for approximately 20% of all NHL cases. Global incidence estimated at 2-3 per 100k based on cancer registry data and WHO/GLOBOCAN reports.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

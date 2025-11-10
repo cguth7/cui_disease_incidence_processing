@@ -1,0 +1,14 @@
+{
+  "cui": "C2749757",
+  "cui_name": "BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1",
+  "incidence_per_100k": 0.53,
+  "total_cases_per_year": 42400,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Cystic Fibrosis",
+  "reasoning": "CFTR-related bronchiectasis with elevated sweat chloride. Incidence based on cystic fibrosis epidemiology (~1 per 3,000 live births globally), translating to ~0.53 per 100k person-years. Confidence moderate due to specific genetic variant designation limiting direct epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

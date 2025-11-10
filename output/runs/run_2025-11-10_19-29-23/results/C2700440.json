@@ -1,0 +1,14 @@
+{
+  "cui": "C2700440",
+  "cui_name": "MAJOR AFFECTIVE DISORDER 9",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Major Affective Disorder",
+  "reasoning": "MAD-9 is a specific variant or subtype of major affective disorders (mood disorders including depression and bipolar disorder). Estimated incidence as a fraction of broader affective disorder epidemiology (~30-40% of total mood disorders). Limited epidemiological data available for this specific classification.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

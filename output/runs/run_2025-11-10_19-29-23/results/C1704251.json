@@ -1,0 +1,14 @@
+{
+  "cui": "C1704251",
+  "cui_name": "Breast Lymphoma",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Primary breast lymphoma is rare, representing <1% of breast malignancies with estimated global incidence ~0.7 per 100k. Estimates derived from case series and epidemiological studies with limited registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

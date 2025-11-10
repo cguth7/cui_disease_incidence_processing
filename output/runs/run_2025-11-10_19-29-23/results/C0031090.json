@@ -1,0 +1,14 @@
+{
+  "cui": "C0031090",
+  "cui_name": "Periodontal Diseases",
+  "incidence_per_100k": 300,
+  "total_cases_per_year": 24000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for periodontal disease complex, including gingivitis and periodontitis. Estimated ~300 per 100k based on dental epidemiology literature. Moderate confidence due to variation in case definitions and limited formal incidence registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0009375",
+  "cui_name": "Colonic Neoplasms",
+  "incidence_per_100k": 17.5,
+  "total_cases_per_year": 1400000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Colorectal cancer global average ~17.5 per 100k from GLOBOCAN 2005, varies from ~10 per 100k in low-income regions to >40 per 100k in developed countries due to risk factor distribution and screening practices.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

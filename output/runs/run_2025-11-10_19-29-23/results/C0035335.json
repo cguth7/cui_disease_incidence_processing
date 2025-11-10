@@ -1,0 +1,14 @@
+{
+  "cui": "C0035335",
+  "cui_name": "Retinoblastoma",
+  "incidence_per_100k": 0.08,
+  "total_cases_per_year": 6400,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Retinoblastoma is a well-documented pediatric malignancy with global incidence approximately 0.08 per 100,000 person-years, equivalent to 1 in 15,000-20,000 live births. Based on GLOBOCAN 2005 cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005
+}

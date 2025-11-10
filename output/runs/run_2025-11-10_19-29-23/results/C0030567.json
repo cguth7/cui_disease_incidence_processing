@@ -1,0 +1,14 @@
+{
+  "cui": "C0030567",
+  "cui_name": "Parkinson Disease",
+  "incidence_per_100k": 14.0,
+  "total_cases_per_year": 1120000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented neurodegenerative disorder with incidence ~14 per 100k globally based on epidemiological studies and health registries. Geographic variation due to improved diagnosis in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

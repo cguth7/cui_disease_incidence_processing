@@ -1,0 +1,14 @@
+{
+  "cui": "C0031094",
+  "cui_name": "Periodontal Pocket",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Periodontitis",
+  "reasoning": "Periodontal pocket is a clinical manifestation of periodontitis. Global periodontitis incidence estimated at 5-15 per 100k from epidemiological studies. Specific incidence of incident periodontal pockets estimated at ~8.5 per 100k based on prevalence studies and progression rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

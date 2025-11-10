@@ -1,0 +1,14 @@
+{
+  "cui": "C0149678",
+  "cui_name": "Epstein-Barr Virus Infections",
+  "incidence_per_100k": 25,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "EBV is one of the most common human pathogens with primary infection incidence varying from 10-50 per 100k depending on age group and geography. Global average estimate ~25 per 100k based on epidemiological surveys and seroprevalence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0153676",
+  "cui_name": "Secondary malignant neoplasm of lung",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of lung",
+  "reasoning": "Secondary lung cancers from metastatic disease are less commonly tracked than primary lung cancers. Estimated at approximately 5-10% of all lung malignancies based on limited registry data and autopsy studies. Global estimate ~1.5 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

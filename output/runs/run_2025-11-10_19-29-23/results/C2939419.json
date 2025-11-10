@@ -1,0 +1,14 @@
+{
+  "cui": "C2939419",
+  "cui_name": "Secondary Neoplasm",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad to estimate meaningfully. Encompasses metastatic spread from any primary cancer to any secondary location. Would require specification of primary cancer type and/or metastatic site.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

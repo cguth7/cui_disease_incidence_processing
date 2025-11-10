@@ -1,0 +1,14 @@
+{
+  "cui": "C0033578",
+  "cui_name": "Prostatic Neoplasms",
+  "incidence_per_100k": 24.5,
+  "total_cases_per_year": 1960000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Prostate cancer is well-documented globally with strong cancer registry data. GLOBOCAN 2005 estimates approximately 24-25 per 100k male population. Global average reflects significant regional variation from ~5-10 per 100k in developing regions to 40+ per 100k in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

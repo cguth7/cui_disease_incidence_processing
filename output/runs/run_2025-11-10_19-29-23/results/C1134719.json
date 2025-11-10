@@ -1,0 +1,14 @@
+{
+  "cui": "C1134719",
+  "cui_name": "Invasive Ductal Breast Carcinoma",
+  "incidence_per_100k": 28.5,
+  "total_cases_per_year": 2280000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "IDC is the most common invasive breast cancer type, comprising ~70-80% of invasive cases. Global estimate ~28.5 per 100k based on GLOBOCAN cancer registry data, with significant geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

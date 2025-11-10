@@ -1,0 +1,14 @@
+{
+  "cui": "C0700095",
+  "cui_name": "Central neuroblastoma",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Central nervous system neuroblastoma represents 1-3% of all neuroblastomas. With neuroblastoma incidence ~1 per 100k in pediatric populations, central variant estimated <0.01 per 100k person-years globally.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

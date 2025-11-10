@@ -1,0 +1,14 @@
+{
+  "cui": "C0795801",
+  "cui_name": "trisomy 2",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Trisomy 2 is a lethal chromosomal abnormality typically resulting in early pregnancy loss. Virtually no liveborn cases reported; <0.001 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0342749",
+  "cui_name": "GLYCOGEN STORAGE DISEASE Ic",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Glycogen Storage Disease",
+  "reasoning": "GSD Ic is a rare autosomal recessive lysosomal storage disorder. Overall glycogen storage disease incidence is ~4-5 per 100k, but GSD Ic represents <1% of cases, estimated <0.05 per 100k based on limited case reports and registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

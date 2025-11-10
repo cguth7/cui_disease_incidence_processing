@@ -1,0 +1,14 @@
+{
+  "cui": "C1961102",
+  "cui_name": "Precursor Cell Lymphoblastic Leukemia Lymphoma",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Acute Leukemia",
+  "reasoning": "Well-documented hematologic malignancy in cancer registries. Predominantly affects children globally with incidence ~2 per 100k from GLOBOCAN 2005 data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

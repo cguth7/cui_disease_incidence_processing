@@ -1,0 +1,14 @@
+{
+  "cui": "C3495917",
+  "cui_name": "Advanced breast cancer",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Breast cancer",
+  "reasoning": "Advanced/metastatic breast cancer represents approximately 5-10% of new breast cancer diagnoses globally. With breast cancer incidence ~45 per 100k in women, approximately 1.8-2.0 per 100k in general population estimated as metastatic at presentation. Based on cancer registry epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

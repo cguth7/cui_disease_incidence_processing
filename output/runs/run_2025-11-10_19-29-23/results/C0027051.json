@@ -1,0 +1,14 @@
+{
+  "cui": "C0027051",
+  "cui_name": "Myocardial Infarction",
+  "incidence_per_100k": 85.0,
+  "total_cases_per_year": 6800000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "MI global incidence ~85 per 100k from WHO/GBD 2005 estimates. Well-documented via cardiac registries and epidemiological studies worldwide with strong surveillance data.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

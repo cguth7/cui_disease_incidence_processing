@@ -1,0 +1,14 @@
+{
+  "cui": "C1527231",
+  "cui_name": "Adrenomyeloneuropathy",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Adrenoleukodystrophy",
+  "reasoning": "Adrenomyeloneuropathy is a rare form of X-linked adrenoleukodystrophy affecting spinal cord and peripheral nerves. Estimated incidence <0.1 per 100k based on case reports and rare disease registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0085682",
+  "cui_name": "Hypophosphatemia",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Symptomatic hypophosphatemia is rare (estimated 2-3 per 100k annually). However, hypophosphatemia as a laboratory finding is more common in hospitalized and critically ill populations. Conservative aggregate estimate combining primary hypophosphatemia and severe secondary cases.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

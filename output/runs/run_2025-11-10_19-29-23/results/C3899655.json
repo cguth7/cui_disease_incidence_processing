@@ -1,0 +1,14 @@
+{
+  "cui": "C3899655",
+  "cui_name": "Childhood Langerhans Cell Histiocytosis",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Langerhans Cell Histiocytosis",
+  "reasoning": "Childhood LCH incidence estimated at 3-5 per million children per year based on pediatric epidemiological studies. Moderate confidence due to limited registry data compared to common diseases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

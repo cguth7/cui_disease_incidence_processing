@@ -1,0 +1,14 @@
+{
+  "cui": "C0027627",
+  "cui_name": "Neoplasm Metastasis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Metastasis is a pathological process affecting multiple cancer types with vastly different incidence rates. Too generic to estimate meaningfully as a standalone disease entity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

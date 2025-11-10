@@ -1,0 +1,14 @@
+{
+  "cui": "C3887487",
+  "cui_name": "Postaxial polydactyly type A",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Postaxial polydactyly",
+  "reasoning": "Rare congenital disorder affecting hand/foot development. Type A is the more common form of postaxial polydactyly. Estimated incidence ~0.4 per 100k person-years based on birth prevalence data of 1 in 500-1000 births applied to global population.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

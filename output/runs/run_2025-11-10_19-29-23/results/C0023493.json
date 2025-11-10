@@ -1,0 +1,14 @@
+{
+  "cui": "C0023493",
+  "cui_name": "Adult T-Cell Lymphoma/Leukemia",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "T-Cell Lymphomas",
+  "reasoning": "ATLL is a rare T-cell malignancy strongly associated with HTLV-1 infection. Global incidence estimated at ~1 per 100k with significant geographic variation; endemic regions (Japan, Caribbean) have 10-15x higher rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

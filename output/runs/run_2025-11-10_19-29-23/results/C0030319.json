@@ -1,0 +1,14 @@
+{
+  "cui": "C0030319",
+  "cui_name": "Panic Disorder",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Annual incidence estimated at 1-1.5 per 100k from psychiatric epidemiology studies. Panic Disorder is a specific diagnosis with documented lifetime prevalence of 2-4%, but new case incidence is lower. Moderate confidence due to variability in psychiatric diagnostic criteria across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

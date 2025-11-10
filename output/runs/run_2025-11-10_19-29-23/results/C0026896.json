@@ -1,0 +1,14 @@
+{
+  "cui": "C0026896",
+  "cui_name": "Myasthenia Gravis",
+  "incidence_per_100k": 1.7,
+  "total_cases_per_year": 136000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myasthenia Gravis is a well-characterized autoimmune neuromuscular disease with global incidence estimated at 1-2 per 100k per year based on epidemiological studies from the 2000s.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

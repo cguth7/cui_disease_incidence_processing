@@ -1,0 +1,14 @@
+{
+  "cui": "C0013415",
+  "cui_name": "Dysthymic Disorder",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dysthymic disorder (persistent depressive disorder) incidence estimated at ~2 per 100k person-years based on psychiatric epidemiology literature. Chronic course with onset typically in adolescence/early adulthood.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

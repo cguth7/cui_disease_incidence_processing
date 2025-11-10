@@ -1,0 +1,14 @@
+{
+  "cui": "C1269683",
+  "cui_name": "Major Depressive Disorder",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global incidence estimate of 12 per 100k based on WHO burden of disease data and epidemiological studies. Psychiatric disorder incidence varies significantly by diagnostic methodology and healthcare access across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

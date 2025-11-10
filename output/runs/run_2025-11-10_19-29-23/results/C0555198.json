@@ -1,0 +1,14 @@
+{
+  "cui": "C0555198",
+  "cui_name": "Malignant Glioma",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Glioma",
+  "reasoning": "Malignant gliomas (Grades III-IV) including glioblastoma and anaplastic variants. Global incidence approximately 3-4 per 100k based on cancer registry data. Moderate variation by region with higher rates in developed countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

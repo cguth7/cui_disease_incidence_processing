@@ -1,0 +1,14 @@
+{
+  "cui": "C0030297",
+  "cui_name": "Pancreatic Neoplasm",
+  "incidence_per_100k": 7.5,
+  "total_cases_per_year": 600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pancreatic cancer (primary neoplasm type) global incidence ~7.5 per 100k from GLOBOCAN 2005. Malignant adenocarcinoma dominates epidemiological estimates; benign neoplasms are rare.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

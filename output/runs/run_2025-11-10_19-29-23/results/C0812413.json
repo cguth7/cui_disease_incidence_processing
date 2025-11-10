@@ -1,0 +1,14 @@
+{
+  "cui": "C0812413",
+  "cui_name": "Malignant Pleural Mesothelioma",
+  "incidence_per_100k": 0.9,
+  "total_cases_per_year": 72000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Mesothelioma",
+  "reasoning": "Rare asbestos-related cancer with well-documented registry data. Global incidence ~0.9 per 100k from occupational health and cancer registry data, with significant geographic variation due to historical asbestos regulation differences.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2010
+}

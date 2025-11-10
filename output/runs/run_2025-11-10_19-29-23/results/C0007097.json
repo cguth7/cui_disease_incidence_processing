@@ -1,0 +1,14 @@
+{
+  "cui": "C0007097",
+  "cui_name": "Carcinoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable umbrella term covering multiple cancer types (adenocarcinoma, squamous cell carcinoma, etc.) across all organ systems with vastly different incidence rates. Requires specification of organ system or histological type to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

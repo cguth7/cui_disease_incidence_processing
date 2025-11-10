@@ -1,0 +1,14 @@
+{
+  "cui": "C0005411",
+  "cui_name": "Biliary Atresia",
+  "incidence_per_100k": 10.0,
+  "total_cases_per_year": 800000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Bile Duct Disorder",
+  "reasoning": "Rare congenital disorder affecting bile ducts in infants, global incidence ~1 per 10,000-15,000 live births (~10 per 100k). Well-documented in pediatric registries and medical literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

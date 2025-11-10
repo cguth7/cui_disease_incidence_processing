@@ -1,0 +1,14 @@
+{
+  "cui": "C0585442",
+  "cui_name": "Osteosarcoma of bone",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Bone neoplasm",
+  "reasoning": "Osteosarcoma is the most common primary malignant bone tumor. Global incidence ~0.3 per 100k (1-3 per million) based on WHO cancer registries. Peak incidence in adolescents/young adults. Data from GLOBOCAN and major cancer registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005
+}

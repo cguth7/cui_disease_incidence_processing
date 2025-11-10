@@ -1,0 +1,14 @@
+{
+  "cui": "C0345905",
+  "cui_name": "Intrahepatic Cholangiocarcinoma",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Intrahepatic cholangiocarcinoma (ICC) has well-documented global incidence from cancer registries. Global average approximately 2 per 100k from GLOBOCAN 2005, with significant geographic variation due to parasitic infections in Southeast Asia.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

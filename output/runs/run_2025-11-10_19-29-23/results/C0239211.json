@@ -1,0 +1,14 @@
+{
+  "cui": "C0239211",
+  "cui_name": "Oedema auricular",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Auricular edema is a symptom or clinical finding rather than a disease entity. It can result from multiple underlying causes (inflammation, infection, allergy, trauma) without a unified incidence rate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}
