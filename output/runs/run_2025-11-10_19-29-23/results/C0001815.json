@@ -1,0 +1,14 @@
+{
+  "cui": "C0001815",
+  "cui_name": "Primary Myelofibrosis",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Myeloproliferative Neoplasms",
+  "reasoning": "Well-characterized rare myeloproliferative neoplasm with WHO classification. Global average incidence ~0.8-1.5 per 100k from epidemiological studies, estimated at 0.8 per 100k conservatively.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C2931822",
+  "cui_name": "Nasopharyngeal carcinoma",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": "Head and Neck Cancer",
+  "reasoning": "Global average ~1 per 100k from GLOBOCAN 2005 cancer registries. High geographic variation: <0.5 per 100k in North America/Europe, but 10-50+ per 100k in endemic Southeast Asian and North African regions due to EBV and genetic factors.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

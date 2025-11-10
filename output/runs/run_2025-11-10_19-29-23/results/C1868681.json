@@ -1,0 +1,14 @@
+{
+  "cui": "C1868681",
+  "cui_name": "DYSTONIA 12",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Primary Dystonia",
+  "reasoning": "DYT12 (Rapid-onset Dystonia-Parkinsonism) is a rare genetic dystonia with PRKRA gene mutations. Fewer than 100 confirmed cases reported globally; estimated <0.01 per 100k based on case frequency and inheritance pattern.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

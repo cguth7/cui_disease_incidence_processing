@@ -1,0 +1,14 @@
+{
+  "cui": "C0007758",
+  "cui_name": "Cerebellar Ataxia",
+  "incidence_per_100k": 3.0,
+  "total_cases_per_year": 240000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major hereditary ataxias: Friedreich's ataxia (~1-2 per 100k), spinocerebellar ataxias (~1-2 per 100k), other inherited ataxias (~0.5 per 100k). Total ~3 per 100k. Low confidence due to heterogeneity of acquired causes and regional variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0029925",
+  "cui_name": "Ovarian Carcinoma",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented malignancy with strong cancer registry data. Global incidence approximately 3.5 per 100k total population (6.2-6.9 per 100k women) from GLOBOCAN 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

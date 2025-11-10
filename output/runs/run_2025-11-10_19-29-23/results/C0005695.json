@@ -1,0 +1,14 @@
+{
+  "cui": "C0005695",
+  "cui_name": "Bladder Neoplasm",
+  "incidence_per_100k": 10.2,
+  "total_cases_per_year": 816000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bladder cancer is well-documented in cancer registries with global incidence approximately 10 per 100k from GLOBOCAN 2005. Incidence is higher in developed countries (15-20 per 100k) and lower in developing countries (5-8 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

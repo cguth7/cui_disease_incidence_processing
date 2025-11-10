@@ -1,0 +1,14 @@
+{
+  "cui": "C0029463",
+  "cui_name": "Osteosarcoma",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Bone Neoplasms",
+  "reasoning": "Rare malignant bone tumor, most common in adolescents/young adults. Global incidence approximately 3 per million (0.3 per 100k) from cancer registry data. Well-defined disease entity with established epidemiology.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

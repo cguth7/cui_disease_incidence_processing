@@ -1,0 +1,14 @@
+{
+  "cui": "C2936858",
+  "cui_name": "Congenital adrenal hyperplasia due to 21 hydroxylase deficiency",
+  "incidence_per_100k": 7.1,
+  "total_cases_per_year": 568000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Congenital adrenal hyperplasia",
+  "reasoning": "Most common form of CAH representing ~90% of cases. Well-documented incidence of approximately 1 in 14,000 births globally. Moderate confidence due to variation in neonatal screening and diagnostic practices across countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0457506",
+  "cui_name": "Reactive thrombocytosis",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Thrombocytosis",
+  "reasoning": "Secondary condition characterized by elevated platelets in response to underlying causes (iron deficiency anemia, infection, inflammation, malignancy). Incidence uncertain due to reactive nature and variable clinical detection; estimated conservatively based on prevalence of triggering conditions.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

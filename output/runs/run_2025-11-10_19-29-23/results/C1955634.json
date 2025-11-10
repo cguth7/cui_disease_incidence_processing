@@ -1,0 +1,14 @@
+{
+  "cui": "C1955634",
+  "cui_name": "Kaposi's sarcoma-associated herpesvirus infection",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "HHV-8 infection incidence varies significantly by geography. Global average estimate of ~2 per 100k reflects endemic regions with higher prevalence (Africa, Mediterranean: 5-10 per 100k) and lower prevalence in developed countries (<0.5 per 100k). Represents estimated new seroconversions/clinical manifestations; many HHV-8 infections remain asymptomatic.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

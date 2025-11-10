@@ -1,0 +1,14 @@
+{
+  "cui": "C0005586",
+  "cui_name": "Bipolar Disorder",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bipolar disorder incidence estimated at ~1.0 per 100k person-years based on psychiatric epidemiology literature. Lifetime prevalence is much higher (~0.5-1%), but annual incidence of new cases is lower. Well-established psychiatric condition with moderate data quality from epidemiological studies and psychiatric registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

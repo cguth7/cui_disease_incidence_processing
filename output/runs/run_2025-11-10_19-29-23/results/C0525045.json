@@ -1,0 +1,14 @@
+{
+  "cui": "C0525045",
+  "cui_name": "Mood Disorders",
+  "incidence_per_100k": 1200,
+  "total_cases_per_year": 96000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major mood disorders: major depressive disorder (~400), bipolar I (~20), bipolar II (~30), persistent depressive disorder (~100), other specified mood disorders (~50), cyclothymia (~30), adjustment disorder with mood (~100), plus recurrent episodes = ~1,200 per 100k. Low confidence due to heterogeneity, overlap between categories, and uncertainty about whether incidence includes recurrent episodes.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

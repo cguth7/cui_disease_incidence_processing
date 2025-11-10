@@ -1,0 +1,14 @@
+{
+  "cui": "C2700438",
+  "cui_name": "MAJOR AFFECTIVE DISORDER 7",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": true,
+  "parent_disease": "Major Affective Disorder",
+  "reasoning": "Specific genetic or clinical classification (MAFD7) with no identified published incidence data. Requires further specification or registry source to establish epidemiological estimates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

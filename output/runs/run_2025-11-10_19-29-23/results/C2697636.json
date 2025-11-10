@@ -1,0 +1,14 @@
+{
+  "cui": "C2697636",
+  "cui_name": "Hyperdiploid B Acute Lymphoblastic Leukemia",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "B-cell Acute Lymphoblastic Leukemia",
+  "reasoning": "Hyperdiploid ALL is a specific cytogenetic subtype comprising approximately 25-30% of pediatric B-ALL cases. Estimated at 0.4 per 100k globally based on ALL incidence (1-2 per 100k) and hyperdiploid prevalence within B-ALL subtype distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

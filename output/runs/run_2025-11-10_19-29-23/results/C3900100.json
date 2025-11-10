@@ -1,0 +1,14 @@
+{
+  "cui": "C3900100",
+  "cui_name": "Adult Langerhans Cell Histiocytosis",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Langerhans Cell Histiocytosis",
+  "reasoning": "Adult LCH is a rare form of Langerhans Cell Histiocytosis with incidence estimated at ~0.05 per 100k based on case frequency in medical literature. Data is limited with most evidence from case reports and small cohort studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

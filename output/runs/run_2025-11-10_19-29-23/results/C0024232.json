@@ -1,0 +1,14 @@
+{
+  "cui": "C0024232",
+  "cui_name": "Lymphatic Metastasis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lymphatic metastasis is a clinical manifestation of cancer progression through lymphatic pathways, not a specific disease entity. Incidence depends entirely on underlying cancer type and cannot be estimated as a standalone condition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

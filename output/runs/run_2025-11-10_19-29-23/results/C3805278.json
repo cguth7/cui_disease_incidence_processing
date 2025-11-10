@@ -1,0 +1,14 @@
+{
+  "cui": "C3805278",
+  "cui_name": "Extrahepatic Cholangiocarcinoma",
+  "incidence_per_100k": 0.9,
+  "total_cases_per_year": 72000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Extrahepatic cholangiocarcinoma is a specific, well-documented bile duct malignancy with global incidence ~0.9 per 100k based on cancer registry data from GLOBOCAN and WHO sources. Geographic variation is high due to endemic liver fluke infections in Southeast Asia contributing to significantly higher rates in endemic regions.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

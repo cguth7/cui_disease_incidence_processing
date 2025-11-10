@@ -1,0 +1,14 @@
+{
+  "cui": "C0699885",
+  "cui_name": "Carcinoma of bladder",
+  "incidence_per_100k": 9.5,
+  "total_cases_per_year": 760000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bladder carcinoma (predominantly urothelial carcinoma) has well-documented global incidence of approximately 9-10 per 100k from GLOBOCAN 2005. Higher incidence in developed countries due to smoking and occupational exposures.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

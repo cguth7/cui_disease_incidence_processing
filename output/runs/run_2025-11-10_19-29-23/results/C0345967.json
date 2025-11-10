@@ -1,0 +1,14 @@
+{
+  "cui": "C0345967",
+  "cui_name": "Malignant mesothelioma",
+  "incidence_per_100k": 1.9,
+  "total_cases_per_year": 152000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented occupational cancer with global incidence ~1.9 per 100k from GLOBOCAN 2005. Caused primarily by asbestos exposure. Geographic variation reflects historical asbestos use patterns.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

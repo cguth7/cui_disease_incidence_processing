@@ -1,0 +1,14 @@
+{
+  "cui": "C0153690",
+  "cui_name": "Secondary malignant neoplasm of bone",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Malignant Neoplasm of Bone",
+  "reasoning": "Secondary bone cancers (metastases) from various primary cancers represent significant disease burden. Global estimate ~25 per 100k based on cancer registry aggregates, accounting for breast, lung, prostate, kidney, and other primary tumors with propensity for bone metastasis.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

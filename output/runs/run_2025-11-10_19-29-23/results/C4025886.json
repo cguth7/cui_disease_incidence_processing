@@ -1,0 +1,14 @@
+{
+  "cui": "C4025886",
+  "cui_name": "Severe periodontitis",
+  "incidence_per_100k": 45,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Periodontitis",
+  "reasoning": "Severe periodontitis (advanced destructive disease, CPI codes 3-4) represents a specific subtype of periodontitis. Limited global incidence data; estimate based on prevalence studies suggesting 5-15% severe periodontitis among dentate populations adjusted for annual progression. Geographic variation significant due to differences in oral hygiene, smoking prevalence, and healthcare access.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

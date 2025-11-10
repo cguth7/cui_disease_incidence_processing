@@ -1,0 +1,14 @@
+{
+  "cui": "C0007113",
+  "cui_name": "Rectal Carcinoma",
+  "incidence_per_100k": 6.8,
+  "total_cases_per_year": 544000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Carcinoma",
+  "reasoning": "Rectal cancer represents ~35-40% of colorectal cancers. GLOBOCAN 2005 data shows colorectal cancer at ~17 per 100k; rectal component estimated at ~6.8 per 100k based on anatomical registry distribution.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

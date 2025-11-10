@@ -1,0 +1,14 @@
+{
+  "cui": "C0085669",
+  "cui_name": "Acute leukemia",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": "Leukemia",
+  "reasoning": "Acute leukemia (ALL and AML combined) global incidence approximately 3-4 per 100k from cancer registries and GLOBOCAN data. Aggregate of acute lymphoblastic leukemia (~1.5) and acute myeloid leukemia (~2) as major subtypes with strong registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

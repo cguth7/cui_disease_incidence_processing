@@ -1,0 +1,14 @@
+{
+  "cui": "C0474808",
+  "cui_name": "Follicular neoplasm",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Cancer",
+  "reasoning": "Follicular thyroid cancer is a specific histological subtype of thyroid cancer with global incidence approximately 3-4 per 100k, well-documented in thyroid cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

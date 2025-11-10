@@ -1,0 +1,14 @@
+{
+  "cui": "C1852197",
+  "cui_name": "MAJOR AFFECTIVE DISORDER 1",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Major affective disorders (bipolar disorder, severe major depression) have estimated global incidence of 2-3 per 100k annually based on psychiatric registry data. Moderate confidence due to variation in diagnostic criteria and reporting practices across countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

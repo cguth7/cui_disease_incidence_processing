@@ -1,0 +1,14 @@
+{
+  "cui": "C1332986",
+  "cui_name": "Childhood Osteosarcoma",
+  "incidence_per_100k": 2.8,
+  "total_cases_per_year": 224000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Osteosarcoma",
+  "reasoning": "Pediatric osteosarcoma incidence approximately 2.8 per 100,000 based on cancer registry data. Peak incidence in adolescents (ages 10-25). Confidence moderate-high due to well-documented cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

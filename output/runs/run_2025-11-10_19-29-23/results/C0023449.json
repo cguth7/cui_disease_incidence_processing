@@ -1,0 +1,14 @@
+{
+  "cui": "C0023449",
+  "cui_name": "Acute lymphocytic leukemia",
+  "incidence_per_100k": 3.0,
+  "total_cases_per_year": 240000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Well-documented childhood and adult leukemia with strong international cancer registry data. Global incidence approximately 3 per 100k from GLOBOCAN 2005 and WHO registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0001418",
+  "cui_name": "Adenocarcinoma",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major adenocarcinoma subtypes: colorectal (~30), lung (~20), breast (~50), gastric (~15), pancreatic (~8), prostate (~25), and other organ-specific adenocarcinomas (~20) = ~170 per 100k. Low confidence due to histological classification spanning multiple organs with heterogeneous incidence rates.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

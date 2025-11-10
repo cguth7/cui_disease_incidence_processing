@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-11-10_19-29-23",
+  "start_row": 100,
+  "end_row": 1000,
+  "batch_size": 100,
+  "csv_path": "data/disease_codes_Charlie.csv"
+}

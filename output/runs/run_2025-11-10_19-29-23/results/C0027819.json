@@ -1,0 +1,14 @@
+{
+  "cui": "C0027819",
+  "cui_name": "Neuroblastoma",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 11000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Pediatric Solid Tumors",
+  "reasoning": "Neuroblastoma incidence approximately 1.0 per 100,000 children per year based on GLOBOCAN 2005 and international cancer registry data. Global cases estimated at 10,000-12,000 annually. Moderate geographic variation with slightly higher rates in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

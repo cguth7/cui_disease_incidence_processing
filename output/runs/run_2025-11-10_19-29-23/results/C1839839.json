@@ -1,0 +1,14 @@
+{
+  "cui": "C1839839",
+  "cui_name": "MAJOR AFFECTIVE DISORDER 2",
+  "incidence_per_100k": 12.5,
+  "total_cases_per_year": 1000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Major Affective Disorder",
+  "reasoning": "Likely refers to Bipolar Disorder Type II or related mood disorder subtype. Estimated incidence ~12.5 per 100k based on psychiatric epidemiology studies. Moderate confidence due to definitional heterogeneity across studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

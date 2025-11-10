@@ -1,0 +1,14 @@
+{
+  "cui": "C0029182",
+  "cui_name": "orbit (eye disorders)",
+  "incidence_per_100k": 10.0,
+  "total_cases_per_year": 800000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for orbital disorders: thyroid eye disease (10), orbital tumors (0.5), fractures (2), infections (0.5), inflammation (1.5) ≈ 15 per 100k, conservative estimate 10. Low confidence due to heterogeneity and limited epidemiological data on total orbital disease burden.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C0018524",
+  "cui_name": "Hallucinations",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hallucinations are a symptom or manifestation, not a discrete disease entity. They occur across multiple psychiatric conditions (schizophrenia, bipolar disorder), neurological disorders (dementia, Parkinson's), substance-induced states, and other conditions with vastly different epidemiologies. Too broad and heterogeneous to map to meaningful incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

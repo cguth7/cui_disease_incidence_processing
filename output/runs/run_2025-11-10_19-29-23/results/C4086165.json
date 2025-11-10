@@ -1,0 +1,14 @@
+{
+  "cui": "C4086165",
+  "cui_name": "Childhood Neuroblastoma",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Childhood neuroblastoma is a well-documented pediatric cancer with incidence of approximately 1 per 100,000 children per year, supported by cancer registry data from GLOBOCAN and international pediatric oncology registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

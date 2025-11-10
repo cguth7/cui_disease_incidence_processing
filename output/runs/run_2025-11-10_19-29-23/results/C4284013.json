@@ -1,0 +1,14 @@
+{
+  "cui": "C4284013",
+  "cui_name": "Primary cholangiocarcinoma of intrahepatic biliary tract",
+  "incidence_per_100k": 0.9,
+  "total_cases_per_year": 72000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Intrahepatic cholangiocarcinoma global average ~0.9 per 100k from cancer registry data. High variation by region with elevated rates in Southeast Asia (10-40 per 100k) due to endemic liver fluke infections versus <1 per 100k in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}
