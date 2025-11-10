@@ -1,0 +1,14 @@
+{
+  "cui": "C2931206",
+  "cui_name": "Usher syndrome, type 1B",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Usher syndrome",
+  "reasoning": "Usher syndrome type 1B is a specific autosomal recessive subtype (MYO7A mutations). Overall Usher syndrome incidence is 1 per 10,000-20,000 newborns (~5-10 per 100k births); type 1B represents approximately 15-20% of Usher cases, estimated ~1.2 per 100k. Confidence limited by rarity and reliance on genetic registries rather than comprehensive surveillance.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

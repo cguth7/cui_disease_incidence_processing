@@ -1,0 +1,14 @@
+{
+  "cui": "C0153252",
+  "cui_name": "Systemic candidiasis",
+  "incidence_per_100k": 10.5,
+  "total_cases_per_year": 840000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Invasive candidiasis incidence estimated at 8-12 per 100k globally from hospital surveillance and registry data. Higher in developed countries with advanced ICU care and immunocompromised populations. Incidence has increased over time due to expanding healthcare and aging populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

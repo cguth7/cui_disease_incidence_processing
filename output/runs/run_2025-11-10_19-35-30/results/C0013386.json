@@ -1,0 +1,14 @@
+{
+  "cui": "C0013386",
+  "cui_name": "Dyskinesia, Drug-Induced",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Drug-induced dyskinesia is a medication adverse effect (primarily from antipsychotics) whose incidence depends on antipsychotic/dopaminergic drug exposure patterns, not population baseline. Prevalence among chronic antipsychotic users: ~25-30%, but population-level incidence cannot be estimated without drug exposure data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

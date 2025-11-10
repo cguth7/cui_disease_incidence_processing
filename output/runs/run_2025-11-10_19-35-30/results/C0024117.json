@@ -1,0 +1,14 @@
+{
+  "cui": "C0024117",
+  "cui_name": "Chronic Obstructive Airway Disease",
+  "incidence_per_100k": 12,
+  "total_cases_per_year": 960000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "COPD is a well-documented major respiratory disease with global incidence ~12 per 100k based on WHO epidemiological estimates. Encompasses chronic bronchitis and emphysema as clinical manifestations. Significant geographic variation with higher rates in developed nations and among smokers.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

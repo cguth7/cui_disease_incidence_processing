@@ -1,0 +1,14 @@
+{
+  "cui": "C0007103",
+  "cui_name": "Malignant neoplasm of endometrium",
+  "incidence_per_100k": 4.8,
+  "total_cases_per_year": 384000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Neoplasm of endometrium",
+  "reasoning": "Endometrial cancer incidence from GLOBOCAN 2005: ~4.8 per 100k globally. Specific malignant type with strong registry data from WHO cancer surveillance systems.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

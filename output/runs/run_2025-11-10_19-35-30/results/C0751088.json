@@ -1,0 +1,14 @@
+{
+  "cui": "C0751088",
+  "cui_name": "Dyskinesia, Medication-Induced",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Movement Disorders",
+  "reasoning": "Medication-induced dyskinesia (tardive dyskinesia) develops in 5-30% of patients on long-term antipsychotics. Global population incidence estimated ~8-9 per 100k based on antipsychotic prevalence (~0.3-0.5% of population) and annual risk (~3-5%), but derived from clinical literature rather than systematic surveillance.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

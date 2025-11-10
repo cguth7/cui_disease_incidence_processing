@@ -1,0 +1,14 @@
+{
+  "cui": "C0949059",
+  "cui_name": "Polyp of large intestine",
+  "incidence_per_100k": 450,
+  "total_cases_per_year": 29250000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Colorectal polyps",
+  "reasoning": "Colonoscopy screening data shows ~30-40% prevalence of polyps in screened populations. Estimated incident rate ~450 per 100k in developed countries with routine screening, varies significantly by geography based on screening availability and practice patterns.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005
+}

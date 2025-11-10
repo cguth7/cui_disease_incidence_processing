@@ -1,0 +1,14 @@
+{
+  "cui": "C1739363",
+  "cui_name": "Prostatic Hypertrophy",
+  "incidence_per_100k": 22.5,
+  "total_cases_per_year": 1800000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Benign prostatic hyperplasia is well-documented with global incidence ~22.5 per 100k person-years in adult male populations. Strong epidemiological data from WHO and registry sources support this estimate.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

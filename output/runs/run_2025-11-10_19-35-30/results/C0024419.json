@@ -1,0 +1,14 @@
+{
+  "cui": "C0024419",
+  "cui_name": "Waldenstrom Macroglobulinemia",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare B-cell lymphoproliferative disorder with estimated incidence of 3-4 per million person-years (0.3-0.4 per 100k) from international registry and epidemiological studies, primarily from developed countries where diagnostic capability is higher.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

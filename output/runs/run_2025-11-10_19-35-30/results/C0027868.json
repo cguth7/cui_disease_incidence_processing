@@ -1,0 +1,14 @@
+{
+  "cui": "C0027868",
+  "cui_name": "Neuromuscular Diseases",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major neuromuscular categories: motor neuron diseases (ALS/SMA ~2-3 per 100k), muscular dystrophies (~3-5 per 100k), peripheral neuropathies (~10-20 per 100k), myasthenia gravis (~0.3-0.5 per 100k), myositis (~1-2 per 100k), other myopathies (~5-10 per 100k). Total ~25 per 100k. Low confidence due to heterogeneity, significant geographic variation, and overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

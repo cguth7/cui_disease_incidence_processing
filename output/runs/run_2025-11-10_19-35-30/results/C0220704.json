@@ -1,0 +1,14 @@
+{
+  "cui": "C0220704",
+  "cui_name": "Shprintzen syndrome",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Autosomal dominant genetic disorder caused by 22q11.2 deletion with well-established incidence of approximately 1 in 2,000 live births (~1.0 per 100,000 person-years). Medical literature reports relatively consistent estimates, though range of 1 in 2,000-2,500 births has been documented.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

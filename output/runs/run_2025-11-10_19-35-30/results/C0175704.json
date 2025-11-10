@@ -1,0 +1,14 @@
+{
+  "cui": "C0175704",
+  "cui_name": "LEOPARD Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "LEOPARD Syndrome is an ultra-rare autosomal dominant genetic disorder with fewer than 500 cases reported globally, estimated at <0.01 per 100k. Limited data from case reports and small cohort studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

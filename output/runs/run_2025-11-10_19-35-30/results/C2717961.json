@@ -1,0 +1,14 @@
+{
+  "cui": "C2717961",
+  "cui_name": "Thrombotic Microangiopathies",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major thrombotic microangiopathies: HUS (1-2 per 100k, primarily pediatric), TTP (0.3-0.5 per 100k), drug-induced TMAs (0.1-0.2 per 100k), and secondary TMAs (0.2-0.5 per 100k) = ~2.5 per 100k globally. Low confidence due to heterogeneous etiologies and variable geographic/demographic distribution.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

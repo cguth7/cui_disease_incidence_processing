@@ -1,0 +1,14 @@
+{
+  "cui": "C0751265",
+  "cui_name": "Learning Disabilities",
+  "incidence_per_100k": 180,
+  "total_cases_per_year": 14400000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major learning disability subtypes: specific reading disability/dyslexia (~6%), mathematics disorder/dyscalculia (~2%), written expression disorder (~1%), language-based learning disabilities (~5%), other specific learning disabilities (~3%) = ~12% of school-age population. Estimated ~180 per 100k as incidence proxy for annual new diagnoses. Data expressed as prevalence converted to incidence equivalent.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

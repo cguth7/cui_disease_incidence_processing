@@ -1,0 +1,14 @@
+{
+  "cui": "C1737329",
+  "cui_name": "Dysmorphism",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dysmorphism is a descriptive term for structural abnormalities, not a specific disease entity. Too broad and non-specific to estimate incidence without specification of which dysmorphic features or syndrome.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

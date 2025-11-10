@@ -1,0 +1,14 @@
+{
+  "cui": "C3469521",
+  "cui_name": "FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Fanconi Anemia",
+  "reasoning": "Rare autosomal recessive bone marrow failure syndrome. FAA represents ~60-65% of Fanconi anemia cases (overall incidence ~0.001-0.003 per 100k births), making FAA estimated at 0.0006-0.002 per 100k. Based on case reports and genetic databases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

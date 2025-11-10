@@ -1,0 +1,14 @@
+{
+  "cui": "C4733093",
+  "cui_name": "progesterone receptor-negative breast cancer",
+  "incidence_per_100k": 10.5,
+  "total_cases_per_year": 840000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "PR-negative breast cancer is a specific pathological subtype representing ~20-25% of all breast cancers. Global estimate derived from 2005 breast cancer incidence (~45 per 100k) adjusted for PR-negative prevalence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

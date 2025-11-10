@@ -1,0 +1,14 @@
+{
+  "cui": "C2936777",
+  "cui_name": "Nevo syndrome (disorder)",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Dysplastic Nevus Syndrome",
+  "reasoning": "Nevo syndrome is a rare familial dysplastic nevus syndrome characterized by multiple atypical moles with melanoma predisposition. Estimated incidence <0.5 per 100k based on genetic syndrome prevalence and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

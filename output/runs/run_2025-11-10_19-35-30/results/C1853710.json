@@ -1,0 +1,14 @@
+{
+  "cui": "C1853710",
+  "cui_name": "HEREDITARY MOTOR AND SENSORY NEUROPATHY, TYPE IIC",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Motor and Sensory Neuropathy",
+  "reasoning": "HMSN Type IIC is an extremely rare autosomal recessive inherited neuropathy with <0.01 per 100k based on limited case reports in genetic registries and neurological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

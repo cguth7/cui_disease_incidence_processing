@@ -1,0 +1,14 @@
+{
+  "cui": "C0338451",
+  "cui_name": "Frontotemporal dementia",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Frontotemporal dementia incidence estimated at 3-5 per 100k based on epidemiological studies from developed countries (UK, Scandinavia, US). Global estimate conservatively placed at 3.5 per 100k. Likely underdiagnosed in developing regions due to limited diagnostic capabilities.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

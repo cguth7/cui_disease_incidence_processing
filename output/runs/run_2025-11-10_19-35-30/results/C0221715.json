@@ -1,0 +1,14 @@
+{
+  "cui": "C0221715",
+  "cui_name": "Intestinal carcinoma",
+  "incidence_per_100k": 17.5,
+  "total_cases_per_year": 1400000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Intestinal carcinoma primarily encompasses colorectal cancer (colon/rectum) with global incidence ~16-17 per 100k from GLOBOCAN 2005, plus small intestinal adenocarcinoma (~1 per 100k). Aggregate estimate ~17.5 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005
+}

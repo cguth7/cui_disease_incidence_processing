@@ -1,0 +1,14 @@
+{
+  "cui": "C0031511",
+  "cui_name": "Pheochromocytoma",
+  "incidence_per_100k": 0.25,
+  "total_cases_per_year": 20000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare neuroendocrine adrenal tumor with estimated global incidence of 1-4 per million (0.1-0.4 per 100k), averaged to 0.25. Moderate confidence based on case series and medical literature rather than systematic surveillance registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

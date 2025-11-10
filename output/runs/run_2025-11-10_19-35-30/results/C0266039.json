@@ -1,0 +1,14 @@
+{
+  "cui": "C0266039",
+  "cui_name": "Taurodontism",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Dental Anomalies",
+  "reasoning": "Rare dental developmental anomaly with limited epidemiological data. Incidence estimated at <0.5 per 100k based on dental literature frequency in screened populations, but systematic large-scale studies are sparse.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

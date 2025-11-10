@@ -1,0 +1,14 @@
+{
+  "cui": "C0280783",
+  "cui_name": "Juvenile Pilocytic Astrocytoma",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Astrocytoma",
+  "reasoning": "Juvenile pilocytic astrocytoma is the most common pediatric brain tumor with incidence approximately 1-2 per 100k children per year. Translating to total global population yields approximately 0.4 per 100k. Well-documented in pediatric cancer registries with moderate-to-strong data quality.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

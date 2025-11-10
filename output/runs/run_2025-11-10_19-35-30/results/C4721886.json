@@ -1,0 +1,14 @@
+{
+  "cui": "C4721886",
+  "cui_name": "MYOPATHY, MYOFIBRILLAR, 4",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Myofibrillar Myopathy",
+  "reasoning": "MFM4 is a rare genetic form of myofibrillar myopathy with <0.01 per 100k incidence. One of multiple genetic subtypes (MFM1-MFM14+), data primarily from case reports and small case series rather than population registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

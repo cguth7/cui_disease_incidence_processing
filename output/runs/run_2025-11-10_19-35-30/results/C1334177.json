@@ -1,0 +1,14 @@
+{
+  "cui": "C1334177",
+  "cui_name": "Infiltrating Cervical Carcinoma",
+  "incidence_per_100k": 15.2,
+  "total_cases_per_year": 1216000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Cervical Cancer",
+  "reasoning": "Infiltrating cervical carcinoma (invasive) represents ~90-95% of cervical cancer cases. Global incidence from GLOBOCAN 2005: ~15-16 per 100k in female population. High geographic variation with incidence >25 per 100k in developing regions with low screening coverage.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

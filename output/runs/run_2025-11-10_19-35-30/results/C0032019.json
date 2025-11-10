@@ -1,0 +1,14 @@
+{
+  "cui": "C0032019",
+  "cui_name": "Pituitary Neoplasms",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pituitary adenomas represent the majority of pituitary neoplasms with clinical incidence of 3-4 per 100k globally from epidemiological registries and cancer databases. Includes adenomas, carcinomas, and other rare tumors of pituitary origin.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null
+}

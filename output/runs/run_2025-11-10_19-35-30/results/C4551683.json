@@ -1,0 +1,14 @@
+{
+  "cui": "C4551683",
+  "cui_name": "Adrenal Gland Pheochromocytoma",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Pheochromocytoma",
+  "reasoning": "Rare neuroendocrine tumor with global incidence ~0.5 per 100k based on epidemiological studies and cancer registries. Adrenal gland pheochromocytomas comprise ~90% of all pheochromocytomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "disease_id": "12694",
+    "cui": "C1963674",
+    "name": "Spinocerebellar Ataxia 10",
+    "row_index": 1501
+  },
+  {
+    "disease_id": "6682",
+    "cui": "C0406500",
+    "name": "Lipodermatosclerosis",
+    "row_index": 1502
+  },
+  {
+    "disease_id": "3714",
+    "cui": "C0235522",
+    "name": "Disorder of vein",
+    "row_index": 1503
+  },
+  {
+    "disease_id": "1827",
+    "cui": "C0030360",
+    "name": "Papillon-Lefevre Disease",
+    "row_index": 1504
+  },
+  {
+    "disease_id": "15261",
+    "cui": "C3714796",
+    "name": "Isolated somatotropin deficiency",
+    "row_index": 1505
+  },
+  {
+    "disease_id": "10874",
+    "cui": "C1832648",
+    "name": "Hypoparathyroidism familial isolated",
+    "row_index": 1506
+  },
+  {
+    "disease_id": "1670",
+    "cui": "C0027721",
+    "name": "Lipoid nephrosis",
+    "row_index": 1507
+  },
+  {
+    "disease_id": "7645",
+    "cui": "C0686353",
+    "name": "Muscular Dystrophies, Limb-Girdle",
+    "row_index": 1508
+  },
+  {
+    "disease_id": "3403",
+    "cui": "C0206669",
+    "name": "Hepatocellular Adenoma",
+    "row_index": 1509
+  },
+  {
+    "disease_id": "2490",
+    "cui": "C0043194",
+    "name": "Wiskott-Aldrich Syndrome",
+    "row_index": 1510
+  },
+  {
+    "disease_id": "276",
+    "cui": "C0005940",
+    "name": "Bone Diseases",
+    "row_index": 1511
+  },
+  {
+    "disease_id": "8911",
+    "cui": "C0920350",
+    "name": "Autoimmune thyroiditis",
+    "row_index": 1512
+  },
+  {
+    "disease_id": "2336",
+    "cui": "C0040147",
+    "name": "Thyroiditis",
+    "row_index": 1513
+  },
+  {
+    "disease_id": "7555",
+    "cui": "C0677607",
+    "name": "Hashimoto Disease",
+    "row_index": 1514
+  },
+  {
+    "disease_id": "1259",
+    "cui": "C0022578",
+    "name": "Keratoconus",
+    "row_index": 1515
+  },
+  {
+    "disease_id": "1743",
+    "cui": "C0029132",
+    "name": "Disorder of the optic nerve",
+    "row_index": 1516
+  },
+  {
+    "disease_id": "15730",
+    "cui": "C3887709",
+    "name": "Optic Neuropathy",
+    "row_index": 1517
+  },
+  {
+    "disease_id": "676",
+    "cui": "C0013384",
+    "name": "Dyskinetic syndrome",
+    "row_index": 1518
+  },
+  {
+    "disease_id": "6430",
+    "cui": "C0392702",
+    "name": "Abnormal involuntary movement",
+    "row_index": 1519
+  },
+  {
+    "disease_id": "224",
+    "cui": "C0004623",
+    "name": "Bacterial Infections",
+    "row_index": 1520
+  },
+  {
+    "disease_id": "3420",
+    "cui": "C0206694",
+    "name": "Mucoepidermoid Carcinoma",
+    "row_index": 1521
+  },
+  {
+    "disease_id": "10112",
+    "cui": "C1370701",
+    "name": "Clear cell hidradenoma",
+    "row_index": 1522
+  },
+  {
+    "disease_id": "3404",
+    "cui": "C0206671",
+    "name": "Eccrine acrospiroma",
+    "row_index": 1523
+  },
+  {
+    "disease_id": "281",
+    "cui": "C0005967",
+    "name": "Bone neoplasms",
+    "row_index": 1524
+  },
+  {
+    "disease_id": "2011",
+    "cui": "C0033937",
+    "name": "Psychoses, Drug",
+    "row_index": 1525
+  },
+  {
+    "disease_id": "652",
+    "cui": "C0013146",
+    "name": "Drug abuse",
+    "row_index": 1526
+  },
+  {
+    "disease_id": "2176",
+    "cui": "C0036939",
+    "name": "Shared Paranoid Disorder",
+    "row_index": 1527
+  },
+  {
+    "disease_id": "2012",
+    "cui": "C0033941",
+    "name": "Psychoses, Substance-Induced",
+    "row_index": 1528
+  },
+  {
+    "disease_id": "1193",
+    "cui": "C0021053",
+    "name": "Immune System Diseases",
+    "row_index": 1529
+  },
+  {
+    "disease_id": "10501",
+    "cui": "C1565489",
+    "name": "Renal Insufficiency",
+    "row_index": 1530
+  },
+  {
+    "disease_id": "32",
+    "cui": "C0001403",
+    "name": "Addison Disease",
+    "row_index": 1531
+  },
+  {
+    "disease_id": "733",
+    "cui": "C0014130",
+    "name": "Endocrine System Diseases",
+    "row_index": 1532
+  },
+  {
+    "disease_id": "970",
+    "cui": "C0018213",
+    "name": "Graves Disease",
+    "row_index": 1533
+  },
+  {
+    "disease_id": "3176",
+    "cui": "C0162309",
+    "name": "Adrenoleukodystrophy",
+    "row_index": 1534
+  },
+  {
+    "disease_id": "831",
+    "cui": "C0015696",
+    "name": "Fatty Liver, Alcoholic",
+    "row_index": 1535
+  },
+  {
+    "disease_id": "1053",
+    "cui": "C0019187",
+    "name": "Hepatitis, Alcoholic",
+    "row_index": 1536
+  },
+  {
+    "disease_id": "2442",
+    "cui": "C0042267",
+    "name": "Vaginitis",
+    "row_index": 1537
+  },
+  {
+    "disease_id": "10578",
+    "cui": "C1692871",
+    "name": "Inflammatory polyarthritis",
+    "row_index": 1538
+  },
+  {
+    "disease_id": "17623",
+    "cui": "C4551647",
+    "name": "Long QT Syndrome 1",
+    "row_index": 1539
+  },
+  {
+    "disease_id": "17690",
+    "cui": "C4551955",
+    "name": "Loeys-Dietz Syndrome, Type 1a",
+    "row_index": 1540
+  },
+  {
+    "disease_id": "17903",
+    "cui": "C4707243",
+    "name": "Familial thoracic aortic aneurysm and aortic dissection",
+    "row_index": 1541
+  },
+  {
+    "disease_id": "11070",
+    "cui": "C1836635",
+    "name": "Loeys-Dietz Aortic Aneurysm Syndrome",
+    "row_index": 1542
+  },
+  {
+    "disease_id": "11298",
+    "cui": "C1842237",
+    "name": "Charcot-Marie-Tooth Disease, Dominant Intermediate C",
+    "row_index": 1543
+  },
+  {
+    "disease_id": "15398",
+    "cui": "C3809272",
+    "name": "LETHAL CONGENITAL CONTRACTURE SYNDROME 5",
+    "row_index": 1544
+  },
+  {
+    "disease_id": "407",
+    "cui": "C0007959",
+    "name": "Charcot-Marie-Tooth Disease",
+    "row_index": 1545
+  },
+  {
+    "disease_id": "17687",
+    "cui": "C4551952",
+    "name": "Myopathy, Centronuclear, 1",
+    "row_index": 1546
+  },
+  {
+    "disease_id": "11554",
+    "cui": "C1847902",
+    "name": "CHARCOT-MARIE-TOOTH DISEASE, DOMINANT INTERMEDIATE B (disorder)",
+    "row_index": 1547
+  },
+  {
+    "disease_id": "3375",
+    "cui": "C0206637",
+    "name": "Mesenchymal Chondrosarcoma",
+    "row_index": 1548
+  },
+  {
+    "disease_id": "12658",
+    "cui": "C1959583",
+    "name": "Myocardial Failure",
+    "row_index": 1549
+  },
+  {
+    "disease_id": "1312",
+    "cui": "C0023212",
+    "name": "Left-Sided Heart Failure",
+    "row_index": 1550
+  },
+  {
+    "disease_id": "3715",
+    "cui": "C0235527",
+    "name": "Heart Failure, Right-Sided",
+    "row_index": 1551
+  },
+  {
+    "disease_id": "4827",
+    "cui": "C0271270",
+    "name": "Oculovestibuloauditory syndrome",
+    "row_index": 1552
+  },
+  {
+    "disease_id": "14724",
+    "cui": "C3489733",
+    "name": "Oculomotor apraxia",
+    "row_index": 1553
+  },
+  {
+    "disease_id": "7946",
+    "cui": "C0750900",
+    "name": "Alzheimer's Disease, Focal Onset",
+    "row_index": 1554
+  },
+  {
+    "disease_id": "7311",
+    "cui": "C0546126",
+    "name": "Acute Confusional Senile Dementia",
+    "row_index": 1555
+  },
+  {
+    "disease_id": "5040",
+    "cui": "C0276496",
+    "name": "Familial Alzheimer Disease (FAD)",
+    "row_index": 1556
+  },
+  {
+    "disease_id": "13854",
+    "cui": "C2931820",
+    "name": "Inclusion body myopathy, autosomal dominant",
+    "row_index": 1557
+  },
+  {
+    "disease_id": "9733",
+    "cui": "C1332210",
+    "name": "Adult Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+    "row_index": 1558
+  },
+  {
+    "disease_id": "12945",
+    "cui": "C2347747",
+    "name": "Adult Classical Hodgkin Lymphoma",
+    "row_index": 1559
+  },
+  {
+    "disease_id": "9959",
+    "cui": "C1334968",
+    "name": "Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+    "row_index": 1560
+  },
+  {
+    "disease_id": "9805",
+    "cui": "C1333064",
+    "name": "Classical Hodgkin's Lymphoma",
+    "row_index": 1561
+  },
+  {
+    "disease_id": "9793",
+    "cui": "C1332985",
+    "name": "Childhood Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+    "row_index": 1562
+  },
+  {
+    "disease_id": "5444",
+    "cui": "C0333113",
+    "name": "Sacculation",
+    "row_index": 1563
+  },
+  {
+    "disease_id": "4402",
+    "cui": "C0266642",
+    "name": "Situs ambiguus",
+    "row_index": 1564
+  },
+  {
+    "disease_id": "11962",
+    "cui": "C1856439",
+    "name": "GLAUCOMA 3, PRIMARY CONGENITAL, A",
+    "row_index": 1565
+  },
+  {
+    "disease_id": "15126",
+    "cui": "C3662528",
+    "name": "Discogenic pain",
+    "row_index": 1566
+  },
+  {
+    "disease_id": "3130",
+    "cui": "C0158252",
+    "name": "Intervertebral disc disorder",
+    "row_index": 1567
+  },
+  {
+    "disease_id": "1235",
+    "cui": "C0022118",
+    "name": "Transient ischemia",
+    "row_index": 1568
+  },
+  {
+    "disease_id": "9661",
+    "cui": "C1319317",
+    "name": "Squamous cell carcinoma of pharynx",
+    "row_index": 1569
+  },
+  {
+    "disease_id": "345",
+    "cui": "C0007121",
+    "name": "Bronchogenic Carcinoma",
+    "row_index": 1570
+  },
+  {
+    "disease_id": "626",
+    "cui": "C0011882",
+    "name": "Diabetic Neuropathies",
+    "row_index": 1571
+  },
+  {
+    "disease_id": "9055",
+    "cui": "C1112256",
+    "name": "Sensorimotor neuropathy",
+    "row_index": 1572
+  },
+  {
+    "disease_id": "4888",
+    "cui": "C0271737",
+    "name": "Addison's disease due to autoimmunity",
+    "row_index": 1573
+  },
+  {
+    "disease_id": "12871",
+    "cui": "C2103602",
+    "name": "Autoimmune Primary Adrenal Insufficiency",
+    "row_index": 1574
+  },
+  {
+    "disease_id": "897",
+    "cui": "C0017154",
+    "name": "Gastritis, Atrophic",
+    "row_index": 1575
+  },
+  {
+    "disease_id": "18097",
+    "cui": "C4744565",
+    "name": "Metastatic Colon Carcinoma",
+    "row_index": 1576
+  },
+  {
+    "disease_id": "13598",
+    "cui": "C2853919",
+    "name": "Lymphoblastic B-cell lymphoma",
+    "row_index": 1577
+  },
+  {
+    "disease_id": "8918",
+    "cui": "C0936223",
+    "name": "Metastatic Prostate Carcinoma",
+    "row_index": 1578
+  },
+  {
+    "disease_id": "9442",
+    "cui": "C1282496",
+    "name": "Metastasis from malignant tumor of prostate",
+    "row_index": 1579
+  },
+  {
+    "disease_id": "624",
+    "cui": "C0011880",
+    "name": "Diabetic Ketoacidosis",
+    "row_index": 1580
+  },
+  {
+    "disease_id": "512",
+    "cui": "C0009763",
+    "name": "Conjunctivitis",
+    "row_index": 1581
+  },
+  {
+    "disease_id": "7444",
+    "cui": "C0581377",
+    "name": "Decompensated cardiac failure",
+    "row_index": 1582
+  },
+  {
+    "disease_id": "177",
+    "cui": "C0003811",
+    "name": "Cardiac Arrhythmia",
+    "row_index": 1583
+  },
+  {
+    "disease_id": "12568",
+    "cui": "C1868705",
+    "name": "Shone complex",
+    "row_index": 1584
+  },
+  {
+    "disease_id": "6136",
+    "cui": "C0344724",
+    "name": "Ostium secundum atrial septal defect",
+    "row_index": 1585
+  },
+  {
+    "disease_id": "1897",
+    "cui": "C0031192",
+    "name": "Persistent Ostium Primum",
+    "row_index": 1586
+  },
+  {
+    "disease_id": "1008",
+    "cui": "C0018817",
+    "name": "Atrial Septal Defects",
+    "row_index": 1587
+  },
+  {
+    "disease_id": "14512",
+    "cui": "C3279790",
+    "name": "Atrial Septal Defect 3",
+    "row_index": 1588
+  },
+  {
+    "disease_id": "4191",
+    "cui": "C0265239",
+    "name": "Wildervanck's syndrome",
+    "row_index": 1589
+  },
+  {
+    "disease_id": "3243",
+    "cui": "C0175699",
+    "name": "Saethre-Chotzen Syndrome",
+    "row_index": 1590
+  },
+  {
+    "disease_id": "16419",
+    "cui": "C4086158",
+    "name": "Childhood Ganglioneuroblastoma",
+    "row_index": 1591
+  },
+  {
+    "disease_id": "3440",
+    "cui": "C0206718",
+    "name": "Ganglioneuroblastoma",
+    "row_index": 1592
+  },
+  {
+    "disease_id": "13041",
+    "cui": "C2608055",
+    "name": "Hereditary Renal Cell Carcinoma",
+    "row_index": 1593
+  },
+  {
+    "disease_id": "6432",
+    "cui": "C0392784",
+    "name": "Dermatofibrosarcoma Protuberans",
+    "row_index": 1594
+  },
+  {
+    "disease_id": "3385",
+    "cui": "C0206647",
+    "name": "Dermatofibrosarcoma",
+    "row_index": 1595
+  },
+  {
+    "disease_id": "15175",
+    "cui": "C3693482",
+    "name": "Giant Cell Fibroblastoma",
+    "row_index": 1596
+  },
+  {
+    "disease_id": "13285",
+    "cui": "C2700265",
+    "name": "Waardenburg Syndrome Type 2",
+    "row_index": 1597
+  },
+  {
+    "disease_id": "2554",
+    "cui": "C0080024",
+    "name": "Piebaldism",
+    "row_index": 1598
+  },
+  {
+    "disease_id": "8609",
+    "cui": "C0854917",
+    "name": "Rhabdoid Tumor of the Kidney",
+    "row_index": 1599
+  },
+  {
+    "disease_id": "10121",
+    "cui": "C1377665",
+    "name": "Childhood Central Nervous System Neoplasm",
+    "row_index": 1600
+  }
+]

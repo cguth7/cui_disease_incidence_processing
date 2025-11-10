@@ -1,0 +1,14 @@
+{
+  "cui": "C0013080",
+  "cui_name": "Down Syndrome",
+  "incidence_per_100k": 14.3,
+  "total_cases_per_year": 1144000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Down Syndrome (Trisomy 21) incidence approximately 14-15 per 100k live births globally based on birth defect registries and CDC/WHO surveillance data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

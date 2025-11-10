@@ -1,0 +1,14 @@
+{
+  "cui": "C0236642",
+  "cui_name": "Pick Disease of the Brain",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Frontotemporal Dementia",
+  "reasoning": "Pick's disease is a rare form of frontotemporal dementia characterized by tau-positive Pick bodies. Estimated at <0.5 per 100k based on limited autopsy and epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

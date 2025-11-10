@@ -1,0 +1,14 @@
+{
+  "cui": "C0026351",
+  "cui_name": "Moderate intellectual disability",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Intellectual Disability",
+  "reasoning": "Moderate ID represents approximately 10-15% of intellectual disability cases. Overall ID incidence is ~1-2 per 1,000 live births; moderate severity is less common than mild. Annual new diagnosis rate across all ages estimated at 0.4 per 100k. Limited global data specific to moderate severity.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "cui": "C1845235",
+  "cui_name": "Heterotopia, Periventricular, Ehlers-Danlos Variant",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Periventricular Heterotopia",
+  "reasoning": "Extremely rare genetic variant of periventricular heterotopia associated with Ehlers-Danlos connective tissue abnormality. Fewer than 50 cases documented worldwide, <0.001 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null
+}

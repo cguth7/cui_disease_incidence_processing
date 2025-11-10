@@ -1,0 +1,14 @@
+{
+  "cui": "C0268181",
+  "cui_name": "Lactose Intolerance, Adult Type",
+  "incidence_per_100k": 65000,
+  "total_cases_per_year": 5200000000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Lactose Intolerance",
+  "reasoning": "Adult-onset lactose intolerance affects approximately 65% of the global population. Estimate based on prevalence data from epidemiological studies, as traditional annual incidence data are limited. Pronounced geographic variation with 5-15% prevalence in Northern European ancestry populations and 70-100% in East Asian, African, and Hispanic populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null
+}

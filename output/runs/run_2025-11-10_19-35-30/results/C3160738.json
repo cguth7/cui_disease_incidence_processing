@@ -1,0 +1,14 @@
+{
+  "cui": "C3160738",
+  "cui_name": "FANCONI ANEMIA, COMPLEMENTATION GROUP D2",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Fanconi Anemia",
+  "reasoning": "Rare genetic disorder. Fanconi anemia overall ~1-2 per million births. FA-D2 is one of the more common complementation groups (10-15% of FA cases), estimated at 0.01-0.02 per 100k. Limited epidemiological data, primarily based on genetic registries and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

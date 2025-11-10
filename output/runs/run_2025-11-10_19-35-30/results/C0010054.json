@@ -1,0 +1,14 @@
+{
+  "cui": "C0010054",
+  "cui_name": "Coronary Arteriosclerosis",
+  "incidence_per_100k": 120.0,
+  "total_cases_per_year": 9600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Coronary artery disease has well-documented global incidence ~120 per 100k from cardiovascular registries and WHO data. Significant geographic variation with higher rates in developed nations (150-200 per 100k) and lower rates in developing regions (50-100 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005
+}

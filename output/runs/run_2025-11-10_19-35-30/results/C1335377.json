@@ -1,0 +1,14 @@
+{
+  "cui": "C1335377",
+  "cui_name": "periampullary adenocarcinoma",
+  "incidence_per_100k": 1.0,
+  "total_cases_per_year": 80000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic Adenocarcinoma",
+  "reasoning": "Periampullary adenocarcinoma is a specific subtype of pancreatic cancer arising near the ampulla of Vater. Global incidence estimated ~1 per 100k based on cancer registry data with geographic variation higher in developed nations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

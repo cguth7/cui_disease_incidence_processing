@@ -1,0 +1,14 @@
+{
+  "cui": "C0280449",
+  "cui_name": "secondary acute myeloid leukemia",
+  "incidence_per_100k": 0.35,
+  "total_cases_per_year": 28000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "Secondary AML represents approximately 10-20% of AML cases globally, with incidence estimated at 0.3-0.4 per 100k based on cancer registry data. Moderate confidence due to variable classification across registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}

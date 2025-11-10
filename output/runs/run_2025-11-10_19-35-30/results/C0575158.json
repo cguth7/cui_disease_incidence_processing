@@ -1,0 +1,14 @@
+{
+  "cui": "C0575158",
+  "cui_name": "Kyphoscoliosis deformity of spine",
+  "incidence_per_100k": 2.1,
+  "total_cases_per_year": 168000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Spinal Curvature Disorders",
+  "reasoning": "Specific spinal deformity combining kyphosis and scoliosis. Limited epidemiological data; estimate based on orthopedic literature of symptomatic cases requiring intervention. Often secondary to neuromuscular conditions or degenerative disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null
+}
