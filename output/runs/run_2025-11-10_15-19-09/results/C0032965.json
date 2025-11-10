@@ -1,0 +1,12 @@
+{
+  "cui": "C0032965",
+  "cui_name": "Pregnancy Complications, Infectious",
+  "incidence_per_100k": 25000,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major infectious pregnancy complications: GBS colonization (100,000-300,000), UTI (50,000-100,000), chorioamnionitis (5,000-20,000), CMV (4,000-8,000), toxoplasmosis (1,000-5,000), syphilis (5,000-20,000), listeriosis/rubella (100-1,000). Conservative estimate ~25,000 per 100k focusing on clinically significant infections. Heterogeneous conditions with wide geographic variation in prevalence and screening practices.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

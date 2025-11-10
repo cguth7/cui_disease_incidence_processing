@@ -1,0 +1,12 @@
+{
+  "cui": "C0038041",
+  "cui_name": "Spotted Fever Group Rickettsiosis",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Spotted fever group rickettsioses (SFGR) are tick-borne infections caused by Rickettsia spp. Global incidence estimated at 0.5 per 100k based on case reports and regional surveillance data, with significant geographic variation (higher in Mediterranean, Africa, Americas where vectors are endemic).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

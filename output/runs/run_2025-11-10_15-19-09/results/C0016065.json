@@ -1,0 +1,12 @@
+{
+  "cui": "C0016065",
+  "cui_name": "Polyostotic fibrous dysplasia",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Fibrous Dysplasia",
+  "reasoning": "Polyostotic form of fibrous dysplasia affects approximately 1 in 300,000 births. Global incidence estimated at 0.3 per 100k based on case reports and genetic registry data. Polyostotic is the more severe subtype compared to monostotic form.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

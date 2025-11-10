@@ -1,0 +1,12 @@
+{
+  "cui": "C3809910",
+  "cui_name": "ARTHROGRYPOSIS, MENTAL RETARDATION, AND SEIZURES",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ultra-rare compound genetic syndrome combining arthrogryposis, intellectual disability, and seizures. Likely represents <0.01 per 100k births based on case report frequency in literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

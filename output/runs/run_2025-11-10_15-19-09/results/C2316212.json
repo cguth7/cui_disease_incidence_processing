@@ -1,0 +1,12 @@
+{
+  "cui": "C2316212",
+  "cui_name": "Cryopyrin-Associated Periodic Syndromes",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Autoinflammatory Syndromes",
+  "reasoning": "CAPS is a rare monogenic autoinflammatory syndrome caused by NLRP3 mutations. Estimated at <0.01 per 100k births based on case reports and genetic databases. Limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

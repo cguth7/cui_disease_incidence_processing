@@ -1,0 +1,12 @@
+{
+  "cui": "C0038506",
+  "cui_name": "Stuttering",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Stuttering (fluency disorder) has an estimated global incidence of 8-10 per 100k based on epidemiological studies and speech-language pathology literature. Higher prevalence in children (~5%) with spontaneous recovery in many cases, lower in adults (~1%). Estimate reflects incident cases requiring clinical intervention.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

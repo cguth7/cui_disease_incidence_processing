@@ -1,0 +1,12 @@
+{
+  "cui": "C0020636",
+  "cui_name": "underdevelopment",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable umbrella term - too broad and generic to estimate meaningfully. 'Underdevelopment' lacks clinical specificity and could refer to multiple disparate conditions (developmental delay, failure to thrive, organ system immaturity) with vastly different incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

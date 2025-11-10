@@ -1,0 +1,12 @@
+{
+  "cui": "C0751506",
+  "cui_name": "REM Sleep Deprivation",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Sleep Disorders",
+  "reasoning": "REM sleep deprivation is a specific but rare sleep disorder with minimal epidemiological data. Incidence not reliably documented in population registries; mostly reported in clinical case series and sleep medicine literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

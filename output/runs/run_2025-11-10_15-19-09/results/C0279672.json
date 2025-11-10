@@ -1,0 +1,12 @@
+{
+  "cui": "C0279672",
+  "cui_name": "Cervical Adenocarcinoma",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cervical Cancer",
+  "reasoning": "Adenocarcinoma comprises 20-25% of cervical cancers with global incidence ~1.5 per 100k. Well-documented in cancer registries, though less common than squamous cell carcinoma.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

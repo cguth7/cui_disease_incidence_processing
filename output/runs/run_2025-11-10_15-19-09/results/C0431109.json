@@ -1,0 +1,12 @@
+{
+  "cui": "C0431109",
+  "cui_name": "Choroid Plexus Carcinoma",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Choroid Plexus Neoplasm",
+  "reasoning": "Choroid plexus carcinoma is a rare pediatric brain tumor, accounting for ~3% of pediatric brain tumors. Global incidence estimated at 0.05 per 100k children, primarily affecting ages 0-5. Registry data from pediatric oncology centers provide moderate confidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

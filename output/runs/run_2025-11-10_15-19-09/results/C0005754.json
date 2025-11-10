@@ -1,0 +1,12 @@
+{
+  "cui": "C0005754",
+  "cui_name": "Congenital blindness",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital blindness encompasses multiple etiologies (congenital cataracts, optic nerve hypoplasia, Leber congenital amaurosis, retinopathy of prematurity). Global incidence estimated at 0.8-1.5 per 100k live births based on pediatric ophthalmology surveys. Moderate confidence due to significant geographic variation in prevalence of causes (e.g., retinopathy of prematurity higher in middle-income countries).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

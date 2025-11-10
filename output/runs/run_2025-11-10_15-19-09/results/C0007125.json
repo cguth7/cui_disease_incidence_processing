@@ -1,0 +1,12 @@
+{
+  "cui": "C0007125",
+  "cui_name": "Carcinoma, Ehrlich Tumor",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ehrlich tumor is an experimental murine ascites carcinoma used in laboratory research, not a naturally occurring human disease with documented incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

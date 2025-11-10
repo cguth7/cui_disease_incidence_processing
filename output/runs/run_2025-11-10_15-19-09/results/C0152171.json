@@ -1,0 +1,12 @@
+{
+  "cui": "C0152171",
+  "cui_name": "Idiopathic pulmonary hypertension",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary Hypertension",
+  "reasoning": "IPH is a specific subtype of pulmonary hypertension with well-documented incidence ~1-2 per 100k globally. Registry data from major PH centers provides moderate-to-strong estimates, though geographic variation exists.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

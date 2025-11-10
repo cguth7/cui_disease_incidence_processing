@@ -1,0 +1,12 @@
+{
+  "cui": "C0751505",
+  "cui_name": "Insufficient Sleep Syndrome",
+  "incidence_per_100k": 50.0,
+  "total_cases_per_year": 4000000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Insufficient Sleep Syndrome is a behavioral sleep disorder with limited epidemiological data. Estimates based on sleep studies suggest 5-10% prevalence in developed countries. Conservative incidence estimate ~50 per 100k based on annual new diagnoses and behavioral sleep medicine literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

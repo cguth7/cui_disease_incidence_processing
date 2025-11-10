@@ -1,0 +1,12 @@
+{
+  "cui": "C0024282",
+  "cui_name": "Lymphocytosis",
+  "incidence_per_100k": 150,
+  "total_cases_per_year": 12000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major lymphocytosis etiologies: infectious mononucleosis (~100), leukemias/lymphomas (~30), autoimmune conditions (~15), medications/immunostimulation (~5). Confidence is low due to heterogeneity - lymphocytosis is a laboratory finding with multiple distinct underlying causes rather than a primary disease, ranging from benign viral infections to malignancy.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

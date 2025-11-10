@@ -1,0 +1,12 @@
+{
+  "cui": "C0042749",
+  "cui_name": "Viremia",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Viremia is a clinical sign (presence of virus in blood) rather than a specific disease, occurring secondary to countless viral infections with vastly different epidemiologies. Too heterogeneous and non-specific to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

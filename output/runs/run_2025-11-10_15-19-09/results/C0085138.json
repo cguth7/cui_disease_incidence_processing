@@ -1,0 +1,12 @@
+{
+  "cui": "C0085138",
+  "cui_name": "Choroid Plexus Neoplasms",
+  "incidence_per_100k": 0.35,
+  "total_cases_per_year": 28000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Central Nervous System Neoplasms",
+  "reasoning": "Rare brain tumors representing <1% of intracranial neoplasms. Incidence ~0.3-0.4 per 100k based on CBTRUS and WHO brain tumor registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

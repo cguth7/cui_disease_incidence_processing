@@ -1,0 +1,12 @@
+{
+  "cui": "C2239290",
+  "cui_name": "Hodgkin lymphoma, nodular lymphocyte predominance",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Hodgkin lymphoma",
+  "reasoning": "Nodular lymphocyte predominance is a specific histological subtype of Hodgkin lymphoma, accounting for approximately 5% of all Hodgkin lymphoma cases. Global Hodgkin lymphoma incidence is ~2-3 per 100k; NLPH represents a distinct subtype with lower incidence (~0.3 per 100k based on registry data).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

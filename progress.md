@@ -2,25 +2,24 @@
 
 ## Current Status
 
-**Active Run:** `run_2025-11-10_18-31-40`
+**Active Run:** `run_2025-11-10_15-19-09`
 **Model:** Haiku
-**Progress:** 100 / 100 diseases (100% ✅ COMPLETE)
+**Progress:** 50 / 1000 diseases (5% 🚀 IN PROGRESS)
 
 ---
 
 ## Summary Statistics
 
-### Current Run (run_2025-11-10_18-31-40)
-- **Total Processed:** 100 diseases ✅ COMPLETE
-- **Mappable:** 92 (92%)
-- **Unmappable:** 8 (8%)
-- **Target:** 100 diseases (first 100 from disease_codes_Charlie.csv)
-- **Remaining:** 0 diseases
+### Current Run (run_2025-11-10_15-19-09)
+- **Total Processed:** 50 diseases (batch 1 complete)
+- **Target:** 1000 diseases (rows 4001-5000 from disease_codes_Charlie.csv)
+- **Remaining:** 950 diseases
+- **Batches Completed:** 1/20
 
 ### All-Time Totals
-- **Total Diseases in Dataset:** ~15,000 (disease_codes_Charlie.csv)
-- **Total Processed Across All Runs:** 100
-- **Completion:** 0.67% of full dataset
+- **Total Diseases in Dataset:** ~15,163 (disease_codes_Charlie.csv)
+- **Total Processed Across All Runs:** 150
+- **Completion:** 0.99% of full dataset
 
 ---
 
@@ -28,6 +27,7 @@
 
 | Run ID | Date | Model | Target | Progress | Status |
 |--------|------|-------|--------|----------|--------|
+| run_2025-11-10_15-19-09 | 2025-11-10 | haiku | 1000 (rows 4001-5000) | 50/1000 (5%) | 🚀 In Progress |
 | run_2025-11-10_18-31-40 | 2025-11-10 | haiku | 100 | 100/100 (100%) | ✅ Complete |
 
 ---
@@ -61,4 +61,4 @@
 
 ---
 
-*Last Updated: 2025-11-10 19:15 UTC*
+*Last Updated: 2025-11-10 15:20 UTC (Batch 1 complete, starting Batch 2)*

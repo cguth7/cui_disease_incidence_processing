@@ -1,0 +1,12 @@
+{
+  "cui": "C0265493",
+  "cui_name": "Cat eye syndrome",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cat eye syndrome is an extremely rare chromosomal disorder (partial trisomy 22q11). Estimated incidence <0.1 per 100k births based on case reports. Only a few hundred cases documented worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

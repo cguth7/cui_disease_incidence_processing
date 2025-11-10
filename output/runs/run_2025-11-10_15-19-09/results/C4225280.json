@@ -1,0 +1,12 @@
+{
+  "cui": "C4225280",
+  "cui_name": "NOONAN SYNDROME 10",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Noonan Syndrome",
+  "reasoning": "Noonan Syndrome 10 is an extremely rare genetic subtype of Noonan syndrome caused by KRAS mutations. Estimated <0.01 per 100k births based on case reports and genetic epidemiology data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

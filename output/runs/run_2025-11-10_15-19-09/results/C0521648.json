@@ -1,0 +1,12 @@
+{
+  "cui": "C0521648",
+  "cui_name": "Neonatal respiratory failure",
+  "incidence_per_100k": 800,
+  "total_cases_per_year": 640000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Respiratory Failure",
+  "reasoning": "Neonatal respiratory failure primarily manifests as respiratory distress syndrome (RDS) and meconium aspiration syndrome. Global incidence estimated at ~800 per 100k births (~8 per 1000 live births), with significant geographic variation based on healthcare access and neonatal care quality.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

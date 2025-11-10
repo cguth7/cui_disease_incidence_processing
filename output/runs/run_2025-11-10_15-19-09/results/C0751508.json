@@ -1,0 +1,12 @@
+{
+  "cui": "C0751508",
+  "cui_name": "Long Sleeper Syndrome",
+  "incidence_per_100k": 5.0,
+  "total_cases_per_year": 400000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Sleep Disorders",
+  "reasoning": "Rare sleep disorder with limited epidemiological data. Estimated 1-3% of population naturally sleep >10 hours daily, but clinical syndrome diagnosis is much rarer (~5 per 100k estimated incidence). Most data from small case studies and sleep medicine literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}
