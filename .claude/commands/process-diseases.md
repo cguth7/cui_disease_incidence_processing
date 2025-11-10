@@ -2,6 +2,8 @@
 description: Process CUI disease codes in batches with incidence mapping
 ---
 
+**IMPORTANT: Before starting, read the README.md file to understand the project structure, workflow, and how the system works.**
+
 Run the batch processor to map diseases from disease_codes_Charlie.csv to global incidence rates.
 
 **Usage Options:**

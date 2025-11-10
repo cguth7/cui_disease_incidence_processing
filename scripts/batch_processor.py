@@ -91,11 +91,16 @@ class BatchProcessor:
                     continue
                 if self.end_row and i >= self.end_row:
                     break
+                # Support both column naming conventions
+                cui = row.get("CUI") or row.get("diseaseid", "")
+                name = row.get("STR") or row.get("diseasename", "")
+                incidence_num = row.get("val") or row.get("disease_id", "")
+
                 diseases.append({
                     "row_num": i,
-                    "cui": row.get("CUI", "").strip(),
-                    "name": row.get("STR", "").strip(),
-                    "incidence_number": row.get("val", "").strip()
+                    "cui": cui.strip() if cui else "",
+                    "name": name.strip() if name else "",
+                    "incidence_number": incidence_num.strip() if incidence_num else ""
                 })
         return diseases
 
