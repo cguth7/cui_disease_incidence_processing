@@ -22,12 +22,14 @@ class BatchProcessor:
         start_row: Optional[int] = None,
         end_row: Optional[int] = None,
         non_interactive: bool = False,
+        model: str = "sonnet",
     ):
         self.csv_path = Path(csv_path)
         self.batch_size = batch_size
         self.start_row = start_row or 0
         self.end_row = end_row
         self.non_interactive = non_interactive
+        self.model = model
 
         # Setup output directory
         if output_dir:
@@ -147,9 +149,10 @@ Return the final JSON result in your response."""
         # Print instructions for user
         print("\n" + "="*80)
         print(f"BATCH {batch_num + 1}: Ready to process {len(batch)} diseases")
+        print(f"MODEL: {self.model.upper()}")
         print("="*80)
         print("\nTO PROCESS THIS BATCH:")
-        print("Copy and paste the Task commands below into Claude Code.\n")
+        print(f"Launch Task agents with model='{self.model}' for each disease below.\n")
 
         # Print Task commands
         for disease in batch:
@@ -158,7 +161,7 @@ Return the final JSON result in your response."""
                 disease["name"],
                 disease["incidence_number"]
             )
-            print(f"\nTask: Map {disease['cui']} - {disease['name']}")
+            print(f"\n# Task: Map {disease['cui']} - {disease['name']} (model={self.model})")
             print("-" * 80)
             print(prompt)
             print("-" * 80)
@@ -252,6 +255,7 @@ def main():
     parser.add_argument("--resume", action="store_true", help="Resume from checkpoint")
     parser.add_argument("--status", action="store_true", help="Show status of latest run")
     parser.add_argument("--non-interactive", action="store_true", help="Run in non-interactive mode (for automation)")
+    parser.add_argument("--model", choices=["sonnet", "haiku", "opus"], default="sonnet", help="Model to use for Task agents (default: sonnet)")
 
     args = parser.parse_args()
 
@@ -285,6 +289,7 @@ def main():
         start_row=args.start_row,
         end_row=args.end_row,
         non_interactive=args.non_interactive,
+        model=args.model,
     )
 
     processor.run(resume=args.resume)

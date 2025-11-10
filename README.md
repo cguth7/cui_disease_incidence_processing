@@ -85,6 +85,9 @@ python scripts/batch_processor.py --output-dir test_run_v2
 
 # Non-interactive mode (for automation)
 python scripts/batch_processor.py --non-interactive --end-row 100
+
+# Use Haiku model for cost savings (~95% cheaper than Sonnet)
+python scripts/batch_processor.py --model haiku --end-row 100
 ```
 
 ### Batch Generation Utility
