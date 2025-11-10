@@ -1,57 +1,36 @@
 # Using Haiku for Cost Savings
 
-Save ~95% on costs by using Haiku instead of Sonnet for Task agents.
+Save ~95% on costs by using Haiku instead of Sonnet for Task sub-agents.
 
 ## How It Works
 
-The **main agent** (this Claude Code session) runs on Sonnet/Opus, but you can specify **Haiku for Task sub-agents**.
+**You (Charlie)** run the slash command with `--model haiku`
+→ **Claude** (the main agent) launches Task sub-agents with Haiku
+→ **Task sub-agents** process diseases using Haiku model
 
-## Step 1: Test Haiku Quality First
+## Simple Usage
 
-Process 50 test diseases with Haiku to verify quality:
-
-```bash
-# Generate test batch with Haiku flag
-python scripts/batch_processor.py \
-  --start-row 15 \
-  --end-row 65 \
-  --output-dir haiku_test \
-  --model haiku \
-  --non-interactive
-```
-
-This will output Task prompts with a reminder to use Haiku.
-
-## Step 2: Launch Task Agents with Haiku
-
-When the script outputs Task prompts, launch them like this:
-
-**Using the Task tool (programmatically):**
-
-```python
-Task(
-    subagent_type="general-purpose",
-    description="Map C0025202 - melanoma",
-    model="haiku",  # ← This specifies Haiku!
-    prompt="""Use the cui-incidence-mapper_2 skill to map this disease...
-
-CUI: C0025202
-Disease Name: melanoma
-...
-"""
-)
-```
-
-**In this Claude Code session, you would invoke:**
+Just add `--model haiku` to your slash command:
 
 ```
-I need you to launch Task agents with model="haiku" for the following diseases:
-[paste prompts from batch_processor output]
+/process-diseases --model haiku
 ```
 
-## Step 3: Compare Haiku vs Sonnet Results
+That's it! Claude will automatically launch all Task agents with Haiku.
 
-After processing 50 diseases with Haiku, compare to your existing 15 Sonnet results:
+## Testing Haiku First (Recommended)
+
+Test with a small batch first:
+
+```
+/process-diseases --model haiku --end-row 65
+```
+
+This processes first 65 diseases with Haiku. Compare quality to determine if suitable for full run.
+
+## Comparing Haiku vs Sonnet Results
+
+After processing with Haiku, compare to your existing 15 Sonnet results:
 
 ### Quality Checks:
 
@@ -112,26 +91,19 @@ cat output/runs/run_2025-11-10_17-38-14/results/C0018099.json  # Gout (Sonnet)
 
 ## Full Production Run with Haiku
 
-If Haiku quality passes your tests, use it for all 15k diseases:
+If Haiku quality is acceptable, process all 15k diseases:
 
-### Parallel Processing with Haiku:
-
-```bash
-# Generate parallel commands for Haiku
-python scripts/generate_parallel_commands.py \
-  --num-parallel 10 \
-  --model haiku
-
-# This outputs 10 commands like:
-python scripts/batch_processor.py \
-  --start-row 0 \
-  --end-row 1516 \
-  --output-dir haiku_batch_01 \
-  --model haiku \
-  --non-interactive
+```
+/process-diseases --model haiku
 ```
 
-Then launch Task agents with `model="haiku"` in each session.
+Or for parallel processing, run 10 sessions with:
+
+```
+/process-diseases --model haiku --start-row 0 --end-row 1516 --output-dir haiku_batch_01
+/process-diseases --model haiku --start-row 1516 --end-row 3032 --output-dir haiku_batch_02
+... (etc for 10 parallel sessions)
+```
 
 ### Cost Estimate with Haiku:
 
@@ -158,28 +130,15 @@ find output/runs/haiku_batch_*/results -name "*.json" -exec \
     print(sys.argv[1]) if data.get('confidence', 1) < 0.4 else None" {} \;
 ```
 
-## Example: Launching Task with Haiku
+## Behind the Scenes
 
-Here's exactly what you do in this Claude Code session:
+When you run `/process-diseases --model haiku`:
 
-```
-Please launch 10 Task agents in parallel with model="haiku" for these diseases:
-
-1. C0025202 - melanoma
-   [paste full prompt]
-
-2. C0036341 - Schizophrenia
-   [paste full prompt]
-
-3. [etc...]
-```
-
-I will then invoke:
-```python
-Task(subagent_type="general-purpose", model="haiku", description="Map C0025202 - melanoma", prompt="...")
-Task(subagent_type="general-purpose", model="haiku", description="Map C0036341 - Schizophrenia", prompt="...")
-...
-```
+1. The slash command tells Claude to use Haiku for Task agents
+2. batch_processor.py runs and outputs prompts with MODEL: HAIKU label
+3. Claude sees this and automatically launches Task agents with `model="haiku"`
+4. Results are saved with Haiku-generated estimates
+5. You save ~95% on costs!
 
 ## Monitoring Haiku Performance
 
