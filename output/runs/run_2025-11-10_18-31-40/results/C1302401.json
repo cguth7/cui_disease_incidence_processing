@@ -1,0 +1,12 @@
+{
+  "cui": "C1302401",
+  "cui_name": "Adenoma of large intestine",
+  "incidence_per_100k": 40.0,
+  "total_cases_per_year": 3200000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Neoplasm",
+  "reasoning": "Colorectal adenomas are common precancerous polyps. Global incidence approximately 40 per 100k based on cancer registries, screening programs, and epidemiological studies. Significantly higher in developed countries with screening infrastructure.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

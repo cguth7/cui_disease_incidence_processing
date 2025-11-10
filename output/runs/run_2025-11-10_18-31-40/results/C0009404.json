@@ -1,0 +1,12 @@
+{
+  "cui": "C0009404",
+  "cui_name": "Colorectal Neoplasms",
+  "incidence_per_100k": 18.5,
+  "total_cases_per_year": 1480000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": "Cancer",
+  "reasoning": "Colorectal cancer is well-documented globally with strong data from WHO GLOBOCAN and international cancer registries. Global average ~18.5 per 100k, with significant variation from <10 in developing regions to >30 in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

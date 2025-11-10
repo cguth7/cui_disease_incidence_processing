@@ -1,0 +1,12 @@
+{
+  "cui": "C0023467",
+  "cui_name": "Leukemia, Myelocytic, Acute",
+  "incidence_per_100k": 3.7,
+  "total_cases_per_year": 296000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Acute myeloid leukemia (AML) has well-documented global incidence ~3.7 per 100k with strong cancer registry data from WHO and international hematologic malignancy registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

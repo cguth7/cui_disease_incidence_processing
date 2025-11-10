@@ -1,0 +1,12 @@
+{
+  "cui": "C0038356",
+  "cui_name": "Stomach Neoplasms",
+  "incidence_per_100k": 25.5,
+  "total_cases_per_year": 2040000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Stomach neoplasms primarily refer to gastric adenocarcinoma, a major global malignancy. Global incidence ~25-27 per 100k (GLOBOCAN), with high geographic variation from <10 per 100k in North America/Western Europe to >40 per 100k in East Asia due to H. pylori prevalence and dietary factors.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

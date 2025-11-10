@@ -1,0 +1,12 @@
+{
+  "cui": "C0268381",
+  "cui_name": "Primary amyloidosis",
+  "incidence_per_100k": 0.15,
+  "total_cases_per_year": 12000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Systemic Amyloidosis",
+  "reasoning": "Primary amyloidosis (AL amyloidosis) is a rare disease with global incidence estimates of 1-2 per million person-years, translating to approximately 0.15 per 100,000. Estimates based on medical literature and hematology/cardiology registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

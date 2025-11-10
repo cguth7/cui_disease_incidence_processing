@@ -1,0 +1,12 @@
+{
+  "cui": "C1140680",
+  "cui_name": "Malignant neoplasm of ovary",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Ovarian neoplasm",
+  "reasoning": "Ovarian cancer is well-documented globally with consistent incidence ~6-7 per 100k women/year from WHO GLOBOCAN and cancer registries. Higher in developed countries (7-8) vs developing (5-6).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

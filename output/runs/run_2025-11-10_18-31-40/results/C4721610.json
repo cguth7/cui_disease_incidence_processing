@@ -1,0 +1,12 @@
+{
+  "cui": "C4721610",
+  "cui_name": "Carcinoma, Ovarian Epithelial",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Cancer",
+  "reasoning": "Epithelial ovarian cancer, the most common histological type (~90% of cases), has well-documented global incidence of ~12 per 100k from international cancer registries. Geographic variation from ~8 per 100k in developing regions to 15+ per 100k in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

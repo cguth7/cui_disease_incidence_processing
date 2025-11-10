@@ -1,0 +1,12 @@
+{
+  "cui": "C0079740",
+  "cui_name": "High Grade Lymphoma",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "High-grade (aggressive) lymphomas represent approximately 60-70% of non-Hodgkin lymphoma cases with global incidence ~12 per 100k based on WHO and international cancer registry data. Good registry coverage with some regional variation in diagnostic classification.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

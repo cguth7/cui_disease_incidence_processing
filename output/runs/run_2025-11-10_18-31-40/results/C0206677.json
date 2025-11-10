@@ -1,0 +1,12 @@
+{
+  "cui": "C0206677",
+  "cui_name": "Adenomatous Polyps",
+  "incidence_per_100k": 25,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Polyps",
+  "reasoning": "Adenomatous polyps are well-documented through colonoscopy screening programs and cancer registries. Incidence estimated at ~25 per 100k globally (3-5 per 1000 person-years), but highly dependent on screening intensity, age, and geographic access to preventive care.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

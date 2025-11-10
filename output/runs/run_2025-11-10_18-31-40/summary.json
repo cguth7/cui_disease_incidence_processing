@@ -1,0 +1,39 @@
+{
+  "run_directory": "output/runs/run_2025-11-10_18-31-40",
+  "timestamp": "2025-11-10T19:13:39.603948",
+  "model": "haiku",
+  "total_diseases": 100,
+  "completed": 92,
+  "unmappable": 8,
+  "success_rate": 0.92,
+  "confidence_distribution": {
+    "high (0.7-1.0)": 59,
+    "medium (0.3-0.7)": 26,
+    "low (0.1-0.3)": 7,
+    "unmappable (0.0)": 8
+  },
+  "data_quality_distribution": {
+    "strong": 41,
+    "moderate": 41,
+    "weak": 10,
+    "none": 8
+  },
+  "geographic_variation_distribution": {
+    "moderate": 27,
+    "high": 56,
+    "unknown": 12,
+    "low": 5
+  },
+  "subtypes_identified": 45,
+  "unmappable_cuis": [
+    "C1511789",
+    "C1608408",
+    "C0001418",
+    "C1306459",
+    "C0205698",
+    "C0027651",
+    "C0596263",
+    "C1519670"
+  ],
+  "note": "Batch 5 processed with 2005-focused skill (updated to prioritize 2005 data)"
+}

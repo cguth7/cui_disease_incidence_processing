@@ -1,0 +1,12 @@
+{
+  "cui": "C1511789",
+  "cui_name": "Desmoplastic",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Desmoplastic is a pathological descriptor referring to fibrous tissue formation, not a specific disease entity. Too broad and vague without anatomical or disease-specific context (e.g., 'desmoplastic small round cell tumor' vs generic term).",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

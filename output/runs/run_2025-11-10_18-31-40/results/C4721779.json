@@ -1,0 +1,12 @@
+{
+  "cui": "C4721779",
+  "cui_name": "Ovarian cancer stage IV",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Ovarian cancer",
+  "reasoning": "Stage IV (metastatic) ovarian cancer represents approximately 40% of newly diagnosed ovarian cancer cases globally. With overall ovarian cancer incidence of ~3 per 100,000, stage IV incidence estimated at ~1.2 per 100,000. Confidence moderate due to stage-specific incidence variation across regions and cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}
