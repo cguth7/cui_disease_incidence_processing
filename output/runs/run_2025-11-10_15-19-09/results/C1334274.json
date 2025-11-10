@@ -1,0 +1,12 @@
+{
+  "cui": "C1334274",
+  "cui_name": "Invasive Carcinoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term without anatomical specificity. 'Invasive carcinoma' is a pathological descriptor covering multiple distinct malignancies (breast, lung, colorectal, etc.) with vastly different incidence rates (1-60 per 100k). Too heterogeneous for meaningful single estimate.",
+  "data_quality": "none",
+  "geographic_variation": "high"
+}

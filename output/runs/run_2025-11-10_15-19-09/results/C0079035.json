@@ -1,0 +1,12 @@
+{
+  "cui": "C0079035",
+  "cui_name": "Bradyarrhythmia (disorder)",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Arrhythmia",
+  "reasoning": "Bradyarrhythmia encompasses slow heart rhythm disorders including sick sinus syndrome, AV block, and sinus bradycardia. Global incidence estimated at 8.5 per 100k based on cardiac epidemiology studies and prevalence in aging populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

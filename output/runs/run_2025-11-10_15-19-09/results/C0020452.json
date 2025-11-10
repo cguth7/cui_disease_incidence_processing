@@ -1,0 +1,12 @@
+{
+  "cui": "C0020452",
+  "cui_name": "Hyperemia",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hyperemia is a pathophysiological condition (increased blood flow to tissues) rather than a disease entity. It represents a clinical sign or symptom common to numerous underlying conditions (inflammation, infection, injury) and cannot be meaningfully quantified as an independent disease with measurable incidence.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C4316906",
+  "cui_name": "Factor XIII deficiency disease",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Coagulation Factor Deficiency",
+  "reasoning": "Factor XIII deficiency (fibrin-stabilizing factor deficiency) is an extremely rare inherited bleeding disorder. Estimated incidence <0.01 per 100k births based on case reports and specialized hematology registries. Congenital forms affect approximately 1 in 1-3 million births globally.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

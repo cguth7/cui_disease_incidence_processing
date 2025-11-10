@@ -1,0 +1,12 @@
+{
+  "cui": "C0271694",
+  "cui_name": "Familial partial lipodystrophy",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare autosomal dominant genetic disorder with estimated <0.01 per 100,000 births. Multiple genetic forms (FPLD1-12) with variable penetrance, estimated 2,000-10,000 cases worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown"
+}

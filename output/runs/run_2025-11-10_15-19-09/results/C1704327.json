@@ -1,0 +1,12 @@
+{
+  "cui": "C1704327",
+  "cui_name": "Bone Sarcoma",
+  "incidence_per_100k": 6.0,
+  "total_cases_per_year": 480000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major bone sarcoma subtypes: osteosarcoma (~3.5 per 100k), Ewing's sarcoma (~1.8 per 100k), chondrosarcoma (~0.8 per 100k), and other bone sarcomas (~1.5 per 100k) = ~7.6 per 100k. Rounded to 6.0 per 100k as conservative global estimate. Low confidence due to heterogeneity and organ specificity variation.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate"
+}

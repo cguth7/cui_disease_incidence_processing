@@ -1,0 +1,12 @@
+{
+  "cui": "C0017525",
+  "cui_name": "Giant Cell Tumors",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Giant cell tumor of bone is a rare benign tumor with incidence approximately 0.4-0.7 per 100k globally. Well-documented in orthopedic registries and surgical series.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

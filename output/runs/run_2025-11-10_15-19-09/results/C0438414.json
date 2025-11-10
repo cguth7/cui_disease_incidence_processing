@@ -1,0 +1,12 @@
+{
+  "cui": "C0438414",
+  "cui_name": "Myoclonic Encephalopathy",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myoclonic encephalopathies are heterogeneous rare neurological conditions with estimated global incidence ~1.2 per 100k based on aggregating major subtypes (progressive myoclonic epilepsy, post-hypoxic myoclonus, metabolic encephalopathies with myoclonus). Limited registry data; estimate derived from neurology literature and case reports.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

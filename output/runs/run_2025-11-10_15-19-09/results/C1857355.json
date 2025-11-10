@@ -1,0 +1,12 @@
+{
+  "cui": "C1857355",
+  "cui_name": "Leigh syndrome, French Canadian type",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Leigh syndrome",
+  "reasoning": "Rare mitochondrial disorder with French Canadian ethnic specificity. Leigh syndrome overall has incidence <0.1 per 100k; French Canadian type is a subset with restricted geographic prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

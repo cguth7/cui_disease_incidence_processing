@@ -1,0 +1,12 @@
+{
+  "cui": "C3714542",
+  "cui_name": "Lymphoma, Diffuse",
+  "incidence_per_100k": 3.8,
+  "total_cases_per_year": 304000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Diffuse lymphomas (primarily diffuse large B-cell lymphoma) account for ~40% of NHL cases with well-documented global incidence ~3.8 per 100k from cancer registries (GLOBOCAN/WHO).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

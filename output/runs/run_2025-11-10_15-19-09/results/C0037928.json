@@ -1,0 +1,12 @@
+{
+  "cui": "C0037928",
+  "cui_name": "Spinal Cord Diseases",
+  "incidence_per_100k": 45.0,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major spinal cord conditions: spinal cord injury (~20 per 100k), multiple sclerosis (~4 per 100k), syringomyelia (~8 per 100k), spinal cord compression (~5 per 100k), myelitis (~3 per 100k), other degenerative conditions (~5 per 100k). Total ~45 per 100k. Heterogeneous conditions with varying etiologies and clinical significance.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

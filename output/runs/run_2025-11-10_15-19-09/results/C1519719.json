@@ -1,0 +1,12 @@
+{
+  "cui": "C1519719",
+  "cui_name": "Type I Endometrial Adenocarcinoma",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Endometrial Cancer",
+  "reasoning": "Type I endometrial adenocarcinoma is the most common histological subtype (~80% of endometrial cancers), with well-documented global incidence data from cancer registries. Strong evidence from WHO and cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

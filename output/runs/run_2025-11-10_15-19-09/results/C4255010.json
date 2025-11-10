@@ -1,0 +1,12 @@
+{
+  "cui": "C4255010",
+  "cui_name": "Non-ST Elevated Myocardial Infarction",
+  "incidence_per_100k": 85.0,
+  "total_cases_per_year": 6800000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Acute Myocardial Infarction",
+  "reasoning": "NSTEMI represents approximately 60-70% of acute myocardial infarction cases globally (~140 per 100k for all MI). Global incidence estimated at 85 per 100k based on WHO/registry data accounting for geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

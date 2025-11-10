@@ -1,0 +1,12 @@
+{
+  "cui": "C0751689",
+  "cui_name": "Peripheral Nerve Sheath Neoplasm",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering heterogeneous neoplasms including benign schwannomas, neurofibromas, and malignant MPNST with vastly different incidence rates and clinical significance. Too broad to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

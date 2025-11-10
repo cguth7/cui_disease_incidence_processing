@@ -1,0 +1,12 @@
+{
+  "cui": "C0011573",
+  "cui_name": "Endogenous depression",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Major Depressive Disorder",
+  "reasoning": "Endogenous depression (depression without obvious external stressor) accounts for a significant portion of MDD cases. Global incidence estimated at ~25 per 100k based on WHO and psychiatric epidemiology data, though exact proportion of endogenous vs reactive depression varies by study.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

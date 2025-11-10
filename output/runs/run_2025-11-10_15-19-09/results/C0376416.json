@@ -1,0 +1,12 @@
+{
+  "cui": "C0376416",
+  "cui_name": "Hibernation, Myocardial",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Chronic Coronary Artery Disease",
+  "reasoning": "Myocardial hibernation is a reversible contractility reduction secondary to chronic coronary artery disease. Estimated from CAD incidence (~3-4 per 100k) with 10-40% of CAD patients experiencing hibernation, yielding ~2.5 per 100k. Low confidence due to lack of dedicated registry data and inconsistent clinical identification.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate"
+}

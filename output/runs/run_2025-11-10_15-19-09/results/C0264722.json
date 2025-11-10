@@ -1,0 +1,12 @@
+{
+  "cui": "C0264722",
+  "cui_name": "Chronic congestive heart failure",
+  "incidence_per_100k": 12.5,
+  "total_cases_per_year": 1000000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Heart Failure",
+  "reasoning": "Chronic heart failure has well-documented global incidence ~12-13 per 100k based on major epidemiological studies (Framingham, Euro HF Survey). Strong registry data from multiple countries with moderate geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

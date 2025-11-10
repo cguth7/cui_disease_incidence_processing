@@ -1,0 +1,12 @@
+{
+  "cui": "C0006370",
+  "cui_name": "Bulimia",
+  "incidence_per_100k": 1.8,
+  "total_cases_per_year": 144000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Eating Disorders",
+  "reasoning": "Bulimia Nervosa has documented global incidence ~1.5-2.0 per 100k from psychiatric epidemiology studies and clinical cohorts. Moderate-to-high confidence based on international DSM-5/ICD-11 diagnostic criteria and prevalence studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

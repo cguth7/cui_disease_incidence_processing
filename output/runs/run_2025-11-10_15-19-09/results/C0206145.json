@@ -1,0 +1,12 @@
+{
+  "cui": "C0206145",
+  "cui_name": "Stunned Myocardium",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Acute Myocardial Infarction / Post-Cardiac Intervention Complications",
+  "reasoning": "Stunned myocardium occurs as a complication in 20-50% of acute coronary syndrome cases and cardiac interventions. Global incidence estimate ~8.5 per 100k based on post-MI incidence of ~20-25 per 100k and 30-40% complication rate. Data from cardiology registries and interventional studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

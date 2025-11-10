@@ -1,0 +1,12 @@
+{
+  "cui": "C0025193",
+  "cui_name": "Melancholia",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Major Depressive Disorder",
+  "reasoning": "Melancholia represents severe depression with specific symptom criteria (anhedonia, early morning awakening). Estimated incidence ~3-4 per 100k based on psychiatric epidemiology studies showing melancholic features in 20-30% of severe depression cases (total MDD incidence ~15 per 100k).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

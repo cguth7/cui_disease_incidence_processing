@@ -1,0 +1,12 @@
+{
+  "cui": "C0268849",
+  "cui_name": "Overactive Detrusor",
+  "incidence_per_100k": 45.0,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Overactive Bladder Syndrome",
+  "reasoning": "Overactive detrusor affects 30-50% of patients with overactive bladder. Global OAB incidence ~90-120 per 100k; detrusor component estimated ~45 per 100k based on urodynamic studies and clinical prevalence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

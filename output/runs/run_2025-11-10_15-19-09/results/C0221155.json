@@ -1,0 +1,12 @@
+{
+  "cui": "C0221155",
+  "cui_name": "Systolic hypertension",
+  "incidence_per_100k": 850,
+  "total_cases_per_year": 68000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Essential Hypertension",
+  "reasoning": "Systolic hypertension is a well-documented subtype affecting older adults and those with isolated systolic elevation. Global incidence estimated at ~850 per 100k based on cardiovascular epidemiology studies, with variation by age and region.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

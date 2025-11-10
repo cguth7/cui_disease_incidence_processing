@@ -1,0 +1,12 @@
+{
+  "cui": "C0403592",
+  "cui_name": "Chronic rejection of renal transplant",
+  "incidence_per_100k": 140.0,
+  "total_cases_per_year": 11200,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Renal transplant complications",
+  "reasoning": "Chronic rejection is a well-documented complication of renal transplantation occurring in ~10-15% of transplant recipients annually. Estimated 140 per 100k among transplant population (~80,000-100,000 annual transplants globally with ~12% developing chronic rejection).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

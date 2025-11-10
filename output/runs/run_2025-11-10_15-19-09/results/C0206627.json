@@ -1,0 +1,12 @@
+{
+  "cui": "C0206627",
+  "cui_name": "Mixed Tumor, Mullerian",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Müllerian mixed tumors (carcinosarcomas) are rare gynecologic malignancies, primarily uterine with estimated incidence ~0.5 per 100k globally. Primarily affects postmenopausal women; limited registry data available.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}
