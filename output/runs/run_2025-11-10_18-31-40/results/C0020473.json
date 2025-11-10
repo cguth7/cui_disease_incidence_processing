@@ -1,0 +1,12 @@
+{
+  "cui": "C0020473",
+  "cui_name": "Hyperlipidemia",
+  "incidence_per_100k": 1200,
+  "total_cases_per_year": 96000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Metabolic Disorders",
+  "reasoning": "Hyperlipidemia is an umbrella term covering familial hypercholesterolemia (~1 per 500), polygenic dyslipidemia, and secondary forms. Global clinical incidence of diagnosed hyperlipidemia ~1200 per 100k per year based on screening rates and prevalence data, but varies significantly by region and diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

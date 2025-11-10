@@ -1,0 +1,12 @@
+{
+  "cui": "C0029408",
+  "cui_name": "Degenerative polyarthritis",
+  "incidence_per_100k": 12.0,
+  "total_cases_per_year": 960000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Arthritis",
+  "reasoning": "Degenerative polyarthritis (osteoarthritis) has well-documented global incidence of approximately 12 per 100k person-years, based on multiple epidemiological studies and registries. Incidence is highest in elderly populations and those with occupational joint stress.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

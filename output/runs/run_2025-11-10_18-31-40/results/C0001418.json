@@ -1,0 +1,12 @@
+{
+  "cui": "C0001418",
+  "cui_name": "Adenocarcinoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Adenocarcinoma is a generic histological classification spanning multiple organs (lung, colon, gastric, pancreatic, breast, etc.) with vastly different epidemiological profiles. Too broad to estimate meaningfully without organ-system specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0079731",
+  "cui_name": "B-Cell Lymphomas",
+  "incidence_per_100k": 10.5,
+  "total_cases_per_year": 840000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "B-cell lymphomas comprise approximately 85-90% of all non-Hodgkin lymphomas with global incidence estimated at 10-15 per 100k based on WHO and SEER cancer registry data. Estimate of 10.5 per 100k represents global average.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0038013",
+  "cui_name": "Ankylosing spondylitis",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 1200000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented rheumatologic disease with strong registry data from multiple countries. Global incidence ~1.5 per 100k, varying significantly by HLA-B27 prevalence (0.5-1 per 100k in East Asia, 6-8 per 100k in Northern Europe).",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

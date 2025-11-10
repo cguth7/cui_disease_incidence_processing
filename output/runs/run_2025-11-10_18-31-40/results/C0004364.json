@@ -1,0 +1,12 @@
+{
+  "cui": "C0004364",
+  "cui_name": "Autoimmune Diseases",
+  "incidence_per_100k": 350,
+  "total_cases_per_year": 28000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major autoimmune conditions: Type 1 diabetes (~20), RA (~25), thyroid diseases (~75), celiac disease (~75), lupus (~2), MS (~3), IBD (~15), psoriasis (~150), and other autoimmune conditions (~85). Global average ~350 per 100k adjusted for population-weighted incidence variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0031117",
+  "cui_name": "Peripheral Neuropathy",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global incidence of peripheral neuropathy estimated at ~25 per 100k from epidemiological literature. Significant geographic variation driven by differing prevalences of diabetes and other causative conditions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

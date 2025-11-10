@@ -1,0 +1,12 @@
+{
+  "cui": "C0006826",
+  "cui_name": "Malignant Neoplasms",
+  "incidence_per_100k": 225,
+  "total_cases_per_year": 18000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major cancer types: lung (~20), breast (~40), colorectal (~20), prostate (~30), stomach (~10), liver (~10), cervical (~8), leukemia (~5), lymphoma (~10), pancreatic (~5), ovarian (~5), and other cancers (~20+) \u2248 225 per 100k. Low confidence due to heterogeneity and significant geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

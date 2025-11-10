@@ -1,0 +1,12 @@
+{
+  "cui": "C0557874",
+  "cui_name": "Global developmental delay",
+  "incidence_per_100k": 100,
+  "total_cases_per_year": 8000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Neurodevelopmental Disorders",
+  "reasoning": "GDD affects 1-3% of children with incidence ~5-10 per 1000 births (~100 per 100k). Confidence moderate due to variability in diagnostic criteria across healthcare systems and regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

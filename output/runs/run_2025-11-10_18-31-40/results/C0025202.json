@@ -1,0 +1,12 @@
+{
+  "cui": "C0025202",
+  "cui_name": "melanoma",
+  "incidence_per_100k": 18.0,
+  "total_cases_per_year": 1440000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Melanoma has well-documented global incidence ~18 per 100k based on WHO cancer registry data. Varies dramatically by geography: >30 per 100k in Australia/New Zealand to <5 per 100k in developing countries due to sun exposure and skin pigmentation differences.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

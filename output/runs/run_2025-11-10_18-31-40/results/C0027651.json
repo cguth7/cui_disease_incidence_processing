@@ -1,0 +1,12 @@
+{
+  "cui": "C0027651",
+  "cui_name": "Neoplasms",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term encompassing all benign and malignant neoplasms across all organ systems with vastly different epidemiology. Too broad to estimate meaningfully without specification of organ, histology, or benign vs malignant distinction.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

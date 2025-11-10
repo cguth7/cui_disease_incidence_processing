@@ -1,0 +1,12 @@
+{
+  "cui": "C0019196",
+  "cui_name": "Hepatitis C",
+  "incidence_per_100k": 23.0,
+  "total_cases_per_year": 1840000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Viral Hepatitis",
+  "reasoning": "Hepatitis C has well-documented WHO surveillance data with global incidence ~23 per 100k annually. Varies significantly by region from <1 in developed countries to >50 in endemic areas with high HCV prevalence.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

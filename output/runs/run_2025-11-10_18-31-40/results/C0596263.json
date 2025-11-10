@@ -1,0 +1,12 @@
+{
+  "cui": "C0596263",
+  "cui_name": "Carcinogenesis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Carcinogenesis is the biological process of cancer development, not a specific disease entity. Too broad and mechanistic to estimate incidence meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

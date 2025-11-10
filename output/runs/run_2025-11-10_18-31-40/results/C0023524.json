@@ -1,0 +1,12 @@
+{
+  "cui": "C0023524",
+  "cui_name": "Leukoencephalopathy, Progressive Multifocal",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "PML incidence estimated at 1-2 per 100k globally based on neurology literature and infectious disease registries. Primarily affects immunocompromised populations (HIV/AIDS, organ transplant recipients). Post-HAART era shows lower incidence in developed countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

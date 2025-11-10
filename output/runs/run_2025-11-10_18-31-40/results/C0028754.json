@@ -1,0 +1,12 @@
+{
+  "cui": "C0028754",
+  "cui_name": "Obesity",
+  "incidence_per_100k": 280,
+  "total_cases_per_year": 22400000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Obesity has well-documented global incidence ~280 per 100k per year based on WHO and CDC surveillance data. High geographic variation with much higher incidence in developed Western countries (40%+ prevalence) versus developing nations.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C3899278",
+  "cui_name": "Early Rheumatoid Arthritis",
+  "incidence_per_100k": 17,
+  "total_cases_per_year": 1360000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Rheumatoid Arthritis",
+  "reasoning": "Early RA refers to newly diagnosed rheumatoid arthritis. Global incidence of RA is well-documented at approximately 15-20 per 100k person-years with strong epidemiological data from multiple registries and studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low"
+}
