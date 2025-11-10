@@ -1,0 +1,12 @@
+{
+  "cui": "C0036341",
+  "cui_name": "Schizophrenia",
+  "incidence_per_100k": 15.0,
+  "total_cases_per_year": 1200000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented global incidence around 15 per 100k from multiple epidemiological studies and WHO data. First-episode psychosis registries provide strong evidence for annual incidence rates.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

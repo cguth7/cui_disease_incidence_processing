@@ -1,0 +1,12 @@
+{
+  "cui": "C0018802",
+  "cui_name": "Congestive Heart Failure",
+  "incidence_per_100k": 7.0,
+  "total_cases_per_year": 560000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-documented cardiovascular condition with global incidence approximately 7 per 100k based on WHO and American Heart Association epidemiological data. Moderate geographic variation with higher incidence in developed nations due to aging populations.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

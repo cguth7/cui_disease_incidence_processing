@@ -1,0 +1,12 @@
+{
+  "cui": "C0010674",
+  "cui_name": "Cystic Fibrosis",
+  "incidence_per_100k": 0.45,
+  "total_cases_per_year": 36000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CF birth incidence ~1 in 2,800-3,500 births in Caucasian populations, with annual incidence of newly diagnosed cases ~0.4-0.5 per 100k. Well-documented through CF registries (CFTR, CFF) and newborn screening programs in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

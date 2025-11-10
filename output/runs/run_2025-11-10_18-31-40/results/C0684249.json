@@ -1,0 +1,12 @@
+{
+  "cui": "C0684249",
+  "cui_name": "Carcinoma of lung",
+  "incidence_per_100k": 18.1,
+  "total_cases_per_year": 1448000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lung carcinoma has well-documented global incidence from WHO/GLOBOCAN cancer registry data (~18 per 100k). High confidence supported by comprehensive international surveillance.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0006142",
+  "cui_name": "Malignant neoplasm of breast",
+  "incidence_per_100k": 45.0,
+  "total_cases_per_year": 3600000,
+  "confidence": 0.92,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Breast cancer has well-documented global incidence ~45 per 100k from GLOBOCAN and international cancer registries, with higher rates in developed countries (70-90 per 100k) and lower rates in developing regions (20-30 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

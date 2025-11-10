@@ -1,0 +1,12 @@
+{
+  "cui": "C0424295",
+  "cui_name": "Hyperactive behavior",
+  "incidence_per_100k": 40.0,
+  "total_cases_per_year": 3200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Attention-Deficit/Hyperactivity Disorder",
+  "reasoning": "Hyperactive behavior primarily refers to hyperactivity symptoms in ADHD. Global ADHD incidence estimated at 40-50 per 100k person-years based on clinical prevalence studies (5-10% population prevalence). Confidence reduced due to ambiguous terminology and variable diagnosis rates across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

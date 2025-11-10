@@ -1,0 +1,12 @@
+{
+  "cui": "C0699791",
+  "cui_name": "Stomach Carcinoma",
+  "incidence_per_100k": 26.8,
+  "total_cases_per_year": 2144000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": "Gastric Neoplasm",
+  "reasoning": "Stomach cancer is the 5th most common cancer globally with well-documented incidence ~27 per 100k from WHO/GLOBOCAN registries. Significant geographic variation from <8 in North America/Europe to >40 in East Asia.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

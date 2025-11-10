@@ -1,0 +1,12 @@
+{
+  "cui": "C0280324",
+  "cui_name": "Laryngeal Squamous Cell Carcinoma",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Laryngeal Cancer",
+  "reasoning": "Squamous cell carcinoma comprises ~95% of laryngeal cancers with global incidence ~3.5 per 100k (GLOBOCAN/WHO cancer registry data). Geographic variation reflects tobacco prevalence and smoking prevention policies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0205698",
+  "cui_name": "Undifferentiated carcinoma",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Histopathological descriptor (not a specific disease entity) applying across multiple organ systems. Incidence varies drastically by anatomical site without organ specification. Unmappable without anatomical specificity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

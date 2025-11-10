@@ -1,0 +1,12 @@
+{
+  "cui": "C0678222",
+  "cui_name": "Breast Carcinoma",
+  "incidence_per_100k": 23.0,
+  "total_cases_per_year": 1840000,
+  "confidence": 0.92,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Breast cancer is one of the most common malignancies with well-documented global incidence data from WHO, IARC, and extensive cancer registries. Global average ~23 per 100k accounts for both sexes and regional variation.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

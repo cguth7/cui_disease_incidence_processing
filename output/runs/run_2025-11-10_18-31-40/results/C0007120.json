@@ -1,0 +1,12 @@
+{
+  "cui": "C0007120",
+  "cui_name": "Bronchioloalveolar Adenocarcinoma",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Lung Adenocarcinoma",
+  "reasoning": "BAC represents approximately 5-15% of lung adenocarcinomas. With global lung adenocarcinoma incidence ~20 per 100k, BAC estimated at ~1.2 per 100k. Confidence moderate due to evolving classification (reclassified as lepidic adenocarcinoma in recent pathology systems).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

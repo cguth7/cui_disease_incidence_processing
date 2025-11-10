@@ -1,0 +1,12 @@
+{
+  "cui": "C1391732",
+  "cui_name": "Cancer cachexia",
+  "incidence_per_100k": 75.0,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Malignant Neoplasm",
+  "reasoning": "Cancer cachexia is a wasting syndrome complication affecting 30-40% of cancer patients globally. Estimated from cancer incidence (~18-20M/year) and cachexia prevalence rates. Not tracked independently in surveillance systems; moderate confidence due to heterogeneous definitions and incomplete global reporting.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

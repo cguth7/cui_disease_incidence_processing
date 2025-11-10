@@ -1,0 +1,12 @@
+{
+  "cui": "C0398689",
+  "cui_name": "Hyper-IgM Immunodeficiency Syndrome, Type 1",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hyper-IgM Immunodeficiency Syndrome",
+  "reasoning": "X-linked recessive genetic immunodeficiency affecting primarily males with estimated incidence <0.1 per 100k. Approximately 1-2 cases per million births based on rare genetic disorder registries and immunodeficiency disease databases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

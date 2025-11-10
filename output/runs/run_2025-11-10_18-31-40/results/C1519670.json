@@ -1,0 +1,12 @@
+{
+  "cui": "C1519670",
+  "cui_name": "Tumor Angiogenesis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tumor angiogenesis is a biological process/mechanism in cancer pathogenesis, not a distinct disease entity with clinical incidence. Patients are not diagnosed with angiogenesis; rather, it is a hallmark of malignant tumors across multiple cancer types.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}

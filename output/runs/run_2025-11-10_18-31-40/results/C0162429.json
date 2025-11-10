@@ -1,0 +1,12 @@
+{
+  "cui": "C0162429",
+  "cui_name": "Malnutrition",
+  "incidence_per_100k": 1200,
+  "total_cases_per_year": 96000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global aggregate estimate of clinical malnutrition incidence (~1200 per 100k), encompassing protein-energy malnutrition, micronutrient deficiencies, and severe acute malnutrition. Highly variable by region: <100 per 100k in developed countries vs 5000+ per 100k in low-income regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

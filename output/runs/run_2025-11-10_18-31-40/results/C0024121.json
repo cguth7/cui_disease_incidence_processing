@@ -1,0 +1,12 @@
+{
+  "cui": "C0024121",
+  "cui_name": "Lung Neoplasms",
+  "incidence_per_100k": 22.5,
+  "total_cases_per_year": 1800000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lung cancer (all histological types) has well-documented global incidence ~22-23 per 100k from WHO GLOBOCAN and national cancer registries. Includes SCLC, NSCLC, and various histological subtypes.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0021051",
+  "cui_name": "Immunologic Deficiency Syndromes",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate of umbrella term summing major components: HIV new infections (~0.03 per 100k), primary immunodeficiencies (~0.05 per 100k), secondary immunodeficiencies from medical causes (~0.2 per 100k). Highly heterogeneous category with significant geographic and temporal variation depending on ART availability.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

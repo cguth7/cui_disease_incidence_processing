@@ -1,0 +1,12 @@
+{
+  "cui": "C0018801",
+  "cui_name": "Heart failure",
+  "incidence_per_100k": 220,
+  "total_cases_per_year": 17600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Heart failure has well-documented global incidence ~2.2 per 1,000 per year (220 per 100k) from multiple epidemiological registries including Framingham and WHO data. Incidence varies by country development status and aging population demographics.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

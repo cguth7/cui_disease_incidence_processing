@@ -1,0 +1,12 @@
+{
+  "cui": "C0600139",
+  "cui_name": "Prostate carcinoma",
+  "incidence_per_100k": 19.0,
+  "total_cases_per_year": 1520000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Prostate cancer has strong global epidemiological data from cancer registries (GLOBOCAN, WHO). Global average ~19 per 100k, with significant geographic variation (5-10 per 100k in Asia, 40-60 per 100k in Nordic countries, 20-30 per 100k in North America).",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

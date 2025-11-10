@@ -1,0 +1,12 @@
+{
+  "cui": "C1868938",
+  "cui_name": "End stage cardiac failure",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Heart Failure",
+  "reasoning": "End-stage (Stage D) heart failure represents approximately 5-10% of heart failure cases. Global HF incidence ~45 per 100k; end-stage represents subset progressing to advanced therapies, estimated ~3.5 per 100k based on HF registries and transplant data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

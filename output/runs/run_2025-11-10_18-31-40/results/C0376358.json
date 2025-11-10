@@ -1,0 +1,12 @@
+{
+  "cui": "C0376358",
+  "cui_name": "Malignant neoplasm of prostate",
+  "incidence_per_100k": 31,
+  "total_cases_per_year": 1240000,
+  "confidence": 0.9,
+  "is_subtype": true,
+  "parent_disease": "Prostatic neoplasm",
+  "reasoning": "Prostate cancer has strong global incidence data (~31 per 100k men) from GLOBOCAN and cancer registries. Incidence varies from 40+ per 100k in developed countries to 10-15 in developing countries due to screening, aging, and reporting differences.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}
