@@ -77,7 +77,7 @@ Claude Sonnet (orchestrator)
   ↓
 Reads CSV, creates output directory
   ↓
-Launches 20 Task agents in parallel (haiku model)
+Launches 20-100 Task agents in parallel (haiku model)
   ↓
 Each agent:
   1. Receives CUI + disease name
