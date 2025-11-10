@@ -1,0 +1,502 @@
+[
+  {
+    "disease_id": "963",
+    "cui": "C0018099",
+    "name": "Gout"
+  },
+  {
+    "disease_id": "1156",
+    "cui": "C0020557",
+    "name": "Hypertriglyceridemia"
+  },
+  {
+    "disease_id": "184",
+    "cui": "C0003864",
+    "name": "Arthritis"
+  },
+  {
+    "disease_id": "1761",
+    "cui": "C0029408",
+    "name": "Degenerative polyarthritis"
+  },
+  {
+    "disease_id": "189",
+    "cui": "C0003873",
+    "name": "Rheumatoid Arthritis"
+  },
+  {
+    "disease_id": "2160",
+    "cui": "C0036646",
+    "name": "Age-related cataract"
+  },
+  {
+    "disease_id": "17372",
+    "cui": "C4520843",
+    "name": "Pterygium of eye"
+  },
+  {
+    "disease_id": "12513",
+    "cui": "C1867441",
+    "name": "Pterygium Of Conjunctiva And Cornea"
+  },
+  {
+    "disease_id": "2017",
+    "cui": "C0033999",
+    "name": "Pterygium"
+  },
+  {
+    "disease_id": "2082",
+    "cui": "C0035334",
+    "name": "Retinitis Pigmentosa"
+  },
+  {
+    "disease_id": "6567",
+    "cui": "C0398650",
+    "name": "Immune thrombocytopenic purpura"
+  },
+  {
+    "disease_id": "6736",
+    "cui": "C0409974",
+    "name": "Lupus Erythematosus"
+  },
+  {
+    "disease_id": "1421",
+    "cui": "C0024131",
+    "name": "Lupus Vulgaris"
+  },
+  {
+    "disease_id": "1423",
+    "cui": "C0024138",
+    "name": "Lupus Erythematosus, Discoid"
+  },
+  {
+    "disease_id": "1336",
+    "cui": "C0023434",
+    "name": "Chronic Lymphocytic Leukemia"
+  },
+  {
+    "disease_id": "9791",
+    "cui": "C1332979",
+    "name": "Childhood Lymphoma"
+  },
+  {
+    "disease_id": "8600",
+    "cui": "C0854802",
+    "name": "Recurrent Chronic Lymphoid Leukemia"
+  },
+  {
+    "disease_id": "9732",
+    "cui": "C1332206",
+    "name": "Adult Lymphoma"
+  },
+  {
+    "disease_id": "15712",
+    "cui": "C3887524",
+    "name": "Skin Erosion"
+  },
+  {
+    "disease_id": "5463",
+    "cui": "C0333307",
+    "name": "Superficial ulcer"
+  },
+  {
+    "disease_id": "1510",
+    "cui": "C0025202",
+    "name": "melanoma"
+  },
+  {
+    "disease_id": "7390",
+    "cui": "C0557874",
+    "name": "Global developmental delay"
+  },
+  {
+    "disease_id": "6803",
+    "cui": "C0424605",
+    "name": "Developmental delay (disorder)"
+  },
+  {
+    "disease_id": "390",
+    "cui": "C0007786",
+    "name": "Brain Ischemia"
+  },
+  {
+    "disease_id": "9381",
+    "cui": "C1275217",
+    "name": "Paget's disease of vulva"
+  },
+  {
+    "disease_id": "7181",
+    "cui": "C0521170",
+    "name": "Osteoporotic Fractures"
+  },
+  {
+    "disease_id": "1127",
+    "cui": "C0020473",
+    "name": "Hyperlipidemia"
+  },
+  {
+    "disease_id": "1714",
+    "cui": "C0028754",
+    "name": "Obesity"
+  },
+  {
+    "disease_id": "2175",
+    "cui": "C0036920",
+    "name": "Sezary Syndrome"
+  },
+  {
+    "disease_id": "7494",
+    "cui": "C0596263",
+    "name": "Carcinogenesis"
+  },
+  {
+    "disease_id": "322",
+    "cui": "C0006826",
+    "name": "Malignant Neoplasms"
+  },
+  {
+    "disease_id": "9620",
+    "cui": "C1306459",
+    "name": "Primary malignant neoplasm"
+  },
+  {
+    "disease_id": "1591",
+    "cui": "C0026764",
+    "name": "Multiple Myeloma"
+  },
+  {
+    "disease_id": "14784",
+    "cui": "C3495919",
+    "name": "Enthesitis-Related Arthritis"
+  },
+  {
+    "disease_id": "15865",
+    "cui": "C3899278",
+    "name": "Early Rheumatoid Arthritis"
+  },
+  {
+    "disease_id": "1373",
+    "cui": "C0023524",
+    "name": "Leukoencephalopathy, Progressive Multifocal"
+  },
+  {
+    "disease_id": "2541",
+    "cui": "C0079744",
+    "name": "Diffuse Large B-Cell Lymphoma"
+  },
+  {
+    "disease_id": "9730",
+    "cui": "C1332201",
+    "name": "Adult Diffuse Large B-Cell Lymphoma"
+  },
+  {
+    "disease_id": "1651",
+    "cui": "C0027651",
+    "name": "Neoplasms"
+  },
+  {
+    "disease_id": "2538",
+    "cui": "C0079731",
+    "name": "B-Cell Lymphomas"
+  },
+  {
+    "disease_id": "9252",
+    "cui": "C1264041",
+    "name": "von Willebrand Disease, Type 3"
+  },
+  {
+    "disease_id": "5746",
+    "cui": "C0339535",
+    "name": "Night blindness, congenital stationary"
+  },
+  {
+    "disease_id": "5298",
+    "cui": "C0280324",
+    "name": "Laryngeal Squamous Cell Carcinoma"
+  },
+  {
+    "disease_id": "1106",
+    "cui": "C0020217",
+    "name": "Hydatidiform Mole"
+  },
+  {
+    "disease_id": "7580",
+    "cui": "C0678213",
+    "name": "Complete hydatidiform mole"
+  },
+  {
+    "disease_id": "13821",
+    "cui": "C2931618",
+    "name": "Gestational trophoblastic disease"
+  },
+  {
+    "disease_id": "5605",
+    "cui": "C0334529",
+    "name": "Hydatidiform Mole, Partial"
+  },
+  {
+    "disease_id": "10529",
+    "cui": "C1608408",
+    "name": "Malignant transformation"
+  },
+  {
+    "disease_id": "442",
+    "cui": "C0008493",
+    "name": "Hydatidiform Mole, Invasive"
+  },
+  {
+    "disease_id": "2137",
+    "cui": "C0036341",
+    "name": "Schizophrenia"
+  },
+  {
+    "disease_id": "3131",
+    "cui": "C0158266",
+    "name": "Intervertebral Disc Degeneration"
+  },
+  {
+    "disease_id": "1389",
+    "cui": "C0023794",
+    "name": "Lipoidosis"
+  },
+  {
+    "disease_id": "7539",
+    "cui": "C0600139",
+    "name": "Prostate carcinoma"
+  },
+  {
+    "disease_id": "6383",
+    "cui": "C0376358",
+    "name": "Malignant neoplasm of prostate"
+  },
+  {
+    "disease_id": "7233",
+    "cui": "C0524620",
+    "name": "Metabolic Syndrome X"
+  },
+  {
+    "disease_id": "6801",
+    "cui": "C0424295",
+    "name": "Hyperactive behavior"
+  },
+  {
+    "disease_id": "6571",
+    "cui": "C0398689",
+    "name": "Hyper-IgM Immunodeficiency Syndrome, Type 1"
+  },
+  {
+    "disease_id": "10378",
+    "cui": "C1519670",
+    "name": "Tumor Angiogenesis"
+  },
+  {
+    "disease_id": "561",
+    "cui": "C0010674",
+    "name": "Cystic Fibrosis"
+  },
+  {
+    "disease_id": "3183",
+    "cui": "C0162429",
+    "name": "Malnutrition"
+  },
+  {
+    "disease_id": "3289",
+    "cui": "C0205698",
+    "name": "Undifferentiated carcinoma"
+  },
+  {
+    "disease_id": "296",
+    "cui": "C0006142",
+    "name": "Malignant neoplasm of breast"
+  },
+  {
+    "disease_id": "7581",
+    "cui": "C0678222",
+    "name": "Breast Carcinoma"
+  },
+  {
+    "disease_id": "4138",
+    "cui": "C0264694",
+    "name": "Chronic myocardial ischemia"
+  },
+  {
+    "disease_id": "2824",
+    "cui": "C0151744",
+    "name": "Myocardial Ischemia"
+  },
+  {
+    "disease_id": "1004",
+    "cui": "C0018802",
+    "name": "Congestive heart failure"
+  },
+  {
+    "disease_id": "12577",
+    "cui": "C1868938",
+    "name": "End stage cardiac failure"
+  },
+  {
+    "disease_id": "1003",
+    "cui": "C0018801",
+    "name": "Heart failure"
+  },
+  {
+    "disease_id": "7111",
+    "cui": "C0494165",
+    "name": "Secondary malignant neoplasm of liver"
+  },
+  {
+    "disease_id": "10167",
+    "cui": "C1391732",
+    "name": "Cancer cachexia"
+  },
+  {
+    "disease_id": "344",
+    "cui": "C0007120",
+    "name": "Bronchioloalveolar Adenocarcinoma"
+  },
+  {
+    "disease_id": "1301",
+    "cui": "C0023051",
+    "name": "Laryngeal Diseases"
+  },
+  {
+    "disease_id": "1192",
+    "cui": "C0021051",
+    "name": "Immunologic Deficiency Syndromes"
+  },
+  {
+    "disease_id": "5931",
+    "cui": "C0342386",
+    "name": "Follicle stimulating hormone deficiency"
+  },
+  {
+    "disease_id": "7607",
+    "cui": "C0684249",
+    "name": "Carcinoma of lung"
+  },
+  {
+    "disease_id": "1420",
+    "cui": "C0024121",
+    "name": "Lung Neoplasms"
+  },
+  {
+    "disease_id": "9621",
+    "cui": "C1306460",
+    "name": "Primary malignant neoplasm of lung"
+  },
+  {
+    "disease_id": "3944",
+    "cui": "C0242379",
+    "name": "Malignant neoplasm of lung"
+  },
+  {
+    "disease_id": "354",
+    "cui": "C0007137",
+    "name": "Squamous cell carcinoma"
+  },
+  {
+    "disease_id": "7674",
+    "cui": "C0699791",
+    "name": "Stomach Carcinoma"
+  },
+  {
+    "disease_id": "1474",
+    "cui": "C0024623",
+    "name": "Malignant neoplasm of stomach"
+  },
+  {
+    "disease_id": "3396",
+    "cui": "C0206659",
+    "name": "Embryonal Carcinoma"
+  },
+  {
+    "disease_id": "2159",
+    "cui": "C0036631",
+    "name": "Seminoma"
+  },
+  {
+    "disease_id": "492",
+    "cui": "C0009404",
+    "name": "Colorectal Neoplasms"
+  },
+  {
+    "disease_id": "3409",
+    "cui": "C0206677",
+    "name": "Adenomatous Polyps"
+  },
+  {
+    "disease_id": "9571",
+    "cui": "C1302401",
+    "name": "Adenoma of large intestine"
+  },
+  {
+    "disease_id": "1441",
+    "cui": "C0024299",
+    "name": "Lymphoma"
+  },
+  {
+    "disease_id": "2539",
+    "cui": "C0079740",
+    "name": "High Grade Lymphoma (neoplasm)"
+  },
+  {
+    "disease_id": "2251",
+    "cui": "C0038356",
+    "name": "Stomach Neoplasms"
+  },
+  {
+    "disease_id": "17949",
+    "cui": "C4721610",
+    "name": "Carcinoma, Ovarian Epithelial"
+  },
+  {
+    "disease_id": "9110",
+    "cui": "C1140680",
+    "name": "Malignant neoplasm of ovary"
+  },
+  {
+    "disease_id": "17957",
+    "cui": "C4721779",
+    "name": "Ovarian cancer stage IV"
+  },
+  {
+    "disease_id": "8885",
+    "cui": "C0919267",
+    "name": "ovarian neoplasm"
+  },
+  {
+    "disease_id": "5278",
+    "cui": "C0280217",
+    "name": "stage, non-small cell lung cancer"
+  },
+  {
+    "disease_id": "9264",
+    "cui": "C1265996",
+    "name": "Large cell neuroendocrine carcinoma"
+  },
+  {
+    "disease_id": "1351",
+    "cui": "C0023467",
+    "name": "Leukemia, Myelocytic, Acute"
+  },
+  {
+    "disease_id": "4594",
+    "cui": "C0268381",
+    "name": "Primary amyloidosis"
+  },
+  {
+    "disease_id": "9728",
+    "cui": "C1332199",
+    "name": "Adult Desmoplastic Small Round Cell Tumor"
+  },
+  {
+    "disease_id": "5335",
+    "cui": "C0281508",
+    "name": "Desmoplastic Small Round Cell Tumor"
+  },
+  {
+    "disease_id": "10331",
+    "cui": "C1511789",
+    "name": "Desmoplastic"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "cui": "C0026764",
+  "cui_name": "Multiple Myeloma",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.9,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Multiple Myeloma has strong epidemiological data from cancer registries and WHO sources, with global incidence ~6-7 per 100k. Moderate geographic variation with higher rates in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0036646",
+  "cui_name": "Age-related cataract",
+  "incidence_per_100k": 20,
+  "total_cases_per_year": 1600000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Cataract",
+  "reasoning": "Age-related cataract is a common eye disease in elderly populations. Global incidence estimated at ~20 per 100k based on WHO burden of disease data and ophthalmological epidemiological studies, with higher rates in regions with greater UV exposure and lower surgical access.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0023892",
+  "cui_name": "Cirrhosis of liver",
+  "incidence_per_100k": 11.0,
+  "total_cases_per_year": 880000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": "Liver disease",
+  "reasoning": "Cirrhosis has well-documented global incidence ~11 per 100k per year from WHO and medical literature, but varies significantly by region (3-5 per 100k in developed countries to 15-20+ in HBV/HCV endemic regions).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0751111",
+  "cui_name": "Awakening epilepsy",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Idiopathic Generalized Epilepsy",
+  "reasoning": "Specific subtype of generalized epilepsy with seizures upon awakening, affecting approximately 2-3 per 100k globally. Well-defined syndrome with moderate epidemiological data from epilepsy registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low"
+}

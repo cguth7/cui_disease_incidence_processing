@@ -1,0 +1,12 @@
+{
+  "cui": "C0003864",
+  "cui_name": "Arthritis",
+  "incidence_per_100k": 35,
+  "total_cases_per_year": 2800000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major arthritis subtypes: osteoarthritis (~10-15 per 100k), rheumatoid arthritis (~1-2), gout (~2-4), and other inflammatory arthritides including psoriatic arthritis, ankylosing spondylitis, and lupus-related arthritis (~3-8) = ~35 per 100k incidence. Low confidence due to wide variation across subtypes and significant geographic differences in disease prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high"
+}

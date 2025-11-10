@@ -1,0 +1,12 @@
+{
+  "cui": "C3495919",
+  "cui_name": "Enthesitis-Related Arthritis",
+  "incidence_per_100k": 0.25,
+  "total_cases_per_year": 20000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Juvenile Idiopathic Arthritis",
+  "reasoning": "Enthesitis-related arthritis is a well-defined subtype of JIA comprising 10-15% of JIA cases with estimated incidence of 0.2-0.3 per 100k globally. Data from pediatric rheumatology registries supports this estimate, though less robust than common adult conditions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

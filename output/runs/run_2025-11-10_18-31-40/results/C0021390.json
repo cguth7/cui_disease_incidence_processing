@@ -1,0 +1,12 @@
+{
+  "cui": "C0021390",
+  "cui_name": "Inflammatory Bowel Diseases",
+  "incidence_per_100k": 20,
+  "total_cases_per_year": 1600000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major IBD subtypes: Crohn's Disease (~10 per 100k), Ulcerative Colitis (~12 per 100k), indeterminate/other IBD (~2 per 100k) = ~20-24 per 100k globally. Low confidence due to significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

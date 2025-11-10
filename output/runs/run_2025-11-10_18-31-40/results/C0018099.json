@@ -1,0 +1,12 @@
+{
+  "cui": "C0018099",
+  "cui_name": "Gout",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gout is a well-documented inflammatory arthritis with established epidemiological studies and registry data from multiple countries. Global incidence estimated at 1.4-2.5 per 100k person-years with male predominance.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

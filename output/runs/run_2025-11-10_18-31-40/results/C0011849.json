@@ -1,0 +1,12 @@
+{
+  "cui": "C0011849",
+  "cui_name": "Diabetes mellitus",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Diabetes mellitus encompasses Type 1, Type 2, and other forms. Global incidence data from WHO/IDF indicates approximately 6-7 new cases per 100k annually, with significant geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

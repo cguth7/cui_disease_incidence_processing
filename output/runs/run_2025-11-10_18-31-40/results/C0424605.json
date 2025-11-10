@@ -1,0 +1,12 @@
+{
+  "cui": "C0424605",
+  "cui_name": "Developmental delay (disorder)",
+  "incidence_per_100k": 450,
+  "total_cases_per_year": 36000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Neurodevelopmental disorders",
+  "reasoning": "Developmental delay affects approximately 2-3% of children globally with significant variation by country. Aggregate estimate based on educational identification and early intervention program statistics, accounting for high geographic variation in diagnostic practices and healthcare access.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0020557",
+  "cui_name": "Hypertriglyceridemia",
+  "incidence_per_100k": 7.5,
+  "total_cases_per_year": 600000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypertriglyceridemia (triglycerides >150 mg/dL) affects ~20-25% of adults globally; annual incidence of new diagnoses estimated at 5-10 per 100k based on epidemiological surveys, with moderate geographic variation by development status and dietary patterns.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate"
+}

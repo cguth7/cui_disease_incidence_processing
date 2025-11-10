@@ -1,0 +1,12 @@
+{
+  "cui": "C1867441",
+  "cui_name": "Pterygium Of Conjunctiva And Cornea",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pterygium is a well-defined ocular condition with significant geographic variation. Global average incidence ~1.5 per 100k, ranging from <1 in temperate regions to 5+ per 100k in tropical areas due to UV exposure. Data from ophthalmology registries and epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

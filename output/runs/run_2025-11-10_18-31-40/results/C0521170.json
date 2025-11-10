@@ -1,0 +1,12 @@
+{
+  "cui": "C0521170",
+  "cui_name": "Osteoporotic Fractures",
+  "incidence_per_100k": 110.0,
+  "total_cases_per_year": 8800000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Osteoporosis",
+  "reasoning": "Osteoporotic fractures are well-documented with global incidence ~110 per 100k (combining hip, vertebral, and wrist fractures). WHO data and multiple national registries provide good epidemiological coverage.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

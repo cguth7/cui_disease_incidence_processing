@@ -10,15 +10,6 @@ venv/
 dist/
 build/
 
-# Output files (keep structure, ignore results)
-output/runs/*/results/*.json
-output/runs/*/checkpoint.json
-output/runs/*/progress.log
-output/runs/*/summary.json
-
-# Keep the directory structure
-!output/runs/.gitkeep
-
 # IDE
 .vscode/
 .idea/
@@ -29,6 +20,3 @@ output/runs/*/summary.json
 # OS
 .DS_Store
 Thumbs.db
-
-# Logs
-*.log

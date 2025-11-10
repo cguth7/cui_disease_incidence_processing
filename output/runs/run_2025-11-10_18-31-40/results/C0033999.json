@@ -1,0 +1,12 @@
+{
+  "cui": "C0033999",
+  "cui_name": "Pterygium",
+  "incidence_per_100k": 1.1,
+  "total_cases_per_year": 88000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pterygium is a benign conjunctival growth with global incidence estimates of 0.7-1.5 per 100k per year. Estimate of 1.1 per 100k represents global average; significantly higher in tropical/subtropical regions (up to 5-10 per 100k) and lower in temperate zones (<0.5 per 100k).",
+  "data_quality": "moderate",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C0007786",
+  "cui_name": "Brain Ischemia",
+  "incidence_per_100k": 100,
+  "total_cases_per_year": 8000000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Cerebrovascular Disease",
+  "reasoning": "Brain ischemia (acute ischemic stroke) has well-documented global incidence ~100 per 100k based on WHO and international stroke registries. High geographic variation due to population aging, risk factor prevalence, and healthcare access differences.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

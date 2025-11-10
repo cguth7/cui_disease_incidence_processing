@@ -1,0 +1,12 @@
+{
+  "cui": "C0085580",
+  "cui_name": "Essential hypertension",
+  "incidence_per_100k": 165,
+  "total_cases_per_year": 13200000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Hypertension",
+  "reasoning": "Essential hypertension has strong epidemiological data from WHO and major registries, with global incidence ~165 per 100k person-years. Well-defined diagnostic criteria and extensive surveillance data support this estimate.",
+  "data_quality": "strong",
+  "geographic_variation": "high"
+}

@@ -1,0 +1,12 @@
+{
+  "cui": "C1306459",
+  "cui_name": "Primary malignant neoplasm",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering all malignant cancers across all organ systems with vastly different incidence rates. Too broad and generic to estimate meaningfully without organ or tissue specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown"
+}
