@@ -1,0 +1,602 @@
+[
+  {
+    "disease_id": "4076",
+    "cui": "C0263628",
+    "name": "Tumoral calcinosis",
+    "row_index": 600
+  },
+  {
+    "disease_id": "17707",
+    "cui": "C4551976",
+    "name": "HYPOTRICHOSIS 1",
+    "row_index": 601
+  },
+  {
+    "disease_id": "11789",
+    "cui": "C1853256",
+    "name": "Hyperostosis-hyperphosphatemia syndrome",
+    "row_index": 602
+  },
+  {
+    "disease_id": "4249",
+    "cui": "C0265354",
+    "name": "CHARGE Syndrome",
+    "row_index": 603
+  },
+  {
+    "disease_id": "11482",
+    "cui": "C1846142",
+    "name": "HOYERAAL-HREIDARSSON SYNDROME",
+    "row_index": 604
+  },
+  {
+    "disease_id": "12298",
+    "cui": "C1863512",
+    "name": "HYPERCHOLESTEROLEMIA, AUTOSOMAL RECESSIVE",
+    "row_index": 605
+  },
+  {
+    "disease_id": "332",
+    "cui": "C0007095",
+    "name": "Carcinoid Tumor",
+    "row_index": 606
+  },
+  {
+    "disease_id": "5529",
+    "cui": "C0334299",
+    "name": "Carcinoid tumor no ICD-O subtype",
+    "row_index": 607
+  },
+  {
+    "disease_id": "13806",
+    "cui": "C2931456",
+    "name": "Prostate cancer, familial",
+    "row_index": 608
+  },
+  {
+    "disease_id": "17988",
+    "cui": "C4722328",
+    "name": "Hereditary Prostate Carcinoma",
+    "row_index": 609
+  },
+  {
+    "disease_id": "13368",
+    "cui": "C2745959",
+    "name": "Spondyloepiphyseal dysplasia, congenita",
+    "row_index": 610
+  },
+  {
+    "disease_id": "7904",
+    "cui": "C0747845",
+    "name": "early pregnancy",
+    "row_index": 611
+  },
+  {
+    "disease_id": "10712",
+    "cui": "C1719495",
+    "name": "Aggressive periodontitis, generalized",
+    "row_index": 612
+  },
+  {
+    "disease_id": "305",
+    "cui": "C0006271",
+    "name": "Bronchiolitis",
+    "row_index": 613
+  },
+  {
+    "disease_id": "5796",
+    "cui": "C0340293",
+    "name": "Anterior myocardial infarction",
+    "row_index": 614
+  },
+  {
+    "disease_id": "2636",
+    "cui": "C0085612",
+    "name": "Ventricular arrhythmia",
+    "row_index": 615
+  },
+  {
+    "disease_id": "5101",
+    "cui": "C0278517",
+    "name": "Non-small cell lung cancer recurrent",
+    "row_index": 616
+  },
+  {
+    "disease_id": "1052",
+    "cui": "C0019163",
+    "name": "Hepatitis B",
+    "row_index": 617
+  },
+  {
+    "disease_id": "7429",
+    "cui": "C0577631",
+    "name": "Carotid Atherosclerosis",
+    "row_index": 618
+  },
+  {
+    "disease_id": "2073",
+    "cui": "C0035302",
+    "name": "Retinal Artery Occlusion",
+    "row_index": 619
+  },
+  {
+    "disease_id": "1125",
+    "cui": "C0020456",
+    "name": "Hyperglycemia",
+    "row_index": 620
+  },
+  {
+    "disease_id": "10638",
+    "cui": "C1706004",
+    "name": "Anhydrotic Ectodermal Dysplasias",
+    "row_index": 621
+  },
+  {
+    "disease_id": "57",
+    "cui": "C0001768",
+    "name": "Agammaglobulinemia",
+    "row_index": 622
+  },
+  {
+    "disease_id": "1603",
+    "cui": "C0026918",
+    "name": "Mycobacterium Infections",
+    "row_index": 623
+  },
+  {
+    "disease_id": "3180",
+    "cui": "C0162359",
+    "name": "Christ-Siemens-Touraine syndrome",
+    "row_index": 624
+  },
+  {
+    "disease_id": "3887",
+    "cui": "C0239946",
+    "name": "Fibrosis, Liver",
+    "row_index": 625
+  },
+  {
+    "disease_id": "888",
+    "cui": "C0017075",
+    "name": "Ganglioneuroma",
+    "row_index": 626
+  },
+  {
+    "disease_id": "5171",
+    "cui": "C0278878",
+    "name": "Adult Glioblastoma",
+    "row_index": 627
+  },
+  {
+    "disease_id": "5305",
+    "cui": "C0280474",
+    "name": "Childhood Glioblastoma",
+    "row_index": 628
+  },
+  {
+    "disease_id": "13443",
+    "cui": "C2750078",
+    "name": "Hypophosphatemic Rickets, Autosomal Recessive, 2",
+    "row_index": 629
+  },
+  {
+    "disease_id": "9158",
+    "cui": "C1175175",
+    "name": "Severe Acute Respiratory Syndrome",
+    "row_index": 630
+  },
+  {
+    "disease_id": "4867",
+    "cui": "C0271650",
+    "name": "Impaired glucose tolerance",
+    "row_index": 631
+  },
+  {
+    "disease_id": "2586",
+    "cui": "C0085207",
+    "name": "Gestational Diabetes",
+    "row_index": 632
+  },
+  {
+    "disease_id": "4768",
+    "cui": "C0270824",
+    "name": "Visual seizure",
+    "row_index": 633
+  },
+  {
+    "disease_id": "3534",
+    "cui": "C0220994",
+    "name": "Hyperammonemia",
+    "row_index": 634
+  },
+  {
+    "disease_id": "2666",
+    "cui": "C0085740",
+    "name": "Mendelson Syndrome",
+    "row_index": 635
+  },
+  {
+    "disease_id": "1933",
+    "cui": "C0032290",
+    "name": "Aspiration Pneumonia",
+    "row_index": 636
+  },
+  {
+    "disease_id": "17924",
+    "cui": "C4721414",
+    "name": "Mantle cell lymphoma",
+    "row_index": 637
+  },
+  {
+    "disease_id": "9518",
+    "cui": "C1292778",
+    "name": "Chronic myeloproliferative disorder",
+    "row_index": 638
+  },
+  {
+    "disease_id": "3426",
+    "cui": "C0206701",
+    "name": "Cystadenocarcinoma, Serous",
+    "row_index": 639
+  },
+  {
+    "disease_id": "5350",
+    "cui": "C0282193",
+    "name": "Iron Overload",
+    "row_index": 640
+  },
+  {
+    "disease_id": "3376",
+    "cui": "C0206638",
+    "name": "Giant Cell Tumor of Bone",
+    "row_index": 641
+  },
+  {
+    "disease_id": "3476",
+    "cui": "C0220620",
+    "name": "Gastrointestinal Carcinoid Tumor",
+    "row_index": 642
+  },
+  {
+    "disease_id": "3004",
+    "cui": "C0154208",
+    "name": "Disorder of endocrine ovary",
+    "row_index": 643
+  },
+  {
+    "disease_id": "17850",
+    "cui": "C4699508",
+    "name": "Cardioembolism (high-risk/medium-risk)",
+    "row_index": 644
+  },
+  {
+    "disease_id": "71",
+    "cui": "C0001969",
+    "name": "Alcoholic Intoxication",
+    "row_index": 645
+  },
+  {
+    "disease_id": "374",
+    "cui": "C0007570",
+    "name": "Celiac Disease",
+    "row_index": 646
+  },
+  {
+    "disease_id": "18104",
+    "cui": "C4745063",
+    "name": "Biliary Tract Carcinoma",
+    "row_index": 647
+  },
+  {
+    "disease_id": "5643",
+    "cui": "C0334634",
+    "name": "Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",
+    "row_index": 648
+  },
+  {
+    "disease_id": "90",
+    "cui": "C0002514",
+    "name": "Amino Acid Metabolism, Inborn Errors",
+    "row_index": 649
+  },
+  {
+    "disease_id": "13371",
+    "cui": "C2746066",
+    "name": "Combined D-2- and L-2-hydroxyglutaric aciduria",
+    "row_index": 650
+  },
+  {
+    "disease_id": "10925",
+    "cui": "C1833429",
+    "name": "D-2-hydroxyglutaric aciduria",
+    "row_index": 651
+  },
+  {
+    "disease_id": "7948",
+    "cui": "C0750905",
+    "name": "Amino Acid Metabolism, Inherited Disorders",
+    "row_index": 652
+  },
+  {
+    "disease_id": "14281",
+    "cui": "C3152055",
+    "name": "D-2-HYDROXYGLUTARIC ACIDURIA 1",
+    "row_index": 653
+  },
+  {
+    "disease_id": "2035",
+    "cui": "C0034341",
+    "name": "Pyruvate Carboxylase Deficiency Disease",
+    "row_index": 654
+  },
+  {
+    "disease_id": "15297",
+    "cui": "C3805092",
+    "name": "Methylenetetrahydrofolate reductase gene mutation",
+    "row_index": 655
+  },
+  {
+    "disease_id": "9188",
+    "cui": "C1260403",
+    "name": "prothrombin gene mutation",
+    "row_index": 656
+  },
+  {
+    "disease_id": "11250",
+    "cui": "C1840061",
+    "name": "SMALL PATELLA SYNDROME",
+    "row_index": 657
+  },
+  {
+    "disease_id": "2597",
+    "cui": "C0085292",
+    "name": "Stiff-Person Syndrome",
+    "row_index": 658
+  },
+  {
+    "disease_id": "7452",
+    "cui": "C0584960",
+    "name": "Factor V Leiden mutation",
+    "row_index": 659
+  },
+  {
+    "disease_id": "7548",
+    "cui": "C0600433",
+    "name": "Activated Protein C Resistance",
+    "row_index": 660
+  },
+  {
+    "disease_id": "13046",
+    "cui": "C2609046",
+    "name": "Sticky platelet syndrome",
+    "row_index": 661
+  },
+  {
+    "disease_id": "8187",
+    "cui": "C0751690",
+    "name": "Malignant Peripheral Nerve Sheath Tumor",
+    "row_index": 662
+  },
+  {
+    "disease_id": "4995",
+    "cui": "C0272394",
+    "name": "Disorder of lymph node",
+    "row_index": 663
+  },
+  {
+    "disease_id": "6180",
+    "cui": "C0345964",
+    "name": "Adenoma of lung",
+    "row_index": 664
+  },
+  {
+    "disease_id": "338",
+    "cui": "C0007112",
+    "name": "Adenocarcinoma of prostate",
+    "row_index": 665
+  },
+  {
+    "disease_id": "13582",
+    "cui": "C2827362",
+    "name": "Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement",
+    "row_index": 666
+  },
+  {
+    "disease_id": "8500",
+    "cui": "C0850666",
+    "name": "Infection caused by Helicobacter pylori",
+    "row_index": 667
+  },
+  {
+    "disease_id": "6360",
+    "cui": "C0374997",
+    "name": "Helicobacter pylori (H. pylori) infection in conditions classified elsewhere and of unspecified site",
+    "row_index": 668
+  },
+  {
+    "disease_id": "10000",
+    "cui": "C1335483",
+    "name": "Gastric Diffuse Large B-Cell Lymphoma",
+    "row_index": 669
+  },
+  {
+    "disease_id": "3867",
+    "cui": "C0238621",
+    "name": "Aminoaciduria",
+    "row_index": 670
+  },
+  {
+    "disease_id": "12940",
+    "cui": "C2316810",
+    "name": "Chronic kidney disease stage 5",
+    "row_index": 671
+  },
+  {
+    "disease_id": "1275",
+    "cui": "C0022661",
+    "name": "Kidney Failure, Chronic",
+    "row_index": 672
+  },
+  {
+    "disease_id": "6622",
+    "cui": "C0403396",
+    "name": "Steroid-sensitive nephrotic syndrome",
+    "row_index": 673
+  },
+  {
+    "disease_id": "10771",
+    "cui": "C1737225",
+    "name": "Mesangioproliferative glomerulonephritis",
+    "row_index": 674
+  },
+  {
+    "disease_id": "3267",
+    "cui": "C0178664",
+    "name": "Glomerulosclerosis (disorder)",
+    "row_index": 675
+  },
+  {
+    "disease_id": "934",
+    "cui": "C0017662",
+    "name": "Glomerulonephritis, Membranoproliferative",
+    "row_index": 676
+  },
+  {
+    "disease_id": "7158",
+    "cui": "C0520463",
+    "name": "Chronic active hepatitis",
+    "row_index": 677
+  },
+  {
+    "disease_id": "7599",
+    "cui": "C0679427",
+    "name": "myeloblastosis",
+    "row_index": 678
+  },
+  {
+    "disease_id": "8841",
+    "cui": "C0878544",
+    "name": "Cardiomyopathies",
+    "row_index": 679
+  },
+  {
+    "disease_id": "7169",
+    "cui": "C0520679",
+    "name": "Sleep Apnea, Obstructive",
+    "row_index": 680
+  },
+  {
+    "disease_id": "1148",
+    "cui": "C0020538",
+    "name": "Hypertensive disease",
+    "row_index": 681
+  },
+  {
+    "disease_id": "4706",
+    "cui": "C0268790",
+    "name": "Renal vascular disorder",
+    "row_index": 682
+  },
+  {
+    "disease_id": "983",
+    "cui": "C0018553",
+    "name": "Hamartoma Syndrome, Multiple",
+    "row_index": 683
+  },
+  {
+    "disease_id": "2202",
+    "cui": "C0037315",
+    "name": "Sleep Apnea Syndromes",
+    "row_index": 684
+  },
+  {
+    "disease_id": "2574",
+    "cui": "C0085129",
+    "name": "Bronchial Hyperreactivity",
+    "row_index": 685
+  },
+  {
+    "disease_id": "13944",
+    "cui": "C2937421",
+    "name": "Prostatic Hyperplasia",
+    "row_index": 686
+  },
+  {
+    "disease_id": "1440",
+    "cui": "C0024291",
+    "name": "Lymphohistiocytosis, Hemophagocytic",
+    "row_index": 687
+  },
+  {
+    "disease_id": "10288",
+    "cui": "C1456873",
+    "name": "alpha^+^ Thalassemia",
+    "row_index": 688
+  },
+  {
+    "disease_id": "17455",
+    "cui": "C4528176",
+    "name": "High Risk Myelodysplastic Syndrome",
+    "row_index": 689
+  },
+  {
+    "disease_id": "81",
+    "cui": "C0002312",
+    "name": "alpha-Thalassemia",
+    "row_index": 690
+  },
+  {
+    "disease_id": "7461",
+    "cui": "C0585216",
+    "name": "Alpha-Thalassemia Myelodysplasia Syndrome",
+    "row_index": 691
+  },
+  {
+    "disease_id": "1744",
+    "cui": "C0029134",
+    "name": "Optic Neuritis",
+    "row_index": 692
+  },
+  {
+    "disease_id": "3857",
+    "cui": "C0238462",
+    "name": "Medullary carcinoma of thyroid",
+    "row_index": 693
+  },
+  {
+    "disease_id": "2723",
+    "cui": "C0086981",
+    "name": "Sicca Syndrome",
+    "row_index": 694
+  },
+  {
+    "disease_id": "964",
+    "cui": "C0018133",
+    "name": "Graft-vs-Host Disease",
+    "row_index": 695
+  },
+  {
+    "disease_id": "12837",
+    "cui": "C2004493",
+    "name": "Leukemia, B-Cell",
+    "row_index": 696
+  },
+  {
+    "disease_id": "197",
+    "cui": "C0003962",
+    "name": "Ascites",
+    "row_index": 697
+  },
+  {
+    "disease_id": "1944",
+    "cui": "C0032460",
+    "name": "Polycystic Ovary Syndrome",
+    "row_index": 698
+  },
+  {
+    "disease_id": "16426",
+    "cui": "C4087141",
+    "name": "Skin squamous cell carcinoma metastatic",
+    "row_index": 699
+  }
+]
