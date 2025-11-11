@@ -1,0 +1,17 @@
+{
+  "cui": "C0011168",
+  "cui_name": "Deglutition Disorders",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for dysphagia causes: neurological (stroke, Parkinson's), neuromuscular (myasthenia), structural (strictures, tumors), and age-related. Heterogeneous umbrella term with significant overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dysphagia Society, Clinical Literature",
+  "source_url": null,
+  "source_type": "estimate"
+}

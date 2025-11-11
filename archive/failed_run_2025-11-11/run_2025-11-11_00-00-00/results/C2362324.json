@@ -1,0 +1,17 @@
+{
+  "cui": "C2362324",
+  "cui_name": "Pediatric Obesity",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Obesity",
+  "reasoning": "Pediatric obesity is a chronic condition with limited incidence data; prevalence is well-documented (15-20% of children globally) but new-onset cases per year difficult to estimate. Estimated incidence ~3-4 per 100k children per year based on longitudinal studies. Low confidence due to incomplete incidence data and high variation by region.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Obesity Observatory, CDC studies",
+  "source_url": null,
+  "source_type": "estimate"
+}

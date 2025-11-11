@@ -1,0 +1,17 @@
+{
+  "cui": "C3469186",
+  "cui_name": "HEMOCHROMATOSIS, TYPE 1",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Hemochromatosis",
+  "reasoning": "Type 1 hemochromatosis is an autosomal recessive disorder with well-characterized genetics (HFE mutations). Genetic studies indicate ~1 in 200-400 individuals carry homozygous mutations in European populations, but clinical disease manifestation is lower (~1-2 per 100k per year). Incidence of clinical disease varies by ethnicity: highest in Northern European/Celtic populations, lower in other groups. Moderate confidence due to strong genetic data but variable clinical penetrance and diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Genetic epidemiology studies, American Hemochromatosis Society",
+  "source_url": "https://www.americanhemochromatosis.org/",
+  "source_type": "literature"
+}

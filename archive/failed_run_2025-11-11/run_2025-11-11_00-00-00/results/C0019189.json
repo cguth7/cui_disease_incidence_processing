@@ -1,0 +1,17 @@
+{
+  "cui": "C0019189",
+  "cui_name": "Hepatitis, Chronic",
+  "incidence_per_100k": 1.8,
+  "total_cases_per_year": 144000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic hepatitis incidence varies by region and type (HBV, HCV). Global estimate approximately 1.8 per 100k for new cases annually, with high geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2015,
+  "source": "WHO Viral Hepatitis Reports",
+  "source_url": "https://www.who.int/news-room/facts-in-pictures/detail/hepatitis",
+  "source_type": "registry"
+}

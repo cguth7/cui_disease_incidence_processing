@@ -1,0 +1,17 @@
+{
+  "cui": "C0278876",
+  "cui_name": "Adult Medulloblastoma",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Medulloblastoma",
+  "reasoning": "Medulloblastoma in adults (age >18) is exceptionally rare, representing <5% of all medulloblastomas. Estimated incidence <0.02 per 100k based on case series and cancer registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Cancer registry case series and literature review",
+  "source_url": null,
+  "source_type": "literature"
+}

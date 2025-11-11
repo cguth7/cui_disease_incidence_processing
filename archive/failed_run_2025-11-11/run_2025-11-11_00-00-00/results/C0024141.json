@@ -1,0 +1,17 @@
+{
+  "cui": "C0024141",
+  "cui_name": "Lupus Erythematosus, Systemic",
+  "incidence_per_100k": 4.8,
+  "total_cases_per_year": 384000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "SLE incidence varies by ethnicity (0.5 per 100k in Caucasians, up to 6-8 per 100k in African/Asian populations). Global average approximately 4-5 per 100k. Well-documented in rheumatological registries and epidemiological studies.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO/Rheumatology registries",
+  "source_url": null,
+  "source_type": "registry"
+}

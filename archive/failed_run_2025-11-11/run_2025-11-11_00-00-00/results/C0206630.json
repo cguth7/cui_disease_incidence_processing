@@ -1,0 +1,17 @@
+{
+  "cui": "C0206630",
+  "cui_name": "Endometrial Stromal Sarcoma",
+  "incidence_per_100k": 0.2,
+  "total_cases_per_year": 16000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Uterine Sarcoma",
+  "reasoning": "Endometrial stromal sarcoma is a rare subtype of uterine sarcoma, accounting for ~10-15% of uterine sarcomas. Uterine sarcomas have incidence ~1-2 per 100k; ESS comprises estimated 0.2 per 100k based on registry data. Limited epidemiological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

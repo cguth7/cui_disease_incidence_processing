@@ -1,0 +1,17 @@
+{
+  "cui": "C0003850",
+  "cui_name": "Arteriosclerosis",
+  "incidence_per_100k": 120.0,
+  "total_cases_per_year": 9600000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate of arteriosclerosis (atherosclerotic and arteriosclerotic arterial disease) summing: atherosclerotic coronary disease (~50), cerebrovascular disease (~25), peripheral arterial disease (~20), other arterial sclerosis (~25) = ~120 per 100k. Low confidence due to definitional overlap and heterogeneity.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Aggregate estimate from cardiovascular epidemiology literature",
+  "source_url": null,
+  "source_type": "estimate"
+}

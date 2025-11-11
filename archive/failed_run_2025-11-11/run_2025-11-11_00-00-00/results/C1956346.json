@@ -1,0 +1,17 @@
+{
+  "cui": "C1956346",
+  "cui_name": "Coronary Artery Disease",
+  "incidence_per_100k": 75.0,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Atherosclerosis",
+  "reasoning": "Coronary artery disease incidence globally ~70-80 per 100k person-years based on WHO cardiovascular registries and epidemiological studies. Strong data from developed nation registries; variable in developing nations. Represents primary manifestation of coronary atherosclerosis.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Burden of Disease 2020, cardiovascular registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

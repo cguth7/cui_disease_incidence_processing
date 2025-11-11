@@ -1,0 +1,17 @@
+{
+  "cui": "C0020179",
+  "cui_name": "Huntington Disease",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Autosomal dominant genetic disorder with well-established global incidence of approximately 0.5-1.0 per 100k per year. Strong data from Huntington's Disease registries and population-based epidemiological studies. Incidence varies modestly by geographic region due to founder effects and gene frequency variations, but estimates cluster around 0.8 per 100k globally.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Huntington's Disease Association, epidemiological registries",
+  "source_url": "https://www.huntingtonsdisease.org.uk/",
+  "source_type": "registry"
+}

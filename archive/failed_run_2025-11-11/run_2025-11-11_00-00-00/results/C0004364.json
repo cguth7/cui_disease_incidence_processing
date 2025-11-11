@@ -1,0 +1,17 @@
+{
+  "cui": "C0004364",
+  "cui_name": "Autoimmune Diseases",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and heterogeneous to estimate meaningfully. Covers >100 distinct autoimmune conditions with vastly different incidence rates (rheumatoid arthritis ~25 per 100k, multiple sclerosis ~2 per 100k, dermatomyositis <1 per 100k). No identifiable finite set of major subcategories.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

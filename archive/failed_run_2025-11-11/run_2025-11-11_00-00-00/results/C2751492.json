@@ -1,0 +1,17 @@
+{
+  "cui": "C2751492",
+  "cui_name": "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED",
+  "incidence_per_100k": 0.3,
+  "total_cases_per_year": 24000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Amyloidosis",
+  "reasoning": "Hereditary transthyretin amyloidosis (hATTR) is a rare genetic disorder with global incidence estimated at 0.2-0.5 per 100k, with geographic clustering in endemic regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rare disease registries and genetic epidemiology studies",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,17 @@
+{
+  "cui": "C0023890",
+  "cui_name": "Liver Cirrhosis",
+  "incidence_per_100k": 11.0,
+  "total_cases_per_year": 880000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global incidence of cirrhosis from WHO estimates approximately 11 per 100k, with significant variation by region due to hepatitis prevalence and alcohol consumption patterns.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "WHO Global Health Observatory",
+  "source_url": "https://www.who.int/data/gho",
+  "source_type": "registry"
+}

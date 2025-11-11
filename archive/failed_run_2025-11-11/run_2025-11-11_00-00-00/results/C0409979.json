@@ -1,0 +1,17 @@
+{
+  "cui": "C0409979",
+  "cui_name": "Neonatal Systemic lupus erythematosus",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Systemic Lupus Erythematosus",
+  "reasoning": "Neonatal lupus affects <2% of infants born to mothers with anti-Ro/SSA or anti-La/SSB antibodies, corresponding to approximately <0.01 per 100k in general population. Most manifestations are transient and self-limiting.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric rheumatology literature and prospective cohort studies",
+  "source_url": null,
+  "source_type": "literature"
+}

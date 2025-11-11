@@ -1,0 +1,17 @@
+{
+  "cui": "C0023470",
+  "cui_name": "Myeloid Leukemia",
+  "incidence_per_100k": 4.5,
+  "total_cases_per_year": 360000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate estimate of major myeloid leukemia subtypes: acute myeloid leukemia AML (~2.5 per 100k), chronic myeloid leukemia CML (~1.0 per 100k), and other myeloid leukemias (~1.0 per 100k). Based on SEER and international cancer registry data circa 2005.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "SEER Cancer Statistics and international cancer registries",
+  "source_url": "https://seer.cancer.gov/",
+  "source_type": "registry"
+}

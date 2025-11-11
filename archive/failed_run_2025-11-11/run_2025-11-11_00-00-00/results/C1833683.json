@@ -1,0 +1,17 @@
+{
+  "cui": "C1833683",
+  "cui_name": "NEPHROLITHIASIS, CALCIUM OXALATE",
+  "incidence_per_100k": 10.0,
+  "total_cases_per_year": 800000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Nephrolithiasis",
+  "reasoning": "Calcium oxalate stones comprise ~75-80% of all kidney stones. Overall nephrolithiasis incidence ~12-15 per 100k globally, calcium oxalate subtype estimated ~10 per 100k from epidemiological studies and urology registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Nephrology epidemiological studies",
+  "source_url": null,
+  "source_type": "literature"
+}

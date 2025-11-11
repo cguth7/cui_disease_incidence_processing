@@ -1,0 +1,17 @@
+{
+  "cui": "C0013264",
+  "cui_name": "Muscular Dystrophy, Duchenne",
+  "incidence_per_100k": 19.5,
+  "total_cases_per_year": 1560000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Muscular Dystrophy",
+  "reasoning": "Duchenne muscular dystrophy (DMD) is an X-linked disorder with well-documented incidence of approximately 19-25 per 100k live male births globally, supported by multiple registries.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Muscular dystrophy registries and newborn screening data",
+  "source_url": null,
+  "source_type": "registry"
+}

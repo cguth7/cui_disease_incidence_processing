@@ -1,0 +1,17 @@
+{
+  "cui": "C0026205",
+  "cui_name": "Miosis disorder",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Miosis is a symptom/sign rather than a primary disease, occurring secondary to various neurological and pharmacological conditions. Incidence as primary presenting condition is unmeasurable.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

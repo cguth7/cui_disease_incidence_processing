@@ -1,0 +1,17 @@
+{
+  "cui": "C0020619",
+  "cui_name": "Hypogonadism",
+  "incidence_per_100k": 3.5,
+  "total_cases_per_year": 280000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Symptomatic hypogonadism requiring clinical intervention estimated at 2-4 per 100k annually. Moderate confidence due to variable definitions and underdiagnosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical literature and epidemiological surveys",
+  "source_url": null,
+  "source_type": "literature"
+}

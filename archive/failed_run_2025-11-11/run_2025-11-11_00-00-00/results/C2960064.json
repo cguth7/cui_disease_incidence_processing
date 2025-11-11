@@ -1,0 +1,17 @@
+{
+  "cui": "C2960064",
+  "cui_name": "Low grade dysplastic nodule",
+  "incidence_per_100k": 0.15,
+  "total_cases_per_year": 12000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Dysplastic Nodule / Hepatocellular Carcinoma Precursor",
+  "reasoning": "Low-grade dysplastic nodule (LGDN) is a liver pathology finding in cirrhotic patients, considered a HCC precursor. Incidence difficult to establish; depends on surveillance programs in cirrhotic populations. Estimated ~0.15 per 100k in general population based on hepatology registries and cirrhosis surveillance studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hepatology registries, HCC surveillance programs",
+  "source_url": null,
+  "source_type": "estimate"
+}

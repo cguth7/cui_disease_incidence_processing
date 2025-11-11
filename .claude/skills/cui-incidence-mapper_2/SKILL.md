@@ -97,6 +97,154 @@ For batch input of 5 diseases, return an array of 5 results:
 - **source_url**: String or null - URL link to verify the data (e.g., "https://diabetesatlas.org/", "https://gco.iarc.fr/")
 - **source_type**: "registry" | "literature" | "estimate" | null - Type of source (registry=cancer/disease registries, literature=peer-reviewed studies, estimate=BOTEC calculations)
 
+## Source Quality Standards
+
+**CRITICAL: Source quality directly impacts confidence scoring. Low-quality sources MUST result in lower confidence scores.**
+
+### Tier 1 Sources (Required for confidence ≥ 0.7)
+
+**Cancer Registries:**
+- GLOBOCAN (IARC) - https://gco.iarc.fr/
+- SEER (Surveillance, Epidemiology, and End Results Program) - https://seer.cancer.gov/
+- IARC (International Agency for Research on Cancer) - https://www.iarc.who.int/
+- National cancer registries with published methodology
+
+**Government Health Agencies:**
+- WHO (World Health Organization) reports and databases
+- CDC (Centers for Disease Control and Prevention)
+- National health ministries with surveillance data
+- Government epidemiological bulletins
+
+**Peer-Reviewed Literature:**
+- MUST provide exact citation: "Author et al. (Year). Title. Journal. Volume:Pages"
+- MUST be from indexed medical journals (PubMed, Scopus, Web of Science)
+- Examples:
+  - "Smith J et al. (2005). Global incidence of hepatocellular carcinoma. Lancet Oncol. 6(8):621-630"
+  - "Jones A et al. (2004). Epidemiology of systemic lupus erythematosus. Arthritis Rheum. 50(2):345-353"
+
+### Tier 2 Sources (Max confidence = 0.6)
+
+**Regional/Hospital Registries:**
+- Hospital-based registries with defined catchment populations
+- Regional disease surveillance systems
+- State or provincial health department data
+
+**Medical Textbooks/Reviews:**
+- MUST cite primary data sources
+- Example: "Harrison's Principles of Internal Medicine (2005), citing WHO 2003 data"
+
+**Professional Society Guidelines:**
+- MUST reference primary epidemiological studies
+- Example: "American Diabetes Association Clinical Guidelines (2005), based on IDF 2004 study"
+
+### Tier 3 Sources (Max confidence = 0.4)
+
+**Advocacy Organizations (if citing primary sources):**
+- ONLY acceptable if they cite peer-reviewed studies or government data
+- MUST verify the primary source and cite it directly
+- Example: If an advocacy site cites "WHO 2005", go verify the WHO source and cite that instead
+
+**Secondary Literature:**
+- Review articles without primary data collection
+- Older epidemiological studies (pre-2000 for 2005 target data)
+
+### Unacceptable Sources (Must significantly reduce confidence to ≤ 0.3)
+
+❌ **Commercial/Product-Selling Sites:**
+- Health product vendors (supplement sellers, device manufacturers, diagnostic companies)
+- Sites with "buy now" or "shop" buttons related to the disease
+- Patient marketplaces or commercial health portals
+- Example: Sites selling "iron detectors" for hemochromatosis, vitamin supplements, etc.
+
+❌ **General Health Information Sites Without Methodology:**
+- WebMD, Healthline, MayoClinic patient information pages (unless citing specific studies)
+- Wikipedia (use the cited sources instead)
+- Health blogs or news aggregators
+
+❌ **Uncited or Vague Sources:**
+- "Medical literature" without specific citation
+- "Studies show" without naming the studies
+- Organizational websites without methodology
+
+### Source Quality Rules
+
+1. **Always prefer primary sources over secondary sources**
+   - If an advocacy site cites "Lancet 2005", find and cite the Lancet article directly
+   - Never cite a website that's merely summarizing other work
+
+2. **For Tier 1 confidence (≥0.7), you MUST have:**
+   - Exact citation (journal article with author/year/volume/pages, OR)
+   - Official registry data (GLOBOCAN, WHO, CDC) with specific report/year
+
+3. **For literature sources, include:**
+   - Full citation in `source` field
+   - DOI or PubMed URL in `source_url` field (if available)
+   - `source_type: "literature"`
+
+4. **If best available source is Tier 2/3:**
+   - Lower confidence accordingly (see max confidence limits above)
+   - Explain in reasoning: "Limited to [source type], confidence capped at [score]"
+
+5. **Commercial/advocacy sites:**
+   - If it's selling products related to the disease: confidence ≤ 0.3
+   - If methodology is unclear: confidence ≤ 0.4
+   - Always try to find the original source they're citing
+
+### Examples of Proper Source Citations
+
+**Good - Tier 1 Registry:**
+```json
+{
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry",
+  "confidence": 0.88
+}
+```
+
+**Good - Tier 1 Peer-Reviewed:**
+```json
+{
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature",
+  "confidence": 0.85
+}
+```
+
+**Acceptable - Tier 2:**
+```json
+{
+  "source": "Regional hospital registry data (2000-2005) from Johns Hopkins",
+  "source_url": null,
+  "source_type": "registry",
+  "confidence": 0.55,
+  "reasoning": "Limited to regional hospital data, not population-based; confidence capped at 0.55"
+}
+```
+
+**Poor - Must Lower Confidence:**
+```json
+{
+  "source": "American Hemochromatosis Society",
+  "source_url": "https://www.americanhemochromatosis.org/",
+  "source_type": "literature",
+  "confidence": 0.68
+}
+```
+❌ WRONG - This is an advocacy/commercial site. Should be ≤0.3 confidence unless it cites primary sources that you verify.
+
+**Corrected Version:**
+```json
+{
+  "source": "Adams PC et al. (2005). Hemochromatosis and iron-overload screening in a racially diverse population. N Engl J Med. 352:1769-78",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15858186/",
+  "source_type": "literature",
+  "confidence": 0.72,
+  "reasoning": "Population-based screening study from peer-reviewed literature; moderate confidence due to limited geographic scope"
+}
+```
+
 ## Confidence Scoring
 
 | Score | Criteria | Example |
