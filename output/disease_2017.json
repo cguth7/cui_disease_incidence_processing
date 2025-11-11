@@ -1,0 +1,19 @@
+{
+  "cui": "C0033999",
+  "cui_name": "Pterygium",
+  "incidence_per_100k": 20.5,
+  "prevalence_per_100k": 850,
+  "metric_type": "both",
+  "total_cases_per_year": 1640000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pterygium is a benign fibrovascular eye condition with high geographic variation (5-10x more common near equator). Incidence ~20 per 100k person-years, prevalence ~0.85% globally. High UV exposure increases risk significantly.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Epidemiological studies on pterygium prevalence in various populations (2000-2005)",
+  "source_url": null,
+  "source_type": "literature"
+}

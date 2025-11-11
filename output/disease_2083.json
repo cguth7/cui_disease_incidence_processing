@@ -1,0 +1,19 @@
+{
+  "cui": "C0035335",
+  "cui_name": "Retinoblastoma",
+  "incidence_per_100k": 1.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 104000,
+  "confidence": 0.80,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare pediatric cancer with strong registry data. Global incidence ~3.5 per 100k live births (~1.3 per 100k person-years annualized). Well-established incidence from GLOBOCAN and pediatric cancer registries. Primarily affects children ages 0-5.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

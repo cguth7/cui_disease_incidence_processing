@@ -1,0 +1,19 @@
+{
+  "cui": "C0151650",
+  "cui_name": "Renal fibrosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Renal fibrosis is a pathological complication rather than a primary diagnosis, primarily resulting from CKD, diabetes, hypertension, and glomerulonephritis. Reported as prevalence among CKD patients (~15-20% of CKD population). Incidence is poorly defined. Confidence limited to 0.28 due to unclear concept definition and lack of standardized incidence reporting.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

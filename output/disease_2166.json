@@ -1,0 +1,19 @@
+{
+  "cui": "C0036690",
+  "cui_name": "Septicemia",
+  "incidence_per_100k": 75.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Septicemia (bloodstream infection/systemic inflammatory response to infection) incidence estimated at 50-100+ per 100k globally based on hospital surveillance data and epidemiological studies. Higher rates in developing countries, lower in high-income regions. Using ~75 per 100k as global average estimate. Varies by healthcare infrastructure and access to antibiotics.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

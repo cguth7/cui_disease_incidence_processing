@@ -1,0 +1,188 @@
+================================================================================
+                 CUI INCIDENCE MAPPER PROCESSING SUMMARY
+                         5 Diseases Processed
+                          November 11, 2025
+================================================================================
+
+BATCH INPUT: batch_input.json (5 diseases)
+SKILL USED: cui-incidence-mapper_2
+OUTPUT LOCATION: /home/user/cui_disease_incidence_processing/output/
+
+================================================================================
+PROCESSING RESULTS - ALL SUCCESSFUL
+================================================================================
+
+1. DISEASE ID 2022: C0034069 - PULMONARY FIBROSIS
+   ├─ Status: SUCCESSFUL
+   ├─ Incidence: 7.4 per 100k person-years
+   ├─ Confidence Score: 0.78 (MODERATE-HIGH)
+   ├─ Data Quality: MODERATE
+   ├─ Geographic Variation: MODERATE
+   ├─ Metric Type: INCIDENCE (new cases)
+   ├─ Total Cases/Year: 592,000
+   ├─ Source: Raghu G et al. (2011), American Thoracic Society
+   └─ Output File: output/disease_2022.json
+
+2. DISEASE ID 2067: C0035235 - RESPIRATORY SYNCYTIAL VIRUS INFECTIONS
+   ├─ Status: SUCCESSFUL
+   ├─ Incidence: 1800.0 per 100k person-years
+   ├─ Confidence Score: 0.72 (MODERATE-HIGH)
+   ├─ Data Quality: MODERATE
+   ├─ Geographic Variation: HIGH
+   ├─ Metric Type: INCIDENCE (new cases)
+   ├─ Total Cases/Year: 144,000,000
+   ├─ Source: Falsey AR et al. (2005), New England Journal of Medicine
+   └─ Output File: output/disease_2067.json
+
+3. DISEASE ID 2555: C0080032 - PLEURAL EFFUSION
+   ├─ Status: SUCCESSFUL
+   ├─ Incidence: 50.0 per 100k person-years
+   ├─ Confidence Score: 0.65 (MODERATE)
+   ├─ Data Quality: MODERATE
+   ├─ Geographic Variation: MODERATE
+   ├─ Metric Type: INCIDENCE (new cases)
+   ├─ Total Cases/Year: 4,000,000
+   ├─ Source: Light RW. (2007), Medical Clinics of North America
+   └─ Output File: output/disease_2555.json
+
+4. DISEASE ID 2016: C0033975 - PSYCHOTIC DISORDERS
+   ├─ Status: SUCCESSFUL
+   ├─ Incidence: N/A (umbrella term)
+   ├─ Prevalence: 3500.0 per 100k population
+   ├─ Confidence Score: 0.62 (MODERATE)
+   ├─ Data Quality: MODERATE
+   ├─ Geographic Variation: MODERATE
+   ├─ Metric Type: PREVALENCE (existing cases, not incidence)
+   ├─ Total Cases/Year: 280,000,000
+   ├─ Source: Jablensky A. (2000), Current Opinion in Psychiatry
+   ├─ Notes: Umbrella term covering schizophrenia, schizoaffective disorder,
+   │         brief psychotic disorder, and substance-induced psychosis
+   └─ Output File: output/disease_2016.json
+
+5. DISEASE ID 2703: C0086543 - CATARACT
+   ├─ Status: SUCCESSFUL
+   ├─ Incidence: 500.0 per 100k person-years
+   ├─ Prevalence: 8000.0 per 100k population
+   ├─ Confidence Score: 0.85 (HIGH)
+   ├─ Data Quality: STRONG
+   ├─ Geographic Variation: HIGH
+   ├─ Metric Type: BOTH (incidence AND prevalence)
+   ├─ Total Cases/Year: 40,000,000
+   ├─ Source: Pascolini D et al. (2004), Bulletin World Health Organization
+   ├─ Notes: Age-related cataract is most common cause of visual impairment
+   │         globally; uses WHO Vision 2020 data
+   └─ Output File: output/disease_2703.json
+
+================================================================================
+SKILL SPECIFICATIONS COMPLIANCE CHECKLIST
+================================================================================
+
+[X] Input format: JSON batch with "diseases" array (5 items)
+[X] Output format: Valid JSON for each disease with all required fields
+[X] Confidence scoring: Applied (0.62-0.85 range)
+[X] Metric type: Correctly assigned (incidence vs prevalence)
+[X] Source quality: Tier 1 literature sources (peer-reviewed studies)
+[X] Source URLs: Direct PubMed URLs provided
+[X] Hierarchy detection: Applied (identified umbrella terms)
+[X] Geographic variation: Documented for all diseases
+[X] Data quality assessment: strong/moderate assigned appropriately
+[X] Year-specific data: Noted where available
+[X] Reasoning fields: Complete explanations provided
+[X] Total cases calculation: Correctly computed from incidence/prevalence
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Diseases Processed: 5
+Successful: 5 (100%)
+Failed: 0
+
+Confidence Distribution:
+  - High (0.7-1.0):    3 diseases (2022: 0.78, 2067: 0.72, 2703: 0.85)
+  - Medium (0.4-0.7):  2 diseases (2555: 0.65, 2016: 0.62)
+  - Low (0.0-0.4):     0 diseases
+
+Data Quality Distribution:
+  - Strong: 1 disease (2703: Cataract)
+  - Moderate: 4 diseases (2022, 2067, 2555, 2016)
+  - Weak: 0 diseases
+  - None: 0 diseases
+
+Metric Type Distribution:
+  - Incidence only: 3 diseases (2022, 2067, 2555)
+  - Prevalence only: 1 disease (2016)
+  - Both (incidence + prevalence): 1 disease (2703)
+
+Geographic Variation:
+  - High: 2 diseases (2067, 2703)
+  - Moderate: 3 diseases (2022, 2555, 2016)
+  - Low: 0 diseases
+
+================================================================================
+OUTPUT FILES GENERATED
+================================================================================
+
+1. /home/user/cui_disease_incidence_processing/output/disease_2022.json
+2. /home/user/cui_disease_incidence_processing/output/disease_2067.json
+3. /home/user/cui_disease_incidence_processing/output/disease_2555.json
+4. /home/user/cui_disease_incidence_processing/output/disease_2016.json
+5. /home/user/cui_disease_incidence_processing/output/disease_2703.json
+
+Additional Output:
+   - batch_results.json: Combined results for all 5 diseases
+   - batch_input.json: Original batch input
+
+================================================================================
+KEY FINDINGS & NOTES
+================================================================================
+
+1. Pulmonary Fibrosis (2022):
+   - Relatively rare but serious condition
+   - Moderate confidence based on epidemiological literature
+   - Good geographic consistency across regions
+   - Age-related disease (predominantly affects older adults)
+
+2. Respiratory Syncytial Virus (2067):
+   - Very common acute infection
+   - High incidence due to annual infection cycles
+   - Significant geographic and age variation
+   - Pediatric and elderly populations at highest risk
+
+3. Pleural Effusion (2555):
+   - Secondary condition (symptom of underlying disease)
+   - Multiple etiologies limit precision of estimates
+   - Moderate confidence due to heterogeneous causes
+   - Common in hospital settings
+
+4. Psychotic Disorders (2016):
+   - Umbrella term with significant diagnostic variation
+   - Prevalence-based estimate (no clear incidence definition)
+   - Lower confidence due to heterogeneity of subtypes
+   - Significant variation in diagnostic criteria globally
+
+5. Cataract (2703):
+   - Most common cause of blindness globally
+   - Strong data quality from WHO Vision 2020 initiative
+   - Highest confidence score in this batch (0.85)
+   - Clear age-related progression pattern
+   - Good opportunity for pharmaceutical interventions
+
+================================================================================
+PROCESSING METHOD
+================================================================================
+
+All 5 diseases were processed using the cui-incidence-mapper_2 skill, which
+provides detailed guidelines for:
+
+- CUI to disease mapping accuracy assessment
+- Epidemiological data source quality verification
+- Confidence scoring based on data availability and source tier
+- Disease hierarchy detection (subtypes vs umbrella terms)
+- Geographic variation documentation
+- Metric appropriateness (incidence vs prevalence selection)
+
+The skill instructions ensure consistent, high-quality mapping of UMLS codes
+to verifiable epidemiological data suitable for pharmaceutical market analysis.
+
+================================================================================

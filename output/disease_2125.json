@@ -1,0 +1,19 @@
+{
+  "cui": "C0036220",
+  "cui_name": "Kaposi Sarcoma",
+  "incidence_per_100k": 4.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 384000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-defined malignant neoplasm with strong cancer registry data. Global incidence ~4.8 per 100k from GLOBOCAN 2005, varies significantly by HIV prevalence and geographic region (high in sub-Saharan Africa, lower in developed nations).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

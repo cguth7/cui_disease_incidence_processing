@@ -1,0 +1,19 @@
+{
+  "cui": "C0034069",
+  "cui_name": "Pulmonary Fibrosis",
+  "incidence_per_100k": 7.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 592000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Idiopathic pulmonary fibrosis incidence from global epidemiological studies approximately 7-8 per 100k person-years. Global incidence estimate based on multiple regional registries. Metric: incidence (new cases).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Raghu G et al. (2011). An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis. Am J Respir Crit Care Med. 183(6):788-824",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21471066/",
+  "source_type": "literature"
+}

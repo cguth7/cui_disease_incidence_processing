@@ -1,0 +1,19 @@
+{
+  "cui": "C0040136",
+  "cui_name": "Thyroid Neoplasm",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major thyroid neoplasm types: papillary carcinoma (~6 per 100k), follicular carcinoma (~1.5 per 100k), medullary carcinoma (~0.3 per 100k), anaplastic carcinoma (~0.2 per 100k), plus benign adenomas (~10+ per 100k). Umbrella term includes vastly heterogeneous malignant and benign entities with different clinical significance.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2005 (IARC), compiled from regional cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

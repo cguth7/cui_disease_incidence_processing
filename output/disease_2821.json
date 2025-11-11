@@ -1,0 +1,19 @@
+{
+  "cui": "C0151721",
+  "cui_name": "Testicular hypogonadism",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 24000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1920000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hypogonadism",
+  "reasoning": "Testicular hypogonadism (primary hypogonadism) is a chronic endocrine disorder; prevalence is the appropriate metric. Estimated prevalence ~24% of adult males (24,000 per 100k) based on clinical epidemiology and hormone screening studies, though definitions vary. Reported prevalence ranges 3-30% depending on diagnostic thresholds used.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Araujo AB et al. (2007). Prevalence and incidence of androgen deficiency in middle-aged and older men. Journal of Clinical Endocrinology and Metabolism. 92:4241-4247",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17804852/",
+  "source_type": "literature"
+}

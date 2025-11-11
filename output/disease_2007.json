@@ -1,0 +1,19 @@
+{
+  "cui": "C0033893",
+  "cui_name": "Tension Headache",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tension-type headache is the most common primary headache disorder with estimated incidence ~500 per 100k person-years. Often underreported in epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Jensen R. (2005). Tension-type headache. Adv Exp Med Biol. 373:165-174",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15891282/",
+  "source_type": "literature"
+}

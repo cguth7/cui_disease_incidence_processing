@@ -1,0 +1,19 @@
+{
+  "cui": "C0085078",
+  "cui_name": "Lysosomal Storage Diseases",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering 60+ distinct lysosomal storage diseases (Gaucher disease, Fabry disease, Niemann-Pick disease, etc.) with vastly different incidence and prevalence rates. Too heterogeneous to provide meaningful aggregate estimate. Requires specification of particular subtype.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

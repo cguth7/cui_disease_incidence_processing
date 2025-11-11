@@ -1,0 +1,19 @@
+{
+  "cui": "C0038354",
+  "cui_name": "Stomach Diseases",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and heterogeneous to estimate meaningfully. Encompasses gastric cancer (4-5 per 100k), peptic ulcer disease, acute gastroenteritis (extremely common), GERD, gastritis, and other stomach conditions with vastly different incidence rates and clinical significance. Would require specification of stomach disease type.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

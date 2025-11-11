@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0043119",
+    "cui_name": "Werner Syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.3,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Adult progeria; extremely rare autosomal recessive genetic disorder with <1000 cases documented worldwide. Estimated <0.01 per 100k based on case frequency in genetic registries.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

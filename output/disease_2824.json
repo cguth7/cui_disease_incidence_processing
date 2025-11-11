@@ -1,0 +1,19 @@
+{
+  "cui": "C0151744",
+  "cui_name": "Myocardial Ischemia",
+  "incidence_per_100k": 125,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 10000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Coronary Artery Disease",
+  "reasoning": "Myocardial ischemia reported as acute incidence. Global average approximately 125 per 100k per year (varies from ~200-250 in high-income countries to 50-100 in developing regions). Based on WHO 2005 cardiovascular disease estimates.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Cardiovascular Disease Report 2005; Rosamond W et al. (2008). Heart disease and stroke statistics. Circulation. 117(4):e25-e146",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18086925/",
+  "source_type": "literature"
+}

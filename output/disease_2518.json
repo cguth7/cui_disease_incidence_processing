@@ -1,0 +1,19 @@
+{
+  "cui": "C0079218",
+  "cui_name": "Fibromatosis",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Fibromatosis encompasses desmoid fibromatosis, infantile myofibromatosis, and other fibrous tissue proliferations. Desmoid fibromatosis incidence ~2-5 per 100k, infantile form rare (~0.5 per 100k). Aggregate estimate ~2.5 per 100k. Moderate confidence due to heterogeneous subtypes and limited systematic epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical epidemiology of desmoid fibromatosis from regional registries (various 2000-2005)",
+  "source_url": null,
+  "source_type": "literature"
+}

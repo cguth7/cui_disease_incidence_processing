@@ -1,0 +1,19 @@
+{
+  "cui": "C0085576",
+  "cui_name": "Iron-Refractory Iron Deficiency Anemia",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Iron Deficiency Anemia",
+  "reasoning": "Iron-refractory IDA is a specific subtype affecting ~5-10% of IDA patients who don't respond to iron supplementation. Estimated incidence ~0.8 per 100k based on clinical case series. Limited epidemiological data available for this specific subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

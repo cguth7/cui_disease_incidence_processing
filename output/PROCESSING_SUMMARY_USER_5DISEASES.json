@@ -1,0 +1,50 @@
+{
+  "total_processed": 5,
+  "successful": 5,
+  "failed": 0,
+  "processing_date": "2025-11-11",
+  "skill": "cui-incidence-mapper_2",
+  "results": [
+    {
+      "disease_id": 2880,
+      "cui": "C0152234",
+      "name": "Iniencephaly",
+      "status": "processed",
+      "confidence": 0.35,
+      "output_file": "/home/user/cui_disease_incidence_processing/output/disease_2880.json"
+    },
+    {
+      "disease_id": 2761,
+      "cui": "C0149871",
+      "name": "Deep Vein Thrombosis",
+      "status": "processed",
+      "confidence": 0.82,
+      "output_file": "/home/user/cui_disease_incidence_processing/output/disease_2761.json"
+    },
+    {
+      "disease_id": 2075,
+      "cui": "C0035309",
+      "name": "Retinal Diseases",
+      "status": "processed",
+      "confidence": 0.0,
+      "output_file": "/home/user/cui_disease_incidence_processing/output/disease_2075.json"
+    },
+    {
+      "disease_id": 2888,
+      "cui": "C0152264",
+      "name": "Familial erythrocytosis",
+      "status": "processed",
+      "confidence": 0.45,
+      "output_file": "/home/user/cui_disease_incidence_processing/output/disease_2888.json"
+    },
+    {
+      "disease_id": 2411,
+      "cui": "C0041848",
+      "name": "Unspecified idiopathic peripheral neuropathy",
+      "status": "processed",
+      "confidence": 0.5,
+      "output_file": "/home/user/cui_disease_incidence_processing/output/disease_2411.json"
+    }
+  ],
+  "batch_file": "/home/user/cui_disease_incidence_processing/output/batch_results_user_5diseases.json"
+}

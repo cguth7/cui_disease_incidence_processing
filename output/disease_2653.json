@@ -1,0 +1,19 @@
+{
+  "cui": "C0085669",
+  "cui_name": "Acute leukemia",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute leukemia includes acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML). Global incidence ~3.2 per 100k person-years (children ~0.8 per 100k, adults ~2.4 per 100k). Strong data from cancer registries including GLOBOCAN 2005, SEER, and population-based registries worldwide.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC); Surveillance, Epidemiology, and End Results Program (SEER)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

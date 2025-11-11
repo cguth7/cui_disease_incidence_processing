@@ -1,0 +1,19 @@
+{
+  "cui": "C0149678",
+  "cui_name": "Epstein-Barr Virus Infections",
+  "incidence_per_100k": 240,
+  "prevalence_per_100k": 90000,
+  "metric_type": "both",
+  "total_cases_per_year": 19200000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Symptomatic primary EBV infection (infectious mononucleosis) ~240 per 100k annually in developed countries. Seroprevalence very high globally (~90% by adulthood, 90,000 per 100k with past infection). Incidence varies by age and socioeconomic status; higher in developing countries during childhood, presenting differently (asymptomatic). Reporting symptomatic disease incidence as clinically relevant metric.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2002,
+  "source": "Jenson HB. (2004). Epstein-Barr virus. Pediatr Rev. 25(6):181-189",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15152990/",
+  "source_type": "literature"
+}

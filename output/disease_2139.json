@@ -1,0 +1,19 @@
+{
+  "cui": "C0036346",
+  "cui_name": "Schizophrenia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 80000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schizophrenia measured as prevalence (not incidence) since it is a chronic psychiatric disorder where incidence is poorly defined. WHO 2005 data and epidemiological studies report ~1% lifetime prevalence globally (~10,000 per 100k at any point). Using 1% as standard population prevalence estimate.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Burden of Disease estimates, compiled from psychiatric epidemiology literature",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

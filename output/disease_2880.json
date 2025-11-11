@@ -1,0 +1,19 @@
+{
+  "cui": "C0152234",
+  "cui_name": "Iniencephaly",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Iniencephaly is an extremely rare congenital neural tube defect involving exencephaly with inward folding of brain tissue. Fewer than 100 cases reported worldwide. Estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

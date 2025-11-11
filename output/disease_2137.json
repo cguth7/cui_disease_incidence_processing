@@ -1,0 +1,19 @@
+{
+  "cui": "C0036341",
+  "cui_name": "Schizophrenia",
+  "incidence_per_100k": 15.5,
+  "prevalence_per_100k": 5500,
+  "metric_type": "both",
+  "total_cases_per_year": 1240000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schizophrenia has well-documented incidence (10-40 per 100k per year globally, ~15 new cases per 100k) and prevalence (~0.5-0.7% or 5000-7000 per 100k). Reported both metrics; prevalence is more clinically relevant for chronic mental health conditions. Global estimate from WHO 2005 Mental Health Report.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Mental Health Report 2005; Regier DA et al. (1993). One-month prevalence of mental disorders in the United States. Arch Gen Psychiatry. 50(2):85-94",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/8427558/",
+  "source_type": "literature"
+}

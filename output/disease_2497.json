@@ -1,0 +1,19 @@
+{
+  "cui": "C0043346",
+  "cui_name": "Xeroderma Pigmentosum",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Xeroderma pigmentosum (XP) is a rare autosomal recessive genetic disorder affecting DNA repair. Estimated incidence <0.01 per 100k or approximately 1 per 1 million people. Well-characterized condition with documented cases but very low population incidence. Data primarily from genetic registries and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Genetic disease registries and epidemiological case reports (2000-2005)",
+  "source_url": null,
+  "source_type": "literature"
+}

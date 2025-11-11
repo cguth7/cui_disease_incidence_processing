@@ -1,0 +1,19 @@
+{
+  "cui": "C0149871",
+  "cui_name": "Deep Vein Thrombosis",
+  "incidence_per_100k": 160.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12800000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Deep vein thrombosis incidence approximately 160 per 100k person-years globally (varies from 50-100 in developed countries to 100-200+ in other regions). Baseline incidence ~1 per 1000 person-years, elevated in hospitalized/immobilized populations.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Kearon C et al. (2008). Antithrombotic and thrombolytic therapy for venous thromboembolic disease. Chest. 133(6 Suppl):454S-545S",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18574272/",
+  "source_type": "literature"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0039483",
+    "cui_name": "Giant Cell Arteritis",
+    "incidence_per_100k": 18.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1480000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Vasculitis",
+    "reasoning": "Temporal arteritis; well-documented large vessel vasculitis primarily affecting patients >50 years. Global incidence ~15-25 per 100k person-years in populations >50 years. Using conservative global average of ~18.5 per 100k. High geographic variation with higher rates in Northern European populations (>25 per 100k) vs Southern Europe and Asia (lower).",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

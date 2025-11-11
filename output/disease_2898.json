@@ -1,0 +1,19 @@
+{
+  "cui": "C0152426",
+  "cui_name": "Craniorachischisis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Craniorachischisis is a severe form of neural tube defect combining cranial and spinal involvement. Extremely rare, estimated <0.1 per 100k births. Limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

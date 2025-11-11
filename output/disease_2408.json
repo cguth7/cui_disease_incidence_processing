@@ -1,0 +1,19 @@
+{
+  "cui": "C0041696",
+  "cui_name": "Unipolar Depression",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": 2400,
+  "metric_type": "both",
+  "total_cases_per_year": 416000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Major Depressive Disorder shows both incidence (~5-6 per 100k annually for first episodes) and high prevalence (~2.4% globally, 2400 per 100k). Reporting incidence for first episodes; prevalence reflects lifetime burden. WHO estimates, moderate geographic variation due to diagnostic and cultural factors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Kessler RC, Chiu WT, Demler O, et al. (2005). Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry. 62(6):617-627",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15939839/",
+  "source_type": "literature"
+}

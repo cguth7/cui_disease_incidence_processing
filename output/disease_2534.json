@@ -1,0 +1,19 @@
+{
+  "cui": "C0079588",
+  "cui_name": "Ichthyosis",
+  "incidence_per_100k": 800.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for umbrella term covering multiple ichthyosis types: ichthyosis vulgaris (~1 in 250 births, ~400 per 100k), other inherited ichthyoses (~200 per 100k), acquired ichthyosis (~200 per 100k). Total ~800 per 100k. Highly heterogeneous category with vastly different genetic bases and severity.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Compiled from dermatology genetics literature and registry data",
+  "source_url": null,
+  "source_type": "literature"
+}

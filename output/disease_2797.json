@@ -1,0 +1,19 @@
+{
+  "cui": "C0151449",
+  "cui_name": "Primary Sjögren's syndrome",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primary Sjögren's syndrome is a chronic autoimmune disorder affecting salivary and lacrimal glands. Incidence estimated at 3-4 per 100k person-years globally. Specific, well-defined disease entity. Confidence moderate due to limited systematic epidemiological studies in many regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

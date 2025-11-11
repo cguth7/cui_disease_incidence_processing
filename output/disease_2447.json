@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0042384",
+    "cui_name": "Vasculitis",
+    "incidence_per_100k": 45000,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate of major vasculitis types: Giant Cell Arteritis (~18), IgA Vasculitis (~11), Behçet disease (~5), Microscopic Polyangiitis (~3), Granulomatosis with Polyangiitis (~3), Polyarteritis Nodosa (~1), EGPA (~1), Takayasu (~1), Cryoglobulinemia (~0.5), and other vasculitides (~2) = ~45 per 100k. Low confidence due to heterogeneity, significant geographic variation, and overlap between categories. This is an umbrella term with vastly different pathophysiology, epidemiology, and outcomes across subtypes.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

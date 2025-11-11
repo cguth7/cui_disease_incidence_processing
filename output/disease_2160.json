@@ -1,0 +1,19 @@
+{
+  "cui": "C0036646",
+  "cui_name": "Age-related cataract",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 144000000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Cataract",
+  "reasoning": "Age-related cataract is a chronic progressive eye disease. Reported as prevalence (~1.8% of global population) rather than incidence since it's a chronic condition with increasing onset over lifetime. WHO reports ~1800 per 100k prevalence in populations with significant elderly populations.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Vision 2020 estimates (2005)",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment",
+  "source_type": "registry"
+}

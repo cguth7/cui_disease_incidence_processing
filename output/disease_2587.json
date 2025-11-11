@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0085215",
+    "cui_name": "Ovarian Failure",
+    "incidence_per_100k": 12.5,
+    "prevalence_per_100k": 18000,
+    "metric_type": "both",
+    "total_cases_per_year": 1000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Primary ovarian insufficiency (POI)/premature ovarian failure. Incidence of new POI diagnoses ~12-15 per 100k person-years in women of reproductive age. Prevalence approximately 1-3% of reproductive-age women (18,000 per 100k). Metric preference is prevalence for this chronic condition, but incidence data also relevant.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]
