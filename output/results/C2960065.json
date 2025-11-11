@@ -1,0 +1,19 @@
+{
+  "cui": "C2960065",
+  "cui_name": "High grade dysplastic nodule",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Hepatic dysplastic nodule",
+  "reasoning": "Pre-malignant liver lesion in cirrhotic patients, direct precursor to HCC. Less common than low-grade dysplastic nodules. Estimated at ~15% of HCC incidence (~1.8 per 100k). Very low confidence due to lack of population surveillance and detection bias.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

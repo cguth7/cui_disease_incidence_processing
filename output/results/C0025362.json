@@ -1,0 +1,19 @@
+{
+  "cui": "C0025362",
+  "cui_name": "Mental Retardation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Outdated term for intellectual disability. Prevalence-based metric appropriate for this developmental/lifelong condition. Global prevalence ~1-2% (1500 per 100k) based on WHO estimates. Moderate confidence due to acceptable prevalence data but no specific 2005 source and variation in diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO estimates on developmental disabilities",
+  "source_url": null,
+  "source_type": "estimate"
+}

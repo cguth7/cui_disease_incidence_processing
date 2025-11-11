@@ -1,0 +1,19 @@
+{
+  "cui": "C0027831",
+  "cui_name": "Neurofibromatosis 1",
+  "incidence_per_100k": 0.67,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 53600,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Neurofibromatosis",
+  "reasoning": "Reporting incidence based on birth prevalence of 1 in 3,000 live births. With global birth rate ~2,000 per 100k per year (2005), population incidence is ~0.67 per 100k person-years. Well-documented genetic disorder.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lammert M et al. (2005). Prevalence of neurofibromatosis 1 in German children at elementary school enrollment. Arch Dermatol. 141(1):71-74",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15655144/",
+  "source_type": "literature"
+}

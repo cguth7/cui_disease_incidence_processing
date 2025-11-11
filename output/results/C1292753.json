@@ -1,0 +1,19 @@
+{
+  "cui": "C1292753",
+  "cui_name": "Primary Effusion Lymphoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "B-cell Non-Hodgkin Lymphoma",
+  "reasoning": "Rare HHV-8-associated lymphoma, primarily in immunocompromised patients. Estimated <0.1 per 100k based on case series and HIV cohort studies. No systematic registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

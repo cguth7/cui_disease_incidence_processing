@@ -1,0 +1,19 @@
+{
+  "cui": "C0085576",
+  "cui_name": "Iron-Refractory Iron Deficiency Anemia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Iron Deficiency Anemia",
+  "reasoning": "Reporting incidence of this rare genetic disorder caused by TMPRSS6 mutations. Extremely rare condition with <0.01 per 100k births based on case report literature. Limited systematic epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "De Falco L et al. (2013). Iron refractory iron deficiency anemia. Haematologica. 98(6):845-853",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23729726/",
+  "source_type": "literature"
+}

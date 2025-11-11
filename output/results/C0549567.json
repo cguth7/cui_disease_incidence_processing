@@ -1,0 +1,19 @@
+{
+  "cui": "C0549567",
+  "cui_name": "Pigmentation Disorders",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous to estimate meaningfully. Includes congenital conditions (albinism, café au lait spots), acquired disorders (vitiligo, melasma), hyper- and hypopigmentation conditions with vastly different etiologies, prevalence rates, and clinical significance. Mix of incidence-based (acquired) and prevalence-based (congenital) conditions. Aggregate estimate not clinically meaningful.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

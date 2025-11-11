@@ -1,0 +1,19 @@
+{
+  "cui": "C0026277",
+  "cui_name": "Mixed Salivary Gland Tumor",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Salivary Gland Neoplasm",
+  "reasoning": "Pleomorphic adenoma (mixed tumor) is the most common salivary gland tumor, comprising approximately 60-70% of all salivary gland neoplasms. With total salivary gland tumor incidence of 1-2 per 100k, mixed tumor incidence is approximately 1 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Speight PM, Barrett AW (2002). Salivary gland tumours. Oral Dis. 8(5):229-240",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12363107/",
+  "source_type": "literature"
+}

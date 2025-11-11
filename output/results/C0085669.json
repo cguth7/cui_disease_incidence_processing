@@ -1,0 +1,19 @@
+{
+  "cui": "C0085669",
+  "cui_name": "Acute leukemia",
+  "incidence_per_100k": 5.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 440000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": "Leukemia",
+  "reasoning": "Combined acute lymphoblastic leukemia (ALL ~1.8 per 100k) and acute myeloid leukemia (AML ~3.7 per 100k) from GLOBOCAN 2005 data. Total ~5.5 per 100k globally.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Ferlay J et al. (2010). Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J Cancer. 127(12):2893-2917",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21351269/",
+  "source_type": "registry"
+}

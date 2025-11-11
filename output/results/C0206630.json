@@ -1,0 +1,19 @@
+{
+  "cui": "C0206630",
+  "cui_name": "Endometrial Stromal Sarcoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Uterine Sarcoma",
+  "reasoning": "Rare uterine malignancy representing ~10-15% of uterine sarcomas. Estimated ~0.1-0.2 per 100k women globally based on SEER and cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "D'Angelo E et al. (2011). Endometrial stromal sarcomas. Semin Diagn Pathol. 28(4):342-349",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22195412/",
+  "source_type": "literature"
+}

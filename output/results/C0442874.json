@@ -1,0 +1,19 @@
+{
+  "cui": "C0442874",
+  "cui_name": "Neuropathy",
+  "incidence_per_100k": 400,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000000,
+  "confidence": 0.23,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major neuropathy types: diabetic neuropathy (~180), chemotherapy-induced peripheral neuropathy (~60), idiopathic peripheral neuropathy (~80), alcoholic neuropathy (~30), other causes (~50). Total ~400 per 100k. Highly heterogeneous umbrella term with significant variation in etiology and severity.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

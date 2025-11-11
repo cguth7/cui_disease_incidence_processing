@@ -1,0 +1,19 @@
+{
+  "cui": "C2931618",
+  "cui_name": "Gestational trophoblastic disease",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term including complete mole, partial mole, invasive mole, and choriocarcinoma. Global incidence approximately 1-2 per 1000 pregnancies (higher in Asia, lower in Western countries). Estimated at ~3.2 per 100k person-years based on pregnancy rates and molar pregnancy frequency.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lurain JR. (2010). Gestational trophoblastic disease I: epidemiology, pathology, clinical presentation and diagnosis of gestational trophoblastic disease, and management of hydatidiform mole. Am J Obstet Gynecol. 203(6):531-539",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20728069/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0018050",
+  "cui_name": "Gonadal Disorders",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous to estimate meaningfully. Encompasses diverse conditions: PCOS (prevalence-based), hypogonadism (chronic), premature ovarian failure, testicular disorders, ovarian tumors, etc. Mix of acute, chronic, congenital conditions with vastly different epidemiology and no coherent aggregate metric.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

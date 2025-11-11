@@ -1,0 +1,19 @@
+{
+  "cui": "C0079731",
+  "cui_name": "B-Cell Lymphomas",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major B-cell lymphoma subtypes: DLBCL (~4.2), follicular lymphoma (~2.5), marginal zone (~1.5), CLL (~3.0), other B-cell lymphomas (~0.8) = ~12 per 100k. Low confidence due to heterogeneity and potential overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

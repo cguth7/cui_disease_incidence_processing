@@ -1,0 +1,19 @@
+{
+  "cui": "C1332206",
+  "cui_name": "Adult Lymphoma",
+  "incidence_per_100k": 19.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1560000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "Reporting incidence (new diagnoses) in adults. Combined Hodgkin lymphoma (~2.5 per 100k) and Non-Hodgkin lymphoma (~17 per 100k) for adults based on GLOBOCAN 2005 data, total approximately 19.5 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

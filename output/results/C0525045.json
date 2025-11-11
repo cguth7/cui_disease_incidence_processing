@@ -1,0 +1,19 @@
+{
+  "cui": "C0525045",
+  "cui_name": "Mood Disorders",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 9500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 760000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC summing major mood disorders: major depressive disorder (~6000 per 100k), dysthymia (~3600 per 100k), bipolar disorder (~1200 per 100k). Total ~9,500 per 100k. Heterogeneous conditions with diagnostic overlap and comorbidity.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

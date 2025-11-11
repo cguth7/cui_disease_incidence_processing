@@ -1,0 +1,19 @@
+{
+  "cui": "C1859405",
+  "cui_name": "Bowen-Conradi syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare autosomal recessive disorder, primarily in Hutterite populations. <0.01 per 100k globally based on case report literature. Fewer than 100 cases reported worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

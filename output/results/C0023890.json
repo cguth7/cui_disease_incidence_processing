@@ -1,0 +1,19 @@
+{
+  "cui": "C0023890",
+  "cui_name": "Liver Cirrhosis",
+  "incidence_per_100k": 25.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Liver cirrhosis incidence estimated at ~25 per 100k person-years globally based on WHO mortality data and epidemiological studies. Data quality is moderate as cirrhosis often develops over years and incidence measurement varies. Geographic variation is high due to differences in alcohol consumption, hepatitis B/C prevalence, and NAFLD rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Blachier M et al. (2013). The burden of liver disease in Europe: a review of available epidemiological data. J Hepatol. 58(3):593-608",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23419824/",
+  "source_type": "literature"
+}

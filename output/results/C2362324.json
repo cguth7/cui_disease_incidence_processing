@@ -1,0 +1,19 @@
+{
+  "cui": "C2362324",
+  "cui_name": "Pediatric Obesity",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 256000000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Obesity",
+  "reasoning": "Chronic condition measured as prevalence. WHO data from 2005 shows approximately 3.2% of children globally were obese (3,200 per 100k). Prevalence is the appropriate metric for this chronic condition.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "de Onis M et al. (2010). Global prevalence and trends of overweight and obesity among preschool children. Am J Clin Nutr. 92(5):1257-64",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20861173/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0035334",
+  "cui_name": "Retinitis Pigmentosa",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": 25,
+  "metric_type": "both",
+  "total_cases_per_year": 96000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Inherited retinal dystrophy with prevalence ~1 in 4000 (25 per 100k) and incidence ~1-1.5 per 100k births. Both metrics documented. Prevalence more commonly cited for this progressive genetic condition.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Hamel C. (2006). Retinitis pigmentosa. Orphanet J Rare Dis. 1:40",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17032466/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0011860",
+  "cui_name": "Diabetes Mellitus, Non-Insulin-Dependent",
+  "incidence_per_100k": 16.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1320000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus",
+  "reasoning": "Reporting incidence (new diagnoses). Type 2 diabetes global incidence from IDF 2005 data: approximately 16.5 per 100k person-years, accounting for ~90% of all diabetes cases.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "IDF Diabetes Atlas 2005",
+  "source_url": "https://diabetesatlas.org/atlas/2005/",
+  "source_type": "registry"
+}

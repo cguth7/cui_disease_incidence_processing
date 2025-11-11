@@ -1,0 +1,19 @@
+{
+  "cui": "C0020443",
+  "cui_name": "Hypercholesterolemia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypercholesterolemia is a chronic metabolic condition measured as prevalence. WHO data shows ~15% of global adults have elevated total cholesterol (>5.0 mmol/L or 193 mg/dL) = 15,000 per 100k. Using prevalence as incidence is poorly defined for this chronic condition.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "WHO Global Health Observatory data on raised cholesterol",
+  "source_url": "https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/raised-cholesterol",
+  "source_type": "registry"
+}

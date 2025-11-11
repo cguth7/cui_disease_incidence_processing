@@ -1,0 +1,19 @@
+{
+  "cui": "C0007137",
+  "cui_name": "Squamous cell carcinoma",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for SCC across all sites: cutaneous SCC (~100 per 100k), lung SCC (~12 per 100k), head/neck SCC (~8 per 100k), esophageal SCC (~10 per 100k), cervical SCC (~5 per 100k), other sites (~15 per 100k). Total ~150 per 100k. Extremely heterogeneous umbrella term without organ specification.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

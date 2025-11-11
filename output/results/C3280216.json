@@ -1,0 +1,19 @@
+{
+  "cui": "C3280216",
+  "cui_name": "HYPERURICEMIC NEPHROPATHY, FAMILIAL JUVENILE, 3",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Familial Juvenile Hyperuricemic Nephropathy",
+  "reasoning": "Extremely rare autosomal dominant tubulointerstitial kidney disease caused by specific genetic mutations. <0.01 per 100k based on case report frequency and genetic databases. Specific genetic subtype (FJHN3).",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

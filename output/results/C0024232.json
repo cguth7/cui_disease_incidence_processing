@@ -1,0 +1,19 @@
+{
+  "cui": "C0024232",
+  "cui_name": "Lymphatic Metastasis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lymphatic metastasis is a manifestation of primary cancers, not a primary disease entity itself. Incidence depends entirely on the primary cancer type and stage. Unmappable without specification of primary malignancy.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

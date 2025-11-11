@@ -1,0 +1,19 @@
+{
+  "cui": "C1868081",
+  "cui_name": "Juvenile Polyposis Coli",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Juvenile Polyposis Syndrome",
+  "reasoning": "Extremely rare hereditary condition, subset of juvenile polyposis syndrome affecting primarily the colon. Estimated <0.1 per 100k births based on case reports and genetic registry data. Limited systematic epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0020473",
+  "cui_name": "Hyperlipidemia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 35000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2800000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic condition measured as prevalence. Global prevalence approximately 35% of adults (35,000 per 100k) with elevated cholesterol levels based on WHO criteria.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "WHO Global Health Observatory data on raised cholesterol",
+  "source_url": "https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/raised-cholesterol",
+  "source_type": "registry"
+}

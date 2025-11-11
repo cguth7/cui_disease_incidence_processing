@@ -1,0 +1,19 @@
+{
+  "cui": "C1535926",
+  "cui_name": "Neurodevelopmental Disorders",
+  "incidence_per_100k": 800,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major neurodevelopmental conditions detected in childhood: autism spectrum disorder (~100 per 100k births), intellectual disability (~150 per 100k births), ADHD (~400 per 100k children), learning disorders (~150 per 100k). Total ~800 per 100k. Low confidence due to heterogeneous conditions, overlap, and mix of incidence/prevalence metrics.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

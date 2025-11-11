@@ -1,0 +1,19 @@
+{
+  "cui": "C0278607",
+  "cui_name": "Adult Leiomyosarcoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Soft Tissue Sarcoma",
+  "reasoning": "Leiomyosarcoma represents ~10-15% of soft tissue sarcomas. Estimated adult incidence ~0.3 per 100k based on SEER and European cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Toro JR et al. (2006). Incidence patterns of soft tissue sarcomas, regardless of primary site, in the surveillance, epidemiology and end results program, 1978-2001. Int J Cancer. 119(12):2922-2930",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17013893/",
+  "source_type": "literature"
+}

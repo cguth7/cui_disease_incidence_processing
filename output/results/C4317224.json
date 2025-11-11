@@ -1,0 +1,19 @@
+{
+  "cui": "C4317224",
+  "cui_name": "Congenital disorder of glycosylation type 1q",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Congenital Disorders of Glycosylation Type 1",
+  "reasoning": "Extremely rare genetic disorder (CDG-1q/SRD5A3-CDG) with <100 cases reported worldwide. Estimated <0.01 per 100k births based on case report frequency. No systematic population-based epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cantagrel V et al. (2010). SRD5A3 is required for converting polyprenol to dolichol and is mutated in a congenital glycosylation disorder. Cell. 142(2):203-17",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20637498/",
+  "source_type": "literature"
+}

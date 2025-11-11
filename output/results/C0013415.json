@@ -1,0 +1,19 @@
+{
+  "cui": "C0013415",
+  "cui_name": "Dysthymic Disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3600,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 288000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Depressive Disorders",
+  "reasoning": "Chronic depressive disorder measured as prevalence. Global prevalence ~3-4% (3,600 per 100k) based on WHO mental health surveys circa 2004.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Waraich P et al. (2004). Prevalence and incidence studies of mood disorders: a systematic review of the literature. Can J Psychiatry. 49(2):124-38",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15065747/",
+  "source_type": "literature"
+}

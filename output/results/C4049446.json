@@ -1,0 +1,19 @@
+{
+  "cui": "C4049446",
+  "cui_name": "Neointimal hyperplasia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pathological process (vessel wall thickening post-intervention), not a primary disease entity. Occurs as complication in 10-50% of stenting/bypass procedures but no population-based incidence surveillance. Not a condition with standard epidemiological tracking.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

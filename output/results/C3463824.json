@@ -1,0 +1,19 @@
+{
+  "cui": "C3463824",
+  "cui_name": "Myelodysplastic Syndrome",
+  "incidence_per_100k": 4.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 320000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "MDS global incidence ~4 per 100k overall population, but strongly age-dependent (15-50 per 100k in adults >70). Well-documented in cancer registries including SEER and European registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Ma X et al. (2007). Epidemiology of myelodysplastic syndromes. Am J Med. 120(7 Suppl 1):S2-10",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17602924/",
+  "source_type": "literature"
+}

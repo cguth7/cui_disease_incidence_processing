@@ -1,0 +1,19 @@
+{
+  "cui": "C1861172",
+  "cui_name": "Venous Thromboembolism",
+  "incidence_per_100k": 117.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 9360000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "VTE encompasses DVT and PE. Incidence data from multiple population-based studies shows ~100-200 per 100k in Western populations. Using mid-range estimate of 117 per 100k based on pooled epidemiological data circa 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Heit JA et al. (2005). The epidemiology of venous thromboembolism. J Thromb Thrombolysis. 21(1):23-29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16475038/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0023465",
+  "cui_name": "Acute monocytic leukemia",
+  "incidence_per_100k": 0.6,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 48000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "Acute monocytic leukemia (AML M5 subtype) represents approximately 15-20% of AML cases. Global AML incidence ~3.5 per 100k, thus M5 subtype ~0.6 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN cancer registry data and WHO classification of AML subtypes",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

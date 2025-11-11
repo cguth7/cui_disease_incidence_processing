@@ -1,0 +1,19 @@
+{
+  "cui": "C0220685",
+  "cui_name": "Achondrogenesis type 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Skeletal dysplasia",
+  "reasoning": "Lethal skeletal dysplasia caused by COL2A1 mutations. Extremely rare at <0.01 per 100k births based on case report frequency. Most cases are stillborn or die in neonatal period.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

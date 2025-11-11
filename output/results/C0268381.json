@@ -1,0 +1,19 @@
+{
+  "cui": "C0268381",
+  "cui_name": "Primary amyloidosis",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Amyloidosis",
+  "reasoning": "AL (primary) amyloidosis incidence ~1.0 per 100k based on population-based studies. Rare plasma cell disorder with monoclonal light chain deposition.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kyle RA et al. (2003). Incidence of AL amyloidosis in Olmsted County, Minnesota, 1950 through 1989. Blood. 101(7):2462-3",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12433690/",
+  "source_type": "literature"
+}

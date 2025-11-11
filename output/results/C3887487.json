@@ -1,0 +1,19 @@
+{
+  "cui": "C3887487",
+  "cui_name": "Postaxial polydactyly type A",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Postaxial polydactyly",
+  "reasoning": "Postaxial polydactyly type A incidence ~15 per 100k births (1.5 per 10,000 births). Moderate confidence due to birth defect registry data but significant ethnic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Biesecker LG. (2002). Polydactyly: how many disorders and how many genes? Am J Med Genet. 112(3):279-83",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12357473/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0007113",
+  "cui_name": "Rectal Carcinoma",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Cancer",
+  "reasoning": "Rectal cancer represents approximately 30% of colorectal cancer cases. GLOBOCAN 2005 data: global rectal cancer incidence ~8.5 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0457506",
+  "cui_name": "Reactive thrombocytosis",
+  "incidence_per_100k": 250,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 20000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence of new diagnoses. Reactive (secondary) thrombocytosis is a common laboratory finding resulting from infections, inflammation, iron deficiency, malignancy, or post-surgical states. Estimated ~250 per 100k based on hospital studies, but true incidence difficult to quantify as it's a laboratory finding rather than primary disease.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

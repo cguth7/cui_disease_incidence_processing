@@ -1,0 +1,19 @@
+{
+  "cui": "C0014175",
+  "cui_name": "Endometriosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 10000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 800000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Endometriosis measured as prevalence (~10% of reproductive-age women). Incidence poorly defined due to diagnostic delays and asymptomatic cases.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Eskenazi B et al. (1997). Validation study of nonsurgical diagnosis of endometriosis. Fertil Steril. 68(3):518-25",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/9314928/",
+  "source_type": "literature"
+}

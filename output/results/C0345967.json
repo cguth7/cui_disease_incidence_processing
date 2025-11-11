@@ -1,0 +1,19 @@
+{
+  "cui": "C0345967",
+  "cui_name": "Malignant mesothelioma",
+  "incidence_per_100k": 1.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 104000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Mesothelioma",
+  "reasoning": "Reporting incidence (new diagnoses). Global mesothelioma incidence ~1-1.5 per 100k from WHO and IARC data circa 2005, strongly associated with asbestos exposure.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Peto J et al. (1999). The European mesothelioma epidemic. Br J Cancer. 79(3-4):666-72; WHO mortality data 2005",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10027347/",
+  "source_type": "literature"
+}

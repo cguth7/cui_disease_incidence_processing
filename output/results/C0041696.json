@@ -1,0 +1,19 @@
+{
+  "cui": "C0041696",
+  "cui_name": "Unipolar Depression",
+  "incidence_per_100k": 370,
+  "prevalence_per_100k": 3300,
+  "metric_type": "both",
+  "total_cases_per_year": 29600000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Depressive Disorders",
+  "reasoning": "Unipolar depression (major depression without bipolar features) has global incidence ~370 per 100k person-years for new episodes, with prevalence ~3.3% (3300 per 100k). WHO 2004-2005 GBD data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2004,
+  "source": "WHO Global Burden of Disease Study 2004",
+  "source_url": "https://www.who.int/healthinfo/global_burden_disease/",
+  "source_type": "registry"
+}

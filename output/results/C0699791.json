@@ -1,0 +1,19 @@
+{
+  "cui": "C0699791",
+  "cui_name": "Stomach Carcinoma",
+  "incidence_per_100k": 17.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1400000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Stomach Neoplasms",
+  "reasoning": "Gastric cancer incidence from GLOBOCAN 2005: ~17.5 per 100k globally. Dramatic geographic variation: >40 per 100k in East Asia (Japan, Korea, China) vs <5 per 100k in North America, driven by H. pylori prevalence and dietary factors.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0008489",
+  "cui_name": "Chorea",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term for choreiform movement disorder with multiple distinct etiologies: Huntington's disease (~0.5/100k), Sydenham's chorea, drug-induced chorea, vascular chorea. Each has different incidence rates and demographics. Cannot provide meaningful aggregate.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

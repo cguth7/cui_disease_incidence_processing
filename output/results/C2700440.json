@@ -1,0 +1,19 @@
+{
+  "cui": "C2700440",
+  "cui_name": "MAJOR AFFECTIVE DISORDER 9",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Major Affective Disorders",
+  "reasoning": "Genetic variant designation for familial mood disorder, likely another rare monogenic form. No systematic epidemiological data; estimated <0.01 per 100k based on genetic literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

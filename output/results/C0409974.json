@@ -1,0 +1,19 @@
+{
+  "cui": "C0409974",
+  "cui_name": "Lupus Erythematosus",
+  "incidence_per_100k": 5.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 408000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Systemic lupus erythematosus (SLE) global average incidence ~5 per 100k person-years. Significant variation by ethnicity (higher in African, Hispanic, Asian populations) and gender (9:1 female:male ratio).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Pons-Estel GJ et al. (2010). Understanding the epidemiology and progression of systemic lupus erythematosus. Semin Arthritis Rheum. 39(4):257-268",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19136143/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0005684",
+  "cui_name": "Malignant neoplasm of urinary bladder",
+  "incidence_per_100k": 10.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 808000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bladder cancer global incidence from GLOBOCAN 2005: ~10.1 per 100k (age-standardized rate). Higher in males (~15) than females (~3.5). Strong registry data from IARC.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

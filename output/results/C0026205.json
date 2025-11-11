@@ -1,0 +1,19 @@
+{
+  "cui": "C0026205",
+  "cui_name": "Miosis disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Miosis is a clinical sign (pupillary constriction) rather than a disease entity. Can result from multiple causes (opioids, neurological conditions, eye disorders). Not tracked epidemiologically as an independent condition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

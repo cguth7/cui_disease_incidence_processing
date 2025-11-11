@@ -1,0 +1,19 @@
+{
+  "cui": "C0023493",
+  "cui_name": "Adult T-Cell Lymphoma/Leukemia",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "T-Cell Leukemia",
+  "reasoning": "ATLL caused by HTLV-1 infection. Global incidence ~0.3 per 100k but highly variable: <0.01 in non-endemic areas, 3-5 per 100k in endemic regions (southwestern Japan, Caribbean). Using global weighted average.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Proietti FA et al. Global epidemiology of HTLV-I infection and associated diseases. Oncogene. 2005;24(39):6058-68",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16155612/",
+  "source_type": "literature"
+}

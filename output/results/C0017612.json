@@ -1,0 +1,19 @@
+{
+  "cui": "C0017612",
+  "cui_name": "Glaucoma, Open-Angle",
+  "incidence_per_100k": 200,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000000,
+  "confidence": 0.70,
+  "is_subtype": true,
+  "parent_disease": "Glaucoma",
+  "reasoning": "Open-angle glaucoma incidence ~200 per 100k person-years based on population studies. Moderate-high confidence from epidemiological literature, though geographic variation exists.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2007,
+  "source": "Quigley HA, Broman AT (2006). The number of people with glaucoma worldwide in 2010 and 2020. Br J Ophthalmol. 90(3):262-267",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16488940/",
+  "source_type": "literature"
+}

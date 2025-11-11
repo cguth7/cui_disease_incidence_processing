@@ -1,0 +1,19 @@
+{
+  "cui": "C0036346",
+  "cui_name": "Schizophrenia, Childhood",
+  "incidence_per_100k": 0.04,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3200,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Schizophrenia",
+  "reasoning": "Childhood-onset schizophrenia (onset before age 13) is extremely rare: ~0.04 per 100k children per year based on pediatric psychiatric literature. Much rarer than adult-onset schizophrenia.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Remschmidt H et al. (2007). Schizophrenia in children and adolescents. Cambridge University Press, citing epidemiological studies",
+  "source_url": null,
+  "source_type": "literature"
+}

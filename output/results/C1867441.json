@@ -1,0 +1,19 @@
+{
+  "cui": "C1867441",
+  "cui_name": "Pterygium Of Conjunctiva And Cornea",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.52,
+  "is_subtype": false,
+  "parent_disease": "Pterygium",
+  "reasoning": "Pterygium of conjunctiva and cornea (full anatomical description of same condition as C0033999 and C4520843). Incidence ~8 per 100k globally with extreme geographic variation (UV-dependent, 0.3-29% prevalence by latitude).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

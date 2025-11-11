@@ -1,0 +1,19 @@
+{
+  "cui": "C0004364",
+  "cui_name": "Autoimmune Diseases",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major autoimmune conditions: rheumatoid arthritis (~25), type 1 diabetes (~15), inflammatory bowel disease (~10), multiple sclerosis (~5), systemic lupus (~5), celiac disease (~20), psoriasis (~50), thyroiditis (~20). Total ~150 per 100k. Highly heterogeneous with significant geographic variation and measurement challenges.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

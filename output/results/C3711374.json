@@ -1,0 +1,19 @@
+{
+  "cui": "C3711374",
+  "cui_name": "Nonsyndromic Deafness",
+  "incidence_per_100k": 2.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 224000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Congenital deafness",
+  "reasoning": "Nonsyndromic hearing loss comprises ~70% of hereditary congenital deafness. Estimated at ~2.8 per 100k person-years based on proportion of congenital cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Morton CC et al. (2006). Newborn hearing screening--a silent revolution. N Engl J Med. 354(20):2151-2164",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16707752/",
+  "source_type": "literature"
+}

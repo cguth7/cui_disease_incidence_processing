@@ -1,0 +1,19 @@
+{
+  "cui": "C0011854",
+  "cui_name": "Diabetes Mellitus, Insulin-Dependent",
+  "incidence_per_100k": 10.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 840000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus",
+  "reasoning": "Type 1 diabetes (insulin-dependent) incidence from IDF 2005 data: ~10.5 per 100k globally, with significant geographic variation (higher in Nordic countries, lower in Asia).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "IDF Diabetes Atlas 2005, DIAMOND Project data",
+  "source_url": "https://diabetesatlas.org/atlas/2005/",
+  "source_type": "registry"
+}

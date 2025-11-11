@@ -1,0 +1,19 @@
+{
+  "cui": "C0278879",
+  "cui_name": "Childhood Burkitt Lymphoma",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Burkitt Lymphoma",
+  "reasoning": "Childhood form represents 70-80% of Burkitt cases. Endemic areas (equatorial Africa): 5-10 per 100k children. Sporadic (Western): 0.2-0.5 per 100k. Global average ~1.2 per 100k children.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Mbulaiteye SM et al. (2012). Burkitt lymphoma: beyond discoveries. Infect Agent Cancer. 7:3",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22289355/",
+  "source_type": "literature"
+}

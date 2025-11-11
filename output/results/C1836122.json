@@ -1,0 +1,19 @@
+{
+  "cui": "C1836122",
+  "cui_name": "SARCOIDOSIS, EARLY-ONSET",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Sarcoidosis",
+  "reasoning": "Reporting incidence of early-onset sarcoidosis (pediatric/young adult). Overall sarcoidosis incidence is 10-20 per 100k in high-incidence populations; early-onset represents approximately 10-15% of cases, estimated at 1-2 per 100k. Limited specific epidemiological data for early-onset subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Henke CE et al. (1986). The epidemiology of sarcoidosis in Rochester, Minnesota: a population-based study. Am J Epidemiol. 123(5):840-845",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/3962966/",
+  "source_type": "literature"
+}

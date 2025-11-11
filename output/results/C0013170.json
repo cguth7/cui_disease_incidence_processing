@@ -1,0 +1,19 @@
+{
+  "cui": "C0013170",
+  "cui_name": "Drug habituation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 440000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Drug dependence/substance use disorders measured as prevalence. WHO 2004 data estimated ~5.5% global prevalence of drug use disorders (5,500 per 100k). Incidence poorly documented; prevalence more appropriate for chronic condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "WHO (2004). Neuroscience of psychoactive substance use and dependence. World Health Organization",
+  "source_url": "https://www.who.int/publications/i/item/9241562358",
+  "source_type": "registry"
+}

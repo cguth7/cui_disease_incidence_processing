@@ -1,0 +1,19 @@
+{
+  "cui": "C0001430",
+  "cui_name": "Adenoma",
+  "incidence_per_100k": 350,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 28000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major adenoma types: colorectal adenomas (~250 per 100k), pituitary adenomas (~4), thyroid adenomas (~70), parathyroid adenomas (~25), hepatic adenomas (~1). Total ~350 per 100k. Low confidence due to heterogeneity and organ-specific variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

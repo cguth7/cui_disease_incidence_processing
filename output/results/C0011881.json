@@ -1,0 +1,19 @@
+{
+  "cui": "C0011881",
+  "cui_name": "Diabetic Nephropathy",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Diabetic Complications",
+  "reasoning": "Diabetic nephropathy develops in approximately 20-40% of diabetic patients over their lifetime. With global diabetes prevalence ~6% in 2005 and estimated 2-3% annual incidence among diabetics, overall population incidence ~8.5 per 100k person-years.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2007,
+  "source": "Molitch ME et al. (2004). Nephropathy in diabetes. Diabetes Care. 27(suppl 1):S79-S83",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14693934/",
+  "source_type": "literature"
+}

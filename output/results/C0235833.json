@@ -1,0 +1,19 @@
+{
+  "cui": "C0235833",
+  "cui_name": "Congenital diaphragmatic hernia",
+  "incidence_per_100k": 23.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1840000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence at birth. CDH occurs in approximately 2.3 per 10,000 live births (23 per 100k) based on congenital anomaly registries. Well-documented birth defect with consistent global data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "McGivern MR et al. (2015). Epidemiology of congenital diaphragmatic hernia in Europe: a register-based study. Arch Dis Child Fetal Neonatal Ed. 100(2):F137-44",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25411443/",
+  "source_type": "registry"
+}

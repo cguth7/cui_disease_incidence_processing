@@ -1,0 +1,19 @@
+{
+  "cui": "C0338831",
+  "cui_name": "Manic",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Bipolar Disorder",
+  "reasoning": "Manic episodes are primarily associated with Bipolar Disorder. Using bipolar disorder incidence as proxy: ~15 per 100k person-years based on epidemiological literature. Confidence moderate due to lack of 2005-specific data and symptom-based rather than disease-based classification.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Merikangas KR et al. (2007). Lifetime and 12-month prevalence of bipolar spectrum disorder in the National Comorbidity Survey replication. Arch Gen Psychiatry. 64(5):543-552",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17485606/",
+  "source_type": "literature"
+}

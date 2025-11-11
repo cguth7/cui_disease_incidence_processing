@@ -1,0 +1,19 @@
+{
+  "cui": "C0010633",
+  "cui_name": "Cystadenoma",
+  "incidence_per_100k": 15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Benign cystic tumor occurring in multiple organs (ovary most common, also pancreas, kidney). Estimated ~15 per 100k based primarily on ovarian cystadenomas. Confidence reduced due to lack of organ specificity and limited population-based incidence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

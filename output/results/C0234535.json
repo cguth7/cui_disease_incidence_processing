@@ -1,0 +1,19 @@
+{
+  "cui": "C0234535",
+  "cui_name": "Clonic Seizures",
+  "incidence_per_100k": 8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Seizure disorders",
+  "reasoning": "Purely clonic seizures are relatively uncommon subtype of epilepsy. Estimated ~8 per 100k based on epilepsy incidence (~50-70 per 100k) with clonic seizures representing ~10-15% of seizure types. Limited specific epidemiological data for this seizure classification.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

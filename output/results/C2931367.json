@@ -1,0 +1,19 @@
+{
+  "cui": "C2931367",
+  "cui_name": "Thyroid cancer, follicular",
+  "incidence_per_100k": 0.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 56000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Carcinoma",
+  "reasoning": "Follicular thyroid carcinoma is a specific histological subtype comprising ~10-15% of all thyroid cancers. Global thyroid cancer incidence ~5 per 100k (GLOBOCAN 2005), so follicular subtype ~0.7 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - thyroid cancer data with subtype distribution from SEER",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

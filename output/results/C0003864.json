@@ -1,0 +1,19 @@
+{
+  "cui": "C0003864",
+  "cui_name": "Arthritis",
+  "incidence_per_100k": 800,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major arthritis types: osteoarthritis (~600 per 100k), rheumatoid arthritis (~40 per 100k), gout (~150 per 100k), psoriatic arthritis (~6 per 100k), other inflammatory arthritis (~4 per 100k). Total ~800 per 100k. Low confidence due to heterogeneity and potential overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

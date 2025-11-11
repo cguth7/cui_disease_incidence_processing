@@ -1,0 +1,19 @@
+{
+  "cui": "C0029408",
+  "cui_name": "Degenerative polyarthritis",
+  "incidence_per_100k": 240,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 19200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Osteoarthritis",
+  "reasoning": "Degenerative polyarthritis refers to osteoarthritis affecting multiple joints. Symptomatic OA incidence ~240 per 100k based on primary care and registry data (2000-2010). Lower confidence due to variable diagnostic criteria and reporting of polyarticular vs monoarticular disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Oliveria SA et al. (1995). Incidence of symptomatic hand, hip, and knee osteoarthritis among patients in a health maintenance organization. Arthritis Rheum. 38(8):1134-41",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/7639811/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1833683",
+  "cui_name": "Nephrolithiasis, Calcium Oxalate",
+  "incidence_per_100k": 120,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 9600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Nephrolithiasis",
+  "reasoning": "Calcium oxalate stones comprise ~80% of all kidney stones. Total kidney stone incidence approximately 150 per 100k person-years in developed countries, so calcium oxalate subset ~120 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Stamatelou KK et al. (2003). Time trends in reported prevalence of kidney stones in the United States: 1976-1994. Kidney Int. 63(5):1817-1823",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12675858/",
+  "source_type": "literature"
+}

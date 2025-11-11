@@ -1,0 +1,19 @@
+{
+  "cui": "C3806153",
+  "cui_name": "ANEMIA, HYPOCHROMIC MICROCYTIC, WITH IRON OVERLOAD 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.30,
+  "is_subtype": true,
+  "parent_disease": "Hypochromic Microcytic Anemia",
+  "reasoning": "Reporting incidence of this extremely rare genetic disorder. Very few cases documented in medical literature, estimated <0.01 per 100k. Limited systematic epidemiological studies available for this specific genetic subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

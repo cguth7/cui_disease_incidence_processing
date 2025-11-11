@@ -1,0 +1,19 @@
+{
+  "cui": "C4082937",
+  "cui_name": "Necrotizing enterocolitis in fetus OR newborn",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "NEC primarily affects premature infants, occurring in 5-10% of very low birth weight infants. Overall incidence is ~0.5-1.0 per 1000 live births. With global birth rate of ~2000 per 100k population per year in 2005, NEC incidence is approximately 1.0 per 100k population per year.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neu J, Walker WA. (2011). Necrotizing enterocolitis. N Engl J Med. 364:255-264",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21247316/",
+  "source_type": "literature"
+}

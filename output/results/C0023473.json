@@ -1,0 +1,19 @@
+{
+  "cui": "C0023473",
+  "cui_name": "Myeloid Leukemia, Chronic",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Myeloid Leukemia",
+  "reasoning": "Chronic Myeloid Leukemia (CML) incidence ~1-2 per 100k from cancer registries. Well-documented cancer with consistent global rates.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

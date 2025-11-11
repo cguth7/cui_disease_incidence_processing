@@ -1,0 +1,19 @@
+{
+  "cui": "C0748540",
+  "cui_name": "Scleroderma, Limited",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Systemic Sclerosis",
+  "reasoning": "Limited cutaneous systemic sclerosis (lcSSc) represents approximately 60-70% of systemic sclerosis cases. Total SSc incidence ~1.5-2 per 100k, so lcSSc ~1.2 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Mayes MD et al. (2003). Prevalence, incidence, survival, and disease characteristics of systemic sclerosis in a large US population. Arthritis Rheum. 48(8):2246-55",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12905479/",
+  "source_type": "literature"
+}

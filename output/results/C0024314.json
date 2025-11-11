@@ -1,0 +1,19 @@
+{
+  "cui": "C0024314",
+  "cui_name": "Lymphoproliferative Disorders",
+  "incidence_per_100k": 25,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major lymphoproliferative conditions: NHL (~12 per 100k), Hodgkin lymphoma (~2.5), CLL (~4.5), Multiple myeloma (~4), Other (~2). Total ~25 per 100k. Low confidence due to heterogeneity and composite nature.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

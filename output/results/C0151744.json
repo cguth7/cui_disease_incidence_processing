@@ -1,0 +1,19 @@
+{
+  "cui": "C0151744",
+  "cui_name": "Myocardial Ischemia",
+  "incidence_per_100k": 280,
+  "prevalence_per_100k": 4500,
+  "metric_type": "both",
+  "total_cases_per_year": 22400000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Broader term encompassing acute MI (~130 per 100k) and chronic ischemic heart disease (~150 per 100k). Total incidence ~280 per 100k based on WHO/MONICA data circa 2005. Geographic variation due to risk factors.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO MONICA Project and Global Burden of Disease 2005",
+  "source_url": "https://www.who.int/healthinfo/global_burden_disease/",
+  "source_type": "registry"
+}

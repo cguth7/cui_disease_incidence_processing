@@ -1,0 +1,19 @@
+{
+  "cui": "C0011849",
+  "cui_name": "Diabetes Mellitus",
+  "incidence_per_100k": 16.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1320000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence (new diagnoses) of diabetes mellitus, primarily Type 1 and Type 2. Global incidence from IDF 2005 data: ~16.5 per 100k person-years. Predominantly Type 2 diabetes in adults.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "IDF Diabetes Atlas 2005",
+  "source_url": "https://diabetesatlas.org/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0004352",
+  "cui_name": "Autistic Disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 660,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 52800000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Autism Spectrum Disorder",
+  "reasoning": "Autism measured as prevalence in children, not incidence. CDC ADDM data from 2002 (published 2007) showed 6.6 per 1,000 8-year-olds (660 per 100k children).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2002,
+  "source": "CDC Autism and Developmental Disabilities Monitoring Network (2007). Prevalence of autism spectrum disorders. MMWR Surveill Summ. 56(1):12-28",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17287715/",
+  "source_type": "registry"
+}

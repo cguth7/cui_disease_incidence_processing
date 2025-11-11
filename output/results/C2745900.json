@@ -1,0 +1,19 @@
+{
+  "cui": "C2745900",
+  "cui_name": "Promyelocytic leukemia",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Acute myeloid leukemia",
+  "reasoning": "Reporting incidence at ~0.15 per 100k person-years. Acute promyelocytic leukemia (APL) represents 10-15% of AML cases. Global AML incidence ~1-1.5 per 100k, making APL ~0.1-0.2 per 100k based on cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lehmann S et al. (2011). Continuing improvement in survival in acute promyelocytic leukemia. Blood. 118(11):e1-9",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21768301/",
+  "source_type": "literature"
+}

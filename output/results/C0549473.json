@@ -1,0 +1,20 @@
+{
+  "cui": "C0549473",
+  "cui_name": "Thyroid carcinoma",
+  "incidence_per_100k": 5.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 408000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-defined cancer with robust registry data. GLOBOCAN 2005 reports global thyroid cancer incidence at ~5.1 per 100k, with higher rates in women (3:1 ratio).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature",
+  "source_type": "literature"
+}

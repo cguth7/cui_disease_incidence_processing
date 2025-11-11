@@ -1,0 +1,19 @@
+{
+  "cui": "C0007131",
+  "cui_name": "Non-Small Cell Lung Carcinoma",
+  "incidence_per_100k": 21.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1680000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Reporting incidence (new diagnoses). NSCLC comprises ~85% of all lung cancers. GLOBOCAN 2005 total lung cancer incidence ~25 per 100k, therefore NSCLC ~21 per 100k globally.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - lung cancer incidence, applying 85% NSCLC proportion",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

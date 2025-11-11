@@ -1,0 +1,19 @@
+{
+  "cui": "C0221273",
+  "cui_name": "Juvenile polyp",
+  "incidence_per_100k": 50,
+  "prevalence_per_100k": 1500,
+  "metric_type": "both",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Juvenile polyps are benign hamartomatous polyps occurring in 1-2% of children (prevalence ~1500 per 100k). Incidence of clinical detection approximately 50 per 100k person-years based on pediatric gastroenterology studies. Most solitary and sporadic, distinct from juvenile polyposis syndrome.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hyer W et al. (2004). Juvenile polyposis syndrome. J Med Genet. 41(1):1-11",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14729819/",
+  "source_type": "literature"
+}

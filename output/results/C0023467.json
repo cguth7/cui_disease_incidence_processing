@@ -1,0 +1,19 @@
+{
+  "cui": "C0023467",
+  "cui_name": "Leukemia, Myelocytic, Acute",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Acute myeloid leukemia (AML) incidence ~3.5 per 100k globally from GLOBOCAN 2005 cancer registry data. Well-documented cancer with strong epidemiological surveillance.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

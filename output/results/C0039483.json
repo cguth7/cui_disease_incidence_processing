@@ -1,0 +1,19 @@
+{
+  "cui": "C0039483",
+  "cui_name": "Giant Cell Arteritis",
+  "incidence_per_100k": 10.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 800000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Vasculitis",
+  "reasoning": "GCA incidence varies by age and geography. Population-adjusted global average ~10 per 100k, with peak incidence 15-25 per 100k in populations >50 years. Strong registry data from Northern Europe and North America.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Salvarani C et al. (2004). Epidemiology of giant cell arteritis. Clin Exp Rheumatol. 22(6 Suppl 36):S23-7",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15675131/",
+  "source_type": "literature"
+}

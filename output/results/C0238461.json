@@ -1,0 +1,19 @@
+{
+  "cui": "C0238461",
+  "cui_name": "Anaplastic thyroid carcinoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Carcinoma",
+  "reasoning": "Anaplastic thyroid carcinoma represents 1-2% of all thyroid cancers. With thyroid cancer incidence ~6-8 per 100k globally in 2005, anaplastic subtype incidence ~0.15 per 100k person-years from cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Kebebew E et al. (2005). Anaplastic thyroid carcinoma. Treatment outcome and prognostic factors. Cancer. 103(7):1330-1335",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15739211/",
+  "source_type": "literature"
+}

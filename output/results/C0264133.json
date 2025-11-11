@@ -1,0 +1,19 @@
+{
+  "cui": "C0264133",
+  "cui_name": "Acquired flat foot",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2400,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 192000000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Foot deformities",
+  "reasoning": "Acquired flatfoot (posterior tibial tendon dysfunction) measured as prevalence, not incidence. Estimated ~2-3% adult prevalence (2,400 per 100k) based on orthopedic screening studies, but no systematic population-based registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

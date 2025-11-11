@@ -1,0 +1,19 @@
+{
+  "cui": "C0158266",
+  "cui_name": "Intervertebral Disc Degeneration",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic degenerative condition measured as prevalence. Symptomatic disc degeneration affects approximately 8.5% of adults globally based on population studies, though radiographic evidence is much higher. Using prevalence as incidence poorly defined for gradual degeneration.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hartvigsen J et al. (2018). What low back pain is and why we need to pay attention. Lancet. 391(10137):2356-2367",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/29573870/",
+  "source_type": "literature"
+}

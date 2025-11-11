@@ -1,0 +1,19 @@
+{
+  "cui": "C0011574",
+  "cui_name": "Involutional Depression",
+  "incidence_per_100k": 180,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 14400000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "Major Depressive Disorder",
+  "reasoning": "Historical term for late-life depression, now classified under Major Depressive Disorder. Estimated ~180 per 100k based on MDD incidence in middle-aged/elderly adults. Moderate-low confidence due to outdated terminology and extrapolation from general MDD data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Waraich P et al. (2004). Prevalence and incidence studies of mood disorders: a systematic review of the literature. Can J Psychiatry. 49(2):124-138",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15065747/",
+  "source_type": "literature"
+}

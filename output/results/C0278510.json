@@ -1,0 +1,19 @@
+{
+  "cui": "C0278510",
+  "cui_name": "Childhood Medulloblastoma",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Medulloblastoma",
+  "reasoning": "Reporting incidence of pediatric cases. Childhood medulloblastoma represents ~85% of all medulloblastomas, with incidence of ~6 per 100k in pediatric population (0-14 years), which equals ~0.5 per 100k when calculated against total population.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Rickert CH, Paulus W (2001). Epidemiology of central nervous system tumors in childhood and adolescence based on the new WHO classification. Childs Nerv Syst. 17:503-511",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11585301/",
+  "source_type": "literature"
+}

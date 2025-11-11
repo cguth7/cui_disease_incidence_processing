@@ -1,0 +1,19 @@
+{
+  "cui": "C0178874",
+  "cui_name": "Tumor Progression",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tumor progression is a pathological process describing how tumors advance and become more aggressive, not a disease entity. Cannot be assigned an incidence rate. This is a biological concept, not a diagnosis.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

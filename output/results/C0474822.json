@@ -1,0 +1,19 @@
+{
+  "cui": "C0474822",
+  "cui_name": "Benign pheochromocytoma",
+  "incidence_per_100k": 0.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 56000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Pheochromocytoma",
+  "reasoning": "Benign pheochromocytomas represent ~90% of all pheochromocytomas (total incidence ~0.8 per 100k). Estimated at 0.7 per 100k based on endocrine tumor registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Beard CM et al. (1983). Occurrence of pheochromocytoma in Rochester, Minnesota, 1950-1979. Mayo Clin Proc. 58:802-804",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/6645626/",
+  "source_type": "literature"
+}
