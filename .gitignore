@@ -20,3 +20,26 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Processing artifacts
+batch_*.json
+disease_input.json
+diseases_*.json
+input.json
+input_disease_*.json
+measles_input.json
+missing_diseases.json
+output_*.json
+polymicrogyria_input.json
+processing_*.json
+pws_input.json
+remaining_diseases_*.json
+skill_*.json
+temp_*.json
+batch_metadata.json
+batch_results/
+batches_*.json
+diseases_for_skill_processing.json
+*_manifest.json
+*_queue_*.json
+*_status_*.json
