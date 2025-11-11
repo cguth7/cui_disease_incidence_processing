@@ -1,0 +1,17 @@
+{
+  "cui": "C0596263",
+  "cui_name": "Carcinogenesis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Carcinogenesis is a pathological process/mechanism rather than a diagnosable disease entity. Unmappable to incidence rates as it represents the biological process of cancer development, not a specific disease occurrence.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

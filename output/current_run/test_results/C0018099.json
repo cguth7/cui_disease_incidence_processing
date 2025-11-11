@@ -1,0 +1,17 @@
+{
+  "cui": "C0018099",
+  "cui_name": "Gout",
+  "incidence_per_100k": 42.0,
+  "total_cases_per_year": 3360000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gout incidence estimated at 40-45 per 100k annually from rheumatology epidemiological studies. Higher prevalence in males and older populations; varies with dietary and lifestyle factors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Roddy E, Choi HK (2006). Epidemiology of gout. Rheum Dis Clin North Am. 32(2):275-285",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16716889/",
+  "source_type": "literature"
+}
