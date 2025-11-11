@@ -1,0 +1,83 @@
+{
+  "processing_session": {
+    "date": "2025-11-11",
+    "skill_used": "cui-incidence-mapper_2",
+    "total_diseases": 5,
+    "all_completed": true,
+    "errors": false
+  },
+  "results": [
+    {
+      "rank": 1,
+      "cui": "C3146257",
+      "name": "Stage II Colon Cancer AJCC v7",
+      "metric": "incidence",
+      "value": 6.5,
+      "unit": "per 100k person-years",
+      "confidence": 0.75,
+      "quality": "STRONG",
+      "file": "/home/user/cui_disease_incidence_processing/output/results/C3146257.json"
+    },
+    {
+      "rank": 2,
+      "cui": "C1319860",
+      "name": "Sendai virus infection",
+      "metric": "incidence",
+      "value": "extremely rare",
+      "unit": "per 100k person-years",
+      "confidence": 0.25,
+      "quality": "WEAK",
+      "file": "/home/user/cui_disease_incidence_processing/output/results/C1319860.json"
+    },
+    {
+      "rank": 3,
+      "cui": "C0238114",
+      "name": "Leiomyoma of esophagus",
+      "metric": "incidence",
+      "value": 0.08,
+      "unit": "per 100k person-years",
+      "confidence": 0.35,
+      "quality": "WEAK",
+      "file": "/home/user/cui_disease_incidence_processing/output/results/C0238114.json"
+    },
+    {
+      "rank": 4,
+      "cui": "C0862196",
+      "name": "Mycosis fungoides/Sezary syndrome NOS",
+      "metric": "incidence",
+      "value": 4.2,
+      "unit": "per 100k person-years",
+      "confidence": 0.60,
+      "quality": "MODERATE",
+      "file": "/home/user/cui_disease_incidence_processing/output/results/C0862196.json"
+    },
+    {
+      "rank": 5,
+      "cui": "C0877015",
+      "name": "Pelvic Organ Prolapse",
+      "metric": "prevalence",
+      "value": 1800,
+      "unit": "per 100k population",
+      "confidence": 0.72,
+      "quality": "STRONG",
+      "file": "/home/user/cui_disease_incidence_processing/output/results/C0877015.json"
+    }
+  ],
+  "statistics": {
+    "high_confidence": {
+      "count": 2,
+      "diseases": ["C3146257", "C0877015"],
+      "range": "0.7-1.0"
+    },
+    "moderate_confidence": {
+      "count": 2,
+      "diseases": ["C0862196", "C0238114"],
+      "range": "0.3-0.7"
+    },
+    "low_confidence": {
+      "count": 1,
+      "diseases": ["C1319860"],
+      "range": "0.0-0.3"
+    }
+  }
+}

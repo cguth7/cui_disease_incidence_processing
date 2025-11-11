@@ -1,0 +1,9 @@
+{
+  "diseases": [
+    {"cui": "C4296896", "name": "Unspecified Disease C4296896"},
+    {"cui": "C4085251", "name": "Unspecified Disease C4085251"},
+    {"cui": "C1519176", "name": "Familial Mediterranean Fever"},
+    {"cui": "C0347016", "name": "Unspecified Disease C0347016"},
+    {"cui": "C0524948", "name": "Metabolic Bone Diseases"}
+  ]
+}

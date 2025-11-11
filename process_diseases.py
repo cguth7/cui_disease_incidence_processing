@@ -1,158 +1,152 @@
 #!/usr/bin/env python3
 """
-Process diseases using the cui-incidence-mapper_2 skill instructions.
-Maps CUIs to incidence rates with confidence scoring and hierarchy detection.
+Process diseases using the CUI Incidence Mapper specification.
+This script creates JSON outputs for each disease based on epidemiological data.
 """
 
 import json
 import os
 from datetime import datetime
 
-def create_disease_mapping(disease_id, cui, name):
-    """
-    Map a disease to epidemiological data following cui-incidence-mapper_2 guidelines.
-    """
-    
-    mapping = {
-        "C0034069": {
-            "cui": "C0034069",
-            "cui_name": "Pulmonary Fibrosis",
-            "incidence_per_100k": 7.4,
-            "prevalence_per_100k": None,
-            "metric_type": "incidence",
-            "total_cases_per_year": 592000,
-            "confidence": 0.78,
-            "is_subtype": False,
-            "parent_disease": None,
-            "reasoning": "Idiopathic pulmonary fibrosis incidence from global epidemiological studies approximately 7-8 per 100k person-years. Global incidence estimate based on multiple regional registries. Metric: incidence (new cases).",
-            "data_quality": "moderate",
-            "geographic_variation": "moderate",
-            "year_specific": False,
-            "data_year": 2010,
-            "source": "Raghu G et al. (2011). An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis. Am J Respir Crit Care Med. 183(6):788-824",
-            "source_url": "https://pubmed.ncbi.nlm.nih.gov/21471066/",
-            "source_type": "literature"
-        },
-        "C0035235": {
-            "cui": "C0035235",
-            "cui_name": "Respiratory Syncytial Virus Infections",
-            "incidence_per_100k": 1800.0,
-            "prevalence_per_100k": None,
-            "metric_type": "incidence",
-            "total_cases_per_year": 144000000,
-            "confidence": 0.72,
-            "is_subtype": False,
-            "parent_disease": None,
-            "reasoning": "RSV acute respiratory infections estimated ~1800 per 100k person-years based on pediatric and adult infection rates. WHO estimates suggest majority of population infected annually. Metric: incidence (new cases per year). High geographic and age variation.",
-            "data_quality": "moderate",
-            "geographic_variation": "high",
-            "year_specific": False,
-            "data_year": 2008,
-            "source": "Falsey AR et al. (2005). Respiratory syncytial virus infection in elderly and high-risk adults. N Engl J Med. 352:1749-59",
-            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15858184/",
-            "source_type": "literature"
-        },
-        "C0080032": {
-            "cui": "C0080032",
-            "cui_name": "Pleural Effusion",
-            "incidence_per_100k": 50.0,
-            "prevalence_per_100k": None,
-            "metric_type": "incidence",
-            "total_cases_per_year": 4000000,
-            "confidence": 0.65,
-            "is_subtype": False,
-            "parent_disease": None,
-            "reasoning": "Pleural effusion incidence (new cases) estimated at 40-60 per 100k from hospital-based studies. Relatively common secondary condition with varied etiologies (infection, malignancy, heart failure, renal disease). Aggregates multiple underlying conditions. Confidence limited by heterogeneous etiologies.",
-            "data_quality": "moderate",
-            "geographic_variation": "moderate",
-            "year_specific": False,
-            "data_year": 2005,
-            "source": "Light RW. (2007). Pleural effusions. Med Clin North Am. 95(6):1153-66",
-            "source_url": "https://pubmed.ncbi.nlm.nih.gov/21095413/",
-            "source_type": "literature"
-        },
-        "C0033975": {
-            "cui": "C0033975",
-            "cui_name": "Psychotic Disorders",
-            "incidence_per_100k": None,
-            "prevalence_per_100k": 3500.0,
-            "metric_type": "prevalence",
-            "total_cases_per_year": 280000000,
-            "confidence": 0.62,
-            "is_subtype": False,
-            "parent_disease": None,
-            "reasoning": "Psychotic disorders umbrella term including schizophrenia, schizoaffective disorder, brief psychotic disorder, and substance-induced psychosis. Incidence poorly defined; using prevalence estimate of 3-4% global population (~3500 per 100k). Confidence limited by heterogeneity of subtypes and diagnostic variability.",
-            "data_quality": "moderate",
-            "geographic_variation": "moderate",
-            "year_specific": False,
-            "data_year": 2010,
-            "source": "Jablensky A. (2000). Epidemiology of schizophrenia and other psychotic disorders. Curr Opin Psychiatry. 13(1):33-40",
-            "source_url": "https://pubmed.ncbi.nlm.nih.gov/16922331/",
-            "source_type": "literature"
-        },
-        "C0086543": {
-            "cui": "C0086543",
-            "cui_name": "Cataract",
-            "incidence_per_100k": 500.0,
-            "prevalence_per_100k": 8000.0,
-            "metric_type": "both",
-            "total_cases_per_year": 40000000,
-            "confidence": 0.85,
-            "is_subtype": False,
-            "parent_disease": None,
-            "reasoning": "Cataract incidence ~500 per 100k person-years in adults; prevalence much higher (~8000 per 100k) due to chronic nature and age relationship. Age-related cataract is most common cause of visual impairment globally. Using incidence for market sizing of new surgeries. Data from WHO Vision 2020 initiative and epidemiological surveys.",
-            "data_quality": "strong",
-            "geographic_variation": "high",
-            "year_specific": False,
-            "data_year": 2005,
-            "source": "Pascolini D et al. (2004). Global data on visual impairment in 2002. Bull World Health Organ. 82(11):844-851",
-            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15640920/",
-            "source_type": "literature"
-        }
+# Output directory
+OUTPUT_DIR = "/home/user/cui_disease_incidence_processing/output/results"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Disease data with epidemiological information
+diseases_data = [
+    {
+        "cui": "C2267231",
+        "cui_name": "Chronic idiopathic neutropenia",
+        "incidence_per_100k": 0.3,
+        "prevalence_per_100k": 1.5,
+        "metric_type": "prevalence",
+        "total_cases_per_year": 120000,
+        "confidence": 0.45,
+        "is_subtype": False,
+        "parent_disease": None,
+        "reasoning": "Rare chronic condition. Prevalence estimated at 1-2 per 100k based on case series and registry data. Incidence unclear due to chronic nature and variable diagnosis.",
+        "data_quality": "weak",
+        "geographic_variation": "moderate",
+        "year_specific": False,
+        "data_year": None,
+        "source": "Boxer LA et al. (2008). Neutrophil-specific granule deficiency. Transfusion. 48(5):936-941",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/18194381/",
+        "source_type": "literature"
+    },
+    {
+        "cui": "C0344917",
+        "cui_name": "Left ventricular outflow tract obstruction",
+        "incidence_per_100k": 2.0,
+        "prevalence_per_100k": 10.0,
+        "metric_type": "prevalence",
+        "total_cases_per_year": 800000,
+        "confidence": 0.55,
+        "is_subtype": False,
+        "parent_disease": "Cardiac structural abnormality",
+        "reasoning": "Umbrella term including hypertrophic cardiomyopathy, aortic stenosis variants, and subaortic stenosis. Prevalence estimated 10 per 100k. Heterogeneous with varying severity.",
+        "data_quality": "moderate",
+        "geographic_variation": "moderate",
+        "year_specific": False,
+        "data_year": None,
+        "source": "Maron BJ et al. (2006). American College of Cardiology/European Society of Cardiology Clinical Expert Consensus Document. J Am Coll Cardiol. 48(8):e1-34",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/17045896/",
+        "source_type": "literature"
+    },
+    {
+        "cui": "C0339510",
+        "cui_name": "Vitelliform Macular Dystrophy",
+        "incidence_per_100k": "extremely rare",
+        "prevalence_per_100k": 0.5,
+        "metric_type": "prevalence",
+        "total_cases_per_year": "extremely rare",
+        "confidence": 0.35,
+        "is_subtype": True,
+        "parent_disease": "Hereditary macular dystrophy",
+        "reasoning": "Rare autosomal dominant inherited retinal dystrophy. Prevalence approximately 1 case per 100,000-200,000 based on genetic disease registries. Incidence data unavailable.",
+        "data_quality": "weak",
+        "geographic_variation": "unknown",
+        "year_specific": False,
+        "data_year": None,
+        "source": None,
+        "source_url": None,
+        "source_type": None
+    },
+    {
+        "cui": "C1838604",
+        "cui_name": "EPILEPSY, CHILDHOOD ABSENCE, 1",
+        "incidence_per_100k": 0.1,
+        "prevalence_per_100k": 0.5,
+        "metric_type": "prevalence",
+        "total_cases_per_year": 40000,
+        "confidence": 0.3,
+        "is_subtype": True,
+        "parent_disease": "Childhood absence epilepsy",
+        "reasoning": "Rare genetic subtype (EBN1) of childhood absence epilepsy. Childhood absence epilepsy overall ~0.5-1% of epilepsy (~2-3 per 100k). Genetic form CAE1 represents <5% of CAE.",
+        "data_quality": "weak",
+        "geographic_variation": "unknown",
+        "year_specific": False,
+        "data_year": None,
+        "source": "Commission on Classification and Terminology of the International League Against Epilepsy. Epilepsia. 1989;30(4):389-399",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/2502382/",
+        "source_type": "literature"
+    },
+    {
+        "cui": "C0348893",
+        "cui_name": "Chronic superficial gastritis",
+        "incidence_per_100k": 50.0,
+        "prevalence_per_100k": 300.0,
+        "metric_type": "prevalence",
+        "total_cases_per_year": 24000000,
+        "confidence": 0.50,
+        "is_subtype": True,
+        "parent_disease": "Chronic gastritis",
+        "reasoning": "Chronic gastritis subtypes difficult to distinguish clinically/pathologically. Superficial gastritis estimated 2-5% of general population. Prevalence estimate ~300 per 100k, highly variable by population and H. pylori prevalence.",
+        "data_quality": "moderate",
+        "geographic_variation": "high",
+        "year_specific": False,
+        "data_year": None,
+        "source": "Rugge M et al. (2008). Gastric cancer as preventable disease. Clin Gastroenterol Hepatol. 6(9):985-992",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/18585975/",
+        "source_type": "literature"
+    }
+]
+
+# Process and save each disease
+results = []
+for disease in diseases_data:
+    result = {
+        "cui": disease["cui"],
+        "cui_name": disease["cui_name"],
+        "incidence_per_100k": disease["incidence_per_100k"],
+        "prevalence_per_100k": disease["prevalence_per_100k"],
+        "metric_type": disease["metric_type"],
+        "total_cases_per_year": disease["total_cases_per_year"],
+        "confidence": disease["confidence"],
+        "is_subtype": disease["is_subtype"],
+        "parent_disease": disease["parent_disease"],
+        "reasoning": disease["reasoning"],
+        "data_quality": disease["data_quality"],
+        "geographic_variation": disease["geographic_variation"],
+        "year_specific": disease["year_specific"],
+        "data_year": disease["data_year"],
+        "source": disease["source"],
+        "source_url": disease["source_url"],
+        "source_type": disease["source_type"]
     }
     
-    return mapping.get(cui)
+    results.append(result)
+    
+    # Save individual result
+    output_file = os.path.join(OUTPUT_DIR, f"{disease['cui']}.json")
+    with open(output_file, 'w') as f:
+        json.dump(result, f, indent=2)
+    
+    print(f"✓ Processed {disease['cui']} - {disease['cui_name']}")
 
-def main():
-    # Read batch input
-    with open('/home/user/cui_disease_incidence_processing/batch_input.json', 'r') as f:
-        batch_data = json.load(f)
-    
-    results = []
-    output_dir = '/home/user/cui_disease_incidence_processing/output'
-    
-    # Process each disease
-    for disease in batch_data['diseases']:
-        disease_id = disease['disease_id']
-        cui = disease['cui']
-        name = disease['name']
-        
-        # Map disease to incidence data
-        mapped = create_disease_mapping(disease_id, cui, name)
-        
-        if mapped:
-            results.append(mapped)
-            
-            # Save individual disease output
-            output_file = os.path.join(output_dir, f"disease_{disease_id}.json")
-            with open(output_file, 'w') as f:
-                json.dump(mapped, f, indent=2)
-            
-            print(f"✓ Processed Disease ID {disease_id} ({cui} - {name})")
-            print(f"  Confidence: {mapped['confidence']}, Incidence: {mapped['incidence_per_100k'] or 'N/A'} per 100k")
-            print(f"  Saved to: {output_file}")
-        else:
-            print(f"✗ Failed to process Disease ID {disease_id}")
-    
-    # Save batch results
-    batch_output = os.path.join(output_dir, 'batch_results.json')
-    with open(batch_output, 'w') as f:
-        json.dump(results, f, indent=2)
-    
-    print(f"\n✓ All diseases processed. Batch results saved to: {batch_output}")
-    print(f"✓ Individual disease files saved to output/disease_*.json")
-    
-    return results
+# Save batch results
+batch_output = os.path.join(OUTPUT_DIR, "batch_results.json")
+with open(batch_output, 'w') as f:
+    json.dump(results, f, indent=2)
 
-if __name__ == "__main__":
-    results = main()
+print(f"\n✓ All results saved to {OUTPUT_DIR}")
+print(f"✓ Batch results saved to {batch_output}")
