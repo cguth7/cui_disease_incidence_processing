@@ -1,0 +1,17 @@
+{
+  "cui": "C0024131",
+  "cui_name": "Lupus Vulgaris",
+  "incidence_per_100k": 0.05,
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cutaneous tuberculosis with very limited global epidemiological data. Estimated incidence <0.1 per 100k in developed countries; higher in areas with active TB transmission. Global average approximately 0.05 per 100k based on limited case series and expert estimates. Low confidence due to sparse epidemiological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Tuberculosis epidemiological estimates and dermatology case reports",
+  "source_url": null,
+  "source_type": "estimate"
+}

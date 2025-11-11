@@ -1,0 +1,17 @@
+{
+  "cui": "C0333307",
+  "cui_name": "Superficial ulcer",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Superficial ulcer is a clinical descriptive term covering multiple etiologies (pressure ulcers, venous ulcers, diabetic ulcers, aphthous ulcers, peptic ulcers). Umbrella term too heterogeneous and non-specific to estimate meaningful incidence.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

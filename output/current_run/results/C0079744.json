@@ -1,0 +1,17 @@
+{
+  "cui": "C0079744",
+  "cui_name": "Diffuse Large B-Cell Lymphoma",
+  "incidence_per_100k": 6.5,
+  "total_cases_per_year": 520000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "DLBCL is the most common form of non-Hodgkin lymphoma globally. Incidence of 6-7 per 100k based on GLOBOCAN 2005 and WHO epidemiological data, with well-documented registry information.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

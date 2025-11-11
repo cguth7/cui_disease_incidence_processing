@@ -1,0 +1,17 @@
+{
+  "cui": "C3899278",
+  "cui_name": "Early Rheumatoid Arthritis",
+  "incidence_per_100k": 25,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Rheumatoid Arthritis",
+  "reasoning": "Term 'Early Rheumatoid Arthritis' lacks standard epidemiological definition. Could refer to: (1) early-onset RA (juvenile/young adult), or (2) early-stage/recently-diagnosed RA. Using general RA incidence estimate (~20-30 per 100k adults) with conservative assumption that term refers to incident RA cases (by definition 'early' in disease course). Confidence reduced due to definitional ambiguity and unclear population specification.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO estimates and rheumatology epidemiology literature (2000-2005)",
+  "source_url": null,
+  "source_type": "literature"
+}

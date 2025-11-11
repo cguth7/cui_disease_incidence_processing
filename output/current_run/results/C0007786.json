@@ -1,0 +1,17 @@
+{
+  "cui": "C0007786",
+  "cui_name": "Brain Ischemia",
+  "incidence_per_100k": 145.0,
+  "total_cases_per_year": 11600000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Cerebrovascular disease",
+  "reasoning": "Brain ischemia incidence primarily driven by ischemic stroke: ~145 per 100k globally from WHO/stroke registries circa 2005. Includes acute ischemic stroke and transient ischemic attacks. Varies considerably by region and age structure.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "WHO Global Burden of Disease 2004, stroke registries",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

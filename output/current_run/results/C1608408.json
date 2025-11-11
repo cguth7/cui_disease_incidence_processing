@@ -1,0 +1,17 @@
+{
+  "cui": "C1608408",
+  "cui_name": "Malignant transformation",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Malignant transformation is a pathological process/mechanism, not a distinct disease entity. Cannot estimate incidence without specifying the underlying condition undergoing transformation. Unmappable as a standalone concept.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

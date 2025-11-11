@@ -1,0 +1,17 @@
+{
+  "cui": "C1332979",
+  "cui_name": "Childhood Lymphoma",
+  "incidence_per_100k": 0.12,
+  "total_cases_per_year": 9600,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "Pediatric lymphoma (ages 0-18) incidence approximately 10-15 per million (0.1-0.15 per 100k) from cancer registry data. Includes both Hodgkin's and Non-Hodgkin's lymphomas in children.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005, pediatric cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

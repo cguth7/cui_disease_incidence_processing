@@ -1,0 +1,17 @@
+{
+  "cui": "C3495919",
+  "cui_name": "Enthesitis-Related Arthritis",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Juvenile Idiopathic Arthritis",
+  "reasoning": "Enthesitis-related arthritis (ERA) is a subtype of JIA, defined by ILAR 2004. Estimated incidence ~0.5-1.5 per 100k children based on pediatric rheumatology cohort studies. Limited population-based surveillance data available in 2005. ERA definition was recently standardized; earlier epidemiological studies used different classification criteria. Confidence moderate due to evolving disease definition and limited global surveillance.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Pediatric rheumatology cohort studies and ILAR classification literature (2004)",
+  "source_url": null,
+  "source_type": "literature"
+}

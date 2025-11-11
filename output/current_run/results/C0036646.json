@@ -1,0 +1,17 @@
+{
+  "cui": "C0036646",
+  "cui_name": "Age-related cataract",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Cataract",
+  "reasoning": "Age-related cataract is well-documented in aging populations. WHO epidemiological estimates suggest incidence around 8-10 per 100k globally, with significant variation by age group and geographic region.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO epidemiological estimates, age-related eye disease studies",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

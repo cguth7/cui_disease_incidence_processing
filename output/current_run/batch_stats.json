@@ -1,0 +1,11 @@
+{
+  "total_processed": 50,
+  "mappable": 43,
+  "unmappable": 7,
+  "high_confidence": 19,
+  "medium_confidence": 22,
+  "low_confidence": 2,
+  "confidence_0": 7,
+  "subtypes": 26,
+  "aggregate_estimates": 3
+}

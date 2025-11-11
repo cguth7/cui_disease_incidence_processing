@@ -1,0 +1,17 @@
+{
+  "cui": "C3887524",
+  "cui_name": "Skin Erosion",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Skin erosion is a non-specific dermatological sign/symptom that can result from multiple etiologies (dermatitis, infection, trauma, autoimmune conditions). Too broad and non-disease-specific to assign meaningful incidence rates.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

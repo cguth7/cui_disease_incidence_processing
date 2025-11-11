@@ -1,0 +1,17 @@
+{
+  "cui": "C0025202",
+  "cui_name": "Melanoma",
+  "incidence_per_100k": 16.5,
+  "total_cases_per_year": 1320000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Skin Cancer",
+  "reasoning": "Melanoma global incidence approximately 16-17 per 100k from GLOBOCAN 2005 (primarily cutaneous melanoma). High variation by latitude and skin type, with highest rates in Australia/New Zealand.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

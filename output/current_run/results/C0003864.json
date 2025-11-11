@@ -1,0 +1,17 @@
+{
+  "cui": "C0003864",
+  "cui_name": "Arthritis",
+  "incidence_per_100k": 90.0,
+  "total_cases_per_year": 7200000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major arthritic conditions: Osteoarthritis (~70 per 100k), Rheumatoid arthritis (~0.8 per 100k), Psoriatic arthritis (~0.6 per 100k), Gout (~2.0 per 100k), Lupus arthritis (~0.5 per 100k), other arthritides (~15 per 100k) = ~90 per 100k total. Heterogeneous category with significant geographic and age-related variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

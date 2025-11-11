@@ -1,0 +1,17 @@
+{
+  "cui": "C1867441",
+  "cui_name": "Pterygium Of Conjunctiva And Cornea",
+  "incidence_per_100k": 3.8,
+  "total_cases_per_year": 304000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Pterygium",
+  "reasoning": "Pterygium with specific conjunctival and corneal involvement represents clinically significant pterygium cases. Estimated incidence slightly lower than general pterygium due to specificity criteria, around 3-4 per 100k globally.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Corneal disease epidemiology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

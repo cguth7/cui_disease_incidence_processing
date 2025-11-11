@@ -1,0 +1,17 @@
+{
+  "cui": "C0020557",
+  "cui_name": "Hypertriglyceridemia",
+  "incidence_per_100k": 35.0,
+  "total_cases_per_year": 2800000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypertriglyceridemia new diagnoses estimated at 30-40 per 100k annually based on lipid screening studies and metabolic syndrome incidence data. Limited specific incidence studies; prevalence far higher (~25-30%).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "NCEP ATP III guidelines and population-based lipid studies",
+  "source_url": null,
+  "source_type": "literature"
+}

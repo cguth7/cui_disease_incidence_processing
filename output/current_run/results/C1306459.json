@@ -1,0 +1,17 @@
+{
+  "cui": "C1306459",
+  "cui_name": "Primary malignant neoplasm",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too vague and generic. 'Primary malignant neoplasm' covers all cancers by definition of primary (vs. secondary/metastatic). Lacks organ/tissue specificity needed for meaningful epidemiological estimation. Would require specification of anatomical site, tissue type, or cancer category.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

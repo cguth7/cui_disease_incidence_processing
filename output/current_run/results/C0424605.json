@@ -1,0 +1,17 @@
+{
+  "cui": "C0424605",
+  "cui_name": "Developmental delay (disorder)",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad to estimate meaningfully. 'Developmental delay' encompasses intellectual disability, autism spectrum disorder, cerebral palsy, specific learning disabilities, and speech/language disorders with vastly different incidence rates and etiologies.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

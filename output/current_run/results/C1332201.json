@@ -1,0 +1,17 @@
+{
+  "cui": "C1332201",
+  "cui_name": "Adult Diffuse Large B-Cell Lymphoma",
+  "incidence_per_100k": 5.8,
+  "total_cases_per_year": 464000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Diffuse Large B-Cell Lymphoma",
+  "reasoning": "Adult-onset DLBCL represents the majority of DLBCL cases. Incidence approximately 5-6 per 100k, slightly lower than total DLBCL due to exclusion of pediatric cases.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) and WHO cancer statistics",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

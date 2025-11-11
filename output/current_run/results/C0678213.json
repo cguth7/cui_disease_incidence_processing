@@ -1,0 +1,17 @@
+{
+  "cui": "C0678213",
+  "cui_name": "Complete hydatidiform mole",
+  "incidence_per_100k": 0.7,
+  "total_cases_per_year": 56000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Hydatidiform Mole",
+  "reasoning": "Complete molar pregnancy represents approximately 50-60% of all molar pregnancies (1-2 per 1000 pregnancies). Estimated 0.7-1 per 100k population based on proportion of complete vs partial moles in obstetric literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International Society for the Study of Gestational Trophoblastic Disease (ISSTD) guidelines and obstetric epidemiology",
+  "source_url": "https://www.isstd.org/",
+  "source_type": "literature"
+}

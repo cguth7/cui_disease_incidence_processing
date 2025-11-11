@@ -1,0 +1,17 @@
+{
+  "cui": "C0036341",
+  "cui_name": "Schizophrenia",
+  "incidence_per_100k": 15.2,
+  "total_cases_per_year": 1216000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schizophrenia incidence estimated at 15-16 per 100k from large epidemiological studies and WHO estimates. Relatively consistent across populations.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Jablensky A (2000). Epidemiology of schizophrenia and affective psychoses. Curr Opin Psychiatry. 13(1):50-55",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12659720/",
+  "source_type": "literature"
+}

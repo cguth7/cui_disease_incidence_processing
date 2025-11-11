@@ -1,0 +1,17 @@
+{
+  "cui": "C0020217",
+  "cui_name": "Hydatidiform Mole",
+  "incidence_per_100k": 1.2,
+  "total_cases_per_year": 96000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": "Gestational Trophoblastic Disease",
+  "reasoning": "Molar pregnancy (complete and partial combined) occurs in 1-3 per 1000 pregnancies globally. With ~80 million births annually, this translates to approximately 1-2 per 100k population per year. WHO and obstetric literature 2000-2005 estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO reports on gestational trophoblastic disease and obstetric epidemiology literature",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

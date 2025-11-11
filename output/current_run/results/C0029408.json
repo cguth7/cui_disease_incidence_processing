@@ -1,0 +1,17 @@
+{
+  "cui": "C0029408",
+  "cui_name": "Degenerative polyarthritis",
+  "incidence_per_100k": 75.0,
+  "total_cases_per_year": 6000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Arthritis",
+  "reasoning": "Osteoarthritis incidence estimated at 70-80 per 100k annually based on population-based cohort studies and clinical incidence data. Highest incidence in older adults (65+ years). Well-characterized degenerative joint disease.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Framingham Heart Study, Osteoarthritis Research Society International data",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+  "source_type": "literature"
+}

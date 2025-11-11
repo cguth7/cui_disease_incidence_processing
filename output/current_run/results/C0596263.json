@@ -1,0 +1,17 @@
+{
+  "cui": "C0596263",
+  "cui_name": "Carcinogenesis",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Carcinogenesis is a biological process (malignant transformation) rather than a specific disease entity. Unmappable term - would require specification of cancer type or organ system to provide meaningful incidence estimate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

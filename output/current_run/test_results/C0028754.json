@@ -1,0 +1,17 @@
+{
+  "cui": "C0028754",
+  "cui_name": "Obesity",
+  "incidence_per_100k": 850.0,
+  "total_cases_per_year": 68000000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global obesity incidence from WHO 2005 data: approximately 850 per 100k annually in developed nations with lower rates in developing regions. Aggregate based on BMI definitions.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Global Infobase (2005) - Obesity estimates",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

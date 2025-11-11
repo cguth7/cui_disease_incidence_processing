@@ -1,0 +1,252 @@
+[
+  {
+    "group_number": 1,
+    "diseases": [
+      {
+        "cui": "C0018099",
+        "name": "Gout"
+      },
+      {
+        "cui": "C0020557",
+        "name": "Hypertriglyceridemia"
+      },
+      {
+        "cui": "C0003864",
+        "name": "Arthritis"
+      },
+      {
+        "cui": "C0029408",
+        "name": "Degenerative polyarthritis"
+      },
+      {
+        "cui": "C0003873",
+        "name": "Rheumatoid Arthritis"
+      }
+    ]
+  },
+  {
+    "group_number": 2,
+    "diseases": [
+      {
+        "cui": "C0036646",
+        "name": "Age-related cataract"
+      },
+      {
+        "cui": "C4520843",
+        "name": "Pterygium of eye"
+      },
+      {
+        "cui": "C1867441",
+        "name": "Pterygium Of Conjunctiva And Cornea"
+      },
+      {
+        "cui": "C0033999",
+        "name": "Pterygium"
+      },
+      {
+        "cui": "C0035334",
+        "name": "Retinitis Pigmentosa"
+      }
+    ]
+  },
+  {
+    "group_number": 3,
+    "diseases": [
+      {
+        "cui": "C0398650",
+        "name": "Immune thrombocytopenic purpura"
+      },
+      {
+        "cui": "C0409974",
+        "name": "Lupus Erythematosus"
+      },
+      {
+        "cui": "C0024131",
+        "name": "Lupus Vulgaris"
+      },
+      {
+        "cui": "C0024138",
+        "name": "Lupus Erythematosus, Discoid"
+      },
+      {
+        "cui": "C0023434",
+        "name": "Chronic Lymphocytic Leukemia"
+      }
+    ]
+  },
+  {
+    "group_number": 4,
+    "diseases": [
+      {
+        "cui": "C1332979",
+        "name": "Childhood Lymphoma"
+      },
+      {
+        "cui": "C0854802",
+        "name": "Recurrent Chronic Lymphoid Leukemia"
+      },
+      {
+        "cui": "C1332206",
+        "name": "Adult Lymphoma"
+      },
+      {
+        "cui": "C3887524",
+        "name": "Skin Erosion"
+      },
+      {
+        "cui": "C0333307",
+        "name": "Superficial ulcer"
+      }
+    ]
+  },
+  {
+    "group_number": 5,
+    "diseases": [
+      {
+        "cui": "C0025202",
+        "name": "melanoma"
+      },
+      {
+        "cui": "C0557874",
+        "name": "Global developmental delay"
+      },
+      {
+        "cui": "C0424605",
+        "name": "Developmental delay (disorder)"
+      },
+      {
+        "cui": "C0007786",
+        "name": "Brain Ischemia"
+      },
+      {
+        "cui": "C1275217",
+        "name": "Paget's disease of vulva"
+      }
+    ]
+  },
+  {
+    "group_number": 6,
+    "diseases": [
+      {
+        "cui": "C0521170",
+        "name": "Osteoporotic Fractures"
+      },
+      {
+        "cui": "C0020473",
+        "name": "Hyperlipidemia"
+      },
+      {
+        "cui": "C0028754",
+        "name": "Obesity"
+      },
+      {
+        "cui": "C0036920",
+        "name": "Sezary Syndrome"
+      },
+      {
+        "cui": "C0596263",
+        "name": "Carcinogenesis"
+      }
+    ]
+  },
+  {
+    "group_number": 7,
+    "diseases": [
+      {
+        "cui": "C0006826",
+        "name": "Malignant Neoplasms"
+      },
+      {
+        "cui": "C1306459",
+        "name": "Primary malignant neoplasm"
+      },
+      {
+        "cui": "C0026764",
+        "name": "Multiple Myeloma"
+      },
+      {
+        "cui": "C3495919",
+        "name": "Enthesitis-Related Arthritis"
+      },
+      {
+        "cui": "C3899278",
+        "name": "Early Rheumatoid Arthritis"
+      }
+    ]
+  },
+  {
+    "group_number": 8,
+    "diseases": [
+      {
+        "cui": "C0023524",
+        "name": "Leukoencephalopathy, Progressive Multifocal"
+      },
+      {
+        "cui": "C0079744",
+        "name": "Diffuse Large B-Cell Lymphoma"
+      },
+      {
+        "cui": "C1332201",
+        "name": "Adult Diffuse Large B-Cell Lymphoma"
+      },
+      {
+        "cui": "C0027651",
+        "name": "Neoplasms"
+      },
+      {
+        "cui": "C0079731",
+        "name": "B-Cell Lymphomas"
+      }
+    ]
+  },
+  {
+    "group_number": 9,
+    "diseases": [
+      {
+        "cui": "C1264041",
+        "name": "von Willebrand Disease, Type 3"
+      },
+      {
+        "cui": "C0339535",
+        "name": "Night blindness, congenital stationary"
+      },
+      {
+        "cui": "C0280324",
+        "name": "Laryngeal Squamous Cell Carcinoma"
+      },
+      {
+        "cui": "C0020217",
+        "name": "Hydatidiform Mole"
+      },
+      {
+        "cui": "C0678213",
+        "name": "Complete hydatidiform mole"
+      }
+    ]
+  },
+  {
+    "group_number": 10,
+    "diseases": [
+      {
+        "cui": "C2931618",
+        "name": "Gestational trophoblastic disease"
+      },
+      {
+        "cui": "C0334529",
+        "name": "Hydatidiform Mole, Partial"
+      },
+      {
+        "cui": "C1608408",
+        "name": "Malignant transformation"
+      },
+      {
+        "cui": "C0008493",
+        "name": "Hydatidiform Mole, Invasive"
+      },
+      {
+        "cui": "C0036341",
+        "name": "Schizophrenia"
+      }
+    ]
+  }
+]
