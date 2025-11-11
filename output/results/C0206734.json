@@ -1,0 +1,19 @@
+{
+  "cui": "C0206734",
+  "cui_name": "Hemangioblastoma",
+  "incidence_per_100k": 0.18,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 14400,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Central Nervous System Neoplasm",
+  "reasoning": "Hemangioblastoma is a rare benign vascular tumor primarily of the cerebellum and spinal cord. Incidence approximately 0.15-0.2 per 100k person-years based on CNS tumor registries. Associated with von Hippel-Lindau disease in 20-30% of cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CBTRUS Statistical Report: Primary Brain and Central Nervous System Tumors",
+  "source_url": "https://www.cbtrus.org/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0149939",
+  "cui_name": "Obstructive nephropathy",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Obstructive nephropathy encompasses various etiologies (stones, tumors, BPH, congenital). Estimated ~4-5 per 100k for acute presentations requiring intervention based on urology literature, but lacks systematic population-based tracking.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

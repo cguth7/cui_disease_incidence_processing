@@ -1,0 +1,19 @@
+{
+  "cui": "C0017636",
+  "cui_name": "Glioblastoma",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Glioma",
+  "reasoning": "Glioblastoma is the most common malignant primary brain tumor. Global incidence ~3-4 per 100k person-years from cancer registry data circa 2005. High confidence due to systematic cancer surveillance.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "CBTRUS Statistical Report and GLOBOCAN 2005",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

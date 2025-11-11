@@ -1,0 +1,19 @@
+{
+  "cui": "C0557874",
+  "cui_name": "Global developmental delay",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Developmental delay",
+  "reasoning": "Global developmental delay measured as prevalence in pediatric populations. Affects ~1-3% of children (using 1.5% estimate = 1,500 per 100k). Incidence not appropriate for chronic developmental condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Shevell M et al. (2003). Practice parameter: evaluation of the child with global developmental delay. Neurology. 60(3):367-380",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12578916/",
+  "source_type": "literature"
+}

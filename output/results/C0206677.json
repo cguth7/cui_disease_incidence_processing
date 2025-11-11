@@ -1,0 +1,19 @@
+{
+  "cui": "C0206677",
+  "cui_name": "Adenomatous Polyps",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 25000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2000000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Polyps",
+  "reasoning": "Reporting prevalence (existing cases), not incidence. Adenomatous polyps are benign precursor lesions found in ~25-30% of adults over age 50 (25,000 per 100k). Prevalence is the appropriate metric for this chronic, often asymptomatic condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lieberman DA et al. (2000). Prevalence of polyps greater than 9 mm in a consortium of diverse geographic areas. Clin Gastroenterol Hepatol. 3(8):798-805",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16234009/",
+  "source_type": "literature"
+}

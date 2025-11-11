@@ -1,0 +1,19 @@
+{
+  "cui": "C4721779",
+  "cui_name": "Ovarian cancer stage IV",
+  "incidence_per_100k": 2.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 176000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of ovary",
+  "reasoning": "Stage IV ovarian cancer represents approximately 30-35% of ovarian cancer diagnoses at presentation. Derived from overall ovarian cancer incidence (6.6) × stage distribution (0.33) = ~2.2 per 100k women. Lower confidence due to indirect calculation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "SEER Cancer Statistics Review (stage distribution data combined with GLOBOCAN incidence)",
+  "source_url": "https://seer.cancer.gov/",
+  "source_type": "registry"
+}

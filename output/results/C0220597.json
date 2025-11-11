@@ -1,0 +1,19 @@
+{
+  "cui": "C0220597",
+  "cui_name": "Adult Hodgkin Lymphoma",
+  "incidence_per_100k": 2.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 192000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Hodgkin Lymphoma",
+  "reasoning": "Reporting incidence of new diagnoses. Adult Hodgkin lymphoma has global incidence of approximately 2.4 per 100k population. Bimodal age distribution with peaks in young adults and elderly. Data from GLOBOCAN 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

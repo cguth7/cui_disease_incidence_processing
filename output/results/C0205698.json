@@ -1,0 +1,19 @@
+{
+  "cui": "C0205698",
+  "cui_name": "Undifferentiated carcinoma",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Carcinoma",
+  "reasoning": "Undifferentiated carcinoma (poorly differentiated/anaplastic) occurs in various organs - thyroid, nasopharyngeal, bladder, etc. Estimated ~1.5 per 100k aggregate across sites, but lack of organ specificity limits confidence. No single comprehensive source.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

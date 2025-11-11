@@ -1,0 +1,19 @@
+{
+  "cui": "C0280100",
+  "cui_name": "Solid Neoplasm",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable umbrella term encompassing all solid tumors (breast, lung, colon, prostate, stomach, liver, etc.) versus hematological malignancies. Too broad and heterogeneous to provide meaningful aggregate estimate - incidence rates vary from <1 per 100k for rare sarcomas to >50 per 100k for common epithelial cancers.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

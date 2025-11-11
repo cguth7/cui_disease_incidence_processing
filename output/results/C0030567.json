@@ -1,0 +1,19 @@
+{
+  "cui": "C0030567",
+  "cui_name": "Parkinson Disease",
+  "incidence_per_100k": 13.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1072000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Parkinson disease incidence ~13.4 per 100k person-years globally (age-adjusted). Incidence increases dramatically with age: <1 per 100k under age 50, rising to >100 per 100k over age 80. Based on systematic review data circa 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "de Lau LM et al. (2006). Epidemiology of Parkinson's disease. Lancet Neurol. 5(6):525-535",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16713924/",
+  "source_type": "literature"
+}

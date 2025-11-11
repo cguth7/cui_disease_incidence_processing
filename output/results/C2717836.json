@@ -1,0 +1,19 @@
+{
+  "cui": "C2717836",
+  "cui_name": "Steroid Sulfatase Deficiency Disease",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Steroid sulfatase deficiency causes X-linked ichthyosis. Same epidemiology as X-linked ichthyosis with birth prevalence 1 in 2,000-6,000 males, converting to ~0.3 per 100k person-years incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet and genetic disease registries",
+  "source_url": null,
+  "source_type": "registry"
+}

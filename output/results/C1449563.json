@@ -1,0 +1,19 @@
+{
+  "cui": "C1449563",
+  "cui_name": "Cardiomyopathy, Familial Idiopathic",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Dilated Cardiomyopathy",
+  "reasoning": "Familial (genetic) forms account for ~30-50% of dilated cardiomyopathy cases. Estimated incidence ~2-3 per 100k based on familial proportion of DCM. Lower confidence due to limited specific epidemiological data for familial subset.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mestroni L et al. (1999). Familial dilated cardiomyopathy: evidence for genetic and phenotypic heterogeneity. J Am Coll Cardiol. 34(1):181-90",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10400009/",
+  "source_type": "literature"
+}

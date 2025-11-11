@@ -1,0 +1,19 @@
+{
+  "cui": "C0010823",
+  "cui_name": "Cytomegalovirus Infections",
+  "incidence_per_100k": 50,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence of diagnosed CMV infections at ~50 per 100k person-years. Includes symptomatic primary infections, congenital CMV, and reactivation disease. Wide variation in surveillance definitions limits confidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cannon MJ et al. (2010). Review of cytomegalovirus seroprevalence and demographic characteristics associated with infection. Rev Med Virol. 20(4):202-213",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20564615/",
+  "source_type": "literature"
+}

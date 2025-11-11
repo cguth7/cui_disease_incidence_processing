@@ -1,0 +1,19 @@
+{
+  "cui": "C0008497",
+  "cui_name": "Choriocarcinoma",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Gestational Trophoblastic Disease",
+  "reasoning": "Choriocarcinoma is extremely rare, occurring in ~1 per 40,000 pregnancies. Global estimate ~0.05 per 100k population based on birth rates and incidence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lurain JR. (2010). Gestational trophoblastic disease I: epidemiology, pathology, clinical presentation and diagnosis. Am J Obstet Gynecol. 203(6):531-539",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20728069/",
+  "source_type": "literature"
+}

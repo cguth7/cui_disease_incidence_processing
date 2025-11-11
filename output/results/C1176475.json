@@ -1,0 +1,19 @@
+{
+  "cui": "C1176475",
+  "cui_name": "Ductal Carcinoma",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term without organ specification. Ductal carcinomas occur in multiple organs (breast, pancreas, prostate, salivary glands) with vastly different incidence rates. Cannot provide meaningful aggregate estimate without anatomical specificity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

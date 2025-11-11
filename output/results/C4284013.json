@@ -1,0 +1,19 @@
+{
+  "cui": "C4284013",
+  "cui_name": "Primary cholangiocarcinoma of intrahepatic biliary tract",
+  "incidence_per_100k": 0.85,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 68000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Intrahepatic cholangiocarcinoma incidence ~0.85 per 100k globally from cancer registries. Second most common primary liver malignancy after HCC. Rising incidence noted in Western countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Khan SA et al. (2005). Cholangiocarcinoma. Lancet. 366(9493):1303-1314",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16214602/",
+  "source_type": "literature"
+}

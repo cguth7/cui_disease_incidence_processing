@@ -1,0 +1,19 @@
+{
+  "cui": "C1511306",
+  "cui_name": "Breast Diffuse Large B-Cell Lymphoma",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Diffuse Large B-Cell Lymphoma",
+  "reasoning": "Primary breast lymphoma is extremely rare, accounting for <1% of breast malignancies. DLBCL is the most common histology. Estimated at ~0.05 per 100k based on case series data. Low confidence due to rarity and limited population-based studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

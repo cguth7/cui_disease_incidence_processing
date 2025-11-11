@@ -1,0 +1,19 @@
+{
+  "cui": "C3900100",
+  "cui_name": "Adult Langerhans Cell Histiocytosis",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.60,
+  "is_subtype": true,
+  "parent_disease": "Langerhans Cell Histiocytosis",
+  "reasoning": "Reporting incidence of new diagnoses. Adult LCH is significantly rarer than childhood form, estimated 1-2 cases per million adults per year, approximately 0.1 per 100k overall population.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

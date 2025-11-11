@@ -1,0 +1,19 @@
+{
+  "cui": "C0948089",
+  "cui_name": "Acute Coronary Syndrome",
+  "incidence_per_100k": 90.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 7200000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "ACS encompasses STEMI, NSTEMI, and unstable angina. Global incidence estimated at ~90 per 100k person-years based on WHO cardiovascular disease data circa 2005. High variation: 150-200 per 100k in developed countries, 50-70 in developing regions.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Yusuf S et al. (2001). Global burden of cardiovascular diseases. Circulation. 104(22):2746-2753",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11723030/",
+  "source_type": "literature"
+}

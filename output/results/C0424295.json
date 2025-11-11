@@ -1,0 +1,19 @@
+{
+  "cui": "C0424295",
+  "cui_name": "Hyperactive behavior",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hyperactive behavior is a symptom or behavioral pattern, not a disease entity. It manifests in multiple conditions (ADHD, bipolar disorder, hyperthyroidism, etc.) and cannot be mapped to a specific incidence rate. Unmappable as a symptom descriptor rather than a disease.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

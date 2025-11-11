@@ -1,0 +1,19 @@
+{
+  "cui": "C0497327",
+  "cui_name": "Dementia",
+  "incidence_per_100k": 118.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 9440000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term including Alzheimer's disease, vascular dementia, and other forms. Alzheimer's Disease International 2005 estimated 7.7 million new dementia cases globally per year, approximately 118 per 100k person-years. Strong epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Ferri CP et al. (2005). Global prevalence of dementia: a Delphi consensus study. Lancet. 366(9503):2112-2117",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16360788/",
+  "source_type": "literature"
+}

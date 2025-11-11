@@ -1,0 +1,19 @@
+{
+  "cui": "C0021364",
+  "cui_name": "Male infertility",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 560000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Male infertility measured as prevalence, not incidence. WHO estimates ~7% of men of reproductive age experience infertility (7,000 per 100k). Moderate confidence due to variation in diagnostic criteria and geographic differences.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO estimates (2005), cited in Agarwal A et al. (2015). Male infertility. Lancet. 397:319-333",
+  "source_url": null,
+  "source_type": "literature"
+}

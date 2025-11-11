@@ -1,0 +1,19 @@
+{
+  "cui": "C0010346",
+  "cui_name": "Crohn Disease",
+  "incidence_per_100k": 3.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 240000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Inflammatory Bowel Disease",
+  "reasoning": "Reporting incidence (new diagnoses). Global average ~3 per 100k person-years based on systematic reviews, though rates vary dramatically (0.5-20 per 100k) with highest in North America and Europe.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Loftus EV Jr. (2004). Clinical epidemiology of inflammatory bowel disease: Incidence, prevalence, and environmental influences. Gastroenterology. 126(6):1504-1517",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15168363/",
+  "source_type": "literature"
+}

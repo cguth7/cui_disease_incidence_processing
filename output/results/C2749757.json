@@ -1,0 +1,19 @@
+{
+  "cui": "C2749757",
+  "cui_name": "BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Bronchiectasis",
+  "reasoning": "Rare genetic form of bronchiectasis associated with SCNN1B gene mutations. Specific incidence unknown but estimated <0.1 per 100k based on rarity in genetic databases and case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

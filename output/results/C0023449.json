@@ -1,0 +1,19 @@
+{
+  "cui": "C0023449",
+  "cui_name": "Acute lymphocytic leukemia",
+  "incidence_per_100k": 1.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 136000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Acute Leukemia",
+  "reasoning": "ALL global incidence ~1.7 per 100k person-years from cancer registries. Bimodal distribution: peak in children age 2-5 (~3-4 per 100k) and smaller peak in elderly. More common in developed countries. GLOBOCAN 2005 data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0494475",
+  "cui_name": "Tonic - clonic seizures",
+  "incidence_per_100k": 25.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Tonic-clonic seizures (grand mal) are the most common seizure type in epilepsy. Estimating ~40-50% of epilepsy incidence (50-70 per 100k) = ~25 per 100k. Moderate confidence due to classification complexity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Banerjee PN et al. (2009). The descriptive epidemiology of epilepsy-a review. Epilepsy Res. 85(1):31-45",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19369037/",
+  "source_type": "literature"
+}

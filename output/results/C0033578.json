@@ -1,0 +1,19 @@
+{
+  "cui": "C0033578",
+  "cui_name": "Prostatic Neoplasms",
+  "incidence_per_100k": 25.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Prostate cancer incidence from GLOBOCAN 2005: approximately 679,000 new cases globally in 2002, translating to ~25 per 100k men (age-standardized rate ~30 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

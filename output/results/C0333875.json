@@ -1,0 +1,19 @@
+{
+  "cui": "C0333875",
+  "cui_name": "High-Grade Squamous Intraepithelial Lesions",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Squamous Intraepithelial Lesions",
+  "reasoning": "HSIL (cervical) detection highly dependent on screening intensity. In screened populations, ~1-2% annual detection rate among women aged 25-65. Global estimate ~150 per 100k women accounting for variable screening access. Screening-dependent artifact.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

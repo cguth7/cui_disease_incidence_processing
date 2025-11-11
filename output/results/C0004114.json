@@ -1,0 +1,19 @@
+{
+  "cui": "C0004114",
+  "cui_name": "Astrocytoma",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Glioma",
+  "reasoning": "Reporting incidence of new astrocytoma diagnoses. Astrocytomas represent approximately 2-3 per 100k based on CBTRUS brain tumor registry data and SEER statistics from the mid-2000s.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CBTRUS Statistical Report: Primary Brain Tumors in the United States",
+  "source_url": "https://www.cbtrus.org/",
+  "source_type": "registry"
+}

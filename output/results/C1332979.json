@@ -1,0 +1,19 @@
+{
+  "cui": "C1332979",
+  "cui_name": "Childhood Lymphoma",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "Reporting incidence (new diagnoses) in children aged 0-19. Pediatric lymphomas (Hodgkin + Non-Hodgkin) incidence approximately 1.8 per 100k children globally based on SEER and international cancer registry data from mid-2000s.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Linabery AM, Ross JA (2008). Childhood and adolescent cancer survival in the US by race and ethnicity for the diagnostic period 1975-1999. Cancer. 113(9):2575-96",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18837040/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0011581",
+  "cui_name": "Depressive disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 256000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Depression measured as prevalence (existing cases) rather than incidence. WHO 2005 data estimates ~3.2% global prevalence (3,200 per 100k) for depressive disorders.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO World Health Report 2005",
+  "source_url": "https://www.who.int/publications/i/item/9241562625",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0585442",
+  "cui_name": "Osteosarcoma of bone",
+  "incidence_per_100k": 0.35,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 28000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Osteosarcoma",
+  "reasoning": "Reporting incidence at ~0.35 per 100k person-years. Osteosarcoma of bone is a specific anatomical subtype with incidence of 3-4 per million globally based on SEER and international cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mirabello L et al. (2009). Osteosarcoma incidence and survival rates from 1973 to 2004. Cancer. 115(7):1531-43",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19197972/",
+  "source_type": "literature"
+}

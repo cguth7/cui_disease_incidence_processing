@@ -1,0 +1,19 @@
+{
+  "cui": "C0700095",
+  "cui_name": "Central neuroblastoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Central (CNS) neuroblastoma extremely rare, <0.01 per 100k. Most neuroblastomas are peripheral (adrenal/sympathetic chain). Limited case reports only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

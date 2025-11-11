@@ -1,0 +1,19 @@
+{
+  "cui": "C0004096",
+  "cui_name": "Asthma",
+  "incidence_per_100k": 400,
+  "prevalence_per_100k": 4500,
+  "metric_type": "both",
+  "total_cases_per_year": 32000000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Asthma incidence of new diagnoses approximately 400 per 100k person-years, with prevalence of 4500 per 100k (4.5% global population). Data from Global Burden of Disease and WHO studies circa 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Masoli M et al. (2004). The global burden of asthma: executive summary of the GINA Dissemination Committee report. Allergy. 59(5):469-478",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15080825/",
+  "source_type": "literature"
+}

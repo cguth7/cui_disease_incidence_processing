@@ -1,0 +1,19 @@
+{
+  "cui": "C2350344",
+  "cui_name": "Chronic Lung Injury",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous and vague to estimate meaningfully. Could encompass COPD, pulmonary fibrosis, chronic ARDS sequelae, occupational lung disease, and many other conditions with vastly different etiologies, prevalences, and clinical significance.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

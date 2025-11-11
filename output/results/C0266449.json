@@ -1,0 +1,19 @@
+{
+  "cui": "C0266449",
+  "cui_name": "Congenital anomaly of brain",
+  "incidence_per_100k": 30.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 39000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major congenital brain malformations per 100k births: neural tube defects (10), hydrocephalus (8), microcephaly (5), holoprosencephaly (1), other malformations (6) = ~30 per 100k births. Heterogeneous group with significant geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

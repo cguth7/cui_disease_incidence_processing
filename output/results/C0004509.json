@@ -1,0 +1,19 @@
+{
+  "cui": "C0004509",
+  "cui_name": "Azoospermia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 80000000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Azoospermia measured as prevalence (chronic condition). Affects approximately 1% of all men and 10-15% of infertile men. Prevalence estimate: 1,000 per 100k men (1%).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Jarow JP et al. (1989). Evaluation of the azoospermic patient. J Urol. 142:62-65",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/2659827/",
+  "source_type": "literature"
+}

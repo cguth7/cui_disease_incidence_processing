@@ -1,0 +1,19 @@
+{
+  "cui": "C3469186",
+  "cui_name": "HEMOCHROMATOSIS, TYPE 1",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Hemochromatosis",
+  "reasoning": "HFE-related hereditary hemochromatosis (Type 1), most common form. Clinical diagnosis incidence ~2-3 per 100k despite higher genetic prevalence. Based on population screening studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Adams PC et al. (2005). Hemochromatosis and iron-overload screening in a racially diverse population. N Engl J Med. 352:1769-78",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15858186/",
+  "source_type": "literature"
+}

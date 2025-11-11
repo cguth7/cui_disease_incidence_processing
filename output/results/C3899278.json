@@ -1,0 +1,19 @@
+{
+  "cui": "C3899278",
+  "cui_name": "Early Rheumatoid Arthritis",
+  "incidence_per_100k": 28.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2240000,
+  "confidence": 0.80,
+  "is_subtype": false,
+  "parent_disease": "Rheumatoid Arthritis",
+  "reasoning": "Reporting incidence of new RA diagnoses. All incident RA cases are by definition 'early' RA at diagnosis. Global incidence approximately 25-30 per 100k person-years based on meta-analyses of population-based studies. Higher in developed countries and females. 'Early' typically refers to disease duration <2 years but incidence captures new diagnoses.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Alamanos Y et al. (2006). Incidence and prevalence of rheumatoid arthritis, based on the 1987 American College of Rheumatology criteria: a systematic review. Semin Arthritis Rheum. 36(3):182-188",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17045630/",
+  "source_type": "literature"
+}

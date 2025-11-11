@@ -1,0 +1,19 @@
+{
+  "cui": "C0015934",
+  "cui_name": "Fetal Growth Retardation",
+  "incidence_per_100k": 100,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "FGR/IUGR affects ~5-10% of pregnancies globally. With global birth rate ~2000 per 100k population in 2005, estimating ~100 cases per 100k population per year. Moderate confidence; variation in diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Resnik R (2002). Intrauterine growth restriction. Obstet Gynecol. 99(3):490-496",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11864679/",
+  "source_type": "literature"
+}

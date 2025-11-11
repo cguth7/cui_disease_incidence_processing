@@ -1,0 +1,19 @@
+{
+  "cui": "C0087012",
+  "cui_name": "Ataxia, Spinocerebellar",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 3.0,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Cerebellar Ataxia",
+  "reasoning": "Spinocerebellar ataxias (SCAs) are hereditary progressive ataxias with prevalence ~3 per 100k. Incidence of new clinical diagnoses ~0.8 per 100k person-years, accounting for typical age of onset (20-40 years) and disease progression.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ruano L et al. (2014). The global epidemiology of hereditary ataxia and spastic paraplegia: a systematic review of prevalence studies. Neuroepidemiology. 42(3):174-83",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/24603320/",
+  "source_type": "literature"
+}

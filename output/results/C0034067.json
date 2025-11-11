@@ -1,0 +1,19 @@
+{
+  "cui": "C0034067",
+  "cui_name": "Pulmonary Emphysema",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 144000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+  "reasoning": "Emphysema is a chronic structural lung disease (part of COPD spectrum) measured by prevalence. Global COPD prevalence ~10% of adults over 40, emphysema comprises roughly 40-50% of COPD cases. Estimated ~1800 per 100k total population.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2007,
+  "source": "Halbert RJ et al. (2006). Global burden of COPD: systematic review and meta-analysis. Eur Respir J. 28(3):523-532",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16611654/",
+  "source_type": "literature"
+}

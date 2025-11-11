@@ -1,0 +1,19 @@
+{
+  "cui": "C0162429",
+  "cui_name": "Malnutrition",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Malnutrition is better measured by prevalence than incidence. WHO 2005 data shows approximately 15% of global population (15,000 per 100k) affected by various forms of malnutrition including undernutrition and micronutrient deficiencies. Broad umbrella term with significant geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Global Database on Child Growth and Malnutrition, 2005",
+  "source_url": "https://www.who.int/nutrition/databases/en/",
+  "source_type": "registry"
+}

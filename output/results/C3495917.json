@@ -1,0 +1,19 @@
+{
+  "cui": "C3495917",
+  "cui_name": "Advanced breast cancer",
+  "incidence_per_100k": 4.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 336000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "Advanced/metastatic breast cancer at diagnosis represents ~5-10% of total breast cancer incidence. Global breast cancer incidence ~44 per 100k (2005), advanced stage estimated at ~4.2 per 100k. Moderate confidence due to staging definition variability.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Estimated from GLOBOCAN 2005 breast cancer data with stage distribution from SEER",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "estimate"
+}

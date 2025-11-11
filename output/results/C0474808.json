@@ -1,0 +1,19 @@
+{
+  "cui": "C0474808",
+  "cui_name": "Follicular neoplasm",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering follicular neoplasms across multiple organ systems including thyroid follicular adenomas, follicular thyroid carcinoma, follicular lymphoma, and ovarian follicular tumors. Each has vastly different incidence rates and clinical significance. Unmappable without anatomic specification.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

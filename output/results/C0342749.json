@@ -1,0 +1,19 @@
+{
+  "cui": "C0342749",
+  "cui_name": "GLYCOGEN STORAGE DISEASE Ic",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Glycogen Storage Disease Type I",
+  "reasoning": "GSD type Ic (G6PT deficiency) is extremely rare. GSD type I overall occurs in ~1 per 100k births, with type Ic representing ~10-15% of GSD-I cases. Estimated <0.015 per 100k births based on case series.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Chou JY et al. (2002). Type I glycogen storage diseases: disorders of the glucose-6-phosphatase complex. Curr Mol Med. 2(2):121-43",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11949930/",
+  "source_type": "literature"
+}

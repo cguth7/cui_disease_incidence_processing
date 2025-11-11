@@ -1,0 +1,19 @@
+{
+  "cui": "C1134719",
+  "cui_name": "Invasive Ductal Breast Carcinoma",
+  "incidence_per_100k": 35.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2816000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "Invasive ductal carcinoma comprises ~80% of invasive breast cancers. Global breast cancer incidence from GLOBOCAN 2005: ~44 per 100k, invasive ductal subset estimated at ~35 per 100k. High confidence based on well-documented histological distribution.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) with histological subtype distribution",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0238463",
+  "cui_name": "Papillary Thyroid Carcinoma",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Cancer",
+  "reasoning": "Papillary thyroid carcinoma accounts for ~80% of thyroid cancers. Total thyroid cancer incidence ~6.5 per 100k globally in 2005, yielding ~5.2 per 100k for papillary subtype. Data from GLOBOCAN 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0149678",
+  "cui_name": "Epstein-Barr Virus Infections",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence of symptomatic EBV infection (infectious mononucleosis). Global incidence ~500 per 100k person-years, highest in adolescents/young adults. Most infections are asymptomatic.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ebell MH. (2004). Epstein-Barr virus infectious mononucleosis. Am Fam Physician. 70(7):1279-1287",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15508538/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0024534",
+  "cui_name": "Malaria, Cerebral",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Severe Malaria",
+  "reasoning": "Cerebral malaria is a severe complication of P. falciparum malaria. Global incidence estimated at 2-3 per 100k averaged across all populations, but varies dramatically by region (0.01 in non-endemic areas to >10 per 100k in high-transmission zones). Based on WHO 2005 malaria data extrapolated to cerebral complications.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO World Malaria Report 2005",
+  "source_url": "https://www.who.int/publications/i/item/9241593199",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1510885",
+  "cui_name": "Angiogenic Switch",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Not a disease entity - angiogenic switch is a biological process/mechanism in cancer development where tumors acquire the ability to stimulate new blood vessel growth. This is a molecular/cellular process descriptor, not a mappable disease condition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

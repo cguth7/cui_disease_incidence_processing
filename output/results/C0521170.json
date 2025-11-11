@@ -1,0 +1,19 @@
+{
+  "cui": "C0521170",
+  "cui_name": "Osteoporotic Fractures",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Osteoporosis",
+  "reasoning": "Reporting incidence of new osteoporotic fractures (hip, spine, wrist). Global estimate ~500 per 100k person-years based on IOF epidemiological data. Significant age and geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2007,
+  "source": "Johnell O, Kanis JA. (2006). An estimate of the worldwide prevalence and disability associated with osteoporotic fractures. Osteoporos Int. 17(12):1726-33",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16983459/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1265996",
+  "cui_name": "Large cell neuroendocrine carcinoma",
+  "incidence_per_100k": 0.75,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 60000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Lung Cancer",
+  "reasoning": "Large cell neuroendocrine carcinoma (LCNEC) represents approximately 2-3% of all lung cancers. Derived from global lung cancer incidence (~30 per 100k) × 0.025 = ~0.75 per 100k. Rare aggressive subtype, primarily pulmonary.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Travis WD et al. (2004). World Health Organization Classification of Tumours: Pathology and Genetics of Tumours of the Lung. IARC Press",
+  "source_url": null,
+  "source_type": "literature"
+}

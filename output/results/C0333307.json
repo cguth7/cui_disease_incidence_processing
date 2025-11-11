@@ -1,0 +1,19 @@
+{
+  "cui": "C0333307",
+  "cui_name": "Superficial ulcer",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unmappable - 'superficial ulcer' is a generic clinical finding without anatomical or etiological specificity. Could refer to skin ulcers, oral ulcers, gastric ulcers, etc. Too broad and non-specific to provide meaningful population-based incidence estimate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

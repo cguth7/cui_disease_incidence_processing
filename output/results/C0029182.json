@@ -1,0 +1,19 @@
+{
+  "cui": "C0029182",
+  "cui_name": "orbit (eye disorders)",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering all orbital disorders including orbital tumors, thyroid eye disease, orbital infections, trauma, congenital abnormalities, and inflammatory conditions. Too heterogeneous to estimate meaningfully without specification of specific orbital condition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

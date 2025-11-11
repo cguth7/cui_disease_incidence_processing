@@ -1,0 +1,19 @@
+{
+  "cui": "C0007786",
+  "cui_name": "Brain Ischemia",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.80,
+  "is_subtype": true,
+  "parent_disease": "Cerebrovascular disease",
+  "reasoning": "Reporting incidence (new events). Brain ischemia/ischemic stroke global incidence ~150 per 100k person-years based on WHO stroke surveillance. Varies by region and age.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Feigin VL et al. (2003). Stroke epidemiology: a review of population-based studies of incidence, prevalence, and case-fatality in the late 20th century. Lancet Neurol. 2(1):43-53",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12578916/",
+  "source_type": "literature"
+}

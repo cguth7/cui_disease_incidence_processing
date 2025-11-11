@@ -1,0 +1,19 @@
+{
+  "cui": "C0011265",
+  "cui_name": "Presenile dementia",
+  "incidence_per_100k": 9.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 720000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Dementia",
+  "reasoning": "Early-onset dementia (before age 65). Represents approximately 5-10% of all dementia cases. Estimated at ~9 per 100k person-years based on epidemiological studies. Lower confidence due to less robust population-based data compared to late-onset dementia.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Harvey RJ et al. (2003). Epidemiology of presenile dementia. Neurology. 60(9):1443-1447",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12743228/",
+  "source_type": "literature"
+}

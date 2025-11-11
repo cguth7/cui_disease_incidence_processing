@@ -1,0 +1,19 @@
+{
+  "cui": "C0026691",
+  "cui_name": "Mucocutaneous Lymph Node Syndrome",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Kawasaki disease incidence varies dramatically by geography (Japan ~250/100k children, Western countries ~10-20/100k). Global weighted average ~8.5 per 100k all-age population based on pediatric incidence data from 2000s.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Nakamura Y et al. (2008). Epidemiologic features of Kawasaki disease in Japan. Pediatrics. 122(6):e1167-72",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19047216/",
+  "source_type": "literature"
+}

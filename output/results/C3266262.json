@@ -1,0 +1,19 @@
+{
+  "cui": "C3266262",
+  "cui_name": "Multiple Chronic Conditions",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 25000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2000000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "This is a prevalence-based concept (having 2+ chronic conditions simultaneously), not an incident disease. Estimated ~25% of global adults have multiple chronic conditions based on WHO 2005 data, but definition varies widely across studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

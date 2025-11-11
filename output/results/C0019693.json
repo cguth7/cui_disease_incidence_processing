@@ -1,0 +1,19 @@
+{
+  "cui": "C0019693",
+  "cui_name": "HIV Infections",
+  "incidence_per_100k": 42.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3360000,
+  "confidence": 0.92,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "New HIV infections globally in 2005: ~2.7 million cases (UNAIDS). With global population ~6.4 billion, incidence ~42 per 100k person-years. High-quality surveillance data from UNAIDS/WHO.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "UNAIDS/WHO AIDS Epidemic Update 2005",
+  "source_url": "https://data.unaids.org/publications/irc-pub06/epi_update2005_en.pdf",
+  "source_type": "registry"
+}

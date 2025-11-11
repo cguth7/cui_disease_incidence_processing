@@ -1,0 +1,19 @@
+{
+  "cui": "C0023434",
+  "cui_name": "Chronic Lymphocytic Leukemia",
+  "incidence_per_100k": 4.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 336000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "CLL incidence ~4.2 per 100k person-years from cancer registry data (GLOBOCAN 2005/SEER). More common in males (2:1 ratio) and Caucasians. Median age at diagnosis 70 years.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

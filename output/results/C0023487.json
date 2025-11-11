@@ -1,0 +1,19 @@
+{
+  "cui": "C0023487",
+  "cui_name": "Acute Promyelocytic Leukemia",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "APL represents 10-15% of AML cases. Global AML incidence ~4 per 100k, therefore APL ~0.5 per 100k. Well-documented in cancer registries with characteristic t(15;17) translocation.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "SEER Cancer Statistics Review, NCI",
+  "source_url": "https://seer.cancer.gov/",
+  "source_type": "registry"
+}

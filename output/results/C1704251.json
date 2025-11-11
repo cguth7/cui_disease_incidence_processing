@@ -1,0 +1,19 @@
+{
+  "cui": "C1704251",
+  "cui_name": "Breast Lymphoma",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Primary breast lymphoma is rare, representing <1% of breast malignancies and ~2% of extranodal lymphomas. Estimated at ~0.5 per 100k women based on cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Wiseman C, Liao KT. Primary lymphoma of the breast. Cancer. 1972;29(6):1705-12",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/5032234/",
+  "source_type": "literature"
+}

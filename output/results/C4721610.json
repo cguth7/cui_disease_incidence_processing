@@ -1,0 +1,19 @@
+{
+  "cui": "C4721610",
+  "cui_name": "Carcinoma, Ovarian Epithelial",
+  "incidence_per_100k": 5.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 432000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Cancer",
+  "reasoning": "Epithelial ovarian carcinoma comprises ~90% of ovarian cancers. Global ovarian cancer incidence ~6 per 100k women (GLOBOCAN 2005), epithelial subset ~5.4 per 100k women or ~2.7 per 100k general population. Adjusted for women-only denominator.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

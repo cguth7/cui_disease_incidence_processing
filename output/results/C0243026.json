@@ -1,0 +1,19 @@
+{
+  "cui": "C0243026",
+  "cui_name": "Sepsis",
+  "incidence_per_100k": 189,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 15120000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence (new cases). Global estimate ~189 per 100k based on hospital surveillance data. Definition has evolved over time, affecting comparability.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2017,
+  "source": "Fleischmann C et al. (2016). Assessment of global incidence and mortality of hospital-treated sepsis. Am J Respir Crit Care Med. 193(3):259-272",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/26414292/",
+  "source_type": "literature"
+}

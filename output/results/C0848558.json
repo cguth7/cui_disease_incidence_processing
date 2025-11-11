@@ -1,0 +1,19 @@
+{
+  "cui": "C0848558",
+  "cui_name": "Hypospadias",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence at birth. Hypospadias affects approximately 1 in 200 male births globally (500 per 100k male births). Rates vary from 200-800 per 100k male births by region.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Paulozzi LJ et al. (1999). Hypospadias trends in two US surveillance systems. Pediatrics. 100(5):831-4",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/9346982/",
+  "source_type": "registry"
+}

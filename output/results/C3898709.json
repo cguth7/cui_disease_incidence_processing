@@ -1,0 +1,19 @@
+{
+  "cui": "C3898709",
+  "cui_name": "Intestinal-Type Sinonasal Adenocarcinoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Sinonasal Adenocarcinoma",
+  "reasoning": "Extremely rare malignancy representing a specific histological subtype of sinonasal adenocarcinoma. Sinonasal adenocarcinomas overall are <1 per 100k; intestinal-type represents a fraction of these. Estimated <0.05 per 100k based on case series literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Barnes L. (2002). Intestinal-type adenocarcinoma of the nasal cavity and paranasal sinuses. Am J Surg Pathol. 10:192-202",
+  "source_url": null,
+  "source_type": "literature"
+}

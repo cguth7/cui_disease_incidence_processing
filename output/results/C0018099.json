@@ -1,0 +1,19 @@
+{
+  "cui": "C0018099",
+  "cui_name": "Gout",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Arthritis",
+  "reasoning": "Reporting incidence of new gout diagnoses. Population-based studies from UK and US (2000-2005) show incidence ~1.5 per 1000 person-years (150 per 100k), higher in men and increasing with age.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Arromdee E et al. (2002). Epidemiology of gout: is the incidence rising? J Rheumatol. 29(11):2403-6",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12415600/",
+  "source_type": "literature"
+}

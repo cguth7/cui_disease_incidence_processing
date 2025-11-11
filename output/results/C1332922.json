@@ -1,0 +1,19 @@
+{
+  "cui": "C1332922",
+  "cui_name": "Cervical Squamous Intraepithelial Neoplasia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 400,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 32000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Cervical Intraepithelial Neoplasia",
+  "reasoning": "CIN measured as prevalence in screened populations. Detection rate of CIN2+ approximately 400 per 100k women screened, based on cervical cancer screening program data. Squamous type represents majority of CIN cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Wright TC et al. (2007). 2006 consensus guidelines for management of women with cervical intraepithelial neoplasia or adenocarcinoma in situ. Am J Obstet Gynecol. 197(4):340-345",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17904955/",
+  "source_type": "literature"
+}

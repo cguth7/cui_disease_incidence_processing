@@ -1,0 +1,19 @@
+{
+  "cui": "C0524620",
+  "cui_name": "Metabolic Syndrome X",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 22000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1760000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cluster of metabolic risk factors (obesity, hypertension, dyslipidemia, insulin resistance). Measured as prevalence, not incidence. Global adult prevalence approximately 22% (22,000 per 100k) circa 2005, with increasing trends.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Eckel RH et al. (2005). The metabolic syndrome. Lancet. 365(9468):1415-1428",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15836891/",
+  "source_type": "literature"
+}

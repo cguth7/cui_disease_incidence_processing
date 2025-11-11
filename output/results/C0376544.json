@@ -1,0 +1,19 @@
+{
+  "cui": "C0376544",
+  "cui_name": "Hematopoietic Neoplasms",
+  "incidence_per_100k": 28.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2240000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major hematopoietic malignancies: leukemias (~10), non-Hodgkin lymphoma (~7), Hodgkin lymphoma (~2.5), multiple myeloma (~4.5), MDS/MPN (~4) = ~28 per 100k. Heterogeneous group with varying biology and prognosis.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

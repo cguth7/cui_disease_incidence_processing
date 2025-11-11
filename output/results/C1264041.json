@@ -1,0 +1,19 @@
+{
+  "cui": "C1264041",
+  "cui_name": "von Willebrand Disease, Type 3",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "von Willebrand Disease",
+  "reasoning": "Type 3 vWD is the rarest and most severe form (autosomal recessive). Incidence estimated at 0.1-0.5 per million population (0.0001-0.0005 per 100k) based on hemophilia treatment center registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mannucci PM. (2004). Treatment of von Willebrand's Disease. N Engl J Med. 351:683-694",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15306670/",
+  "source_type": "literature"
+}

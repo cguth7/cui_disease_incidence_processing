@@ -1,0 +1,19 @@
+{
+  "cui": "C2751492",
+  "cui_name": "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Amyloidosis",
+  "reasoning": "Hereditary transthyretin amyloidosis (ATTRv or familial amyloid polyneuropathy) is extremely rare, <0.1 per 100k globally. Higher in endemic areas (Portugal, Sweden, Japan) due to founder mutations. Incidence of symptomatic disease estimated <0.01 per 100k in non-endemic populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Schmidt HH et al. (2003). Roswell Park Cancer Institute, hereditary amyloidosis review. Amyloid. 10(Suppl 1):85-93",
+  "source_url": null,
+  "source_type": "literature"
+}

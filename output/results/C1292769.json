@@ -1,0 +1,19 @@
+{
+  "cui": "C1292769",
+  "cui_name": "Precursor B-cell lymphoblastic leukemia",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Acute Lymphoblastic Leukemia",
+  "reasoning": "B-cell ALL represents 75-80% of all ALL cases. Overall ALL incidence ~1.3 per 100k (all ages), therefore B-ALL ~1.0 per 100k. Most common childhood leukemia with excellent registry data from SEER and international pediatric oncology groups.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Howlader N et al. SEER Cancer Statistics Review 1975-2005",
+  "source_url": "https://seer.cancer.gov/csr/1975_2005/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0023470",
+  "cui_name": "Myeloid Leukemia",
+  "incidence_per_100k": 4.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 376000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate estimate combining AML (~3.7 per 100k) and CML (~1.0 per 100k) from cancer registry data. Total ~4.7 per 100k. Moderate confidence as this is a sum of two well-defined subtypes.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - combined AML and CML estimates",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

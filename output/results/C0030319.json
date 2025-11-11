@@ -1,0 +1,19 @@
+{
+  "cui": "C0030319",
+  "cui_name": "Panic Disorder",
+  "incidence_per_100k": 280,
+  "prevalence_per_100k": 2700,
+  "metric_type": "both",
+  "total_cases_per_year": 22400000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Anxiety Disorders",
+  "reasoning": "Reporting incidence of ~280 per 100k person-years for new onset panic disorder. Lifetime prevalence ~2.7% (2700 per 100k) based on epidemiological surveys from early 2000s.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Kessler RC et al. (2006). The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. Arch Gen Psychiatry. 63(4):415-424",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16585471/",
+  "source_type": "literature"
+}

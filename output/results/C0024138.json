@@ -1,0 +1,19 @@
+{
+  "cui": "C0024138",
+  "cui_name": "Lupus Erythematosus, Discoid",
+  "incidence_per_100k": 4.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 320000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Lupus Erythematosus",
+  "reasoning": "Discoid lupus erythematosus (DLE) incidence ~4 per 100k person-years, may be slightly more common than SLE. Limited population-based registry data; estimates based on dermatology cohort studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gronhagen CM et al. (2011). Incidence of cutaneous lupus erythematosus in Sweden. Br J Dermatol. 165(3):591-596",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21574970/",
+  "source_type": "literature"
+}

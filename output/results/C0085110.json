@@ -1,0 +1,19 @@
+{
+  "cui": "C0085110",
+  "cui_name": "Severe Combined Immunodeficiency",
+  "incidence_per_100k": 1.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 136000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence per 100k births. SCID incidence ~1 in 58,000 live births (~1.7 per 100k births) based on newborn screening data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Kwan A et al. (2014). Newborn screening for severe combined immunodeficiency in 11 screening programs in the United States. JAMA. 312(7):729-738",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25138334/",
+  "source_type": "literature"
+}

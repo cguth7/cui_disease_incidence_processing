@@ -1,0 +1,19 @@
+{
+  "cui": "C0238052",
+  "cui_name": "Xanthomatosis, Cerebrotendinous",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Lipid Storage Diseases",
+  "reasoning": "Cerebrotendinous xanthomatosis (CTX) is an extremely rare autosomal recessive disorder caused by CYP27A1 mutations. Estimated at <0.1 per 100k births based on case registries and prevalence estimates of 1-9 per million population.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

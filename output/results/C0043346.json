@@ -1,0 +1,19 @@
+{
+  "cui": "C0043346",
+  "cui_name": "Xeroderma Pigmentosum",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare autosomal recessive disorder. Birth incidence ~0.4 per 100k in US/Europe (1 in 250,000), higher in Japan (1 in 40,000). Limited systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kleijer WJ et al. (2008). Incidence of DNA repair deficiency disorders in western Europe: Xeroderma pigmentosum, Cockayne syndrome and trichothiodystrophy. DNA Repair. 7(5):744-750",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18329345/",
+  "source_type": "literature"
+}

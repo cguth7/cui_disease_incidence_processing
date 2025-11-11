@@ -1,0 +1,19 @@
+{
+  "cui": "C3714756",
+  "cui_name": "Intellectual Disability",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Modern terminology for developmental cognitive impairment. Prevalence metric used as this is a lifelong condition typically diagnosed in childhood. Global prevalence ~1-2% (1500 per 100k) based on meta-analyses. Moderate confidence due to acceptable prevalence data but diagnostic criteria variation across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Maulik PK et al. (2011). Prevalence of intellectual disability: a meta-analysis of population-based studies. Res Dev Disabil. 32(2):419-436",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21236634/",
+  "source_type": "literature"
+}

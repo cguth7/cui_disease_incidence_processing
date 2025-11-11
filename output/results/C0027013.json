@@ -1,0 +1,19 @@
+{
+  "cui": "C0027013",
+  "cui_name": "Myeloid Metaplasia",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence. Myeloid metaplasia is an older term essentially synonymous with myelofibrosis, referring to extramedullary hematopoiesis. Using same estimate as myelofibrosis (~0.8 per 100k), though this term is less commonly used in modern literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rollison DE et al. (2008). Epidemiology of myelodysplastic syndromes and chronic myeloproliferative disorders in the United States, 2001-2004. Br J Haematol. 142(3):395-404",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18616696/",
+  "source_type": "literature"
+}

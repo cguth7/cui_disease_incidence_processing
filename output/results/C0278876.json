@@ -1,0 +1,19 @@
+{
+  "cui": "C0278876",
+  "cui_name": "Adult Medulloblastoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Medulloblastoma",
+  "reasoning": "Reporting incidence of adult cases. Adult medulloblastoma represents only ~10-15% of all medulloblastomas, with incidence <0.05 per 100k adults. Extremely rare with limited epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Brandes AA et al. (2003). Adult neuroectodermal tumors of posterior fossa (medulloblastoma) and of supratentorial sites (stPNET). Crit Rev Oncol Hematol. 66:223-246",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18406622/",
+  "source_type": "literature"
+}

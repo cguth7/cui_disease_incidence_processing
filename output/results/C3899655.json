@@ -1,0 +1,19 @@
+{
+  "cui": "C3899655",
+  "cui_name": "Childhood Langerhans Cell Histiocytosis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.70,
+  "is_subtype": true,
+  "parent_disease": "Langerhans Cell Histiocytosis",
+  "reasoning": "Reporting incidence of new diagnoses. Childhood LCH incidence is 4-5 cases per million children per year, approximately 0.5 per 100k overall population when accounting for pediatric demographic proportion.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Stalemark H et al. (2008). Incidence of Langerhans cell histiocytosis in children: a population-based study. Pediatr Blood Cancer. 51(1):76-81",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18266220/",
+  "source_type": "literature"
+}

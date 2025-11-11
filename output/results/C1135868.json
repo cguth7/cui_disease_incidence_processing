@@ -1,0 +1,19 @@
+{
+  "cui": "C1135868",
+  "cui_name": "Gestational Trophoblastic Neoplasms",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Includes hydatidiform mole and choriocarcinoma. Global incidence ~1-2 per 1000 pregnancies, translating to ~2.5 per 100k person-years. Higher in Asia (up to 12 per 1000 pregnancies), lower in North America/Europe (0.6-1.1 per 1000).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lurain JR (2010). Gestational trophoblastic disease I: epidemiology, pathology, clinical presentation and diagnosis. Am J Obstet Gynecol. 203(6):531-539",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20728069/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0035335",
+  "cui_name": "Retinoblastoma",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": "Eye Neoplasms",
+  "reasoning": "Reporting incidence (new diagnoses). Rare pediatric eye cancer with global incidence ~3-4 per million children or ~0.4 per 100k total population. Data from cancer registries and IARC.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Kivela T (1999). The epidemiological challenge of the most frequent eye cancer: retinoblastoma, an issue of birth and death. Br J Ophthalmol. 83(7):767-73",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10381661/",
+  "source_type": "literature"
+}
