@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0751124",
+    "cui_name": "Epilepsy, Absence, Atypical",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Absence Epilepsy",
+    "reasoning": "Atypical absence epilepsy is a specific subtype of absence seizure disorder. While general absence epilepsy incidence is well-documented at 5-8 per 100k, specific epidemiological data for the atypical subtype is limited. Estimated at ~1.5 per 100k based on proportional representation within absence epilepsy cases. Confidence moderate due to lack of dedicated epidemiological studies for this subtype.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

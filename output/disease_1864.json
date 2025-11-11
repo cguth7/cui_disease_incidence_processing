@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0028077",
+    "cui_name": "Nyctalopia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.2,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Nyctalopia (night blindness) is a symptom rather than a discrete disease entity, with multiple etiologies including vitamin A deficiency, retinitis pigmentosa, and other retinal conditions. No population-based epidemiological studies specifically measure nyctalopia incidence/prevalence as a standalone condition. Aggregate estimation impractical due to symptom-based nature and overlapping causes.",
+    "data_quality": "none",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

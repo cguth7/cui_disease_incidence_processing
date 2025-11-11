@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0338457",
+    "cui_name": "Aphasia, Progressive",
+    "incidence_per_100k": 3.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 240000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Primary Progressive Aphasia",
+    "reasoning": "Progressive aphasia (PPA subtype) estimated at ~3 per 100k incidence based on neurology specialty literature. Limited systematic epidemiological data; most evidence from tertiary neurology centers and research cohorts rather than population-based registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Mesulam MM et al. (2012). The FTD-Plus syndrome. Lancet Neurol. 11(4):340-350",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/22441196/",
+    "source_type": "literature"
+  }
+]

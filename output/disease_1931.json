@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0015393",
+    "cui_name": "Eye Abnormalities",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Eye Abnormalities is a broad umbrella category encompassing congenital anomalies, refractive errors, and acquired ocular abnormalities. Prevalence estimated as aggregate of major subcategories: congenital abnormalities (~200 per 100k), myopia/hyperopia/astigmatism (~2000 per 100k), other acquired abnormalities (~300 per 100k). Aggregate estimate ~2500 per 100k. Low confidence due to heterogeneity and overlap between categories, and difficulty isolating specific epidemiological data for broad umbrella term.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

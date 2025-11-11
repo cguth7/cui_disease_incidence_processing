@@ -1,0 +1,19 @@
+{
+  "cui": "C0027341",
+  "cui_name": "Nail-Patella Syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 20,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1600000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Nail-Patella Syndrome is a rare autosomal dominant genetic disorder (LMX1B gene mutation) with estimated prevalence of approximately 1 in 50,000 births (20 per 100k population). Using prevalence metric rather than incidence due to lifelong genetic/hereditary nature. Limited published epidemiological data available.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

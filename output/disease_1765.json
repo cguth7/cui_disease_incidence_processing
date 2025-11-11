@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0860207",
+    "cui_name": "Drug-Induced Liver Disease",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.62,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Drug-induced liver injury (DILI) incidence estimated at 1.5 per 100k person-years based on DILI Network and epidemiological studies. Heterogeneous condition with variable presentation; confidence limited by geographic variation in drug exposure and surveillance methodology differences across regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Chalasani NP et al. (2014). Causes, clinical features, and outcomes from a national prospective study of drug-induced liver injury in the United States. Gastroenterology. 135(6):1924-1934.e1-4. DILI Network Registry.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/18929564/",
+    "source_type": "registry"
+  }
+]

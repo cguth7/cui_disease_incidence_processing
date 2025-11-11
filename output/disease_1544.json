@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206633",
+    "cui_name": "Angiofibroma",
+    "incidence_per_100k": 0.08,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 6400,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Juvenile nasopharyngeal angiofibroma (JNA) is the primary form, representing a rare benign tumor predominantly affecting adolescent males. Estimated incidence of 0.08 per 100k (approximately 1 case per 60,000 males aged 10-25). Limited epidemiological literature; estimate based on case series and otolaryngology registry data rather than population-based surveillance.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

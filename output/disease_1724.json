@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349639",
+    "cui_name": "Juvenile Myelomonocytic Leukemia",
+    "incidence_per_100k": 0.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Myeloid Leukemia",
+    "reasoning": "JMML is a rare pediatric myelodysplastic/myeloproliferative neoplasm with incidence of ~0.5-1 per 100k children <15 years (primary affected population). Global estimate ~0.7 per 100k person-years based on pediatric cancer registries. Limited by age-specific epidemiology data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Classification of Myeloid Neoplasms and Acute Leukemia; Pediatric oncology registries",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

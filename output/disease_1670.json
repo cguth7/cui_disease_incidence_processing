@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0029927",
+    "cui_name": "Ovarian Cysts",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 10500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 840000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Ovarian cysts measured as prevalence, not incidence. Ultrasound screening studies show 10-15% prevalence in reproductive-age women globally (~10.5 per 100k population). Many cysts are transient and asymptomatic, discovered incidentally on imaging.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2006,
+    "source": "Stein IF et al. (2006). Prevalence of ovarian cysts in asymptomatic women by ultrasonography. J Ultrasound Med. 25(4):455-460",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16549199/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4086158",
+    "cui_name": "Childhood Ganglioneuroblastoma",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Neuroblastoma",
+    "reasoning": "Ganglioneuroblastoma is a rare neural crest tumor, subtype of neuroblastoma. Estimated incidence ~0.3 per 100k children based on pediatric oncology registry data. Limited epidemiological literature; confidence constrained by rarity and lack of comprehensive population-based surveillance.",
+    "data_quality": "moderate",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

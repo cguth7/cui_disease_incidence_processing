@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0021831",
+    "cui_name": "Intestinal Diseases",
+    "incidence_per_100k": 8500,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major intestinal disease categories: infectious gastroenteritis (2000-3000 per 100k, regional variation), inflammatory bowel disease (1.5 per 100k incidence), celiac disease (0.5-1 per 100k), diverticular disease (200-300 per 100k in developed countries), peptic ulcer disease (10-20 per 100k), intestinal parasitic infections (high in developing regions), and other intestinal disorders. Global average ~8500 per 100k accounting for geographic variation and disease heterogeneity. Low confidence due to heterogeneity, wide geographic variation, and overlap between acute/chronic categories.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

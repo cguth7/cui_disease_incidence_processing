@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0007117",
+    "cui_name": "Basal cell carcinoma",
+    "incidence_per_100k": 120,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 9600000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Non-melanoma skin cancer",
+    "reasoning": "BCC is the most common human malignancy with global incidence ~120 per 100k person-years, though highly variable by geographic region and sun exposure. Incidence reported; prevalence not standard metric for skin cancers.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) with supplementary epidemiological literature on non-melanoma skin cancer incidence",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

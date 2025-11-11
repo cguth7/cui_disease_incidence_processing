@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1864839",
+    "cui_name": "MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7",
+    "incidence_per_100k": 0.02,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1600,
+    "confidence": 0.4,
+    "is_subtype": true,
+    "parent_disease": "Maturity-Onset Diabetes of the Young",
+    "reasoning": "MODY Type 7 is an extremely rare monogenic form of diabetes caused by PAX4 mutations. MODY accounts for 1-5% of diabetes cases globally, and Type 7 is one of the rarest MODY subtypes. Estimated incidence approximately 0.02 per 100k based on rarity among MODY cases. Limited epidemiological data available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

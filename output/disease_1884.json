@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0008372",
+    "cui_name": "Intrahepatic Cholestasis",
+    "incidence_per_100k": 450,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 36000000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major etiologies: intrahepatic cholestasis of pregnancy (ICP ~200-300 per 100k considering affected pregnancies), drug-induced cholestasis (~50-80 per 100k), and other causes (~50-100 per 100k). Heterogeneous condition with multiple etiologies; confidence capped at 0.55 due to aggregation and epidemiological uncertainty across diverse causes.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "ICP epidemiology from literature review; aggregate estimate based on major subcategories",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

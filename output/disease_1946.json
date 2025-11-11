@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1112213",
+    "cui_name": "Cholestasis in newborn",
+    "incidence_per_100k": 35,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 2800000,
+    "confidence": 0.5,
+    "is_subtype": true,
+    "parent_disease": "Cholestasis",
+    "reasoning": "Neonatal cholestasis occurs in approximately 1 in 2,500-3,500 live births globally. Estimated ~35 per 100,000 births. Moderate confidence due to heterogeneity of underlying causes (biliary atresia, neonatal hepatitis, choledochal cyst) and limited standardized epidemiological data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

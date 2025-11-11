@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0030508",
+    "cui_name": "Parasomnia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 5000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 400000000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate of parasomnia prevalence (5% global population) summing major subtypes: sleepwalking (~1-4%), night terrors (~2-3%), nightmares (~2-8%), REM sleep behavior disorder (~1-2%), other parasomnias (<1%). Reported as prevalence (existing cases) rather than incidence, as parasomnias are chronic/recurring conditions not typically measured by new diagnoses. Low confidence due to heterogeneity, variable definitions across studies, and limited population-based epidemiological data for the aggregate category.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

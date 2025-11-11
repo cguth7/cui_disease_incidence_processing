@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0028840",
+    "cui_name": "Ocular Hypertension",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 4200.0,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 336000000,
+    "confidence": 0.70,
+    "is_subtype": true,
+    "parent_disease": "Glaucoma",
+    "reasoning": "Ocular hypertension is a chronic condition defined by elevated intraocular pressure (>21 mmHg) without optic nerve damage, affecting approximately 4.2% of adults globally. Measured by prevalence (existing cases) rather than incidence due to chronic nature and gradual development. Higher prevalence in African-descended populations and older age groups.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Sommer A et al. (2003). Relationship between intraocular pressure and primary open angle glaucoma among white and black Americans. Ophthalmology. 110(4):697-707",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/12686875/",
+    "source_type": "literature"
+  }
+]

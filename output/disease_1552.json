@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0235527",
+    "cui_name": "Heart Failure, Right-Sided",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 600,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 48000000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Heart Failure",
+    "reasoning": "Right-sided heart failure (cor pulmonale) measured as prevalence, not incidence (chronic condition). Estimated ~600 per 100k based on literature indicating right-sided HF comprises 10-30% of all HF cases, with general HF prevalence ~25-30 per 1000 population. Confidence moderate due to limited epidemiological studies specifically on right-sided HF subtype; typically secondary to pulmonary hypertension or chronic lung disease.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

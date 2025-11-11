@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0009405",
+    "cui_name": "Hereditary Nonpolyposis Colorectal Neoplasms",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 250,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 20000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "HNPCC/Lynch Syndrome is a genetic syndrome characterized by mismatch repair gene mutations. Reporting prevalence of genetic carriers (~1 in 400 people) at approximately 250 per 100k population. Affected carriers have 70-80% lifetime risk of colorectal cancer and significantly elevated risk of other malignancies (endometrial, stomach, ovarian cancers). Incidence not applicable as this represents genetic predisposition rather than incident disease.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Lynch HT et al. (2003). Hereditary nonpolyposis colorectal cancer (Lynch Syndrome): An updated review. Cancer. 100(4):681-689",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/12926007/",
+    "source_type": "literature"
+  }
+]

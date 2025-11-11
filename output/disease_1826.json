@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0006261",
+    "cui_name": "Bronchial Diseases",
+    "incidence_per_100k": 8500,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major bronchial conditions: acute bronchitis (~3000-5000), chronic bronchitis (~500-1000), asthma with bronchial involvement (~2000-3000), bronchiectasis (~50-100), bronchospasm (~500+). Estimated total ~8500 per 100k. Low confidence due to heterogeneity, overlapping definitions, and variable severity across subcategories.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

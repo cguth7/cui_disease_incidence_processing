@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0346989",
+    "cui_name": "Secondary malignant neoplasm of peritoneum",
+    "incidence_per_100k": 2.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 224000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Peritoneal neoplasm",
+    "reasoning": "Secondary peritoneal malignancies represent metastatic spread from various primary cancers (gastric, ovarian, pancreatic, colorectal). Estimated ~2.8 per 100k person-years based on epidemiological data on peritoneal carcinomatosis incidence across major cancer types. Limited specific registry data for secondary peritoneal cancers; confidence capped at moderate due to heterogeneous primary sources.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

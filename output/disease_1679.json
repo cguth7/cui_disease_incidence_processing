@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0024809",
+    "cui_name": "Marijuana Abuse",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 190,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 15200000,
+    "confidence": 0.76,
+    "is_subtype": false,
+    "parent_disease": "Cannabis Use Disorder",
+    "reasoning": "Marijuana abuse is a chronic substance use disorder measured by prevalence rather than incidence. GBD 2010 study estimated cannabis dependence prevalence at approximately 0.19% globally (190 per 100k) in 2010, with similar estimates for the 2005 period. This includes both DSM-based cannabis abuse and dependence diagnoses.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2010,
+    "source": "Degenhardt L, Ferrari AJ, Calabria B, Hall WD, Norman RE, et al. (2013). The Global Epidemiology and Contribution of Cannabis Use and Dependence to the Global Burden of Disease: Results from the GBD 2010 Study. PLoS ONE. 8(10):e76635",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/24204649/",
+    "source_type": "registry"
+  }
+]

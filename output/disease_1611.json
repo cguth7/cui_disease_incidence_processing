@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0263630",
+    "cui_name": "Hypertrophic disorder of skin, unspecified",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 40000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hypertrophic skin conditions (keloids, hypertrophic scars, acanthosis nigricans) are relatively common, estimated at ~5 per 1000 population (500 per 100k prevalence). Using prevalence rather than incidence due to chronic nature of these conditions. Low confidence due to unspecified category lacking systematic epidemiological data.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2853919",
+    "cui_name": "Lymphoblastic B-cell lymphoma",
+    "incidence_per_100k": 0.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 16000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Non-Hodgkin Lymphoma",
+    "reasoning": "B-cell lymphoblastic lymphoma is a rare, well-defined lymphoma subtype with incidence estimated at 0.2 per 100k person-years based on cancer registry data. It primarily affects children and young adults. Limited subtype-specific epidemiological studies; data often aggregated with broader lymphoblastic lymphoma category.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

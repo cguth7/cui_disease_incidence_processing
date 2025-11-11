@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0702166",
+    "cui_name": "Acne",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 9400,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 752000000,
+    "confidence": 0.82,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acne prevalence measured at ~9.4% globally from epidemiological surveys. Acute presentation measured as chronic condition prevalence rather than incident cases, appropriate for skin conditions. Affects ~750 million people worldwide.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Williams HC et al. (2012). Acne vulgaris. Lancet. 379(9813):361-372",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21880356/",
+    "source_type": "literature"
+  }
+]

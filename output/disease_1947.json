@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014084",
+    "cui_name": "Enchondromatosis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": "Hereditary Bone Disorders",
+    "reasoning": "Enchondromatosis is a rare genetic disorder with prevalence estimated at approximately 1 per 10,000-50,000 people globally (~2-5 per 100k). Using prevalence metric appropriate for chronic genetic condition with congenital onset. Limited epidemiological data from genetic disease registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

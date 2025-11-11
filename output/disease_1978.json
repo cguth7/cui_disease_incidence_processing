@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0346326",
+    "cui_name": "Optic Nerve Glioma",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Optic nerve gliomas (primarily low-grade pilocytic astrocytomas) are rare pediatric CNS tumors. Estimated incidence approximately 0.3 per 100k based on pediatric brain tumor epidemiology and NF1-associated incidence. Most data from NF1 cohort studies rather than population-based registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

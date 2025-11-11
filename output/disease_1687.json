@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3887938",
+    "cui_name": "Deuteranomaly",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 80000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Red-Green Color Vision Deficiency",
+    "reasoning": "Deuteranomaly is a genetic X-linked condition causing reduced sensitivity to green wavelengths. Reported as prevalence (not incidence) since it is a lifelong hereditary trait. Estimated ~1% of males and ~0.03% of females globally. Used epidemiological studies of color vision deficiency prevalence.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Sharpe LT et al. (1999). Opsin genes, cone photopigments, color vision, and colorblindness. In: Wandell BA (ed). Vision and Visual Perception. Washington DC: National Academies Press.",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

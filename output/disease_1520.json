@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0392702",
+    "cui_name": "Abnormal involuntary movement",
+    "incidence_per_100k": 50.0,
+    "prevalence_per_100k": 15000.0,
+    "metric_type": "both",
+    "total_cases_per_year": 4000000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for umbrella term encompassing multiple movement disorders: essential tremor (~30000 per 100k prevalence), Parkinson's (~1000 per 100k), Huntington's (~10 per 100k incidence), Tourette/tics (~500 per 100k). This heterogeneous category includes both common tremors and rare genetic disorders. Low confidence reflects the composite nature and significant overlap between categories.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0042109",
+    "cui_name": "Urticaria",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 10000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 800000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Urticaria reported as prevalence (not incidence) since it's a chronic/recurrent condition. Global prevalence estimated at ~10% (10,000 per 100k) based on dermatological epidemiology studies. Chronic urticaria prevalence 0.6-1.5%, acute/episodic urticaria much higher; aggregate estimate represents active cases.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Dermatological epidemiology consensus; WHO disease prevalence estimates",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

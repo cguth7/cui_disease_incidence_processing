@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0859886",
+    "cui_name": "Inherited hearing loss",
+    "incidence_per_100k": 60,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4800000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Hearing Loss",
+    "reasoning": "Hereditary hearing loss accounts for approximately 50% of congenital hearing loss, estimated at ~0.6-1 per 1000 live births globally (~60-100 per 100k births). Reporting as incidence at birth. Confidence moderate due to significant geographic variation and diagnostic criteria variability.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Estimated from WHO hearing loss epidemiology and genetic hearing loss literature",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

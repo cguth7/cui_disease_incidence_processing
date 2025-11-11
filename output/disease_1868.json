@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014553",
+    "cui_name": "Absence Epilepsy",
+    "incidence_per_100k": 7.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 600000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Generalized Epilepsy",
+    "reasoning": "Childhood absence epilepsy (CAE) incidence ~7-8 per 100k children annually. Well-defined clinical entity with specific electroencephalographic and clinical presentation. Primarily pediatric onset with peak age 4-8 years. Global estimate based on epidemiological studies from developed countries with potential underdiagnosis in resource-limited regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Jalava M et al. (1997). Incidence of childhood absence epilepsy in Finland. Epilepsia. 38(5):600-604; Loiseau P et al. (1990). Epidemiology of absence epilepsy in France. Epilepsia. 31(2):130-136",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/9184597/",
+    "source_type": "literature"
+  }
+]

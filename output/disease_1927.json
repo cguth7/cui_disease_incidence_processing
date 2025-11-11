@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0026640",
+    "cui_name": "Mouth Neoplasms",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term encompassing both benign and malignant oral neoplasms. Oral cancer (predominantly squamous cell carcinoma) incidence approximately 3-4 per 100k globally from GLOBOCAN 2005, with significant geographic variation. Confidence reduced from potential 0.8+ due to heterogeneity of benign tumors included in broader category.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Ferlay J et al. (2004). GLOBOCAN 2002: Cancer Incidence, Mortality and Prevalence Worldwide. IARC CancerBase No. 5, Version 2.0",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

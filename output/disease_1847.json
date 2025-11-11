@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3898352",
+    "cui_name": "Mild Bronchopulmonary Dysplasia",
+    "incidence_per_100k": 75,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 105000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Bronchopulmonary Dysplasia",
+    "reasoning": "Mild BPD is a severity-classified subtype of BPD occurring in premature neonates. Estimated ~75 per 100k live births (0.075%) globally based on neonatal outcomes literature showing mild BPD comprises 40-50% of all BPD cases (total BPD incidence 150-200 per 100k births in high-income countries). Metric represents incidence in neonatal population rather than general population.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Horbar JD et al. (2017). Trends in Mortality and Morbidity for Very Low Birth Weight Infants, 1991-2006. Pediatrics.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17974725/",
+    "source_type": "literature"
+  }
+]

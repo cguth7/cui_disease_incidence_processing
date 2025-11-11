@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0332887",
+    "cui_name": "Congenital Hypertrophy",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Unmappable umbrella term. Congenital hypertrophy is a non-specific symptom/finding that can affect multiple organ systems (cardiac, retinal, hepatic, etc.) without clear diagnostic boundaries. No meaningful epidemiological data available for the generic term.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

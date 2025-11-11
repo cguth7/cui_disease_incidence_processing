@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011880",
+    "cui_name": "Diabetic Ketoacidosis",
+    "incidence_per_100k": 5.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 416000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Diabetes Mellitus Complications",
+    "reasoning": "DKA is an acute metabolic emergency primarily in type 1 diabetes. Global incidence estimated at ~5 per 100k person-years based on diabetes registry data and epidemiological studies. Higher in developed countries (10-20 per 100k) but lower globally when accounting for lower diabetes burden in developing regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "IDF Diabetes Atlas 2005; Klingensmith GJ et al. (2007). Diabetic ketoacidosis in children. Pediatr Clin North Am. 54(4):623-634",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17933616/",
+    "source_type": "literature"
+  }
+]

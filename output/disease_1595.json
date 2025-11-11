@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0392784",
+    "cui_name": "Dermatofibrosarcoma Protuberans",
+    "incidence_per_100k": 0.01,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 800,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": "Soft tissue sarcoma",
+    "reasoning": "Rare dermal and subcutaneous sarcoma with incidence approximately 0.8-1 per million globally (0.008-0.01 per 100k person-years). Well-defined entity but limited epidemiological registry data; confidence capped at 0.55 due to lack of verifiable primary source with exact URL.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

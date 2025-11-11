@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0342541",
+    "cui_name": "Precocious pubarche",
+    "incidence_per_100k": 50,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Precocious pubarche is a clinical presentation of early pubic hair development, estimated at ~50 per 100k children (0.05%) based on pediatric endocrinology studies. Limited systematic epidemiological data; confidence reflects reliance on clinical case series rather than population registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Pediatric endocrinology literature consensus estimates",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

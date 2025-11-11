@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0428908",
+    "cui_name": "Sinus Node Dysfunction",
+    "incidence_per_100k": 1.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 144000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Sinus node dysfunction incidence estimated at 1-3 per 100k person-years based on population studies. Reported as incidence (new diagnoses) as this is a specific cardiac conduction disorder. Increases significantly with age, particularly >60 years.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349619",
+    "cui_name": "Medulloblastoma of cerebellum",
+    "incidence_per_100k": 0.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 40000,
+    "confidence": 0.7,
+    "is_subtype": true,
+    "parent_disease": "Medulloblastoma",
+    "reasoning": "Medulloblastoma is the most common malignant pediatric brain tumor with global incidence approximately 0.5 per 100,000 person-years based on cancer registry data. Specific cerebellar location indicates subtype classification.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

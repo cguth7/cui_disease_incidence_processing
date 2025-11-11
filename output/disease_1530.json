@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018818",
+    "cui_name": "Ventricular Septal Defects",
+    "incidence_per_100k": 120.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 9600000,
+    "confidence": 0.82,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "VSD is the most common congenital heart defect, affecting ~1.2 per 1000 live births globally (120 per 100k births). Reporting birth incidence. Data from major cardiac registries and WHO epidemiological surveys.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Hoffman JI, Kaplan S. (2002). The incidence of congenital heart disease. J Am Coll Cardiol. 39(12):1890-1900",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/12084585/",
+    "source_type": "literature"
+  }
+]

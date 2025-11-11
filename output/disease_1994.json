@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0264893",
+    "cui_name": "Nodal rhythm disorder",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.2,
+    "is_subtype": true,
+    "parent_disease": "Cardiac arrhythmia",
+    "reasoning": "Nodal rhythm is a specific cardiac rhythm abnormality detected on ECG, often incidental and benign. Limited epidemiological data available; predominantly reported in cardiology case series rather than population-based studies. Data insufficient for reliable incidence or prevalence estimate.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

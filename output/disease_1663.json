@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011989",
+    "cui_name": "Camurati-Engelmann Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": "extremely rare",
+    "metric_type": "prevalence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": "Skeletal Dysplasia",
+    "reasoning": "Camurati-Engelmann syndrome (progressive diaphyseal dysplasia) is an extremely rare autosomal dominant genetic disorder estimated at <1 per million globally. Reported as prevalence since it is a lifelong genetic condition with well-defined hereditary manifestations.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

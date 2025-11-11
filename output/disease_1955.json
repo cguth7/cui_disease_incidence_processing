@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3808874",
+    "cui_name": "ADVANCED SLEEP PHASE SYNDROME, FAMILIAL, 2",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "prevalence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Circadian Rhythm Sleep Disorders",
+    "reasoning": "Familial Advanced Sleep Phase Syndrome type 2 is an extremely rare autosomal dominant genetic circadian rhythm disorder. Estimated prevalence <0.01-0.05 per 100k population based on family studies. Limited to genetic and familial case reports with no large population-based epidemiological studies.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

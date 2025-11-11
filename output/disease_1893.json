@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349458",
+    "cui_name": "Cervical intraepithelial neoplasia grade 1",
+    "incidence_per_100k": 65.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 5200000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Cervical intraepithelial neoplasia",
+    "reasoning": "CIN1 is the lowest grade of cervical dysplasia detected through HPV screening/cytology. Global incidence estimated at ~65 per 100k based on WHO cervical cancer screening epidemiology and regional cancer registries, with significant variation by screening prevalence and HPV burden.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO/ICO Information Centre on HPV and Cancer epidemiological surveillance",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

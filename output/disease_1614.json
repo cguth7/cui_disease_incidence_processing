@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0346976",
+    "cui_name": "Secondary malignant neoplasm of pancreas",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Malignant neoplasm of pancreas",
+    "reasoning": "Secondary pancreatic malignancies (metastases to pancreas) are uncommon compared to primary pancreatic cancer. Estimated ~0.3 per 100k based on autopsy and surgical series showing pancreatic metastases in 1-5% of disseminated cancer patients. Low confidence due to limited systematic epidemiological tracking and heterogeneous primary cancer sources.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

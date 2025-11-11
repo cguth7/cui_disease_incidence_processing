@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0043194",
+    "cui_name": "Wiskott-Aldrich Syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": 0.1,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 8000,
+    "confidence": 0.5,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Wiskott-Aldrich Syndrome is an X-linked recessive genetic disorder with estimated incidence of 1-4 per million births, translating to extremely rare. Prevalence estimated at ~0.1 per 100k globally based on case registries. Using prevalence (not incidence) as appropriate for a chronic genetic condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Compiled from rare disease registries and case reports; no single comprehensive epidemiological study",
+    "source_url": null,
+    "source_type": null
+  }
+]

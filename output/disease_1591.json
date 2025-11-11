@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0175699",
+    "cui_name": "Saethre-Chotzen Syndrome",
+    "incidence_per_100k": 0.08,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 6400,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare autosomal dominant genetic disorder accounting for 5-30% of craniosynostosis cases. Craniosynostosis occurs in ~1 per 2,000-3,000 births. SCS estimated at ~0.08 per 100k person-years based on birth prevalence studies. Low confidence due to limited population-based epidemiological data.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0079748",
+    "cui_name": "Precursor cell lymphoblastic lymphoma",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 64000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Lymphoblastic neoplasm",
+    "reasoning": "Precursor cell lymphoblastic lymphoma is a specific subtype of lymphoid malignancy. Incidence estimated at ~0.8 per 100k globally based on GLOBOCAN lymphoblastic lymphoma estimates. This represents both precursor B-cell and T-cell variants. Geographic variation is high due to differential access to diagnostics.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - Lymphoid malignancies classification",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

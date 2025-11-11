@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0581377",
+    "cui_name": "Decompensated cardiac failure",
+    "incidence_per_100k": 7.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 600000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Heart Failure",
+    "reasoning": "Acute decompensated heart failure (ADHF) incidence estimated at ~7.5 per 100k person-years globally, representing new hospitalizations and acute episodes. Incidence varies by region (5-15 per 100k in developed countries, lower in developing nations). Limited 2005-specific global data; estimate based on contemporary ADHF registry studies and epidemiological literature.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

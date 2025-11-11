@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0268642",
+    "cui_name": "Histidinuria renal tubular defect",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Histidinuria",
+    "reasoning": "Extremely rare genetic disorder with renal tubular dysfunction affecting histidine reabsorption. <0.01 per 100k based on case report frequency and estimated carrier frequency. Aggregate BOTEC for histidinuria-related renal disorders estimated at very low incidence globally.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

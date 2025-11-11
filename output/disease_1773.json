@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0009443",
+    "cui_name": "Common Cold",
+    "incidence_per_100k": 250,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 20000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute viral infection (primarily rhinoviruses and other respiratory viruses). Estimated incidence of ~250 per 100k person-years based on epidemiological studies showing average 2-3 colds per person per year globally, with variation by age group (children higher, elderly lower).",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

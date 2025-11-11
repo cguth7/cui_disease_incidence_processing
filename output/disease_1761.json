@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0520678",
+    "cui_name": "Postpartum psychosis",
+    "incidence_per_100k": 150,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Postpartum Psychiatric Disorders",
+    "reasoning": "Postpartum psychosis incidence ~1.5 per 1000 births (150 per 100k births per year). Acute psychiatric episode with clear postpartum onset within 2-4 weeks after delivery. Data from psychiatric epidemiology literature with moderate geographic variation.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Brockington I. (2004). Postpartum psychiatric disorders. Lancet. 363(9405):303-310",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14751694/",
+    "source_type": "literature"
+  }
+]

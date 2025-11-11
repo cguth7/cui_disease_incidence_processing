@@ -1,0 +1,19 @@
+{
+  "cui": "C1963674",
+  "cui_name": "Spinocerebellar Ataxia 10",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Spinocerebellar Ataxia",
+  "reasoning": "SCA10 is a rare autosomal dominant spinocerebellar ataxia caused by ATXN10 mutations. Extremely rare disease with estimated <0.01 per 100k incidence based on case reports and limited family studies. No systematic population-based epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1332995",
+    "cui_name": "Childhood Pilocytic Astrocytoma",
+    "incidence_per_100k": 1.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 96000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Pediatric Brain Tumors",
+    "reasoning": "Pilocytic astrocytoma is the most common pediatric low-grade glioma with estimated incidence ~1.2 per 100k children (ages 0-19). Based on CBTRUS and international cancer registry data for pediatric CNS tumors circa 2000-2005.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": 2003,
+    "source": "CBTRUS (Central Brain Tumor Registry of the United States) Statistical Report (2003-2007)",
+    "source_url": "https://www.cbtrus.org/",
+    "source_type": "registry"
+  }
+]

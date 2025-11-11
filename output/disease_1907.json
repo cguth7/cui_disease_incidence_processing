@@ -1,0 +1,19 @@
+{
+  "cui": "C0178879",
+  "cui_name": "Urinary tract obstruction",
+  "incidence_per_100k": 125,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 10000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate estimate summing major causes of urinary obstruction: nephrolithiasis (~8 per 100k), benign prostatic hyperplasia-related obstruction (~50 per 100k in older populations), malignancy-related (~5 per 100k), strictures (~3 per 100k), congenital (~2 per 100k). Global estimate ~125 per 100k. Low-to-moderate confidence due to heterogeneous etiologies and significant geographic/age variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

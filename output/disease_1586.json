@@ -1,0 +1,19 @@
+{
+  "cui": "C0344724",
+  "cui_name": "Ostium secundum atrial septal defect",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Atrial septal defect",
+  "reasoning": "Ostium secundum ASD is the most common subtype (70-75% of all ASDs). Global incidence of ASD is ~2-3 per 10,000 live births; ostium secundum represents ~15 per 100,000 births. Data from congenital heart defect registries and epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO congenital heart defect surveillance data and international cardiac registries",
+  "source_url": null,
+  "source_type": "registry"
+}

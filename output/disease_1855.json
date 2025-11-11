@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2931027",
+    "cui_name": "Neutropenia, severe chronic",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": 2.5,
+    "metric_type": "both",
+    "total_cases_per_year": 12000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Neutropenia",
+    "reasoning": "Severe chronic neutropenia (SCN) is a rare condition with incidence ~0.15 per 100k (1-2 per million) and prevalence ~2.5 per 100k. Reporting both metrics as it has established incidence and prevalence data. Confidence moderate due to relative rarity and limited large-scale epidemiological studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Skokowa G et al. (2018). Severe congenital neutropenia: inheritance, induction, and patient management. Front Immunol. 9:1089",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29868061/",
+    "source_type": "literature"
+  }
+]

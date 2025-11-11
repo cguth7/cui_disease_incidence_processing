@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0026010",
+    "cui_name": "Microphthalmos",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Microphthalmos is a rare congenital eye condition characterized by abnormally small eyes. Incidence estimated <0.1 per 100k births based on ophthalmologic literature and case reports. Actual incidence varies by population and genetic factors.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

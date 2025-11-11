@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0040128",
+    "cui_name": "Thyroid Diseases",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 6100,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 488000000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for umbrella term 'Thyroid Diseases' summing major subcategories: hypothyroidism (~4500 per 100k prevalence), hyperthyroidism (~1500 per 100k), thyroid cancer (~3 per 100k incidence), and thyroiditis (~100 per 100k). Reported as prevalence since most thyroid conditions are chronic with unclear incidence. Significant overlap between categories reduces confidence.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

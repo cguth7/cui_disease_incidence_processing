@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1456781",
+    "cui_name": "Benign melanocytic nevus",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 150000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 12000000000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Melanocytic nevus",
+    "reasoning": "Benign melanocytic nevus is a common skin lesion measured as prevalence rather than incidence. Estimated ~10-20% of adults have nevi, averaging ~150,000 per 100k population globally. High geographic and age variation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

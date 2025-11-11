@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4721452",
+    "cui_name": "Intestinal T-Cell Lymphoma",
+    "incidence_per_100k": 0.05,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Peripheral T-Cell Lymphoma",
+    "reasoning": "Intestinal T-cell lymphoma (enteropathy-associated T-cell lymphoma, EATL) is a rare subtype of peripheral T-cell lymphoma. Estimated incidence ~0.05 per 100k based on lymphoma registries and case series; limited prospective epidemiological data available.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

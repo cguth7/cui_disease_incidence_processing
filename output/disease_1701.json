@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0028880",
+    "cui_name": "Odontogenic Tumors",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 64000,
+    "confidence": 0.4,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Odontogenic tumors are rare oral neoplasms with heterogeneous subtypes (benign ~90%, malignant ~10%). Aggregate estimate based on ameloblastoma incidence (~0.5-1 per million) and other odontogenic tumor types, estimated at ~0.8 per 100k person-years globally. Most are asymptomatic and detected incidentally on radiographs, leading to significant under-reporting in epidemiological databases. Limited population-based registry data.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

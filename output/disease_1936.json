@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1842109",
+    "cui_name": "Microcephaly, Primary Autosomal Recessive, 6",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Primary Autosomal Recessive Microcephaly",
+    "reasoning": "Extremely rare genetic disorder with autosomal recessive inheritance. PARM6 (microcephaly-primordial dwarfism associated with CENPE mutations) affects <0.1 per 100k births globally. Based on case report frequency and limited epidemiological data.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

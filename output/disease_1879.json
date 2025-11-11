@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0796135",
+    "cui_name": "Renpenning syndrome 1",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.2,
+    "is_subtype": true,
+    "parent_disease": "X-linked mental retardation",
+    "reasoning": "Extremely rare X-linked genetic disorder with <0.01 per 100k births based on scattered case reports. Only handful of families documented worldwide.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0042345",
+    "cui_name": "Varicosity",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 15000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1200000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Varicosity (varicose veins) is a chronic venous disorder appropriately measured by prevalence rather than incidence. Global prevalence estimated at approximately 15% (15,000 per 100k) based on epidemiological literature, with substantial geographic variation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Evans CJ et al. (2011). Epidemiology and etiology of varicose veins. Phlebology. 26(8):335-341",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21949582/",
+    "source_type": "literature"
+  }
+]

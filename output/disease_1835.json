@@ -1,0 +1,19 @@
+{
+  "cui": "C0543874",
+  "cui_name": "Apraxia, oculomotor, Cogan type",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Ocular Apraxia",
+  "reasoning": "Cogan type ocular apraxia is an extremely rare genetic neurological disorder affecting voluntary eye movements. Estimated <0.01 per 100k births based on sparse case reports in genetic disorder literature. No systematic epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

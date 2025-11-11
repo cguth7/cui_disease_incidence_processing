@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0747085",
+    "cui_name": "Recurrent otitis media",
+    "incidence_per_100k": 650,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 52000000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Otitis media",
+    "reasoning": "Recurrent otitis media (3+ episodes in 6 months) occurs in approximately 20-30% of children with acute otitis media. Global incidence estimate of ~650 per 100k based on acute otitis media epidemiology (~3000 per 100k in children) weighted to general population. High pediatric concentration; much lower in adults. Estimate derived from literature but lacks specific 2005 registry data.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

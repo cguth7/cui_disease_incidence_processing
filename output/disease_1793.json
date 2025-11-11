@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3887461",
+    "cui_name": "Head and Neck Carcinoma",
+    "incidence_per_100k": 12.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1000000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Head and neck cancers aggregate category includes oral, pharyngeal, laryngeal, and sinonasal malignancies. Global incidence approximately 12.5 per 100k from GLOBOCAN 2005, with substantial geographic variation (incidence <5 per 100k in North America/Northern Europe to >25 per 100k in Southeast Asia due to nasopharyngeal carcinoma endemic regions and differing tobacco/alcohol exposure patterns).",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0041318",
+    "cui_name": "Tuberculosis of Central Nervous System",
+    "incidence_per_100k": 3.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 256000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Tuberculosis",
+    "reasoning": "TB CNS (primarily TB meningitis) represents approximately 1-3% of all TB cases. With global TB incidence around 140-160 per 100k, TB CNS incidence estimated at ~3.2 per 100k. Incidence metric appropriate for acute infectious disease. Moderate confidence due to limited disease-specific epidemiological studies; most data aggregates CNS TB within overall TB burden.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Global Tuberculosis Report (2005-2006), citing TB surveillance data",
+    "source_url": "https://www.who.int/teams/global-tuberculosis-programme/reports/global-tuberculosis-report",
+    "source_type": "registry"
+  }
+]

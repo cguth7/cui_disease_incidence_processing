@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0333519",
+    "cui_name": "Caries (morphologic abnormality)",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2800,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 224000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Dental caries measured as prevalence, not incidence. Global prevalence estimated at 2.8% of population with active caries lesions based on WHO epidemiological data. Prevalence of people with caries history is considerably higher (30-40% globally), but active disease prevalence (~2.8%) used here. Metric appropriate for chronic condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Global Oral Health Status Report; WHO Global Burden of Disease Study estimates",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

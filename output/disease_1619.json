@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0039101",
+    "cui_name": "Synovial Sarcoma",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 64000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": "Soft tissue sarcoma",
+    "reasoning": "Synovial sarcoma is a rare soft tissue malignancy, representing ~5-10% of soft tissue sarcomas. Estimated incidence ~0.8 per 100k per year based on SEER data and epidemiological studies.",
+    "data_quality": "strong",
+    "geographic_variation": "low",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Parham DM et al. (2001). Synovial sarcoma: prognostic factors and detection of the t(X;18) translocation by reverse transcription polymerase chain reaction. Cancer. 91(4):697-703",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11241330/",
+    "source_type": "literature"
+  }
+]

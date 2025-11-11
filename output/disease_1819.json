@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0162534",
+    "cui_name": "Prion Diseases",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.60,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Prion diseases encompass transmissible spongiform encephalopathies (TSEs) including sporadic CJD (~1-1.5 per million), familial CJD, variant CJD, GSS, FFI, and extinct kuru. Global incidence estimated at ~1.5 per million annually (0.15 per 100k), dominated by sporadic CJD. Data from CDC surveillance and WHO reports; confidence limited by incomplete global surveillance and declining vCJD cases.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "CDC Prion Disease Surveillance and WHO Transmissible Spongiform Encephalopathy Reports",
+    "source_url": "https://www.cdc.gov/prions/cjd/",
+    "source_type": "registry"
+  }
+]

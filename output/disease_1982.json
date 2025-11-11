@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0003855",
+    "cui_name": "Arteriovenous fistula",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Arteriovenous fistula includes heterogeneous subtypes: congenital (rare, <0.1 per 100k), acquired/traumatic (~1-2 per 100k), and dialysis-access related (common in dialysis population but procedural outcome). Global estimate ~2.5 per 100k across all types. Limited population-based incidence data; heterogeneity and varying definitions by location reduce confidence.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

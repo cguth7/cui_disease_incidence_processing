@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278840",
+    "cui_name": "Childhood Diffuse Large Cell Lymphoma",
+    "incidence_per_100k": 0.35,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 28000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Diffuse Large Cell Lymphoma",
+    "reasoning": "Childhood-specific DLCL is a rare malignancy, estimated at ~0.35 per 100k in the pediatric population. Adult DLCL incidence is 5-10 per 100k, but childhood cases represent a small fraction of total DLCL burden. Confidence limited by scarcity of childhood-specific epidemiological data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

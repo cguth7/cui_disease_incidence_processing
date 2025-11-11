@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0266642",
+    "cui_name": "Situs ambiguus",
+    "incidence_per_100k": 8.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 640000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Situs ambiguus is a rare congenital condition with reported incidence of approximately 1 in 8,500 to 1 in 25,000 live births, estimated at ~8 per 100k births. Incidence is appropriate metric for congenital disorders with clear onset at diagnosis.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Case report frequency and birth cohort studies estimate, specific epidemiological registries limited",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

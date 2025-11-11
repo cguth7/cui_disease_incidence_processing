@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0002874",
+    "cui_name": "Aplastic Anemia",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aplastic anemia incidence globally ~1-2 per million per year (0.1-0.2 per 100k). Using midpoint estimate of ~0.15 per 100k based on international registry data and hematology literature. Well-defined blood disorder with moderate confidence due to geographic variation and registry data heterogeneity.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "International Aplastic Anemia Registry, regional hematology registries",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

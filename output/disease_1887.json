@@ -1,0 +1,19 @@
+{
+  "cui": "C0011311",
+  "cui_name": "Dengue Fever",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dengue is an acute viral infection with well-documented incidence reporting. Global estimate approximately 50-100 million cases annually (accounting for symptomatic and asymptomatic). Using conservative global average of ~500 per 100k, given high endemic concentration in Southeast Asia, Pacific, and Americas contrasted with minimal incidence in temperate regions.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Dengue and Severe Dengue surveillance reports",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+  "source_type": "registry"
+}

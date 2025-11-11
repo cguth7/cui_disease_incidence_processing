@@ -1,0 +1,19 @@
+{
+  "cui": "C4280734",
+  "cui_name": "Facet joint arthrosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 25000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Osteoarthritis",
+  "reasoning": "Facet joint arthrosis is a chronic degenerative condition; prevalence is appropriate metric. Imaging studies suggest 25-50% prevalence in adults >40 years, averaging ~25% of global population (25,000 per 100k). Limited disease-specific epidemiological data; confidence capped at moderate due to reliance on imaging studies without standardized diagnostic criteria across populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Multiple imaging-based epidemiological studies; no single definitive registry",
+  "source_url": null,
+  "source_type": "literature"
+}

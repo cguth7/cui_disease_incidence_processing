@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0677659",
+    "cui_name": "Gastro-esophageal reflux disease with esophagitis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1750,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1400000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Gastro-esophageal reflux disease",
+    "reasoning": "Chronic condition measured as prevalence rather than incidence. GERD with esophagitis (erosive esophagitis) is a specific subtype occurring in approximately 5-10% of GERD patients. Global GERD prevalence ~20-25% suggests erosive esophagitis prevalence of ~1.5-1.8% (1750 per 100k). Confidence limited due to lack of specific 2005-verified registry data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

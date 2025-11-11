@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1704436",
+    "cui_name": "Peripheral Arterial Diseases",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": 4200,
+    "metric_type": "both",
+    "total_cases_per_year": 336000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "PAD is a chronic atherosclerotic disease best characterized by prevalence (~4.2% of global population, ~4,200 per 100k). Reporting both prevalence (primary metric for chronic conditions) and incidence of new diagnoses (~0.8 per 100k person-years). Global prevalence varies by age and region, from ~1-2% in younger populations to 15-20% in elderly (>70 years). Global average estimated at 4-5% based on WHO and epidemiological surveys.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Fowkes FG et al. (2017). Comparison of global estimates of prevalence and risk factors of peripheral artery disease in 2000 and 2010. Lancet. 382(9901):1329-1340",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23915883/",
+    "source_type": "literature"
+  }
+]

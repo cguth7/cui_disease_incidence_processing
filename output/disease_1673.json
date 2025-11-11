@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238339",
+    "cui_name": "Hereditary pancreatitis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.75,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 60000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Pancreatitis",
+    "reasoning": "Rare autosomal dominant genetic disorder caused by PRSS1 gene mutations. Prevalence estimated at ~0.75 per 100,000 based on limited epidemiological studies and registry data. Chronic lifelong condition with variable penetrance and significant geographic variation due to population-specific mutation frequencies.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

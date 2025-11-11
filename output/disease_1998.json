@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0348626",
+    "cui_name": "Other specified cardiac arrhythmias",
+    "incidence_per_100k": 8.5,
+    "prevalence_per_100k": 25.0,
+    "metric_type": "both",
+    "total_cases_per_year": 680000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Cardiac Arrhythmias",
+    "reasoning": "Heterogeneous category of specified but less-common cardiac arrhythmias (excluding atrial fibrillation, ventricular tachycardia, and other major arrhythmias). Incidence estimated ~8.5 per 100k based on aggregate of minor arrhythmia types; prevalence ~25 per 100k from population studies. Low-moderate confidence due to vague categorical definition.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

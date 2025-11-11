@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1377665",
+    "cui_name": "Childhood Central Nervous System Neoplasm",
+    "incidence_per_100k": 0.45,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 36000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Central Nervous System Neoplasm",
+    "reasoning": "Pediatric CNS malignancies comprise ~3-5 per million children annually. Reporting as global incidence of ~0.45 per 100k population (accounting for pediatric denominator). Primary tumors include medulloblastoma, ependymoma, astrocytoma, and brainstem gliomas.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "GLOBOCAN 2020, pediatric cancer registries; International Agency for Research on Cancer",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

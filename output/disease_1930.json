@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0037926",
+    "cui_name": "Compression of spinal cord",
+    "incidence_per_100k": 70,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 5600000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Spinal cord compression has multiple etiologies: traumatic injury (40-80 per 100k globally), cervical spondylotic myelopathy, disc herniation, and stenosis. Aggregate estimate ~70 per 100k. Moderate confidence due to heterogeneous condition with variable data quality across regions and high geographic variation in traumatic causes.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

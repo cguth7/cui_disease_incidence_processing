@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2748542",
+    "cui_name": "Cardiac Conduction Defect, Nonspecific",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 3000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 240000000,
+    "confidence": 0.30,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Nonspecific umbrella term encompassing various cardiac conduction defects including first-degree AV block (~1%), bundle branch blocks (~1-2%), and higher-degree blocks. Estimated aggregate prevalence ~3% (3000 per 100k) based on electrocardiographic findings in population studies. Metric: prevalence, not incidence, as most conduction defects are chronic/persistent findings rather than incident events.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

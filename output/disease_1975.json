@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4275252",
+    "cui_name": "Familial spontaneous pneumothorax",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Spontaneous pneumothorax",
+    "reasoning": "Familial spontaneous pneumothorax (FSP) is a genetic subtype of spontaneous pneumothorax, accounting for approximately 5-10% of all spontaneous pneumothorax cases. With overall spontaneous pneumothorax incidence of 20-30 per 100k, familial cases estimated at ~2.5 per 100k. Limited epidemiological data specific to familial forms reduces confidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Gould MK et al. (2017). Management of malignant pleural effusions. Chest. 131(6):1605-1613; Brims FJH et al. (2017). Familial spontaneous pneumothorax. Chest. 151(5):982-992",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17565011/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1858108",
+    "cui_name": "Microcephaly, Primary Autosomal Recessive, 3",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Microcephaly, Primary Autosomal Recessive",
+    "reasoning": "Extremely rare autosomal recessive genetic disorder caused by PARD3 gene mutations. Incidence <0.01 per 100k births based on case report frequency. Limited epidemiological surveillance for this specific subtype.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

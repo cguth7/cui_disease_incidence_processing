@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2936349",
+    "cui_name": "Plaque, Amyloid",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Amyloid plaques are pathological findings (misfolded protein deposits) rather than a diagnosable disease entity. Not amenable to epidemiological incidence or prevalence measurement as a discrete condition. Found in multiple diseases including Alzheimer's disease, mild cognitive impairment, and asymptomatic individuals with amyloid pathology.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0004903",
+    "cui_name": "Beckwith-Wiedemann Syndrome",
+    "incidence_per_100k": 7.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 584000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare genetic imprinting disorder with incidence ~1 in 13,700 births (7.3 per 100k). Well-defined genetic syndrome with consistent epidemiological data from genetic registries and clinical cohorts.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "International Beckwith-Wiedemann Syndrome Registry, clinical cohort studies",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

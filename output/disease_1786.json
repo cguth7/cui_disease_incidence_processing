@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0037286",
+    "cui_name": "Skin Neoplasms",
+    "incidence_per_100k": 300,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term covering both benign skin tumors (seborrheic keratosis, nevi, lipomas) and malignant neoplasms (melanoma, basal cell carcinoma, squamous cell carcinoma). Aggregate BOTEC estimate summing major categories: melanoma (~20 per 100k), non-melanoma skin cancers (~100-150 per 100k globally), benign nevi and other benign tumors (~100-150 per 100k). Total ~300 per 100k. Low confidence due to high heterogeneity between benign and malignant categories and significant geographic variation.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018621",
+    "cui_name": "Hay Fever",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 150000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 12000000000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Allergic Rhinitis",
+    "reasoning": "Hay fever (seasonal allergic rhinitis) reported as prevalence, not incidence. Global prevalence approximately 15% of population (150,000 per 100k). Varies significantly by geographic region and allergen patterns.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2008,
+    "source": "Pawankar R et al. (2013). Allergic Rhinitis and its Impact on Asthma (ARIA) guidelines. Allergy. 68:8-160",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23379663/",
+    "source_type": "literature"
+  }
+]

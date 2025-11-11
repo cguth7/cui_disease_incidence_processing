@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0231341",
+    "cui_name": "Premature aging syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Premature aging syndromes are extremely rare genetic disorders. Hutchinson-Gilford Progeria Syndrome (HGPS, the most common form) affects approximately 1 in 4-8 million births. Total global cases estimated at <1,000 individuals alive, with <50 new diagnoses per year worldwide, translating to <0.01 per 100k person-years.",
+    "data_quality": "weak",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Gordon LB et al. (2014). Progeria: A paradigm for translational medicine. Cell. 156(3):400-407",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/24485453/",
+    "source_type": "literature"
+  }
+]

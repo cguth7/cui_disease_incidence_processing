@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014848",
+    "cui_name": "Achalasia",
+    "incidence_per_100k": 1.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 80000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Primary motility disorder of esophagus with incidence ~1.0 per 100k person-years based on multiple European cohort studies. Chronic condition with clear diagnostic criteria but variable epidemiological documentation.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Vaezi MF et al. (2020). The ACG Clinical Guideline: Diagnosis and Management of Achalasia. Am J Gastroenterol. 115(8):1231-1263",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/32618647/",
+    "source_type": "literature"
+  }
+]

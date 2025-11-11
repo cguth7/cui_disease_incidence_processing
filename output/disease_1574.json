@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0271737",
+    "cui_name": "Addison's disease due to autoimmunity",
+    "incidence_per_100k": 1.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 96000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Addison's disease",
+    "reasoning": "Autoimmune Addison's disease incidence estimated at 0.8-1.6 per 100k person-years; using midpoint of 1.2. This represents new diagnoses of primary adrenal insufficiency due to autoimmune destruction of the adrenal cortex.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Erichsen MM et al. (2009). Epidemiology, clinical features and serum biomarkers in autoimmune primary adrenal insufficiency: a nation-wide study. J Clin Endocrinol Metab. 94(12):4882-4890",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/19858235/",
+    "source_type": "literature"
+  }
+]

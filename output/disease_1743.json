@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0022104",
+    "cui_name": "Irritable Bowel Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 11000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 880000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "IBS is a chronic functional disorder with prevalence-based epidemiology. Global prevalence estimated at approximately 11% (11,000 per 100k) based on meta-analyses and systematic reviews of community surveys. Incidence not reported due to unclear disease onset and chronic fluctuating course.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Lacy BE et al. (2021). Bowel disorders. Gastroenterology. 150:1393-1407",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/27147121/",
+    "source_type": "literature"
+  }
+]

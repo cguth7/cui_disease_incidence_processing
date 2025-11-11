@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0087031",
+    "cui_name": "Juvenile-Onset Still Disease",
+    "incidence_per_100k": 0.14,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 11200,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "JOSD (also Adult-Onset Still Disease or AOSD) is a rare systemic inflammatory disorder with incidence estimated at approximately 0.1-0.16 per 100k person-years globally. Using midpoint estimate of 0.14 per 100k based on European and Asian population studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Yamaguchi M et al. (2016). Adult-onset Still disease: A review of the literature. J Rheum Dis. 23(3):368-377",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/27433385/",
+    "source_type": "literature"
+  }
+]

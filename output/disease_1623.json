@@ -1,0 +1,19 @@
+{
+  "cui": "C0029799",
+  "cui_name": "Other specified forms of pleural effusion, except tuberculous",
+  "incidence_per_100k": 28.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2280000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Pleural Effusion",
+  "reasoning": "Non-tuberculous pleural effusion commonly secondary to cardiac disease, malignancy, pneumonia, and other causes. Estimated incidence ~28.5 per 100k based on epidemiological studies of pleural effusion etiology. Limited epidemiological data specific to this coded subcategory; confidence reflects moderate data quality and specificity.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

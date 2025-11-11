@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1846545",
+    "cui_name": "Autoimmune Lymphoproliferative Syndrome Type 2B",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Autoimmune Lymphoproliferative Syndrome",
+    "reasoning": "ALPS Type 2B is an extremely rare genetic disorder of lymphocyte apoptosis, estimated <0.1 per 100k person-years based on case reports and small clinical series. Limited systematic epidemiological studies available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

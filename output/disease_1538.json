@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0016050",
+    "cui_name": "Fibroadenoma",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Benign breast neoplasm",
+    "reasoning": "Fibroadenoma is a common benign breast tumor with incidence ~2-3 per 100k women per year (primarily ages 15-35). Using midpoint estimate of 2.5 per 100k based on clinical epidemiology literature.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Multiple sources on benign breast disease epidemiology",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

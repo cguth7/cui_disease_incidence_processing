@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0162529",
+    "cui_name": "Colitis, Ischemic",
+    "incidence_per_100k": 4.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 360000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Colitis",
+    "reasoning": "Ischemic colitis is an acute vascular event affecting the colon. Incidence estimated at 4-5 per 100k person-years based on hospital discharge data and observational cohort studies. Underdiagnosis likely since mild cases may not require hospitalization.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Based on observational hospital discharge data and regional registry estimates from gastrointestinal epidemiology literature",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

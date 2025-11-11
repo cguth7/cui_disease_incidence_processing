@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0015398",
+    "cui_name": "Congenital Eye Abnormalities",
+    "incidence_per_100k": 150,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": "Congenital Anomalies",
+    "reasoning": "Aggregate BOTEC estimate of major congenital eye abnormalities: congenital cataracts (~50 per 100k births), congenital glaucoma (~20 per 100k births), retinoblastoma (~3 per 100k births), optic nerve hypoplasia (~15 per 100k births), other ocular malformations (~62 per 100k births) = ~150 per 100k live births. Heterogeneous umbrella term with varying clinical significance and epidemiology across subcategories.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

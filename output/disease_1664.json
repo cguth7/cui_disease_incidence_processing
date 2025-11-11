@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018889",
+    "cui_name": "Helminthiasis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 25000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 2000000000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate of parasitic worm infections: Helminthiasis encompasses multiple infections with major subtypes including hookworm (~600 million infected), Ascaris lumbricoides (~900 million infected), Trichuris trichiura (~700 million infected), schistosomiasis (~250 million infected), and filariasis (~120 million infected), totaling approximately 2 billion infected individuals globally (~25% of world population). Reported as prevalence since helminthiasis epidemiology is traditionally reported as prevalence of infection rather than incidence of new cases. WHO estimates indicate this represents one of the most common parasitic infections worldwide, particularly affecting tropical/subtropical regions.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1321756",
+    "cui_name": "Achalasia",
+    "incidence_per_100k": 1.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 80000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Achalasia is a rare primary esophageal motility disorder with incidence estimated at ~1 per 100,000 person-years globally. Limited epidemiological data from systematic registries; estimates based on clinical case series and hospital-based studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Ates F et al. (2012). Achalasia: clinical presentation, diagnosis, and treatment. Curr Opin Gastroenterol. 28(4):368-376",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/22614483/",
+    "source_type": "literature"
+  }
+]

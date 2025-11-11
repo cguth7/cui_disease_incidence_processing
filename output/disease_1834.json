@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1961835",
+    "cui_name": "Gaucher Disease, Type 1",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Gaucher Disease",
+    "reasoning": "Type 1 (non-neuronopathic) Gaucher disease incidence estimated at ~1 per 40,000 to 1 per 100,000 globally (1.5 per 100,000 average). Population-based variation significant: higher in Ashkenazi Jewish populations (~1 per 40,000 = 2.5 per 100k), lower in other European (~1 per 100,000) and Asian populations.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "National Organization for Rare Disorders (NORD) Gaucher Disease summary; Orphanet Gaucher Disease epidemiology estimates",
+    "source_url": "https://www.rarediseases.org/rare-diseases/gaucher-disease/",
+    "source_type": "registry"
+  }
+]

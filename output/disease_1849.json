@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0751039",
+    "cui_name": "Cockayne Syndrome, Type I",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Cockayne Syndrome",
+    "reasoning": "Type I Cockayne syndrome is a rare autosomal recessive disorder. Incidence estimated at <0.1 per 100k based on case report frequency; no systematic epidemiological registry available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

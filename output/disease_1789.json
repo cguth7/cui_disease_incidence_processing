@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0856737",
+    "cui_name": "Single vessel disease",
+    "incidence_per_100k": 45.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Coronary Artery Disease",
+    "reasoning": "Single-vessel coronary disease represents ~20-30% of angiographically diagnosed CAD patients. Global CAD incidence ~150 per 100k; single-vessel represents estimated 45 per 100k based on stratification of CAD subtypes.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

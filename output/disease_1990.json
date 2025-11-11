@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278762",
+    "cui_name": "Adult Diffuse Large Cell Lymphoma",
+    "incidence_per_100k": 6.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 520000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Non-Hodgkin Lymphoma",
+    "reasoning": "DLBCL is the most common NHL subtype (~30-40% of all NHL cases). Global incidence estimated at 6-7 per 100k person-years based on cancer registry data. Reporting incidence (new diagnoses) rather than prevalence.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

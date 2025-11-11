@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0040147",
+    "cui_name": "Thyroiditis",
+    "incidence_per_100k": 5.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 400000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major thyroiditis types: Hashimoto's (~0.8), Graves' disease (~2.0), subacute thyroiditis (~0.5), postpartum thyroiditis (~1.2), silent thyroiditis (~0.3), acute thyroiditis (~0.1) = ~5.0 per 100k annually. Low confidence due to umbrella term heterogeneity, variation in classification systems, and overlap between conditions.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

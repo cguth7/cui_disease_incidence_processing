@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014849",
+    "cui_name": "Esophageal and Gastric Varices",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 7000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 560000,
+    "confidence": 0.50,
+    "is_subtype": false,
+    "parent_disease": "Portal Hypertension",
+    "reasoning": "Esophageal and gastric varices are complications of portal hypertension, primarily from liver cirrhosis. Reported as prevalence rather than incidence. Estimated ~7,000 per 100k based on global cirrhosis prevalence (4-5%) and proportion developing esophageal varices (30-40%) or gastric varices (5-15%). Geographic variation significant: Southeast Asia/East Asia >15% prevalence due to higher HBV/HCV rates; developed countries 5-8% due to alcohol-related cirrhosis patterns.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

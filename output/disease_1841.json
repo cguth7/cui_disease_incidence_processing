@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0025007",
+    "cui_name": "Measles",
+    "incidence_per_100k": 45.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000,
+    "confidence": 0.82,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Global measles incidence estimated at ~45 per 100k person-years based on WHO epidemiological surveillance data. Acute infectious disease with well-documented case reporting from health systems globally.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "WHO World Health Statistics 2005, Global Health Observatory",
+    "source_url": "https://www.who.int/data/gho/",
+    "source_type": "registry"
+  }
+]

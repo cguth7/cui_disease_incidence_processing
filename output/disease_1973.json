@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1836182",
+    "cui_name": "Chondrodysplasia, acromesomelic, with genital anomalies",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Acromesomelic Dysplasia",
+    "reasoning": "Extremely rare autosomal recessive skeletal dysplasia characterized by acromesomelic shortening of limbs with associated genital anomalies. Fewer than 50 cases reported in medical literature worldwide, estimated incidence <0.01 per 100k births. No population-based epidemiological studies available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

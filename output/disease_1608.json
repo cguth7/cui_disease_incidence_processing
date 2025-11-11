@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018564",
+    "cui_name": "Hand deformities",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term covering multiple types of hand deformities (congenital anomalies like polydactyly/syndactyly and acquired deformities from arthritis/trauma) with vastly different epidemiological characteristics and clinical significance. Too heterogeneous to estimate meaningfully.",
+    "data_quality": "none",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

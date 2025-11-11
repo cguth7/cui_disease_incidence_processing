@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238196",
+    "cui_name": "Small intestine carcinoma",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Small bowel cancer incidence ~2.5 per 100k globally based on GLOBOCAN 2005 estimates. Rare malignant neoplasm with significant geographic variation (higher in developed countries with better detection). Specific tumor histology varies (adenocarcinoma, sarcoma, lymphoma).",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

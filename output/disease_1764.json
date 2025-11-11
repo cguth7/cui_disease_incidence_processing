@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4277682",
+    "cui_name": "Chemical and Drug Induced Liver Injury",
+    "incidence_per_100k": 15.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1200000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Drug-induced liver injury (DILI) incidence estimated at approximately 15 per 100k person-years based on pharmacovigilance surveillance data and epidemiological cohort studies. Acute hepatotoxic reaction with variable incidence by geography, drug exposure patterns, and herbal supplement use. Confidence limited due to reliance on surveillance data without exact published source citation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

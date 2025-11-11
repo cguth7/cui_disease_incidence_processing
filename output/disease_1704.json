@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023601",
+    "cui_name": "Leydig Cell Tumor",
+    "incidence_per_100k": 0.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 16000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Sex Cord-Stromal Tumor",
+    "reasoning": "Leydig cell tumors are rare testicular tumors representing 2-3% of testicular neoplasms. Estimated incidence approximately 0.2 per 100k person-years based on extrapolation from testicular cancer registry data and specialty pathology studies. Limited specific epidemiological data available for this histologically-defined rare tumor subtype.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

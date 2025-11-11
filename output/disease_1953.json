@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1956258",
+    "cui_name": "Familial Thrombotic Thrombocytopenic Purpura",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Thrombotic Thrombocytopenic Purpura",
+    "reasoning": "Familial TTP is a rare hereditary form of TTP caused by mutations in genes like ADAMTS13, estimated to represent <0.1 per 100k person-years globally. Accounts for approximately 5-10% of all TTP cases. Data sourced from hematology literature and case reports; no large population-based epidemiological registries exist.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

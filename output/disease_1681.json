@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1863925",
+    "cui_name": "Nonmedullary thyroid carcinoma, with or without cell oxyphilia",
+    "incidence_per_100k": 1.6,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 128000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Thyroid Carcinoma",
+    "reasoning": "Nonmedullary thyroid carcinoma (papillary, follicular, anaplastic) accounts for ~90-95% of all thyroid cancers. Global thyroid cancer incidence from GLOBOCAN 2005 was ~1.6-1.8 per 100k; NMTC represents majority. The 'with or without cell oxyphilia' qualifier describes Hürthle cell features within these histological subtypes, not a separate category. Reporting incidence of new cases per 100k person-years.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - Thyroid Cancer",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0019069",
+    "cui_name": "Hemophilia A",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 7.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 600000,
+    "confidence": 0.82,
+    "is_subtype": true,
+    "parent_disease": "Hemophilia",
+    "reasoning": "Hemophilia A is a lifelong X-linked recessive genetic disorder, best measured by prevalence. Global prevalence estimated at 7.5 per 100,000 population based on WFH 2017 surveys and WHO data, derived from population-based registries and hemophilia center records.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2017,
+    "source": "World Federation of Hemophilia Survey (2017) and WHO guidelines on hemophilia management",
+    "source_url": "https://www1.wfh.org/publications/files/pdf-1503.pdf",
+    "source_type": "registry"
+  }
+]

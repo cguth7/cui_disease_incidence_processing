@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4060446",
+    "cui_name": "Papilloma of breast",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Papilloma",
+    "reasoning": "Breast papilloma is a benign lesion typically reported as prevalence rather than incidence. Prevalence estimates range 1-5% in women with benign breast disease and abnormal imaging; using 2.5% (2,500 per 100k) as midpoint estimate from pathology and imaging studies. Limited epidemiological surveillance data; primary data from pathology series and mammography studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Estimate based on pathology and imaging surveillance studies; no single authoritative epidemiological registry",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

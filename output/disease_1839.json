@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0031099",
+    "cui_name": "Periodontitis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 11000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 880000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Reporting prevalence for chronic periodontal disease. Global prevalence approximately 11% (11,000 per 100k) for moderate-to-severe periodontitis in adults based on epidemiological surveys and WHO dental disease assessments.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Löe H. (2000). Periodontal disease: the sixth complication of diabetes mellitus. Diabetes Care. 23(7):1029-1030",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/10860743/",
+    "source_type": "literature"
+  }
+]

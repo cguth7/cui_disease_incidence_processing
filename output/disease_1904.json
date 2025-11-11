@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0034150",
+    "cui_name": "Purpura",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Purpura is a clinical manifestation (symptom/sign of bleeding into skin and mucous membranes) rather than a discrete disease entity. Multiple heterogeneous etiologies (ITP, TTP, vasculitis, HSP, coagulation disorders, drug-induced) make it too broad to estimate meaningfully as a single condition.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

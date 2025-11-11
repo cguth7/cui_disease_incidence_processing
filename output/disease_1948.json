@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206743",
+    "cui_name": "Rhabdoid Tumor",
+    "incidence_per_100k": 0.05,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000,
+    "confidence": 0.48,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Extremely rare pediatric malignancy with estimated incidence ~0.05 per 100k person-years (approximately 0.5-2 per million births globally). Most commonly presents as renal rhabdoid tumor or atypical teratoid/rhabdoid tumor (AT/RT) of CNS in children under 5 years. Estimate based on aggregation of pediatric oncology case series and SEER registry reports showing <100 annual diagnoses in US. Limited epidemiological studies available; confidence reduced due to sparse 2005-specific data.",
+    "data_quality": "weak",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

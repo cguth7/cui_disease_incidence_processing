@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0346153",
+    "cui_name": "Breast Cancer, Familial",
+    "incidence_per_100k": 4.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 360000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Breast Cancer",
+    "reasoning": "Familial breast cancer represents approximately 5-10% of all breast cancer cases (4-5 per 100k women globally). Reporting incidence of new diagnoses based on cancer registry data. Confidence reflects moderate geographic variation in hereditary cancer awareness and BRCA testing rates between regions.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC); SEER Cancer Statistics (National Cancer Institute)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1836255",
+    "cui_name": "Preeclampsia Eclampsia 4",
+    "incidence_per_100k": 4500,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 360000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Preeclampsia-Eclampsia",
+    "reasoning": "Preeclampsia-eclampsia affects 3-5% of pregnancies globally (~4,500 per 100k pregnant women per year). Classification variant '4' specificity unclear from CUI alone; confidence reduced due to uncertain severity grading system and lack of condition-specific epidemiological data.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO (2011). WHO recommendations for the prevention and treatment of postpartum haemorrhage",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

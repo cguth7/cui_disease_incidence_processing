@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1153706",
+    "cui_name": "Endometrial adenocarcinoma",
+    "incidence_per_100k": 8.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 656000,
+    "confidence": 0.82,
+    "is_subtype": true,
+    "parent_disease": "Endometrial Neoplasm",
+    "reasoning": "Endometrial adenocarcinoma is the predominant histological subtype of endometrial cancer (~80% of cases). Global incidence approximately 8.2 per 100k person-years based on GLOBOCAN 2005 and cancer registry data. Adenocarcinomas represent the vast majority of endometrial malignancies.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+    "source_type": "literature"
+  }
+]

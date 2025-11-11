@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1510586",
+    "cui_name": "Autism Spectrum Disorders",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 8500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "ASD is a lifelong neurodevelopmental condition; prevalence is the appropriate metric. Global estimates suggest 0.5-1.5% population prevalence. CDC ADDM Network (2005-2008) reported 1 in 150 children (~667 per 100k). Extrapolated to total population with adjustment for adult diagnosis, yielding ~8,500 per 100k globally. Geographic variation is significant due to differences in diagnostic criteria and access to services across regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "CDC Autism and Developmental Disabilities Monitoring (ADDM) Network, 2008 report covering 2005 data",
+    "source_url": "https://www.cdc.gov/ncbddd/autism/data.html",
+    "source_type": "registry"
+  }
+]

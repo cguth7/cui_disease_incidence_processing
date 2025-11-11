@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0006112",
+    "cui_name": "Brain Diseases, Metabolic",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for metabolic brain diseases, summing major subcategories: mitochondrial disorders (~1.5 per 100k), lysosomal storage diseases (~0.5 per 100k), peroxisomal disorders (~0.2 per 100k), urea cycle disorders (~0.1 per 100k), Wilson's disease (~0.2 per 100k). Low confidence due to heterogeneous rare conditions and limited systematic epidemiological data for many subcategories.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

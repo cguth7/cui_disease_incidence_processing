@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238357",
+    "cui_name": "Hyperkalemic Periodic Paralysis",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.3,
+    "is_subtype": true,
+    "parent_disease": "Periodic Paralysis",
+    "reasoning": "Hyperkalemic periodic paralysis is a rare autosomal dominant genetic channelopathy (primarily SCN4A mutations affecting sodium channels). Extremely rare condition with estimated incidence <0.1 per 100k based on genetic disorder prevalence patterns and case report frequency. Limited systematic epidemiological data available; primarily documented through genetic registries and case reports.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

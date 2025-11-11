@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2350873",
+    "cui_name": "Beryllium Disease",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": "Occupational Lung Disease",
+    "reasoning": "Beryllium disease is an occupational disease with extremely low global population incidence (<0.1 per 100k). Chronic beryllium disease (CBD) occurs in 1-15 per million exposed workers in aerospace, electronics, nuclear, and metal recycling industries. Acute beryllium disease is even rarer with improved modern exposure controls. Incidence in general population not well-characterized.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0010276",
+    "cui_name": "Craniopharyngioma",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare benign brain tumor with incidence of approximately 1-2 per million per year (0.1-0.2 per 100,000). Estimate based on published neurosurgical case series and population-based epidemiological studies. Limited data available; confidence capped at 0.55 due to reliance on hospital registry and case series data (Tier 2 sources) rather than population-based registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Compiled from neurosurgical literature and pituitary tumor epidemiology studies",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

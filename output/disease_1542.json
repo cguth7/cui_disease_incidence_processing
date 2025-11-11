@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018790",
+    "cui_name": "Cardiac Arrest",
+    "incidence_per_100k": 55.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4400000,
+    "confidence": 0.82,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Cardiac arrest incidence estimated at ~55 per 100k person-years globally based on emergency response data. High mortality makes incidence the primary metric. Significant geographic variation between developed (60-100 per 100k) and developing nations (20-40 per 100k).",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Myerburg RJ, Castellanos A. (2005). Cardiac arrest and sudden cardiac death. In: Braunwald's Heart Disease. Philadelphia: Saunders.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15829344/",
+    "source_type": "literature"
+  }
+]

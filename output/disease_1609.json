@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0221373",
+    "cui_name": "Claw hand",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Claw hand is a clinical deformity/manifestation of multiple underlying conditions (ulnar nerve palsy, leprosy, hand trauma, systemic conditions) rather than a primary disease entity. Cannot estimate incidence independently without specifying the underlying etiology.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

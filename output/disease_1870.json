@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0001890",
+    "cui_name": "Akinetic Petit Mal",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Absence Seizures",
+    "reasoning": "Akinetic petit mal (absence seizure) incidence estimated at ~3.5 per 100k person-years based on population-based epilepsy registries. Childhood-onset generalized seizure disorder with well-documented epidemiology from European and North American surveillance systems.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Population-based epilepsy registries (European and North American cohorts)",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

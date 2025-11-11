@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023440",
+    "cui_name": "Acute Erythroblastic Leukemia",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Acute Myeloid Leukemia",
+    "reasoning": "Acute erythroblastic leukemia (erythroleukemia) is a rare subtype of AML comprising approximately 3-5% of AML cases. Reporting incidence of new cases at ~0.15 per 100k person-years, derived from AML global incidence (~3.8 per 100k) × estimated proportion (4%). Limited disease-specific epidemiological data available.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

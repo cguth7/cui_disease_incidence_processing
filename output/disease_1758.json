@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014511",
+    "cui_name": "Epithelial cyst",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 15000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1200000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Epithelial cysts are a heterogeneous umbrella category with multiple anatomical subtypes (skin epidermoid cysts ~1-3%, ovarian cysts ~20-30%, renal cysts age-dependent up to 50%, breast cysts). Prevalence estimate aggregates major subtypes; high geographic and anatomical variation.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

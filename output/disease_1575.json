@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2103602",
+    "cui_name": "Autoimmune Primary Adrenal Insufficiency",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 5.0,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 400000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Primary Adrenal Insufficiency",
+    "reasoning": "Autoimmune destruction of adrenal cortex accounts for ~70-80% of primary adrenal insufficiency in developed countries. Prevalence estimated at ~5 per 100k based on epidemiological studies. Limited 2005-specific data; using contemporary estimates from endocrinology literature. Chronic condition appropriately measured by prevalence rather than incidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Betterle C et al. (2002). Autoimmune adrenal insufficiency and autoimmune polyendocrine syndromes: autoantibodies, autoantigens, and their applicability in diagnosis and disease prediction. Endocr Rev. 23(3):327-364",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/12050123/",
+    "source_type": "literature"
+  }
+]

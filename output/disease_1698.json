@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4085595",
+    "cui_name": "AL-RAQAD SYNDROME",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "AL-RAQAD syndrome is an extremely rare genetic disorder with only a handful of reported cases in medical literature. No systematic epidemiological registry data available; estimate based on case report frequency.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

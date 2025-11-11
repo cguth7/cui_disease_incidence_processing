@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1112256",
+    "cui_name": "Sensorimotor neuropathy",
+    "incidence_per_100k": 5.2,
+    "prevalence_per_100k": 18000,
+    "metric_type": "both",
+    "total_cases_per_year": 1440000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Peripheral neuropathy",
+    "reasoning": "Sensorimotor neuropathy is a specific manifestation of peripheral nerve dysfunction affecting both motor and sensory fibers. Incidence ~5 per 100k per year estimated from diabetic cohort studies (primary etiology). Prevalence ~18% of at-risk populations (200+ million globally), but variable due to multiple etiologies (diabetes, chemotherapy, infections, toxins). Confidence moderate due to heterogeneous causes and limited population-based epidemiology.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2008,
+    "source": "Tesfaye S et al. (2005). Vascular risk factors and diabetic neuropathy. N Engl J Med. 352:341-350",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15659723/",
+    "source_type": "literature"
+  }
+]

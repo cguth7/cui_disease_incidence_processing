@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278678",
+    "cui_name": "Metastatic Renal Cell Cancer",
+    "incidence_per_100k": 1.1,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 88000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Renal Cell Carcinoma",
+    "reasoning": "Metastatic RCC represents approximately 25-30% of renal cell carcinoma cases at initial presentation. With global RCC incidence of ~3.7 per 100k person-years from GLOBOCAN 2005, metastatic RCC incidence at diagnosis estimated at ~1.1 per 100k.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

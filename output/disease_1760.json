@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3888194",
+    "cui_name": "Mixed Lineage Leukemia",
+    "incidence_per_100k": 0.4,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 32000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": "Acute Leukemia",
+    "reasoning": "Mixed Lineage Leukemia (KMT2A-rearranged) is an acute leukemia with ~5-10% frequency in adult ALL and ~70-80% in infant ALL. Global incidence estimated at ~0.4 per 100k person-years based on ALL epidemiology and MLL subtype frequency.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

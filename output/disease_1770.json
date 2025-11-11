@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0162557",
+    "cui_name": "Liver Failure, Acute",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute liver failure is a well-defined acute condition with incidence estimated at ~1.5 per 100k globally. US data shows 2,000-7,000 cases/year (~0.6-2.0 per 100k), with higher rates in developing countries due to viral hepatitis complications.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2004,
+    "source": "Lee WM et al. (2004). Acute liver failure. N Engl J Med. 350:800-808",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14973214/",
+    "source_type": "literature"
+  }
+]

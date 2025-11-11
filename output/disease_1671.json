@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0553580",
+    "cui_name": "Ewing sarcoma",
+    "incidence_per_100k": 0.28,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 22400,
+    "confidence": 0.80,
+    "is_subtype": true,
+    "parent_disease": "Bone sarcoma",
+    "reasoning": "Ewing sarcoma is a primary malignant bone tumor predominantly affecting children and young adults. Global incidence approximately 2-3 per million (0.28 per 100k person-years). Reported as incidence (new cases per year) from GLOBOCAN 2005 registry data.",
+    "data_quality": "strong",
+    "geographic_variation": "low",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

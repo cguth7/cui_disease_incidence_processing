@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1863599",
+    "cui_name": "Hereditary Myopathy with Early Respiratory Failure",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Hereditary Muscular Dystrophy",
+    "reasoning": "Extremely rare genetic disorder with <100 cases reported globally. HMERF is a subtype of hereditary myopathy caused by recessive mutations (e.g., STUR1). No systematic epidemiological registries track this condition; data limited to scattered case reports.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

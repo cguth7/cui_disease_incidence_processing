@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1334968",
+    "cui_name": "Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Hodgkin Lymphoma",
+    "reasoning": "NLPHL represents approximately 5-7% of all Hodgkin lymphoma cases. Global Hodgkin lymphoma incidence is ~2.5 per 100k per year (per GLOBOCAN data). Estimated NLPHL incidence at ~0.15 per 100k (~12,000 cases annually). Moderate confidence due to rarity and limited population-based registry data specifically tracking this subtype.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "GLOBOCAN 2012 (Hodgkin lymphoma aggregate), supplemented with SEER histological subtype distributions",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

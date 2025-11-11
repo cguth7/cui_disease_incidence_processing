@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0025521",
+    "cui_name": "Inborn Errors of Metabolism",
+    "incidence_per_100k": 30,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 2400000,
+    "confidence": 0.3,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for inborn errors of metabolism. Newborn screening data indicates major detectable IEMs collectively occur at ~1-2% of births (PKU ~1:10,000, galactosemia ~1:40,000, MSUD ~1:185,000, and dozens of other conditions). Aggregated across major subcategories: phenylketonuria, galactosemia, maple syrup urine disease, mitochondrial disorders, lysosomal storage disorders, organic acidemias, fatty acid oxidation disorders, urea cycle disorders, and others. Estimated at ~30 per 100k person-years. Actual burden higher when including undetected and late-onset presentations. No single comprehensive source available.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

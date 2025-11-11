@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238358",
+    "cui_name": "Hypokalemic Periodic Paralysis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Periodic Paralysis",
+    "reasoning": "Hypokalemic periodic paralysis is a rare autosomal dominant ion channel disorder characterized by episodic flaccid paralysis. Prevalence estimated at ~1-2 per 100k based on genetic epidemiology studies. Appropriate metric is prevalence since this is a lifelong genetic condition with chronic susceptibility to episodes.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0271844",
+    "cui_name": "Parathyroid hyperplasia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Hyperparathyroidism",
+    "reasoning": "Parathyroid hyperplasia is a specific histological presentation of hyperparathyroidism (accounts for ~20% of primary cases, more common in secondary forms). Reported prevalence estimated at 2-3 per 100k based on surgical cohorts and autopsy studies. Limited population-based epidemiological data; prevalence metric used as this is a chronic endocrine condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Based on surgical epidemiology and case series prevalence estimates; specific population-based registry data not readily available for this condition.",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

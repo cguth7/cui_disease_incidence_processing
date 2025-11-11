@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3887638",
+    "cui_name": "Failure to thrive in infant",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 7500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 600000000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Failure to thrive",
+    "reasoning": "Failure to thrive is a clinical diagnosis based on inadequate weight gain, affecting approximately 7.5% of infants globally (prevalence metric). Incidence not well-defined as it's a symptom rather than discrete disease. Higher in developing countries due to malnutrition and infections; lower in developed countries. Confidence moderate due to definitional variations and heterogeneous etiologies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Child Growth Standards (2006); Pediatric epidemiological cohort studies on infant malnutrition and growth",
+    "source_url": "https://www.who.int/tools/child-growth-standards",
+    "source_type": "registry"
+  }
+]

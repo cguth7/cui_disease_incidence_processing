@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0270612",
+    "cui_name": "Leukoencephalopathy",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term covering multiple heterogeneous white matter diseases with vastly different epidemiology: includes inherited leukodystrophies, PML (opportunistic infection), toxic/metabolic forms, demyelinating diseases. Cannot be meaningfully aggregated due to different etiologies and clinical significance.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

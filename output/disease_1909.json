@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1274788",
+    "cui_name": "Atopic keratoconjunctivitis",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.5,
+    "is_subtype": true,
+    "parent_disease": "Allergic conjunctivitis",
+    "reasoning": "Atopic keratoconjunctivitis is a specific allergic eye condition affecting 0.3-0.5 per 100k based on limited epidemiological data. Often occurs in patients with atopic dermatitis (0.5-3% prevalence among atopic individuals). Moderate confidence due to sparse systematic incidence studies and geographic variation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Estimated from ophthalmologic literature on allergic eye diseases and atopic dermatitis epidemiology",
+    "source_url": null,
+    "source_type": null
+  }
+]

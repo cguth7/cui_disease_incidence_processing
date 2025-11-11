@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0019156",
+    "cui_name": "Hepatic Veno-Occlusive Disease",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.4,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare acquired vascular liver disease primarily complicating hematopoietic stem cell transplantation and chemotherapy. General population incidence estimated at <1 per 100k annually; significantly higher (5-60%) in transplant recipients depending on conditioning regimen. Limited comprehensive population-based epidemiological surveillance data outside specialized transplant centers.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2931820",
+    "cui_name": "Inclusion body myopathy, autosomal dominant",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.2,
+    "is_subtype": true,
+    "parent_disease": "Inclusion body myopathy",
+    "reasoning": "Autosomal dominant form of IBM is extremely rare genetic muscle disorder, estimated <0.01 per 100k based on limited case reports. VCP gene mutations account for small subset of IBM cases. Confidence very low due to lack of systematic epidemiological studies and population-based incidence data.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

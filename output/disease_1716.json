@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0270971",
+    "cui_name": "Floppy infant syndrome",
+    "incidence_per_100k": 10.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 800000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major causes of infantile hypotonia: spinal muscular atrophy (~1.5 per 100k), cerebral palsy (~2.5 per 100k), congenital myopathies (~1 per 100k), metabolic/genetic disorders (~1.5 per 100k), other CNS causes (~3.5 per 100k) = ~10 per 100k births. Floppy infant syndrome is a clinical presentation descriptor, not a specific disease entity, with heterogeneous etiologies.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

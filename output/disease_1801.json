@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0025268",
+    "cui_name": "Multiple Endocrine Neoplasia Type 2a",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.52,
+    "is_subtype": false,
+    "parent_disease": "Multiple Endocrine Neoplasia",
+    "reasoning": "MEN2a is a rare autosomal dominant genetic disorder. Prevalence estimated at 1-2 per 100k based on RET mutation screening and family studies. Incidence not well-defined due to diagnosis primarily through genetic screening of at-risk families rather than population surveillance. Using prevalence as the appropriate metric for a lifelong genetic condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Brandi ML et al. (2001). Guidelines for diagnosis and therapy of MEN type 1 and type 2. J Clin Endocrinol Metab. 86(12):5658-5671",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11739416/",
+    "source_type": "literature"
+  }
+]

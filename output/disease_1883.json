@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0221013",
+    "cui_name": "Mastocytosis, Systemic",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Mastocytosis",
+    "reasoning": "Systemic mastocytosis is a rare myeloproliferative disorder with extremely limited epidemiological data. Estimated incidence <0.5 per 100k person-years based on case report frequencies and small case series, but no systematic population-based surveillance available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

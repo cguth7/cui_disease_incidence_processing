@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0040137",
+    "cui_name": "Thyroid Nodule",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Thyroid nodules measured as prevalence (~2.5% in general population by palpation, higher by ultrasound ~16-50%). Using conservative 2.5% estimate (2,500 per 100k) based on clinical palpation studies; ultrasound-detected prevalence much higher but variable.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Tunbridge WM et al. (1981). The spectrum of thyroid disease in a community: the Whickham Survey. Clin Endocrinol. 7(6):481-493; WHO epidemiological data",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/7307619/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0685707",
+    "cui_name": "Muscular ventricular septum defect",
+    "incidence_per_100k": 45.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Ventricular Septal Defect",
+    "reasoning": "Muscular VSDs account for ~5-20% of all VSDs. Using overall VSD incidence of ~2.2 per 1000 live births (~220 per 100k births), muscular VSDs estimated at ~0.45 per 1000 births or ~45 per 100k. Expressed as births rather than person-years due to congenital nature of condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Birth defect surveillance registries (CDC, EUROCAT) and cardiac epidemiological studies",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

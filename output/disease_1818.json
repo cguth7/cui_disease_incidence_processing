@@ -1,0 +1,19 @@
+{
+  "cui": "C0338437",
+  "cui_name": "Neurocysticercosis",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Parasitic CNS infection with incidence estimates of 3-10 per 100k in endemic areas (Latin America, Asia, Africa), much lower globally. Using global average estimate of ~3.5 per 100k person-years. High geographic variation due to transmission patterns linked to Taenia solium distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Garcia HH et al. (2016). Neurocysticercosis: Updated concepts about an old disease. Lancet Neurol. 15(10):1025-1035",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27302129/",
+  "source_type": "literature"
+}

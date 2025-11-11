@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0027721",
+    "cui_name": "Lipoid nephrosis",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Nephrotic syndrome",
+    "reasoning": "Lipoid nephrosis (minimal change disease) is the most common cause of nephrotic syndrome in children, with estimated pediatric incidence of 1-2 per 100,000 children per year. Global estimate ~1.5 per 100k averaged across age groups. Subtype of nephrotic syndrome with specific histopathology.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Kidney Disease: Improving Global Outcomes (KDIGO) Clinical Practice Guidelines for Glomerulonephritis",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21097707/",
+    "source_type": "literature"
+  }
+]

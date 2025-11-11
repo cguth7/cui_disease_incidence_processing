@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2931356",
+    "cui_name": "Spastic paraplegia type 5A, recessive",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.05,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 4000,
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Hereditary Spastic Paraplegia",
+    "reasoning": "Rare autosomal recessive genetic disorder; SPG5A represents <1% of all hereditary spastic paraplegia cases. Prevalence estimated at ~0.05 per 100k based on aggregate HSP prevalence data (0.3-10 per 100k globally) with SPG5A accounting for <1% of cases. Limited to case reports and small family studies; no population-based epidemiological data available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0856742",
+    "cui_name": "Post MI (Postmyocardial Infarction)",
+    "incidence_per_100k": 120,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 9600000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Myocardial Infarction",
+    "reasoning": "Post-MI incidence reflects the rate of new myocardial infarction events (~120 per 100k globally from 2005 estimates). Reported as incidence (new MI events per year), with high geographic variation from <50 in low-income regions to >200 in high-income countries due to differences in coronary risk factors, healthcare access, and case ascertainment.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Rosamond W et al. (2008). Heart disease and stroke statistics--2008 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Circulation. 117(4):e25-e146",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/18086926/",
+    "source_type": "literature"
+  }
+]

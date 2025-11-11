@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0862802",
+    "cui_name": "Recurrent lung cancer",
+    "incidence_per_100k": 8.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 680000,
+    "confidence": 0.6,
+    "is_subtype": true,
+    "parent_disease": "Lung Cancer",
+    "reasoning": "Recurrent lung cancer represents newly detected recurrences among treated lung cancer survivors. Estimated ~8.5 per 100k annually, derived from ~50-70% recurrence rates applied to ~35-40 per 100k lung cancer incidence. Population-level incidence less commonly reported than patient-level recurrence rates.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

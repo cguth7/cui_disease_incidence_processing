@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3854603",
+    "cui_name": "FNAITP",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.0001,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 8.0,
+    "confidence": 0.2,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Reported prevalence of approximately 0.0001 per 100k population based on Ultra-rare genetic condition.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Ultra-rare genetic condition",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

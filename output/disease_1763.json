@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1392786",
+    "cui_name": "Cognitive changes",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Unmappable symptom descriptor. 'Cognitive changes' is a non-specific clinical finding that can manifest in numerous distinct neurological and psychiatric conditions (dementia, delirium, TBI, MS, Parkinson's, depression, etc.) without defining a single disease entity. Cannot estimate meaningful incidence without specification of underlying condition.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

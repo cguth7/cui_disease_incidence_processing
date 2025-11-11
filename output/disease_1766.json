@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4279912",
+    "cui_name": "Chemically-Induced Liver Toxicity",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Drug/chemical-induced liver injury (DILI) incidence estimated at 10-15 per million (0.1-0.15 per 100k person-years) from pharmacovigilance data. Using central estimate of 0.15 per 100k. Acute adverse drug reaction with clear onset. Moderate confidence due to data from regional pharmacovigilance databases rather than global population-based registry.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

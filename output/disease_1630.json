@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1336905",
+    "cui_name": "Endometrial Endometrioid Adenocarcinoma",
+    "incidence_per_100k": 6.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 520000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Endometrial Cancer",
+    "reasoning": "Endometrioid adenocarcinoma is the most common histological subtype of endometrial cancer, representing ~70-75% of all endometrial cancers. Global incidence estimated at 6.5 per 100k person-years based on GLOBOCAN 2005 data showing total endometrial cancer incidence of ~8.5-9 per 100k.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

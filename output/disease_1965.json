@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0857841",
+    "cui_name": "Vaccinia virus infection",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Vaccinia virus infection is extremely rare in the general population. Naturally occurring infection is virtually absent since smallpox eradication (1980). Modern cases are limited to laboratory workers and vaccine complications, estimated at <0.001 per 100k globally.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

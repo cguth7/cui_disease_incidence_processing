@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3279790",
+    "cui_name": "Atrial Septal Defect 3",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Atrial Septal Defect",
+    "reasoning": "ASD3 is a genetic form of atrial septal defect associated with TBX5 mutations or other specific loci. Extremely rare compared to general ASD (~1-2 per 10,000 births globally). Specific incidence data for ASD3 subtype not available in epidemiological literature; estimated <0.01 per 100k based on case frequency.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

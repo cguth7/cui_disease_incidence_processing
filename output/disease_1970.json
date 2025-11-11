@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2931019",
+    "cui_name": "Split hand foot deformity 1",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.4,
+    "is_subtype": true,
+    "parent_disease": "Ectrodactyly",
+    "reasoning": "Split hand foot deformity 1 (ectrodactyly 1, SHFD1) is a rare autosomal dominant congenital condition characterized by missing central digits. Extremely rare condition estimated at <0.1 per 100,000 births based on case reports and genetic studies.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

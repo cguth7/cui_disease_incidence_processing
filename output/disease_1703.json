@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0393591",
+    "cui_name": "Aicardi-Goutières Syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Extremely rare autosomal recessive genetic disorder affecting infants and young children. Estimated <0.1 per 100k births based on case report frequency and genetic registry data. No systematic population-based incidence studies available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

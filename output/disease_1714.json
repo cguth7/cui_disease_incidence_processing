@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0032897",
+    "cui_name": "Prader-Willi Syndrome",
+    "incidence_per_100k": 0.08,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 6400,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare genetic imprinting disorder with incidence of approximately 1 in 15,000-25,000 live births (0.06-0.09 per 100k). Estimated ~6,400 cases annually based on global birth rates. Moderate confidence: well-defined genetic entity with established diagnostic criteria, data from genetic registries and birth defect surveillance, but limited epidemiological studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Genetic registries and birth defect surveillance databases; genetic testing enables consistent diagnosis",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

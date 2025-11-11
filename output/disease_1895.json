@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0242172",
+    "cui_name": "Pelvic Inflammatory Disease",
+    "incidence_per_100k": 2.1,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 168000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute bacterial infection of upper female reproductive tract with incidence ~2.1 per 100k population globally (1-2 per 100 women of reproductive age annually). Reporting incidence as appropriate for acute infectious disease. Geographic variation reflects regional STI prevalence differences.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "CDC STI Surveillance 2005; Wiesenfeld HC et al. (2012). Pelvic inflammatory disease: clinical manifestations and diagnosis. Obstet Gynecol. 119(6):1243-1251",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/22617585/",
+    "source_type": "literature"
+  }
+]

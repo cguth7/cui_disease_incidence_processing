@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0022578",
+    "cui_name": "Keratoconus",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 125,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 10000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Keratoconus measured as prevalence, not incidence. Global prevalence estimated at ~1 per 800 people (~125 per 100k) based on population studies, with significant geographic variation. Higher prevalence in certain ethnic groups (Middle East, Asia) and associated genetic conditions (Down syndrome, Ehlers-Danlos syndrome). No 2005-specific global data available; estimate based on consolidated epidemiological studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0920350",
+    "cui_name": "Autoimmune thyroiditis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 10000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 800000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Autoimmune thyroiditis (Hashimoto's disease) is a chronic condition best measured by prevalence, not incidence. Global prevalence estimated at approximately 1% (10,000 per 100k population), based on population-based studies. Prevalence varies geographically from 0.5% in iodine-deficient regions to 2-3% in iodine-sufficient areas.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Chiovato L et al. (2012). Hypothyroidism in context: where we've been and where we're going. Adv Ther. 29(12):1081-1100",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23207714/",
+    "source_type": "literature"
+  }
+]

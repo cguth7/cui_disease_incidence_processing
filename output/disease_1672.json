@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018378",
+    "cui_name": "Guillain-Barre Syndrome",
+    "incidence_per_100k": 1.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 136000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "GBS is an acute autoimmune neurological disorder with well-documented incidence around 1-2 per 100k person-years globally. Incidence metric appropriate for acute condition. Estimated 1.7 per 100k based on population-based epidemiological studies and surveillance data.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Rees JH et al. (1998). The epidemiology of Guillain-Barre syndrome in the UK. J Neurol Neurosurg Psychiatry. 64(1):59-64",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/9436730/",
+    "source_type": "literature"
+  }
+]

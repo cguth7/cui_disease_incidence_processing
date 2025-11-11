@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0035455",
+    "cui_name": "Rhinitis",
+    "incidence_per_100k": 180,
+    "prevalence_per_100k": 500,
+    "metric_type": "both",
+    "total_cases_per_year": 14400000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rhinitis is an umbrella term covering acute viral (common cold ~100+ per 100k/year) and allergic rhinitis (~300-600 per 100k prevalence). Reporting incidence from acute cases and prevalence for chronic allergic form. Heterogeneous subtypes reduce confidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO/CDC epidemiological estimates for respiratory conditions; peer-reviewed rhinitis prevalence studies",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

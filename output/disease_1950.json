@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0852036",
+    "cui_name": "Pregnancy associated hypertension",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 250,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 20000000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Hypertension",
+    "reasoning": "Pregnancy-associated hypertension (gestational hypertension and preeclampsia) affects approximately 10-12% of pregnancies globally. Prevalence is the appropriate metric for this pregnancy-specific condition. Estimated 14-17 million affected pregnancies per year (130-140 million births globally), equivalent to 250 per 100k global population.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO pregnancy complications surveillance, CDC perinatal data",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023453",
+    "cui_name": "Acute Lymphoblastic Leukemia",
+    "incidence_per_100k": 1.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 144000,
+    "confidence": 0.86,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute Lymphoblastic Leukemia (ALL) is a well-defined hematologic malignancy with incidence ~1.8 per 100k person-years from GLOBOCAN 2005. Global estimate based on cancer registry data from developed and developing countries.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

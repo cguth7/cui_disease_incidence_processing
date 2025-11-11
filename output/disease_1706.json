@@ -1,0 +1,19 @@
+{
+  "cui": "C0751772",
+  "cui_name": "REM Sleep Behavior Disorder",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": 500,
+  "metric_type": "both",
+  "total_cases_per_year": 96000,
+  "confidence": 0.52,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "REM Sleep Behavior Disorder is a rare sleep disorder with estimated incidence of ~1.2 per 100k person-years and prevalence around 0.5-1% (500-1000 per 100k). Limited population-based epidemiological data; most estimates derived from sleep medicine literature and specialty clinic cohorts.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Schenck CH, Boeve BF, Mahowald MW. (2002). Delayed emergence of a parkinsonian disorder in 38% of older men initially diagnosed with idiopathic rapid eye movement sleep behaviour disorder. Neurology. 59(6):796-801",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12297562/",
+  "source_type": "literature"
+}

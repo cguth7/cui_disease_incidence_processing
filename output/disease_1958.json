@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2350242",
+    "cui_name": "Osteoarthritis, Spine",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 6500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 520000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Osteoarthritis",
+    "reasoning": "Spinal osteoarthritis (cervical and lumbar spondylosis) is a chronic degenerative condition best measured by prevalence. Estimated ~6,500 per 100k based on age-adjusted epidemiological studies, with higher rates in older populations.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Vos T et al. (2012). Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010. Lancet. 380(9859):2163-2196",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23245607/",
+    "source_type": "literature"
+  }
+]

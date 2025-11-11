@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0869083",
+    "cui_name": "Other specified congenital malformation syndromes, not elsewhere classified in ICD10CM",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "ICD10CM residual coding category for congenital malformation syndromes not fitting elsewhere. Not a distinct disease entity; epidemiological literature does not separately quantify this heterogeneous residual category. Unmappable without specification of individual syndromes.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

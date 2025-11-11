@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206681",
+    "cui_name": "Adenocarcinoma, Clear Cell",
+    "incidence_per_100k": 9.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 760000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Adenocarcinoma",
+    "reasoning": "Clear cell adenocarcinoma incidence estimated at ~9.5 per 100k, primarily representing clear cell renal cell carcinoma (ccRCC) which accounts for ~70-80% of RCC cases (global RCC incidence ~10-15 per 100k). Histological subtype with incidence varying by primary organ site.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Ljungberg B et al. (2015). EAU guidelines on renal cell carcinoma: 2014 update. Eur Urol. 67(5):913-924",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/25616643/",
+    "source_type": "literature"
+  }
+]

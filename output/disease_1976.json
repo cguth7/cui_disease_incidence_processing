@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0086237",
+    "cui_name": "Epilepsy, Cryptogenic",
+    "incidence_per_100k": 0.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 40000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Epilepsy",
+    "reasoning": "Cryptogenic epilepsy (unknown etiology after investigation) represents approximately 25-40% of all epilepsy cases. Global epilepsy incidence ~1.5 per 100k; cryptogenic portion estimated at ~0.4-0.6 per 100k. Limited peer-reviewed literature specifically documenting cryptogenic subtype incidence separate from total epilepsy.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

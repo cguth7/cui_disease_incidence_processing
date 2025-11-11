@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023529",
+    "cui_name": "Leukomalacia, Periventricular",
+    "incidence_per_100k": 6.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 520000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "White Matter Injury",
+    "reasoning": "Periventricular leukomalacia primarily affects premature infants <34 weeks gestation, with estimated incidence ~6.5 per 100k person-years accounting for global preterm birth rates (~10%) and PVL prevalence in preterm neonates (~5-7%). Confidence moderate due to limited large-scale population-based incidence studies; primarily documented through neonatal and cerebral palsy registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Neonatal registries and cerebral palsy epidemiological studies",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

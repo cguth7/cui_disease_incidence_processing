@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0007787",
+    "cui_name": "Transient Ischemic Attack",
+    "incidence_per_100k": 150.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "TIA incidence estimated at ~150 per 100k person-years based on stroke registry data. Acute neurological condition with clear diagnostic onset, making incidence the appropriate metric. Geographic variation reflects differences in stroke surveillance and population age structure.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

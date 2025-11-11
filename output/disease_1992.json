@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1271398",
+    "cui_name": "Pigment dispersion syndrome (disorder)",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 120000000,
+    "confidence": 0.56,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Pigment dispersion syndrome is a well-defined ophthalmological condition with prevalence estimates of 1-2% of the population from population-based eye surveys. Reported as prevalence since it is a chronic condition with variable age of onset and no clear 'incidence' metric.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Allingham RR et al. Shields' Textbook of Glaucoma (6th ed., 2011); Ritch R, Schlötzer-Schrehardt U. Exfoliation syndrome. Surv Ophthalmol. 2001;45(3):265-315",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11145302/",
+    "source_type": "literature"
+  }
+]

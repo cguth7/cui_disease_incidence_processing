@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0037773",
+    "cui_name": "Spastic Paraplegia, Hereditary",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 4.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 360000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": "Spastic Paraplegia",
+    "reasoning": "Reported as prevalence (chronic genetic disorder) rather than incidence. Estimated ~4.5 per 100k globally based on European and North American epidemiological studies. Heterogeneous group with 77+ identified genetic subtypes (SPG1-SPG77+) with varying severity and penetrance.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Hereditary Spastic Paraplegia: clinical and genetic updates from international research consortia",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]
