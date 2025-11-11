@@ -42,6 +42,8 @@ For batch input of 5 diseases, return an array of 5 results:
     "cui": "C0030354",
     "cui_name": "Papilloma",
     "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
     "total_cases_per_year": null,
     "confidence": 0.0,
     "is_subtype": false,
@@ -59,17 +61,19 @@ For batch input of 5 diseases, return an array of 5 results:
     "cui": "C0011849",
     "cui_name": "Diabetes Mellitus",
     "incidence_per_100k": 16.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
     "total_cases_per_year": 1320000,
     "confidence": 0.8,
     "is_subtype": false,
     "parent_disease": null,
-    "reasoning": "Global diabetes incidence from IDF 2005 reports: approximately 15-18 per 100k person-years.",
+    "reasoning": "Reporting incidence (new diagnoses). Global diabetes incidence from IDF 2005: ~16.5 per 100k person-years.",
     "data_quality": "strong",
     "geographic_variation": "moderate",
     "year_specific": true,
     "data_year": 2005,
     "source": "IDF Diabetes Atlas 2005",
-    "source_url": "https://diabetesatlas.org/",
+    "source_url": "https://diabetesatlas.org/atlas/2005/",
     "source_type": "registry"
   }
 ]
@@ -83,23 +87,31 @@ For batch input of 5 diseases, return an array of 5 results:
 
 ### Fields
 
-- **incidence_per_100k**: Number, "extremely rare", or null (single point estimate only - no ranges)
-- **total_cases_per_year**: Estimated global cases per year (calculate as: incidence_per_100k × 80000 for global population of ~8 billion), or null
-- **confidence**: 0.0 (unmappable) to 1.0 (certain)
+- **incidence_per_100k**: Number, "extremely rare", or null - NEW CASES per 100k person-years (single point estimate only - no ranges). Use null if incidence data doesn't exist for this condition.
+- **prevalence_per_100k**: Number or null - EXISTING CASES per 100k population at a point in time. Use this for chronic conditions like obesity, diabetes prevalence, etc. where incidence isn't the primary metric.
+- **metric_type**: "incidence" | "prevalence" | "both" | null - Which metric(s) are reported. Use "prevalence" for chronic conditions where incidence isn't well-defined.
+- **total_cases_per_year**: Estimated global cases per year (for incidence: incidence_per_100k × 80000; for prevalence: prevalence_per_100k × 80000), or null
+- **confidence**: 0.0 (unmappable) to 1.0 (certain) - **CRITICAL: This reflects OVERALL quality including: (1) source quality and verifiability, (2) appropriateness of metric for this condition, (3) concept coherence (is this a well-defined disease?), (4) data availability**
 - **is_subtype**: Boolean - is this a specific subtype?
 - **parent_disease**: Name of broader category (if applicable)
-- **reasoning**: 1-2 sentence explanation
+- **reasoning**: 1-2 sentence explanation including which metric was used and why
 - **data_quality**: strong/moderate/weak/none
 - **geographic_variation**: low/moderate/high/unknown
 - **year_specific**: Boolean - true if data is specifically from 2005, false if general/other year
 - **data_year**: Number or null - the specific year data is from (2005 preferred, or actual year found)
-- **source**: String or null - Citation for the estimate (e.g., "IDF Diabetes Atlas 2005", "GLOBOCAN 2020", "WHO Report 2010")
-- **source_url**: String or null - URL link to verify the data (e.g., "https://diabetesatlas.org/", "https://gco.iarc.fr/")
+- **source**: String or null - **EXACT citation with full details**. For literature: "Author et al. (Year). Title. Journal. Volume:Pages". For registries: "Database Name, Organization (Year)". **USE NULL if no verifiable source found - DO NOT FABRICATE**
+- **source_url**: String or null - **EXACT, DIRECT URL to the data**. Must be verifiable. **USE NULL if you cannot provide an exact link - DO NOT GUESS OR FABRICATE URLS**
 - **source_type**: "registry" | "literature" | "estimate" | null - Type of source (registry=cancer/disease registries, literature=peer-reviewed studies, estimate=BOTEC calculations)
 
 ## Source Quality Standards
 
-**CRITICAL: Source quality directly impacts confidence scoring. Low-quality sources MUST result in lower confidence scores.**
+**CRITICAL RULES:**
+1. **NO FABRICATION**: If you cannot find a verifiable source with an exact URL, use `source: null` and `source_url: null`. This is REQUIRED and ACCEPTABLE.
+2. **EXACT URLS ONLY**: source_url must be a direct, clickable link to the actual data/paper. Generic homepage URLs are NOT acceptable.
+3. **NO GUESSING**: If you're not certain where data came from, use null. Lower confidence accordingly.
+4. **Confidence reflects EVERYTHING**: Source quality + metric appropriateness + concept coherence + data availability
+
+**Source quality directly impacts confidence scoring. Low-quality OR missing sources MUST result in lower confidence scores.**
 
 ### Tier 1 Sources (Required for confidence ≥ 0.7)
 
@@ -247,17 +259,71 @@ For batch input of 5 diseases, return an array of 5 results:
 
 ## Confidence Scoring
 
+**Confidence reflects the OVERALL reliability of the entire data point, considering ALL of these factors:**
+
+1. **Source Quality & Verifiability** (40% weight)
+   - Is there an exact, verifiable source with URL?
+   - Is it from a Tier 1 source (registry, peer-reviewed literature)?
+   - Can the data be independently verified?
+
+2. **Metric Appropriateness** (30% weight)
+   - Is the reported metric (incidence vs prevalence) appropriate for this condition?
+   - For acute/incident diseases: use incidence
+   - For chronic conditions: prefer prevalence
+   - Deduct confidence if forcing wrong metric
+
+3. **Concept Coherence** (20% weight)
+   - Is this a well-defined, specific disease entity?
+   - Or is it an umbrella term, process descriptor, or vague category?
+
+4. **Data Quality & Availability** (10% weight)
+   - How robust is the underlying epidemiological data?
+   - Geographic coverage, sample size, methodology
+
 | Score | Criteria | Example |
 |-------|----------|---------|
-| 0.9-1.0 | Strong registry data (WHO, cancer registries) | Type 2 diabetes, breast cancer |
-| 0.7-0.8 | Good medical literature estimates | Rare cancers with registry data |
-| 0.5-0.6 | Educated guess from disease category | Rare syndromes with case reports |
-| 0.3-0.4 | Very uncertain, limited data | Ultra-rare congenital anomalies |
+| 0.9-1.0 | Tier 1 source + exact URL + appropriate metric + well-defined disease | Breast cancer incidence from GLOBOCAN with exact link |
+| 0.7-0.8 | Tier 1 source + appropriate metric BUT generic URL or minor issues | Diabetes incidence from IDF but only homepage URL |
+| 0.5-0.6 | Tier 2 source OR appropriate metric but weak source | Regional registry data, or prevalence for rare condition |
+| 0.3-0.4 | No verifiable source OR inappropriate metric OR vague concept | Estimate from case reports, or "incidence" for chronic condition |
 | 0.2-0.3 | **Aggregate umbrella estimate** - BOTEC sum of subcategories | "Respiration Disorders" (sum of major respiratory conditions) |
-| 0.1-0.2 | Wild guess based on disease class | No published incidence |
-| 0.0 | **Unmappable** - umbrella term/too broad to estimate | "Disease", "Disorder", overly generic terms |
+| 0.1-0.2 | Multiple major issues: no source + vague concept + wrong metric | Wild guess for poorly-defined umbrella term |
+| 0.0 | **Unmappable** - too broad/generic to estimate meaningfully | "Disease", "Disorder", overly generic terms |
 
-**Key principle:** Be conservative. If uncertain, lower confidence and explain why.
+**Key principles:**
+- **Be conservative**: If uncertain, lower confidence and explain why
+- **No source is OK**: Use null and reduce confidence rather than fabricating
+- **Wrong metric = lower confidence**: Don't report incidence when only prevalence exists
+
+## Incidence vs Prevalence: Which Metric to Use
+
+**CRITICAL: Use the appropriate metric for each condition. Using the wrong metric reduces confidence.**
+
+### Use INCIDENCE (new cases per 100k person-years) for:
+- **Acute diseases**: Infections, acute injuries, acute events
+- **Cancers**: Most cancers are reported as incidence
+- **Incident conditions with clear onset**: Heart attacks, strokes, new diabetes diagnoses
+- **Conditions with a diagnosis date**: When there's a clear "became a case" moment
+
+Examples: Breast cancer, myocardial infarction, influenza, acute leukemia
+
+### Use PREVALENCE (existing cases per 100k population) for:
+- **Chronic conditions**: Obesity, hypertension, chronic diseases
+- **Lifelong conditions**: Most genetic disorders, developmental disabilities
+- **Conditions where incidence is poorly defined**: Mental health conditions, chronic pain
+- **When only prevalence data exists in literature**: Even if incidence might theoretically exist
+
+Examples: Obesity, autism spectrum disorder, chronic kidney disease, schizophrenia prevalence
+
+### Use BOTH when:
+- The condition has both well-documented incidence AND prevalence data
+- Example: Diabetes (incidence of new diagnoses + prevalence of all diabetics)
+
+### When In Doubt:
+1. Check what the epidemiological literature primarily reports for this condition
+2. If literature uses prevalence, report prevalence (don't fabricate incidence)
+3. Explain in reasoning which metric you used and why
+4. Reduce confidence if you had to use a suboptimal metric
 
 ## Hierarchy Detection
 
@@ -455,19 +521,72 @@ For CSV files:
 
 ## Example Outputs
 
-### Common Disease
+### Acute Disease with Incidence
 ```json
 {
   "cui": "C0011849",
   "cui_name": "Diabetes Mellitus Type 2",
   "incidence_per_100k": 15.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
   "total_cases_per_year": 1216000,
-  "confidence": 0.95,
+  "confidence": 0.88,
   "is_subtype": true,
   "parent_disease": "Diabetes Mellitus",
-  "reasoning": "Well-documented global incidence ~15 per 100k (IDF/WHO).",
+  "reasoning": "Reporting incidence (new diagnoses) at ~15 per 100k person-years based on IDF 2005 data.",
   "data_quality": "strong",
-  "geographic_variation": "moderate"
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "IDF Diabetes Atlas 2005",
+  "source_url": "https://diabetesatlas.org/atlas/2005/",
+  "source_type": "registry"
+}
+```
+
+### Chronic Condition with Prevalence
+```json
+{
+  "cui": "C0028754",
+  "cui_name": "Obesity",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 9800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 784000000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Obesity measured as prevalence, not incidence. WHO 2005 data shows 9.8% of global adults obese (9,800 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Kelly T et al. (2008). Global burden of obesity in 2005 and projections to 2030. Int J Obes. 32:1431-1437",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18607383/",
+  "source_type": "literature"
+}
+```
+
+### No Verifiable Source Found
+```json
+{
+  "cui": "C0012345",
+  "cui_name": "Rare Syndrome XYZ",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Estimated ~0.5 per 100k based on case report frequency, but no systematic epidemiological studies found.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
 }
 ```
 
