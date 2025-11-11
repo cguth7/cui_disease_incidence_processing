@@ -1,29 +1,30 @@
 {
-  "total_processed": 507,
-  "batch_range": "1001-1500",
+  "total_processed": 1457,
+  "batch_range": "1-1500",
   "confidence_distribution": {
-    "high (0.7-1.0)": 97,
-    "medium (0.3-0.7)": 347,
-    "low (0.1-0.3)": 28,
-    "unmappable (0.0)": 35
+    "high (0.7-1.0)": 428,
+    "medium (0.3-0.7)": 772,
+    "low (0.1-0.3)": 108,
+    "unmappable (0.0)": 149
   },
   "data_quality_breakdown": {
-    "moderate": 324,
-    "none": 36,
-    "strong": 96,
-    "weak": 51
+    "weak": 304,
+    "moderate": 621,
+    "strong": 382,
+    "none": 150
   },
   "metric_type_counts": {
-    "null": 176,
-    "incidence": 279,
-    "prevalence": 49,
-    "both": 3
+    "incidence": 898,
+    "null": 333,
+    "prevalence": 160,
+    "both": 66
   },
   "source_type_distribution": {
-    "null": 352,
-    "literature": 116,
-    "registry": 39
+    "estimate": 36,
+    "null": 716,
+    "registry": 246,
+    "literature": 459
   },
-  "subtypes_identified": 170,
-  "review_needed": 63
+  "subtypes_identified": 643,
+  "review_needed": 257
 }
