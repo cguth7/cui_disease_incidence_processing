@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0002874",
-    "cui_name": "Aplastic Anemia",
-    "incidence_per_100k": 0.6,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 48000,
-    "confidence": 0.65,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Aplastic anemia is a well-defined bone marrow failure syndrome with global incidence estimated at 0.6 per 100k person-years, with significant geographic variation. Higher incidence in developing regions (up to 2 per million) and lower in developed countries (1-3 per million). Based on hematology literature and registry data.",
-    "data_quality": "moderate",
-    "geographic_variation": "moderate",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0027773",
+  "cui_name": "Nesidioblastosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare cause of hyperinsulinemic hypoglycemia. Congenital form: ~1 in 50,000 births (~2 per 100k births). Adult-onset form: case reports only, <0.01 per 100k. No systematic epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,21 +1,20 @@
-[
-  {
-    "cui": "C1519787",
-    "cui_name": "Undifferentiated Neuroblastoma",
-    "incidence_per_100k": 0.04,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 3200,
-    "confidence": 0.68,
-    "is_subtype": true,
-    "parent_disease": "Neuroblastoma",
-    "reasoning": "Undifferentiated neuroblastoma is a histological subtype (INSS classification) representing ~30-40% of all neuroblastoma cases. Global neuroblastoma incidence approximately 0.1 per 100k person-years (pediatric-weighted); undifferentiated subtype estimated at 0.04 per 100k based on histological distribution from cancer registry data.",
-    "data_quality": "moderate",
-    "geographic_variation": "moderate",
-    "year_specific": false,
-    "data_year": null,
-    "source": "GLOBOCAN (IARC); SEER histological classifications",
-    "source_url": "https://gco.iarc.fr/",
-    "source_type": "registry"
-  }
-]
+{
+  "cui": "C0027121",
+  "cui_name": "Myositis",
+  "disease_id": 1625,
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myositis is an umbrella term covering multiple inflammatory muscle conditions: viral myositis, autoimmune myositis (polymyositis, dermatomyositis), infectious myositis, toxic myositis. Aggregate BOTEC estimate from major subcategories with significant heterogeneity and overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dalakas MC. (2006). Inflammatory Muscle Diseases. N Engl J Med. 355:1772-1788",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17065639/",
+  "source_type": "literature"
+}

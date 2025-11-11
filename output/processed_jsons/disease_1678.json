@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0549463",
-    "cui_name": "X-Linked Lymphoproliferative Disorder",
-    "incidence_per_100k": "extremely rare",
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": "extremely rare",
-    "confidence": 0.35,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "X-Linked Lymphoproliferative Disorder is an extremely rare X-linked recessive immunodeficiency affecting primarily males, with estimated incidence <0.01 per 100,000 person-years based on case reports. No systematic epidemiological studies or registry data available for the 2005 timeframe.",
-    "data_quality": "weak",
-    "geographic_variation": "unknown",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0027809",
+  "cui_name": "Neurilemmoma",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schwannoma (nerve sheath tumor). Incidence ~1-2 per 100k, with vestibular schwannomas being most common subtype. Estimate of 1.5 per 100k based on tumor registry data. Moderate confidence due to regional variation and underdiagnosis of asymptomatic cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Evans DG et al. (2005). Incidence of vestibular schwannoma and neurofibromatosis 2. Am J Med Genet. 136:148-155",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15887271/",
+  "source_type": "literature"
+}

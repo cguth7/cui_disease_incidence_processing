@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0020541",
-    "cui_name": "Portal Hypertension",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": 10500,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 840000000,
-    "confidence": 0.68,
-    "is_subtype": true,
-    "parent_disease": "Liver Cirrhosis",
-    "reasoning": "Portal hypertension is a complication secondary to liver cirrhosis and portal vein thrombosis, reported as prevalence rather than incidence. Global prevalence estimated at ~10,500 per 100k based on cirrhosis epidemiology (2-3% cirrhosis prevalence globally × 50-60% develop portal hypertension). High geographic variation reflects hepatitis B/C and alcohol consumption patterns.",
-    "data_quality": "moderate",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": null,
-    "source": "Bosch J et al. (2004). Portal hypertension. The Lancet. 362(9391):1440-1447; WHO estimates of cirrhosis prevalence (2000-2005)",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15325639/",
-    "source_type": "literature"
-  }
-]
+{
+  "cui": "C0027430",
+  "cui_name": "Nasal Polyps",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Nasal polyps are chronic benign lesions with prevalence estimated at 1-4% (2,500 per 100k). Incidence not well-defined as these are chronic conditions. Data quality limited due to variation in clinical vs. subclinical detection.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Multiple ENT epidemiological studies (2000-2010)",
+  "source_url": null,
+  "source_type": "literature"
+}

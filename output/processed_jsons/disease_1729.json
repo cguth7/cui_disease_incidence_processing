@@ -1,21 +1,20 @@
-[
-  {
-    "cui": "C3549742",
-    "cui_name": "Breast cancer, lobular",
-    "incidence_per_100k": 5.2,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 416000,
-    "confidence": 0.75,
-    "is_subtype": true,
-    "parent_disease": "Malignant neoplasm of breast",
-    "reasoning": "Invasive lobular carcinoma (ILC) is a specific histological subtype comprising approximately 10-15% of all breast cancers. Using GLOBOCAN 2005 global breast cancer incidence of ~37 per 100k (both sexes), and estimated ILC proportion of 14%, this yields ~5.2 per 100k incidence for lobular breast cancer globally. Confidence reflects good source data for total breast cancer but some uncertainty in ILC subtype proportion across populations.",
-    "data_quality": "strong",
-    "geographic_variation": "moderate",
-    "year_specific": true,
-    "data_year": 2005,
-    "source": "Derived from Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108; ILC subtype proportion from histopathological literature",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
-    "source_type": "literature"
-  }
-]
+{
+  "cui": "C0028960",
+  "cui_name": "Oligospermia",
+  "disease_id": 1729,
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 560000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Male infertility",
+  "reasoning": "Oligospermia measured as prevalence rather than incidence, as it represents a persistent fertility status. WHO estimates suggest 7-8% of men globally affected. Wide variation due to regional semen analysis thresholds and definitions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

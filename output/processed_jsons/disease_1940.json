@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0341439",
-    "cui_name": "Chronic liver disease",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": 1500,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 120000000,
-    "confidence": 0.68,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Chronic liver disease prevalence measured as ~1500 per 100k (1.5% global population). Umbrella term encompassing hepatitis, cirrhosis, NAFLD, alcoholic liver disease with heterogeneous etiologies. Prevalence preferred over incidence for chronic liver conditions. Significant geographic variation based on hepatitis prevalence and alcohol consumption patterns.",
-    "data_quality": "moderate",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": 2015,
-    "source": "Global Burden of Disease Study 2015 (IHME), World Health Organization",
-    "source_url": "https://vizhub.healthdata.org/gbd-compare/",
-    "source_type": "registry"
-  }
-]
+{
+  "cui": "C0032339",
+  "cui_name": "Rothmund-Thomson Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rothmund-Thomson syndrome is a rare autosomal recessive disorder with poikiloderma and skeletal abnormalities. Estimated <0.1 per 100k births based on case reports and limited clinical literature. Low confidence due to scarcity of systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

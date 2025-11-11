@@ -1,21 +1,20 @@
-[
-  {
-    "cui": "C0162557",
-    "cui_name": "Liver Failure, Acute",
-    "incidence_per_100k": 1.5,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 120000,
-    "confidence": 0.72,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Acute liver failure is a well-defined acute condition with incidence estimated at ~1.5 per 100k globally. US data shows 2,000-7,000 cases/year (~0.6-2.0 per 100k), with higher rates in developing countries due to viral hepatitis complications.",
-    "data_quality": "moderate",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": 2004,
-    "source": "Lee WM et al. (2004). Acute liver failure. N Engl J Med. 350:800-808",
-    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14973214/",
-    "source_type": "literature"
-  }
-]
+{
+  "cui": "C0029434",
+  "cui_name": "Osteogenesis Imperfecta",
+  "disease_id": 1770,
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": 6500,
+  "metric_type": "both",
+  "total_cases_per_year": 520000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "OI prevalence approximately 1 in 10,000-15,000 births, translating to ~6.5-7 per 100k population. Well-documented genetic disorder with clear diagnosis criteria. Reported as prevalence for chronic lifelong condition.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Rauch F & Glorieux FH. (2004). Osteogenesis imperfecta. Lancet. 363:1377-1385",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15110498/",
+  "source_type": "literature"
+}

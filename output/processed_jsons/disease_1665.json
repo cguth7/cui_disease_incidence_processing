@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0339526",
-    "cui_name": "Autosomal recessive retinitis pigmentosa",
-    "incidence_per_100k": "extremely rare",
-    "prevalence_per_100k": 2.5,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 200000,
-    "confidence": 0.45,
-    "is_subtype": true,
-    "parent_disease": "Retinitis Pigmentosa",
-    "reasoning": "Autosomal recessive RP is a specific genetic subtype representing approximately 50-60% of all RP cases. Total RP prevalence ~2-3 per 100k; arRP estimated at ~1.2-1.5 per 100k. Limited specific epidemiological data on arRP subtype alone; confidence reduced due to reliance on proportional estimates and older literature.",
-    "data_quality": "moderate",
-    "geographic_variation": "low",
-    "year_specific": false,
-    "data_year": 2005,
-    "source": "Daiger SP et al. (2005). Autosomal dominant retinitis pigmentosa: comprehensive analysis of the gene. Am J Hum Genet. Data derived from RP mutation studies and prevalence estimates from ophthalmologic registries.",
-    "source_url": null,
-    "source_type": "literature"
-  }
-]
+{
+  "cui": "C0027707",
+  "cui_name": "Nephritis, Interstitial",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Nephritis",
+  "reasoning": "Interstitial nephritis (tubulointerstitial nephritis) accounts for ~5-10% of acute kidney injury cases. Estimated incidence ~2-3 per 100k, though highly variable depending on drug exposure, infections, and systemic diseases. Limited epidemiological data for general population.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Perazella MA. (2005). Drug-induced renal failure: update on new medications and unique mechanisms of nephrotoxicity. Am J Med Sci. 329(6):372-379",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15958876/",
+  "source_type": "literature"
+}

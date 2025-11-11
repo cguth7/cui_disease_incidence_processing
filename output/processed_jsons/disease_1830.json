@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0751014",
-    "cui_name": "Subcortical Infarction",
-    "incidence_per_100k": 28.5,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 2280000,
-    "confidence": 0.72,
-    "is_subtype": true,
-    "parent_disease": "Cerebral Infarction",
-    "reasoning": "Subcortical infarction represents ~20-30% of all ischemic strokes. Using stroke incidence of 95 per 100k person-years (WHO 2005 estimate) multiplied by 0.30 subcortical proportion yields ~28.5 per 100k. Anatomically specific subtype with well-defined vascular territories (basal ganglia, thalamus, internal capsule).",
-    "data_quality": "moderate",
-    "geographic_variation": "moderate",
-    "year_specific": false,
-    "data_year": 2005,
-    "source": "WHO Global Burden of Disease 2005, stroke epidemiology estimates",
-    "source_url": "https://www.who.int/teams/noncommunicable-diseases/mortality-and-morbidity/disease-burden-and-mortality-estimates",
-    "source_type": "registry"
-  }
-]
+{
+  "cui": "C0030421",
+  "cui_name": "Paraganglioma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare neuroendocrine tumors arising from extra-adrenal paraganglia. Incidence ~0.3 per 100k based on population-based registry studies. Includes head/neck and extra-adrenal abdominal/thoracic paragangliomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Erickson D et al. (2001). Benign paragangliomas: clinical presentation and treatment outcomes in 236 patients. J Clin Endocrinol Metab. 86(11):5210-5216",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11701678/",
+  "source_type": "literature"
+}

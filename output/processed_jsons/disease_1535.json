@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0086406",
-    "cui_name": "Benign Neoplasm of Liver",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": 15000,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 1200000000,
-    "confidence": 0.25,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Aggregate BOTEC estimate for benign liver neoplasms including: hemangiomas (most common, ~0.3-5% of imaging studies), focal nodular hyperplasia (~0.3-8% of ultrasounds), hepatic adenomas, and other benign tumors. Prevalence estimated at ~15,000 per 100k based on imaging prevalence studies. Confidence reduced due to high heterogeneity of benign tumors, wide variation by detection method (imaging vs autopsy), and lack of standardized surveillance data. Reported as prevalence (existing cases) rather than incidence, as these are chronic lesions typically discovered incidentally.",
-    "data_quality": "weak",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0025306",
+  "cui_name": "Meningococcemia",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence of invasive meningococcal disease. Global average ~0.5 per 100k person-years from WHO 2005 surveillance data, though varies significantly by region (endemic belt in sub-Saharan Africa much higher).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Weekly Epidemiological Record (2005). Meningococcal disease surveillance and control.",
+  "source_url": "https://www.who.int/publications/journals/weekly-epidemiological-record",
+  "source_type": "registry"
+}

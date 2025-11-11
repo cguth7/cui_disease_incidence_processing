@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C4275073",
-    "cui_name": "Desmin related myopathy with Mallory body-like inclusions",
-    "incidence_per_100k": "extremely rare",
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": "extremely rare",
-    "confidence": 0.2,
-    "is_subtype": true,
-    "parent_disease": "Desminopathy",
-    "reasoning": "Extremely rare genetic myopathy characterized by desmin gene mutations with distinctive Mallory body-like inclusions. Limited systematic epidemiological data; estimate based on case report frequency and known prevalence of desminopathies globally.",
-    "data_quality": "weak",
-    "geographic_variation": "unknown",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0032300",
+  "cui_name": "Lobar Pneumonia",
+  "incidence_per_100k": 450,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 36000000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Pneumonia",
+  "reasoning": "Lobar pneumonia is a specific radiological/clinical subtype representing approximately 10-15% of community-acquired pneumonia cases. Global pneumonia incidence ~3000-4000 per 100k, lobar pneumonia estimated at 450 per 100k. Moderate confidence due to variable classification and limited subtype-specific registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

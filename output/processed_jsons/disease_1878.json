@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0262586",
-    "cui_name": "Osteopenia/osteoporosis",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": 7500,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 600000000,
-    "confidence": 0.58,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Chronic bone mineral density disorder measured by prevalence, not incidence. Global prevalence estimated at 7.5% based on WHO and International Osteoporosis Foundation data. Rates significantly higher in postmenopausal women (25-30%) and elderly populations. Umbrella term covering both osteopenia (lower BMD) and osteoporosis (clinically significant BMD loss).",
-    "data_quality": "moderate",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0031039",
+  "cui_name": "Pericardial effusion",
+  "incidence_per_100k": 22,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1760000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pericardial effusion incidence estimated ~22 per 100k person-years based on hospital and echocardiography databases. Wide range of etiologies (viral, malignant, uremic, idiopathic). Moderate confidence due to detection bias and varying definitions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

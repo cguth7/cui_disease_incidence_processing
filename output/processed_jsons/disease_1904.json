@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0034150",
-    "cui_name": "Purpura",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": null,
-    "metric_type": null,
-    "total_cases_per_year": null,
-    "confidence": 0.0,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Purpura is a clinical manifestation (symptom/sign of bleeding into skin and mucous membranes) rather than a discrete disease entity. Multiple heterogeneous etiologies (ITP, TTP, vasculitis, HSP, coagulation disorders, drug-induced) make it too broad to estimate meaningfully as a single condition.",
-    "data_quality": "none",
-    "geographic_variation": "unknown",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0031485",
+  "cui_name": "Phenylketonurias",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 10720,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Phenylketonurias (plural) includes classical PKU and variant forms. Combined incidence ~1 in 10,000-15,000 births (newborn screening data). Using global birth cohort, estimated ~8 per 100k births.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Blau N et al. (2010). Phenylketonuria. Lancet. 376(9750):1417-1427",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20971365/",
+  "source_type": "literature"
+}

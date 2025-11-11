@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0751603",
-    "cui_name": "Autosomal Recessive Hereditary Spastic Paraplegia",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": 0.8,
-    "metric_type": "prevalence",
-    "total_cases_per_year": 64000,
-    "confidence": 0.5,
-    "is_subtype": true,
-    "parent_disease": "Hereditary Spastic Paraplegia",
-    "reasoning": "Rare autosomal recessive genetic form of HSP. Reported as prevalence (~0.8 per 100k) rather than incidence, as this is a chronic lifelong genetic disorder. Autosomal recessive forms comprise approximately 10-15% of all HSP cases, with global HSP prevalence of 2-14 per 100k.",
-    "data_quality": "weak",
-    "geographic_variation": "unknown",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0031212",
+  "cui_name": "Personality Disorders",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 10500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 840000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering all personality disorder types. Prevalence more appropriate than incidence for chronic mental health conditions. Global prevalence estimated ~10.5% (10,500 per 100k) based on meta-analyses of epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Torgersen S et al. (2001). The prevalence of personality disorders in a community sample. Arch Gen Psychiatry. 58(6):590-596",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11386989/",
+  "source_type": "literature"
+}

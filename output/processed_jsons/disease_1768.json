@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C3658290",
-    "cui_name": "Drug-Induced Acute Liver Injury",
-    "incidence_per_100k": 13.5,
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": 1080000,
-    "confidence": 0.75,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "DILI incidence estimated at ~13.5 per 100k from pharmacovigilance and hospital registry data. Acute drug-induced injury with clear onset. Significant geographic variation due to medication use patterns and prescribing practices.",
-    "data_quality": "moderate",
-    "geographic_variation": "moderate",
-    "year_specific": false,
-    "data_year": null,
-    "source": "Regulatory pharmacovigilance systems (FDA, EMA) and Hy's Law registry data",
-    "source_url": null,
-    "source_type": "registry"
-  }
-]
+{
+  "cui": "C0029427",
+  "cui_name": "Synovial osteochondromatosis",
+  "incidence_per_100k": 0.18,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 14400,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare benign condition of synovial joints. Estimated ~0.18 per 100k based on orthopedic registry data and case series, predominantly affecting knee and hip joints.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

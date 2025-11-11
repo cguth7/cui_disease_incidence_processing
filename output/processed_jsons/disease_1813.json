@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0004998",
-    "cui_name": "Benign neoplasm of skin",
-    "incidence_per_100k": null,
-    "prevalence_per_100k": null,
-    "metric_type": null,
-    "total_cases_per_year": null,
-    "confidence": 0.25,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Aggregate umbrella term encompassing diverse benign skin neoplasms including seborrheic keratosis, nevi, skin tags, lipomas, dermatofibromas, and hemangiomas. Epidemiological tracking focuses on specific subtypes rather than aggregate incidence. While individual lesions are highly common especially in older adults, systematic incidence data for this category as a whole is not available in medical literature.",
-    "data_quality": "weak",
-    "geographic_variation": "high",
-    "year_specific": false,
-    "data_year": null,
-    "source": null,
-    "source_url": null,
-    "source_type": null
-  }
-]
+{
+  "cui": "C0030246",
+  "cui_name": "Pustulosis of Palms and Soles",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": 3.0,
+  "metric_type": "both",
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic inflammatory skin condition (palmoplantar pustulosis). Reported as both incidence (~0.3 per 100k/year new cases) and prevalence (~3 per 100k existing cases). More common in certain populations and geographic regions. Limited systematic epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

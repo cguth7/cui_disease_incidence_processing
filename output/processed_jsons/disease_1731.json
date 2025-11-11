@@ -1,21 +1,19 @@
-[
-  {
-    "cui": "C0033300",
-    "cui_name": "Progeria",
-    "incidence_per_100k": "extremely rare",
-    "prevalence_per_100k": null,
-    "metric_type": "incidence",
-    "total_cases_per_year": "extremely rare",
-    "confidence": 0.35,
-    "is_subtype": false,
-    "parent_disease": null,
-    "reasoning": "Hutchinson-Gilford Progeria Syndrome is an extremely rare genetic disorder with <200 cases worldwide, estimated <0.01 per 100k births. Limited epidemiological data; primarily known from case reports and small cohort studies.",
-    "data_quality": "weak",
-    "geographic_variation": "unknown",
-    "year_specific": false,
-    "data_year": null,
-    "source": "Eriksson M et al. (2003). Recurrent de novo point mutations in lamin A cause Hutchinson-Gilford progeria syndrome. Nature. 423(6937):293-298",
-    "source_url": null,
-    "source_type": "literature"
-  }
-]
+{
+  "cui": "C0028968",
+  "cui_name": "Olivopontocerebellar Atrophies",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous to estimate meaningfully. OPCA refers to a group of neurodegenerative disorders with similar neuropathology but different genetic etiologies. Term largely superseded by spinocerebellar ataxia (SCA) and multiple system atrophy (MSA) classifications. Would require specification of specific SCA subtype or MSA variant.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}
