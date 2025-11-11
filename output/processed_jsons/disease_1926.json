@@ -1,0 +1,19 @@
+{
+  "cui": "C0032227",
+  "cui_name": "Pleural effusion disorder",
+  "incidence_per_100k": 320,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 25600000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pleural effusion incidence estimated at ~300-400 per 100k annually based on hospital admission data. Caused by multiple underlying conditions (heart failure, pneumonia, malignancy). Moderate confidence due to varied etiology and lack of comprehensive global surveillance.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Light RW. (2002). Clinical practice. Pleural effusion. N Engl J Med. 346(25):1971-1977",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12075059/",
+  "source_type": "literature"
+}

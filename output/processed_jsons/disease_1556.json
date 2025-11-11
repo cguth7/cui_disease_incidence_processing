@@ -1,0 +1,19 @@
+{
+  "cui": "C0026141",
+  "cui_name": "Milk-Alkali Syndrome",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.40,
+  "is_subtype": true,
+  "parent_disease": "Hypercalcemia",
+  "reasoning": "Rare cause of hypercalcemia, now uncommon since decline of milk-alkali peptic ulcer therapy. Still occurs with excessive calcium supplementation. Estimated <0.1 per 100k based on case series.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Picolos DK et al. (2005). Milk-alkali syndrome is a major cause of hypercalcaemia among non-end-stage renal disease (non-ESRD) inpatients. Clin Endocrinol. 63(5):566-76",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16268811/",
+  "source_type": "literature"
+}

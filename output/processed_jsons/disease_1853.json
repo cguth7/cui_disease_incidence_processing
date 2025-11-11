@@ -1,0 +1,20 @@
+{
+  "cui": "C0030569",
+  "cui_name": "Secondary Parkinson Disease",
+  "disease_id": 1853,
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Parkinson Disease",
+  "reasoning": "Secondary Parkinson disease has lower incidence than primary PD (~2.5 per 100k annually). Incidence-based metric used for this incident condition with defined onset. Confidence moderate due to limited population-based registry data compared to primary PD.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Movement Disorder Society epidemiological surveys, cited in Oertel WH et al. (2007). Parkinsonism Relat Disord. 13(S2):S5-S27",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17321173/",
+  "source_type": "literature"
+}

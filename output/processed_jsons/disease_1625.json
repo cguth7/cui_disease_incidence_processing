@@ -1,0 +1,20 @@
+{
+  "cui": "C0027121",
+  "cui_name": "Myositis",
+  "disease_id": 1625,
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Myositis is an umbrella term covering multiple inflammatory muscle conditions: viral myositis, autoimmune myositis (polymyositis, dermatomyositis), infectious myositis, toxic myositis. Aggregate BOTEC estimate from major subcategories with significant heterogeneity and overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dalakas MC. (2006). Inflammatory Muscle Diseases. N Engl J Med. 355:1772-1788",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17065639/",
+  "source_type": "literature"
+}

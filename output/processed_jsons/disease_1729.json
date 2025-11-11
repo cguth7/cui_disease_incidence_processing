@@ -1,0 +1,20 @@
+{
+  "cui": "C0028960",
+  "cui_name": "Oligospermia",
+  "disease_id": 1729,
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 560000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Male infertility",
+  "reasoning": "Oligospermia measured as prevalence rather than incidence, as it represents a persistent fertility status. WHO estimates suggest 7-8% of men globally affected. Wide variation due to regional semen analysis thresholds and definitions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0025303",
+  "cui_name": "Meningococcal Infections",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Meningococcal infection incidence varies by geographic region (0.5-10 per 100k) with global average approximately 2 per 100k person-years. Data from WHO surveillance, CDC, and national health ministries tracking invasive meningococcal disease.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Meningococcal Disease Surveillance Reports and CDC Epidemiology",
+  "source_url": null,
+  "source_type": "registry"
+}

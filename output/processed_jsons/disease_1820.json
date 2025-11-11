@@ -1,0 +1,19 @@
+{
+  "cui": "C0030312",
+  "cui_name": "Pancytopenia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pancytopenia is a laboratory finding (reduction in all blood cell lines), not a disease entity. It's a manifestation of multiple underlying conditions (aplastic anemia, MDS, leukemia, nutritional deficiencies, etc.) with different incidences. Cannot meaningfully estimate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

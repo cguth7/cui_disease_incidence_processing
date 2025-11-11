@@ -1,0 +1,19 @@
+{
+  "cui": "C0030421",
+  "cui_name": "Paraganglioma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare neuroendocrine tumors arising from extra-adrenal paraganglia. Incidence ~0.3 per 100k based on population-based registry studies. Includes head/neck and extra-adrenal abdominal/thoracic paragangliomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Erickson D et al. (2001). Benign paragangliomas: clinical presentation and treatment outcomes in 236 patients. J Clin Endocrinol Metab. 86(11):5210-5216",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11701678/",
+  "source_type": "literature"
+}

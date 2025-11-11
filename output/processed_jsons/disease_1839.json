@@ -1,0 +1,19 @@
+{
+  "cui": "C0030481",
+  "cui_name": "Tropical Spastic Paraparesis",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP) is rare globally at ~0.05 per 100k, but higher in endemic regions (Caribbean, Japan). 0.3-3% of HTLV-1 carriers develop HAM/TSP over lifetime.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gessain A, Cassar O. (2012). Epidemiological aspects and world distribution of HTLV-1 infection. Front Microbiol. 3:388",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23162541/",
+  "source_type": "literature"
+}

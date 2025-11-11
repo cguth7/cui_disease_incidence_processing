@@ -1,0 +1,19 @@
+{
+  "cui": "C0031039",
+  "cui_name": "Pericardial effusion",
+  "incidence_per_100k": 22,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1760000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pericardial effusion incidence estimated ~22 per 100k person-years based on hospital and echocardiography databases. Wide range of etiologies (viral, malignant, uremic, idiopathic). Moderate confidence due to detection bias and varying definitions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

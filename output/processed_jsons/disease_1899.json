@@ -1,0 +1,19 @@
+{
+  "cui": "C0031256",
+  "cui_name": "Petechiae",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Petechiae is a clinical sign/symptom (small hemorrhagic spots), not a disease entity. Cannot meaningfully assign epidemiological incidence as it occurs as a manifestation of numerous underlying conditions (thrombocytopenia, vasculitis, trauma, infections). Unmappable to standalone incidence data.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

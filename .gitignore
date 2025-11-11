@@ -24,6 +24,7 @@ Thumbs.db
 # Processing artifacts
 batch_*.json
 disease_input.json
+disease_batch_input.json
 diseases_*.json
 input.json
 input_disease_*.json
@@ -43,3 +44,37 @@ diseases_for_skill_processing.json
 *_manifest.json
 *_queue_*.json
 *_status_*.json
+output/results.json
+
+# Processing scripts (temporary)
+consolidate_results.py
+process_*.py
+launch_tasks.py
+invoke_cui_mapper.py
+
+# CSV batches
+disease_batch.csv
+diseases_batch_*.csv
+diseases_rows_*.csv
+
+# Processing summaries and reports
+PROCESSING_*.txt
+PROCESSING_*.json
+PROCESSING_*.md
+*_SUMMARY*.txt
+*_SUMMARY*.json
+*_SUMMARY*.md
+DISEASE_PROCESSING_*.csv
+output/PROCESSING_*.txt
+output/PROCESSING_*.json
+output/PROCESSING_*.md
+output/*SUMMARY*.txt
+output/*SUMMARY*.json
+output/*SUMMARY*.md
+output/DISEASE_PROCESSING_*.md
+
+# Archived incorrect batches
+output/incorrect_batch_by_disease_id/
+
+# Processed individual JSONs (archived after consolidation)
+output/processed_jsons/

@@ -1,0 +1,19 @@
+{
+  "cui": "C0029459",
+  "cui_name": "Osteoporosis, Senile",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 30000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2400000000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Osteoporosis",
+  "reasoning": "Senile osteoporosis is a chronic condition affecting elderly population. Reported as prevalence: WHO and NIH data show approximately 30% of elderly (>70 years) have osteoporosis, translating to ~30,000 per 100k in affected age groups.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Technical Report Series 921 (2003). Assessment of fracture risk and its application to screening for postmenopausal osteoporosis",
+  "source_url": "https://www.who.int/publications/i/item/TRS921",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0025306",
+  "cui_name": "Meningococcemia",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reporting incidence of invasive meningococcal disease. Global average ~0.5 per 100k person-years from WHO 2005 surveillance data, though varies significantly by region (endemic belt in sub-Saharan Africa much higher).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Weekly Epidemiological Record (2005). Meningococcal disease surveillance and control.",
+  "source_url": "https://www.who.int/publications/journals/weekly-epidemiological-record",
+  "source_type": "registry"
+}

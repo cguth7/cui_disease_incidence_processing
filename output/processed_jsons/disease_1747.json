@@ -1,0 +1,20 @@
+{
+  "cui": "C0029191",
+  "cui_name": "Orchitis",
+  "disease_id": 1747,
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Orchitis is typically secondary to infections (mumps, STIs). Estimated incidence ~1-2 per 100k from limited epidemiological studies. Post-vaccination mumps orchitis is rarer in developed countries.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

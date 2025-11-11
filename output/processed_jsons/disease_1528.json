@@ -1,0 +1,19 @@
+{
+  "cui": "C0025290",
+  "cui_name": "Aseptic Meningitis",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.81,
+  "is_subtype": false,
+  "parent_disease": "Meningitis",
+  "reasoning": "Viral (aseptic) meningitis incidence from CDC surveillance ~3-4 per 100k in developed countries, with seasonal variation. Uses incidence metric for acute infectious disease.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "CDC Meningitis Surveillance Data (2005)",
+  "source_url": "https://www.cdc.gov/meningitis/",
+  "source_type": "registry"
+}

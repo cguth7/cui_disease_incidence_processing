@@ -1,0 +1,19 @@
+{
+  "cui": "C0032339",
+  "cui_name": "Rothmund-Thomson Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rothmund-Thomson syndrome is a rare autosomal recessive disorder with poikiloderma and skeletal abnormalities. Estimated <0.1 per 100k births based on case reports and limited clinical literature. Low confidence due to scarcity of systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

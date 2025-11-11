@@ -99,9 +99,16 @@ Dataset-level statistics including:
 
 ### When User Says: "Process diseases X-Y"
 
+**CRITICAL: X-Y refers to CSV ROW NUMBERS, NOT disease_id values!**
+
+Example:
+- "Process diseases 1-100" = Extract rows 1-100 from CSV (which will have random disease_id values)
+- "Process diseases 2001-3000" = Extract rows 2001-3000 from CSV (NOT disease_id 2001-3000!)
+
 1. **Setup**
    - Read `data/disease_codes_Charlie.csv` to get the disease list
-   - Extract diseases from row X to row Y (using disease_id column)
+   - **Extract diseases from CSV rows X to Y** (use `sed -n 'X,Yp'` or similar)
+   - **DO NOT filter by disease_id column** - that's wrong!
    - Create `output/results/` directory if it doesn't exist
 
 2. **Batch Processing**

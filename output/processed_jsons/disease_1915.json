@@ -1,0 +1,19 @@
+{
+  "cui": "C0032000",
+  "cui_name": "Pituitary Adenoma",
+  "incidence_per_100k": 2.7,
+  "prevalence_per_100k": 77.0,
+  "metric_type": "both",
+  "total_cases_per_year": 216000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pituitary adenomas have an incidence of ~2.7 per 100k person-years based on population-based registry studies. Prevalence reported as ~77 per 100k from autopsy and MRI studies due to many asymptomatic cases. Well-defined condition with established epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Fernandez A et al. (2010). Prevalence of pituitary adenomas: a community-based, cross-sectional study in Banbury (Oxfordshire, UK). Clin Endocrinol (Oxf). 72(3):377-382",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19874184/",
+  "source_type": "literature"
+}

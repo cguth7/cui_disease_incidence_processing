@@ -1,0 +1,19 @@
+{
+  "cui": "C0027960",
+  "cui_name": "Nevus",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Nevus is an umbrella term covering multiple benign skin lesions (common nevi, dysplastic nevi, congenital nevi). Reported as prevalence; most adults have multiple nevi. Confidence limited due to heterogeneity and variation in diagnostic criteria.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0025637",
+  "cui_name": "Methemoglobinemia",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare blood disorder causing oxidative damage to hemoglobin. Incidence estimated at ~0.5 per 100k based on case reports and clinical data. Congenital and acquired forms both exist.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

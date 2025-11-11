@@ -1,0 +1,19 @@
+{
+  "cui": "C0027707",
+  "cui_name": "Nephritis, Interstitial",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Nephritis",
+  "reasoning": "Interstitial nephritis (tubulointerstitial nephritis) accounts for ~5-10% of acute kidney injury cases. Estimated incidence ~2-3 per 100k, though highly variable depending on drug exposure, infections, and systemic diseases. Limited epidemiological data for general population.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Perazella MA. (2005). Drug-induced renal failure: update on new medications and unique mechanisms of nephrotoxicity. Am J Med Sci. 329(6):372-379",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15958876/",
+  "source_type": "literature"
+}

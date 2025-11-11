@@ -1,0 +1,19 @@
+{
+  "cui": "C0028756",
+  "cui_name": "Obesity, Morbid",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2400,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 192000000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Obesity",
+  "reasoning": "Morbid obesity (BMI ≥ 40) measured as prevalence, not incidence. WHO 2005 data estimated approximately 2.4% of global adults with Class III obesity (2,400 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Kelly T et al. (2008). Global burden of obesity in 2005 and projections to 2030. Int J Obes. 32:1431-1437",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18607383/",
+  "source_type": "literature"
+}

@@ -1,0 +1,1271 @@
+Batch 1:
+  2160: C0036646 - Age-related cataract
+  2017: C0033999 - Pterygium
+  2082: C0035334 - Retinitis Pigmentosa
+  2175: C0036920 - Sezary Syndrome
+  2541: C0079744 - Diffuse Large B-Cell Lymphoma
+
+Batch 2:
+  2538: C0079731 - B-Cell Lymphomas
+  2137: C0036341 - Schizophrenia
+  2824: C0151744 - Myocardial Ischemia
+  2159: C0036631 - Seminoma
+  2539: C0079740 - High Grade Lymphoma (neoplasm)
+
+Batch 3:
+  2251: C0038356 - Stomach Neoplasms
+  2408: C0041696 - Unipolar Depression
+  2657: C0085682 - Hypophosphatemia
+  2745: C0149678 - Epstein-Barr Virus Infections
+  2572: C0085110 - Severe Combined Immunodeficiency
+
+Batch 4:
+  2628: C0085576 - Iron-Refractory Iron Deficiency Anemia
+  2982: C0153676 - Secondary malignant neoplasm of lung
+  2497: C0043346 - Xeroderma Pigmentosum
+  2653: C0085669 - Acute leukemia
+  2986: C0153690 - Secondary malignant neoplasm of bone
+
+Batch 5:
+  2125: C0036220 - Kaposi Sarcoma
+  2250: C0038354 - Stomach Diseases
+  2083: C0035335 - Retinoblastoma
+  2818: C0151650 - Renal fibrosis
+  2724: C0087012 - "Ataxia
+
+Batch 6:
+  2334: C0040136 - Thyroid Neoplasm
+  2315: C0039585 - Androgen-Insensitivity Syndrome
+  2534: C0079588 - "Ichthyosis
+  2139: C0036346 - "Schizophrenia
+  2166: C0036690 - Septicemia
+
+Batch 7:
+  2260: C0038436 - Post-Traumatic Stress Disorder
+  2550: C0079772 - T-Cell Lymphoma
+  2564: C0085078 - Lysosomal Storage Diseases
+  2319: C0039730 - Thalassemia
+  2776: C0149939 - Obstructive nephropathy
+
+Batch 8:
+  2754: C0149782 - Squamous cell carcinoma of lung
+  2446: C0042373 - Vascular Diseases
+  2518: C0079218 - "Fibromatosis
+  2204: C0037579 - Soft Tissue Neoplasms
+  2279: C0038644 - Sudden infant death syndrome
+
+Batch 9:
+  2523: C0079298 - Epidermolysis Bullosa Simplex
+  2485: C0043119 - Werner Syndrome
+  2587: C0085215 - "Ovarian Failure
+  2307: C0039483 - Giant Cell Arteritis
+  2447: C0042384 - Vasculitis
+
+Batch 10:
+  2264: C0038454 - Cerebrovascular accident
+  2454: C0042514 - "Tachycardia
+  2087: C0035372 - Rett Syndrome
+  2020: C0034067 - Pulmonary Emphysema
+  2059: C0035078 - Kidney Failure
+
+Batch 11:
+  2930: C0153392 - Malignant neoplasm of nasopharynx
+  2306: C0039445 - Hereditary hemorrhagic telangiectasia
+  2149: C0036421 - Systemic Scleroderma
+  2847: C0152018 - Esophageal carcinoma
+  2926: C0153381 - Malignant neoplasm of mouth
+
+Batch 12:
+  2577: C0085136 - Central Nervous System Neoplasms
+  2532: C0079583 - "Ichthyosiform Erythroderma
+  2517: C0079154 - Congenital Nonbullous Ichthyosiform Erythroderma
+  2821: C0151721 - Testicular hypogonadism
+  2199: C0037284 - Skin lesion
+
+Batch 13:
+  2330: C0040100 - Thymoma
+  2006: C0033860 - Psoriasis
+  2797: C0151449 - Primary SjĂśgren's syndrome
+  2462: C0042769 - Virus Diseases
+  2636: C0085612 - Ventricular arrhythmia
+
+Batch 14:
+  2073: C0035302 - Retinal Artery Occlusion
+  2586: C0085207 - Gestational Diabetes
+  2666: C0085740 - Mendelson Syndrome
+  2035: C0034341 - Pyruvate Carboxylase Deficiency Disease
+  2597: C0085292 - Stiff-Person Syndrome
+
+Batch 15:
+  2202: C0037315 - Sleep Apnea Syndromes
+  2574: C0085129 - Bronchial Hyperreactivity
+  2723: C0086981 - Sicca Syndrome
+  2746: C0149721 - Left Ventricular Hypertrophy
+  2670: C0085786 - Hamman-Rich syndrome
+
+Batch 16:
+  2022: C0034069 - Pulmonary Fibrosis
+  2067: C0035235 - Respiratory Syncytial Virus Infections
+  2555: C0080032 - "Pleural Effusion
+  2016: C0033975 - Psychotic Disorders
+  2703: C0086543 - Cataract
+
+Batch 17:
+  2733: C0149530 - Congenital heart block
+  2158: C0036529 - "Myocardial Diseases
+  2383: C0041296 - Tuberculosis
+  2898: C0152426 - Craniorachischisis
+  2558: C0080218 - Tethered Cord Syndrome
+
+Batch 18:
+  2880: C0152234 - Iniencephaly
+  2761: C0149871 - Deep Vein Thrombosis
+  2075: C0035309 - Retinal Diseases
+  2888: C0152264 - Familial erythrocytosis
+  2411: C0041848 - Unspecified idiopathic peripheral neuropathy
+
+Batch 19:
+  2630: C0085580 - Essential Hypertension
+  2774: C0149931 - Migraine Disorders
+  2007: C0033893 - Tension Headache
+  2951: C0153452 - Malignant neoplasm of gallbladder
+  2021: C0034068 - Pulmonary Eosinophilia
+
+Batch 20:
+  2232: C0038013 - Ankylosing spondylitis
+  2623: C0085548 - Autosomal Recessive Polycystic Kidney Disease
+  2378: C0041207 - "Truncus Arteriosus
+  2781: C0149958 - Complex partial seizures
+  2135: C0036337 - Schizoaffective Disorder
+
+Batch 21:
+  2397: C0041341 - Tuberous Sclerosis
+  2845: C0152013 - Adenocarcinoma of lung (disorder)
+  2196: C0037274 - Dermatologic disorders
+  2243: C0038165 - Staphylococcal Scalded Skin Syndrome
+  2280: C0038826 - Superinfection
+
+Batch 22:
+  2553: C0079840 - Milk Allergy
+  2201: C0037299 - Skin Ulcer
+  2331: C0040115 - Thymus Hyperplasia
+  2918: C0153252 - Systemic candidiasis
+  2186: C0037116 - Silicosis
+
+Batch 23:
+  2272: C0038525 - Subarachnoid Hemorrhage
+  2634: C0085584 - Encephalopathies
+  2772: C0149925 - Small cell carcinoma of lung
+  2899: C0152427 - Polydactyly
+  2023: C0034072 - Cor pulmonale
+
+Batch 24:
+  2973: C0153594 - Malignant neoplasm of testis
+  2313: C0039538 - Teratoma
+  2252: C0038358 - Gastric ulcer
+  2203: C0037354 - Smallpox
+  2524: C0079299 - Epidermolysis Bullosa Simplex Kobner
+
+Batch 25:
+  2667: C0085750 - Adenosis of Breast
+  2329: C0040034 - Thrombocytopenia
+  2328: C0040028 - "Thrombocythemia
+  2809: C0151517 - Complete atrioventricular block
+  2356: C0040558 - Toxoplasmosis
+
+Batch 26:
+  2090: C0035412 - Rhabdomyosarcoma
+  2811: C0151546 - Oral Cavity Carcinoma
+  2277: C0038587 - Substance Withdrawal Syndrome
+  2242: C0038160 - Staphylococcal Infections
+  2978: C0153633 - Malignant neoplasm of brain
+
+Batch 27:
+  2727: C0149516 - Chronic sinusitis
+  2551: C0079773 - "Lymphoma
+  2047: C0034885 - Rectal Neoplasms
+  2434: C0042165 - Anterior uveitis
+  2029: C0034152 - Henoch-Schoenlein Purpura
+
+Batch 28:
+  2322: C0039841 - Thiamine Deficiency
+  2430: C0042133 - Uterine Fibroids
+  2110: C0035934 - Rubinstein-Taybi Syndrome
+  2777: C0149940 - Sciatic Neuropathy
+  2635: C0085605 - Liver Failure
+
+Batch 29:
+  2357: C0040559 - "Toxoplasmosis
+  2694: C0086438 - Hypogammaglobulinemia
+  2828: C0151779 - Cutaneous Melanoma
+  2118: C0036202 - Sarcoidosis
+  2150: C0036439 - "Scoliosis
+
+Batch 30:
+  2816: C0151636 - Premature ventricular contractions
+  2718: C0086774 - Cold paroxysmal hemoglobinuria
+  2354: C0040517 - Gilles de la Tourette syndrome
+  2374: C0040963 - Tricuspid Valve Stenosis
+  2263: C0038443 - "Stress
+
+Batch 31:
+  2915: C0153014 - Non-arthropod borne lymphocytic choriomeningitis
+  2086: C0035369 - Retroviridae Infections
+  2433: C0042164 - Uveitis
+  2148: C0036420 - Localized scleroderma
+  2490: C0043194 - Wiskott-Aldrich Syndrome
+
+Batch 32:
+  2336: C0040147 - Thyroiditis
+  2011: C0033937 - "Psychoses
+  2176: C0036939 - Shared Paranoid Disorder
+  2012: C0033941 - "Psychoses
+  2442: C0042267 - Vaginitis
+
+Batch 33:
+  2554: C0080024 - Piebaldism
+  2911: C0152915 - Acute miliary tuberculosis
+  2758: C0149826 - Gastric adenoma
+  2070: C0035243 - Respiratory Tract Infections
+  2290: C0039101 - synovial sarcoma
+
+Batch 34:
+  2563: C0085077 - Sweet Syndrome
+  2066: C0035222 - "Respiratory Distress Syndrome
+  2725: C0087031 - Juvenile-Onset Still Disease
+  2445: C0042345 - Varicosity
+  2545: C0079748 - Precursor cell lymphoblastic lymphoma
+
+Batch 35:
+  2095: C0035455 - Rhinitis
+  2403: C0041466 - Typhoid Fever
+  2247: C0038220 - Status Epilepticus
+  2424: C0042065 - Genitourinary Neoplasms
+  2671: C0085859 - Polyglandular Type I Autoimmune Syndrome
+
+Batch 36:
+  2615: C0085426 - Gram-Positive Bacterial Infections
+  2731: C0149521 - "Pancreatitis
+  2713: C0086692 - Benign Neoplasm
+  2855: C0152069 - Echinococcus multilocularis infection
+  2720: C0086873 - Pseudopelade
+
+Batch 37:
+  2193: C0037221 - Situs Inversus
+  2717: C0086769 - Panic Attacks
+  2488: C0043154 - Dental White Spot
+  2945: C0153425 - Malignant tumor of small intestine
+  2200: C0037286 - Skin Neoplasms
+
+Batch 38:
+  2335: C0040137 - Thyroid Nodule
+  2305: C0039373 - Tay-Sachs Disease
+  2427: C0042109 - Urticaria
+  2802: C0151468 - Thyroid Gland Follicular Adenoma
+  2333: C0040128 - Thyroid Diseases
+
+Batch 39:
+  2212: C0037773 - "Spastic Paraplegia
+  2028: C0034150 - Purpura
+  2092: C0035436 - Rheumatic Fever
+  2219: C0037926 - Compression of spinal cord
+  2062: C0035112 - Reoviridae Infections
+
+Batch 40:
+  2685: C0086237 - "Epilepsy
+  2481: C0043046 - Wasting Syndrome
+  2921: C0153349 - Malignant neoplasm of tongue
+  2406: C0041671 - Attention Deficit Disorder
+  2024: C0034089 - Pulmonary Valve Stenosis
+
+Batch 41:
+  2288: C0039075 - Syndactyly
+  2570: C0085106 - Familial benign pemphigus
+  2471: C0042900 - Vitiligo
+  2648: C0085655 - Polymyositis
+  2531: C0079541 - Holoprosencephaly
+
+Batch 42:
+  2395: C0041327 - "Tuberculosis
+  2259: C0038433 - Streptozotocin Diabetes
+  2287: C0039010 - Swine Vesicular Disease
+  2690: C0086404 - Experimental Hepatoma
+  2588: C0085220 - Cerebral Amyloid Angiopathy
+
+Batch 43:
+  2039: C0034372 - Quadriplegia
+  2896: C0152423 - Congenital small ears
+  2292: C0039106 - Pigmented villonodular synovitis
+  2567: C0085084 - Motor Neuron Disease
+  2477: C0042995 - Vulvar Neoplasms
+
+Batch 44:
+  2496: C0043345 - Xeroderma
+  2064: C0035204 - Respiration Disorders
+  2143: C0036358 - Schizophreniform Disorders
+  2443: C0042341 - Varicocele
+  2503: C0043515 - Zollinger-Ellison syndrome
+
+Batch 45:
+  2861: C0152096 - Complete trisomy 18 syndrome
+  2098: C0035528 - Riboflavin Deficiency
+  2316: C0039590 - Testicular Neoplasms
+  2072: C0035288 - "Reticuloendotheliosis
+  2464: C0042798 - Low Vision
+
+Batch 46:
+  2271: C0038522 - Subacute Sclerosing Panencephalitis
+  2602: C0085315 - "Toxoplasmosis
+  2557: C0080178 - Spina Bifida
+  2759: C0149841 - Benign recurrent intrahepatic cholestasis
+  2365: C0040761 - Transposition of Great Vessels
+
+Batch 47:
+  2014: C0033953 - Psychosexual Disorders
+  2172: C0036902 - Sexual Arousal Disorder
+  2380: C0041228 - African Trypanosomiasis
+  2233: C0038015 - Spondyloepiphyseal Dysplasia
+  2662: C0085695 - Chronic gastritis
+
+Batch 48:
+  2018: C0034013 - Precocious Puberty
+  2459: C0042693 - Violence
+  2589: C0085253 - Adult-Onset Still Disease
+  2569: C0085096 - Peripheral Vascular Diseases
+  2822: C0151723 - Hypomagnesemia
+
+Batch 49:
+  2598: C0085293 - Hepatitis E
+  2836: C0151860 - Acquired porencephaly
+  2132: C0036323 - Schistosomiasis
+  2183: C0037052 - Sick Sinus Syndrome
+  2641: C0085633 - Mood swings
+
+Batch 50:
+  2870: C0152136 - Low Tension Glaucoma
+  2169: C0036857 - Severe intellectual disability
+  2646: C0085652 - Pyoderma Gangrenosum
+  2764: C0149886 - "Seizure
+  2421: C0042029 - Urinary tract infection
+
+Batch 51:
+  2040: C0034494 - Rabies (disorder)
+  2222: C0037933 - Spinal Diseases
+  2069: C0035242 - Respiratory Tract Diseases
+  2903: C0152451 - Chronic glomerulonephritis
+  2413: C0041948 - Uremia
+
+Batch 52:
+  2849: C0152021 - Congenital heart disease
+  2177: C0036992 - Short Bowel Syndrome
+  2431: C0042138 - Uterine Neoplasms
+  2693: C0086432 - "Hyalinosis
+  2449: C0042420 - Vasovagal syncope
+
+Batch 53:
+  2074: C0035305 - Retinal Detachment
+  2346: C0040264 - Tinnitus
+  2695: C0086445 - Idiopathic Membranous Glomerulonephritis
+  2005: C0033847 - Pseudoxanthoma Elasticum
+  2596: C0085281 - Addictive Behavior
+
+Batch 54:
+  2829: C0151785 - Disease of mucous membrane
+  2970: C0153572 - Malignant Placental Neoplasm
+  2793: C0151313 - Sensory neuropathy
+  2269: C0038505 - Sturge-Weber Syndrome
+  2275: C0038580 - Substance Dependence
+
+Batch 55:
+  2032: C0034186 - Pyelonephritis
+  2120: C0036205 - "Sarcoidosis
+  2091: C0035435 - Rheumatism
+  2189: C0037188 - Sinoatrial Block
+  2050: C0034902 - Pure Red-Cell Aplasia
+
+Batch 56:
+  2583: C0085167 - Granular cell tumor
+  2291: C0039103 - Synovitis
+  2115: C0036118 - "Salmonella Infections
+  2678: C0086025 - Codependency
+  2398: C0041349 - "Nephritis
+
+Batch 57:
+  2566: C0085083 - Ovarian Hyperstimulation Syndrome
+  2318: C0039685 - Tetralogy of Fallot
+  2585: C0085183 - "Neoplasms
+  2435: C0042166 - "Uveitis
+  2737: C0149630 - Bicuspid aortic valve
+
+Batch 58:
+  2114: C0036117 - Salmonella infections
+  2065: C0035220 - "Respiratory Distress Syndrome
+  2216: C0037889 - Hereditary spherocytosis
+  2841: C0151950 - Deep thrombophlebitis
+  2440: C0042251 - Vaginal Diseases
+
+Batch 59:
+  2093: C0035439 - Rheumatic Heart Disease
+  2415: C0041956 - Ureteral obstruction
+  2612: C0085413 - "Polycystic Kidney
+  2543: C0079746 - Immunoblastic Large-Cell Lymphoma
+  2423: C0042063 - Urogenital Abnormalities
+
+Batch 60:
+  2542: C0079745 - "Lymphoma
+  2231: C0038012 - Spondylitis
+  2321: C0039747 - Thecoma
+  2113: C0036095 - Salivary Gland Neoplasms
+  2254: C0038363 - Aphthous Stomatitis
+
+Batch 61:
+  2748: C0149725 - Lower respiratory tract infection
+  2214: C0037822 - Speech Disorders
+  2283: C0038868 - Progressive supranuclear palsy
+  2614: C0085423 - Gram-Negative Bacterial Infections
+  2425: C0042075 - Urologic Diseases
+
+Batch 62:
+  2804: C0151482 - Megaloblastic anemia due to folate deficiency
+  2616: C0085434 - "Angiomatosis
+  2465: C0042842 - Vitamin A Deficiency
+  2552: C0079774 - Peripheral T-Cell Lymphoma
+  2347: C0040332 - Tobacco Dependence
+
+Batch 63:
+  2276: C0038586 - Substance Use Disorders
+  2094: C0035450 - Rheumatoid Nodule
+  2420: C0042025 - Urinary Stress Incontinence
+  2301: C0039263 - Takayasu Arteritis
+  2959: C0153491 - "Malignant neoplasm of middle lobe
+
+Batch 64:
+  2960: C0153492 - "Malignant neoplasm of lower lobe
+  2961: C0153493 - Malignant neoplasm of other parts of bronchus or lung
+  2946: C0153426 - Malignant neoplasm of duodenum
+  2491: C0043202 - Wolff-Parkinson-White Syndrome
+  2444: C0042344 - Varicose Ulcer
+
+Batch 65:
+  2571: C0085109 - Corneal Neovascularization
+  2482: C0043049 - Water Intoxication
+  2832: C0151814 - Coronary Occlusion
+  2593: C0085273 - Erythema Infectiosum
+  2890: C0152267 - "Hodgkin lymphoma
+
+Batch 66:
+  2889: C0152266 - Mixed Cellularity Hodgkin Lymphoma
+  2363: C0040592 - Trachoma
+  2495: C0043325 - Xanthomatosis
+  2520: C0079294 - Epidermolysis Bullosa Dystrophica
+  2909: C0152545 - Primary tuberculosis
+
+Batch 67:
+  2582: C0085166 - Bacterial Vaginosis
+  2368: C0040921 - Trichomonas Infections
+  2338: C0040156 - Thyrotoxicosis
+  2351: C0040427 - Tooth Abnormalities
+  2955: C0153460 - Malignant neoplasm of tail of pancreas
+
+Batch 68:
+  2954: C0153459 - Malignant neoplasm of body of pancreas
+  2953: C0153458 - malignant neoplasm of head of pancreas
+  2956: C0153463 - Malignant neoplasm of other specified sites of pancreas
+  2456: C0042580 - Vesico-Ureteral Reflux
+  2144: C0036363 - Schizotypal Personality Disorder
+
+Batch 69:
+  2348: C0040411 - Tongue Neoplasms
+  2839: C0151936 - Disorder of tendon
+  2620: C0085541 - "Epilepsy
+  2370: C0040953 - Trichotillomania
+  2629: C0085578 - Thalassemia Minor
+
+Batch 70:
+  2786: C0150080 - Social Communication Disorder
+  2487: C0043124 - West Nile Fever
+  2198: C0037278 - "Skin Diseases
+  2711: C0086664 - Myelocele
+  2289: C0039093 - Congenital abnormal Synostosis
+
+Batch 71:
+  2353: C0040479 - Torsades de Pointes
+  2246: C0038219 - Status Dysraphicus
+  2474: C0042961 - Intestinal Volvulus
+  2184: C0037054 - Sickle Cell Trait
+  2669: C0085762 - Alcohol abuse
+
+Batch 72:
+  2544: C0079747 - Low Grade Lymphoma (neoplasm)
+  2019: C0034050 - Pulmonary Alveolar Proteinosis
+  2217: C0037899 - Sphingolipidoses
+  2226: C0037952 - Spinocerebellar Degeneration
+  2676: C0085996 - Child Development Deviations
+
+Batch 73:
+  2677: C0085997 - "Child Development Disorders
+  2278: C0038604 - Subungual exostoses
+  2834: C0151857 - Pleocytosis
+  2581: C0085164 - "Leukemia
+  2326: C0040015 - Thrombasthenia
+
+Batch 74:
+  2089: C0035411 - Rhabdomyoma
+  2096: C0035457 - "Rhinitis
+  2516: C0079153 - "Hyperkeratosis
+  2771: C0149922 - Lichen Simplex Chronicus
+  2790: C0151281 - Genital ulcers
+
+Batch 75:
+  2935: C0153398 - Hypopharyngeal Cancer
+  2475: C0042974 - von Willebrand Disease
+  2513: C0079035 - Bradyarrhythmia (disorder)
+  2220: C0037928 - Spinal Cord Diseases
+  2156: C0036503 - Sebaceous Gland Neoplasms
+
+Batch 76:
+  2680: C0086133 - Depressive Syndrome
+  2578: C0085138 - Choroid Plexus Neoplasms
+  2461: C0042749 - Viremia
+  2270: C0038506 - Stuttering
+  2036: C0034345 - Pyruvate Dehydrogenase Complex Deficiency Disease
+
+Batch 77:
+  2506: C0078911 - AIDS-Associated Nephropathy
+  2239: C0038041 - Spotted Fever Group Rickettsiosis
+  2872: C0152171 - Idiopathic pulmonary hypertension
+  2084: C0035344 - Retinopathy of Prematurity
+  2783: C0149983 - Lumbar spondylosis
+
+Batch 78:
+  2237: C0038019 - Spondylosis
+  2540: C0079741 - "Lymphoma
+  2549: C0079770 - "Lymphoma
+  2546: C0079757 - Diffuse Mixed-Cell Lymphoma
+  2864: C0152105 - Hypertensive heart disease
+
+Batch 79:
+  2590: C0085261 - Proteus Syndrome
+  2530: C0079504 - Hermanski-Pudlak Syndrome
+  2138: C0036344 - "Schizophrenia
+  2142: C0036351 - Residual schizophrenia
+  2245: C0038218 - Status Asthmaticus
+
+Batch 80:
+  2100: C0035585 - Rickettsia Infections
+  2071: C0035258 - Restless Legs Syndrome
+  2640: C0085632 - Apathy
+  2969: C0153567 - Uterine Cancer
+  2749: C0149745 - Oral Ulcer
+
+Batch 81:
+  2644: C0085648 - Synovial Cyst
+  2197: C0037277 - "Skin Diseases
+  2595: C0085280 - Alagille Syndrome
+  2268: C0038478 - Struma Ovarii
+  2469: C0042875 - Vitamin E Deficiency
+
+Batch 82:
+  2548: C0079765 - "Lymphoma
+  2547: C0079758 - "Lymphoma
+  2401: C0041408 - Turner Syndrome
+  2500: C0043395 - Yellow Fever
+  2145: C0036391 - Schwartz-Jampel Syndrome
+
+Batch 83:
+  2210: C0037769 - West Syndrome
+  2215: C0037859 - Spermatocele
+  2751: C0149778 - Soft Tissue Infection
+  2820: C0151718 - Hypocholesterolemia
+  2191: C0037199 - Sinusitis
+
+Batch 84:
+  2134: C0036330 - Schistosomiasis mansoni
+  2610: C0085411 - Angiodysplasia
+  2868: C0152115 - Lingual-Facial-Buccal Dyskinesia
+  2211: C0037772 - Spastic Paraplegia
+  2194: C0037231 - Sjogren-Larsson Syndrome
+
+Batch 85:
+  2257: C0038379 - Strabismus
+  2410: C0041834 - Erythema
+  2452: C0042510 - Ventricular Fibrillation
+  2976: C0153614 - Malignant neoplasm of ureteric orifice
+  2173: C0036916 - Sexually Transmitted Diseases
+
+Batch 86:
+  2294: C0039144 - Syringomyelia
+  2394: C0041326 - Pleural Tuberculosis
+  2267: C0038476 - Supernumerary structure
+  2038: C0034362 - Q Fever
+  2825: C0151747 - Renal tubular disorder
+
+Batch 87:
+  2850: C0152025 - Polyneuropathy
+  2729: C0149519 - Chronic Persistent Hepatitis
+  2437: C0042170 - Uveomeningoencephalitic Syndrome
+  2230: C0037999 - Splenic Neoplasms
+  2594: C0085278 - Antiphospholipid Syndrome
+
+Batch 88:
+  2892: C0152276 - Granulocytic Sarcoma
+  2936: C0153405 - Malignant neoplasm of pharynx
+  2003: C0033844 - Pseudotumor
+  2559: C0080233 - Tooth Loss
+  2041: C0034535 - Radiation Syndrome
+
+Batch 89:
+  2108: C0035920 - Rubella
+  2507: C0078917 - "Albinism
+  2508: C0078918 - "Albinism
+  2743: C0149654 - Conduct Disorder
+  2617: C0085435 - "Arthritis
+
+Batch 90:
+  2650: C0085662 - Macrocytosis
+  2682: C0086196 - "Eczema
+  2206: C0037661 - Somatostatinoma
+  2379: C0041227 - Trypanosomiasis
+  2360: C0040580 - Tracheal Diseases
+
+Batch 91:
+  2996: C0154084 - Stage 0 Breast Carcinoma
+  2381: C0041234 - Chagas Disease
+  2042: C0034543 - Radicular Cyst
+  2631: C0085581 - Restrictive lung disease
+  2826: C0151772 - Manic psychosis
+
+Batch 92:
+  2428: C0042111 - Urticaria Pigmentosa
+  2080: C0035328 - Retinal Vein Occlusion
+  2361: C0040583 - Tracheal Stenosis
+  2715: C0086743 - Osteoarthrosis Deformans
+  2681: C0086181 - Intravenous Drug Abuse
+
+Batch 93:
+  2714: C0086696 - "Neoplasms
+  2512: C0078982 - Arhinencephaly
+  2579: C0085159 - Seasonal Affective Disorder
+  2466: C0042847 - Vitamin B 12 Deficiency
+  2807: C0151514 - Atrophic condition of skin
+
+Batch 94:
+  2529: C0079487 - Helicobacter Infections
+  2107: C0035869 - Rotavirus Infections
+  2698: C0086457 - Industrial Dermatosis
+  2308: C0039494 - Temporomandibular Joint Disorders
+  2611: C0085412 - Encephalitozoonosis
+
+Batch 95:
+  2606: C0085397 - Pasteurellaceae Infections
+  2484: C0043116 - HMN (Hereditary Motor Neuropathy) Proximal Type I
+  2672: C0085860 - "Autoimmune Syndrome Type II
+  2390: C0041318 - "Tuberculosis
+  2141: C0036349 - Paranoid Schizophrenia
+
+Batch 96:
+  2851: C0152026 - Retinal Vasculitis
+  2609: C0085409 - "Polyendocrinopathies
+  2769: C0149910 - Intermittent joint effusion
+  2362: C0040588 - Tracheoesophageal Fistula
+  2253: C0038362 - Stomatitis
+
+Batch 97:
+  2081: C0035333 - Retinitis
+  2767: C0149896 - Primary gout
+  2056: C0035022 - Tick-borne relapsing fever
+  2055: C0035021 - Relapsing Fever
+  2106: C0035854 - Rosacea
+
+Batch 98:
+  2912: C0152936 - "Plague
+  2770: C0149911 - Humoral hypercalcemia of malignancy (disorder)
+  2117: C0036161 - Sandhoff Disease
+  2568: C0085090 - "Lymphoma
+  2755: C0149801 - Sepsis due to urinary tract infection
+
+Batch 99:
+  2823: C0151731 - Hepatic infarction
+  2865: C0152109 - Juvenile Spinal Muscular Atrophy
+  2104: C0035828 - Romano-Ward Syndrome
+  2699: C0086501 - Keratoma
+  2619: C0085437 - "Meningitis
+
+Batch 100:
+  2451: C0042485 - Venous Insufficiency
+  2436: C0042167 - "Uveitis
+  2130: C0036305 - Schamberg Disease
+  2707: C0086649 - MPS III C
+  2045: C0034735 - Raynaud Phenomenon
+
+Batch 101:
+  2044: C0034734 - Raynaud Disease
+  2651: C0085663 - Plasmacytosis
+  2525: C0079301 - Junctional Epidermolysis Bullosa
+  2327: C0040021 - Thromboangiitis Obliterans
+  2773: C0149927 - Hamartoma of lung
+
+Batch 102:
+  2123: C0036216 - "Sarcoma
+  2165: C0036689 - Streptococcal sore throat
+  2195: C0037268 - Skin Abnormalities
+  2004: C0033845 - Pseudotumor Cerebri
+  2700: C0086533 - "Leiomyoma
+
+Batch 103:
+  2171: C0036875 - Disorders of Sex Development
+  2927: C0153382 - Malignant neoplasm of oropharynx
+  2765: C0149887 - Slipped Capital Femoral Epiphyses
+  2167: C0036769 - Sertoli Cell Tumor
+  2604: C0085390 - Li-Fraumeni Syndrome
+
+Batch 104:
+  2656: C0085681 - Hyperphosphatemia (disorder)
+  2527: C0079474 - Hallopeau-Siemens Disease
+  2460: C0042721 - Viral hepatitis
+  2848: C0152020 - Gastroparesis
+  2879: C0152233 - Congenital ankyloblepharon
+
+Batch 105:
+  2122: C0036214 - "Sarcoma
+  2312: C0039520 - Tenosynovitis
+  2470: C0042880 - Vitamin K Deficiency
+  2350: C0040425 - Tonsillitis
+  2303: C0039292 - Tangier Disease
+
+Batch 106:
+  2030: C0034155 - "Purpura
+  2412: C0041912 - Upper Respiratory Infections
+  2957: C0153467 - Malignant tumor of peritoneum
+  2565: C0085082 - Fungemia
+  2249: C0038325 - Stevens-Johnson Syndrome
+
+Batch 107:
+  2846: C0152014 - Atrophy of pancreas
+  2840: C0151945 - Thrombosis of cerebral veins
+  2299: C0039240 - Supraventricular tachycardia
+  2238: C0038034 - Sporotrichosis
+  2668: C0085758 - "Aganglionosis
+
+Batch 108:
+  2608: C0085404 - POEMS Syndrome
+  2284: C0038870 - "Neuralgia
+  2458: C0042656 - "Neuralgia
+  2794: C0151332 - Active tuberculosis
+  2097: C0035468 - Rhinoscleroma
+
+Batch 109:
+  2479: C0043019 - Lateral Medullary Syndrome
+  2131: C0036310 - Scheuermann's Disease
+  2906: C0152459 - Linear atrophy
+  2384: C0041307 - "Tuberculosis
+  2342: C0040252 - Tinea corporis (disorder)
+
+Batch 110:
+  2950: C0153446 - Malignant neoplasm of anus
+  2708: C0086650 - MPS III D
+  2393: C0041325 - "Peritonitis
+  2533: C0079584 - Ichthyosis Vulgaris
+  2161: C0036651 - Solar lentigo
+
+Batch 111:
+  2501: C0043407 - Yersinia infections
+  2163: C0036685 - "Septicaemia due to gram-negative organism
+  2514: C0079102 - Cerebral Thrombosis
+  2323: C0039978 - Thoracic Diseases
+  2402: C0041409 - "Turner Syndrome
+
+Batch 112:
+  2806: C0151491 - Congenital musculoskeletal anomalies
+  2468: C0042870 - Vitamin D Deficiency
+  2860: C0152095 - Patau syndrome
+  2147: C0036416 - Scleritis
+  2519: C0079293 - Epidermolysis Bullosa Acquisita
+
+Batch 113:
+  2116: C0036130 - Salpingitis
+  2673: C0085920 - Brachial Neuralgia
+  2391: C0041321 - "Tuberculosis
+  2457: C0042594 - Vestibular Diseases
+  2782: C0149978 - Adenocarcinoma of rectum
+
+Batch 114:
+  2492: C0043207 - Wolfram Syndrome
+  2153: C0036474 - Scurvy
+  2076: C0035312 - Retinal Drusen
+  2256: C0038368 - Stomatognathic Diseases
+  2627: C0085574 - Palindromic rheumatism
+
+Batch 115:
+  2225: C0037944 - Spinal Stenosis
+  2236: C0038018 - Spondylolysis
+  2984: C0153685 - Secondary malignant neoplasm of kidney
+  2664: C0085700 - Chondromalacia
+  2344: C0040261 - Onychomycosis
+
+Batch 116:
+  2894: C0152417 - Congenital stenosis of aortic valve
+  2404: C0041471 - TYPHUS
+  2152: C0036472 - Scrub Typhus
+  2705: C0086647 - Mucopolysaccharidosis Type IIIA
+  2762: C0149875 - Primary dysmenorrhea
+
+Batch 117:
+  2314: C0039584 - Testicular Diseases
+  2833: C0151846 - Periosteal Disorder
+  2480: C0043037 - Common wart
+  2180: C0037023 - Sialadenitis
+  2810: C0151544 - Gastrointestinal carcinoma
+
+Batch 118:
+  2756: C0149821 - ACUTE ALCOHOL WITHDRAWAL
+  2099: C0035579 - Rickets
+  2891: C0152268 - Nodular Sclerosis Classical Hodgkin Lymphoma
+  2052: C0034951 - Refractive Errors
+  2798: C0151450 - Secondary SjĂśgren's syndrome
+
+Batch 119:
+  2719: C0086795 - Pfaundler-Hurler Syndrome
+  2573: C0085119 - Foot Ulcer
+  2977: C0153619 - Malignant neoplasm of ureter
+  2057: C0035066 - Renal Artery Obstruction
+  2716: C0086768 - Pancreatic Cholera
+
+Batch 120:
+  2785: C0149991 - TOXIGENIC E COLI
+  2033: C0034188 - "Pyelonephritis
+  2426: C0042076 - Urologic Neoplasms
+  2784: C0149985 - "Syphilis
+  2399: C0041351 - Tularemia
+
+Batch 121:
+  2258: C0038395 - Streptococcal Infections
+  2732: C0149523 - Acute cystitis
+  2026: C0034103 - Pulpitis
+  2857: C0152077 - Dyshormonogenic goiter
+  2133: C0036329 - Schistosomiasis japonica
+
+Batch 122:
+  2884: C0152244 - "Bone Cysts
+  2801: C0151467 - Addisonian crisis
+  2603: C0085388 - Intracranial Tuberculoma
+  2382: C0041295 - Tuberculoma
+  2432: C0042140 - Uterine Prolapse
+
+Batch 123:
+  2185: C0037061 - Siderosis
+  2015: C0033958 - "Psychosis
+  2296: C0039223 - Tabes Dorsalis
+  2377: C0041182 - Trophoblastic Neoplasms
+  2613: C0085417 - "Epilepsy
+
+Batch 124:
+  2164: C0036686 - Gram positive sepsis
+  2429: C0042131 - Uterine Diseases
+  2221: C0037930 - Spinal Cord Neoplasms
+  2060: C0035086 - Renal Osteodystrophy
+  2741: C0149645 - Cervical myelopathy
+
+Batch 125:
+  2974: C0153601 - Malignant neoplasm of penis
+  2985: C0153687 - Secondary malignant neoplasm of skin
+  2511: C0078981 - Arachnoid Cysts
+  2261: C0038437 - Female stress incontinence
+  2766: C0149893 - Secondary glaucoma
+
+Batch 126:
+  2768: C0149904 - Cholestatic hepatitis
+  2913: C0152964 - Streptococcal sepsis
+  2486: C0043121 - Wernicke Encephalopathy
+  2991: C0154038 - Benign neoplasm of thyroid gland
+  2990: C0154009 - Benign neoplasm of prostate
+
+Batch 127:
+  2747: C0149722 - Hutchinson's Melanotic Freckle
+  2358: C0040560 - "Toxoplasmosis
+  2709: C0086651 - "Mucopolysaccharidosis
+  2188: C0037157 - Simple cyst
+  2750: C0149773 - Obstructive sialadenitis
+
+Batch 128:
+  2126: C0036221 - Mast-Cell Sarcoma
+  2897: C0152424 - Common ventricle
+  2863: C0152101 - Hypoplastic Left Heart Syndrome
+  2008: C0033922 - Psychomotor Disorders
+  2875: C0152200 - Achromatopsia
+
+Batch 129:
+  2105: C0035851 - Root Resorption
+  2812: C0151559 - Central nervous system depression (disorder)
+  2835: C0151859 - Polyserositis
+  2244: C0038166 - Staphylococcal Skin Infections
+  2642: C0085635 - Photopsia
+
+Batch 130:
+  2205: C0037650 - Somatoform Disorder
+  2962: C0153500 - Malignant neoplasm of heart
+  2659: C0085692 - Hemorrhagic cystitis
+  2223: C0037939 - Spinal Neoplasms
+  2504: C0043528 - Zoonoses
+
+Batch 131:
+  2190: C0037198 - "Sinus Thrombosis
+  2536: C0079680 - Lentivirus Infections
+  2034: C0034219 - Alveolar pyorrhea
+  2813: C0151565 - Hemorrhagic colitis
+  2655: C0085679 - Hyperchloremia
+
+Batch 132:
+  2852: C0152027 - Sensory Disorders
+  2931: C0153393 - Malignant neoplasm of superior wall of nasopharynx
+  2934: C0153396 - Malignant tumor of anterior wall of nasopharynx
+  2933: C0153395 - Malignant tumor of lateral wall of nasopharynx
+  2932: C0153394 - Malignant tumor of posterior wall of nasopharynx
+
+Batch 133:
+  2803: C0151476 - Hypochloremic alkalosis
+  2274: C0038557 - Submandibular Gland Diseases
+  2218: C0037917 - Spina Bifida Cystica
+  2364: C0040702 - Transient Tic Disorder
+  2339: C0040188 - Tic disorder
+
+Batch 134:
+  2505: C0043541 - Zygomycosis
+  2688: C0086241 - "Epilepsy
+  2684: C0086236 - "Epilepsy
+  2843: C0151971 - Primary ulcer of intestine
+  2660: C0085693 - Acute appendicitis NOS (disorder)
+
+Batch 135:
+  2168: C0036830 - Serum Sickness
+  2997: C0154088 - Carcinoma in situ of prostate
+  2367: C0040896 - Trichinellosis
+  2162: C0036659 - Sensation Disorders
+  2352: C0040435 - Tooth Diseases
+
+Batch 136:
+  2638: C0085623 - Akinesia
+  2009: C0033931 - Psychophysiologic Disorders
+  2689: C0086367 - Gonadotropin-Resistant Ovary Syndrome
+  2796: C0151445 - Primary Raynaud Phenomenon
+  2665: C0085702 - Monocytosis
+
+Batch 137:
+  2174: C0036917 - "Sexually Transmitted Diseases
+  2910: C0152902 - Tuberculosis of esophagus
+  2359: C0040561 - Ocular Toxoplasmosis
+  2600: C0085311 - Diffuse cutaneous leishmaniasis
+  2528: C0079485 - Heart Valve Prolapse
+
+Batch 138:
+  2111: C0036069 - Saldino-Noonan Syndrome
+  2178: C0036996 - Short Rib-Polydactyly Syndrome
+  2706: C0086648 - MPS III B
+  2058: C0035067 - Renal Artery Stenosis
+  2375: C0040997 - Trigeminal Neuralgia
+
+Batch 139:
+  2592: C0085271 - Self-Injurious Behavior
+  2302: C0039273 - Talipes cavus
+  2621: C0085543 - Epilepsia Partialis Continua
+  2993: C0154051 - Hemangioma of retina
+  2560: C0080276 - Disorder of the genitourinary system
+
+Batch 140:
+  2905: C0152457 - Kayser-Fleischer ring
+  2472: C0042928 - Vocal Cord Paralysis
+  2063: C0035127 - Cumulative Trauma Disorders
+  2151: C0036457 - Scrapie
+  2994: C0154060 - Carcinoma in situ of stomach
+
+Batch 141:
+  2679: C0086103 - "Decayed
+  2788: C0151236 - Conduction system abnormalities
+  2310: C0039503 - Tendinitis
+  2414: C0041955 - Ureteral Neoplasms
+  2234: C0038016 - Spondylolisthesis
+
+Batch 142:
+  2618: C0085436 - "Meningitis
+  2584: C0085179 - Eosinophilia-Myalgia Syndrome
+  2229: C0037998 - Splenic Infarction
+  2691: C0086405 - Hereditary Sensory Radicular Neuropathy
+  2722: C0086942 - Rous Sarcoma
+
+Batch 143:
+  2320: C0039743 - Thanatophoric Dysplasia
+  2140: C0036347 - "Schizophrenia
+  2213: C0037789 - Specific reading disorder
+  2867: C0152113 - Rheumatic Chorea
+  2702: C0086541 - Urban cutaneous leishmaniasis
+
+Batch 144:
+  2701: C0086540 - "Leishmaniasis
+  2248: C0038273 - Stereotypic Movement Disorder
+  2101: C0035613 - Rift Valley Fever
+  2048: C0034887 - Rectal polyp
+  2941: C0153416 - Malignant neoplasm of other specified part of esophagus
+
+Batch 145:
+  2938: C0153413 - Malignant neoplasm of upper third of esophagus
+  2940: C0153415 - Malignant neoplasm of lower third of esophagus
+  2939: C0153414 - Malignant neoplasm of middle third of esophagus
+  2827: C0151773 - Bone marrow depression
+  2522: C0079297 - Epidermolysis Bullosa Progressiva
+
+Batch 146:
+  2002: C0033839 - Pseudorabies
+  2661: C0085694 - Chronic cholecystitis
+  2752: C0149779 - Somatization
+  2396: C0041330 - "Tuberculosis
+  2674: C0085932 - Bullous Dermatitis
+
+Batch 147:
+  2179: C0037019 - Shy-Drager Syndrome
+  2947: C0153436 - Malignant neoplasm of sigmoid colon
+  2753: C0149781 - Spontaneous pneumothorax
+  2744: C0149670 - Disorder of carbohydrate metabolism
+  2349: C0040412 - Fissured tongue
+
+Batch 148:
+  2337: C0040149 - Subacute thyroiditis
+  2372: C0040961 - Tricuspid Valve Insufficiency
+  2309: C0039496 - Temporomandibular Joint Dysfunction Syndrome
+  2736: C0149622 - "Neurogenic Urinary Bladder
+  2046: C0034882 - Rectal Diseases
+
+Batch 149:
+  2952: C0153453 - Malignant tumor of extrahepatic bile duct
+  2815: C0151620 - Hypertensive Encephalopathy
+  2085: C0035353 - Congenital retrognathism
+  2286: C0038987 - Sweat Gland Neoplasms
+  2904: C0152455 - Keratomalacia
+
+Batch 150:
+  2575: C0085131 - Gangliosidosis GM1
+  2371: C0040954 - Infection by Trichuris trichiura
+  2696: C0086447 - Ileal Pouches
+  2422: C0042035 - Urination Disorders
+  2228: C0037997 - Splenic Diseases
+
+Batch 151:
+  2967: C0153560 - Kaposi's sarcoma of skin
+  3000: C0154129 - Neoplastic disease of uncertain behavior
+  2240: C0038131 - Stammering
+  2285: C0038874 - Supratentorial Neoplasms
+  2908: C0152517 - Viral gastroenteritis
+
+Batch 152:
+  2683: C0086209 - Emotional Stress
+  2325: C0039984 - Thoracic Outlet Syndrome
+  2235: C0038017 - Congenital spondylolisthesis
+  2332: C0040124 - Thyroglossal Cyst
+  2730: C0149520 - Acute Cholecystitis
+
+Batch 153:
+  2483: C0043102 - Weil Disease
+  2633: C0085583 - Choreoathetosis
+  2293: C0039128 - Syphilis
+  2968: C0153562 - Kaposi's sarcoma of palate
+  2591: C0085269 - "Plasma Cell Granuloma
+
+Batch 154:
+  2407: C0041672 - Undifferentiated somatoform disorder
+  2389: C0041316 - Lymph Node Tuberculosis
+  2838: C0151891 - Retinal depigmentation
+  2438: C0042171 - Uveoparotid Fever
+  2907: C0152499 - Acute amebiasis
+
+Batch 155:
+  2626: C0085570 - Hypokalemic alkalosis
+  2556: C0080174 - Spina Bifida Occulta
+  2873: C0152172 - Angina decubitus
+  2369: C0040947 - Trichostrongyloidiasis
+  2869: C0152132 - Hypertensive Retinopathy
+
+Batch 156:
+  2983: C0153678 - Secondary malignant neoplasm of pleura
+  2297: C0039235 - "Tachycardia
+  2901: C0152441 - Madelung Deformity
+  2493: C0043208 - Wolman Disease
+  2157: C0036508 - Seborrheic dermatitis
+
+Batch 157:
+  2886: C0152256 - Disuse osteoporosis
+  2922: C0153368 - Malignant neoplasm of floor of mouth
+  2859: C0152093 - Hypermobility syndrome
+  2964: C0153519 - "Malignant neoplasm of connective and other soft tissue
+  2992: C0154040 - Benign neoplasm of adrenal gland
+
+Batch 158:
+  2341: C0040250 - Tinea Capitis
+  2340: C0040247 - Tinea
+  2914: C0152966 - Pneumococcal sepsis
+  2013: C0033943 - "Psychoses
+  2295: C0039147 - Syrinx formation
+
+Batch 159:
+  2895: C0152419 - Interrupted aortic arch
+  2607: C0085399 - Ehrlichiosis
+  2241: C0038159 - Staphylococcal Food Poisoning
+  2345: C0040262 - Tinea Versicolor
+  2077: C0035313 - Retinal Dysplasia
+
+Batch 160:
+  2601: C0085313 - Blastocystis Infections
+  2979: C0153653 - Malignant tumor of parathyroid gland
+  2842: C0151970 - Ulcer of esophagus
+  2858: C0152081 - Pustular psoriasis
+  2129: C0036285 - Scarlet Fever
+
+Batch 161:
+  2831: C0151798 - Hepatic necrosis
+  2304: C0039338 - Taste Disorders
+  2877: C0152227 - Excessive tearing
+  2300: C0039254 - Teniasis
+  2726: C0149514 - Acute bronchitis
+
+Batch 162:
+  2181: C0037036 - Sialorrhea
+  2001: C0033838 - Kimura Disease
+  2489: C0043167 - Pertussis
+  2649: C0085661 - Onycholysis
+  2265: C0038457 - "Stromal Dystrophies
+
+Batch 163:
+  2647: C0085653 - Pyogenic granuloma
+  2463: C0042781 - Visceral Myopathy
+  2502: C0043459 - Zellweger Syndrome
+  2795: C0151436 - "Vasculitis
+  2740: C0149642 - Cervical lymphadenitis
+
+Batch 164:
+  2654: C0085677 - Alcoholic Neuropathy
+  2209: C0037768 - Spasmophilia
+  2192: C0037205 - Sirenomelia
+  2121: C0036211 - Sarcoma 180
+  2687: C0086240 - "Epilepsy
+
+Batch 165:
+  2498: C0043349 - Xerophthalmia
+  2112: C0036093 - Salivary Gland Diseases
+  2780: C0149955 - Annular pancreas
+  2373: C0040962 - Tricuspid Valve Prolapse
+  2439: C0042237 - Malignant Vaginal Neoplasm
+
+Batch 166:
+  2622: C0085547 - "Phenylketonuria
+  2418: C0041974 - Urethral Stenosis
+  2883: C0152240 - Uterus bilocularis
+  2187: C0037140 - B Virus Infection
+  2637: C0085615 - Right bundle branch block
+
+Batch 167:
+  2262: C0038441 - "Stress Disorders
+  2182: C0037050 - Sick Building Syndrome
+  2800: C0151465 - Renal abscess
+  2837: C0151864 - Disorder of pregnancy
+  2675: C0085933 - "Infections
+
+Batch 168:
+  2355: C0040524 - Septic Toxemia
+  2871: C0152164 - Cyclical vomiting syndrome (disorder)
+  2392: C0041324 - "Tuberculosis
+  2417: C0041972 - Urethral Obstruction
+  2916: C0153053 - Measles with complication
+
+Batch 169:
+  2526: C0079352 - Congenital torticollis
+  2079: C0035326 - Retinal vascular occlusion
+  2632: C0085582 - Retrobulbar Neuritis
+  2728: C0149517 - Chronic tonsillitis
+  2376: C0041105 - Trismus
+
+Batch 170:
+  2987: C0153886 - Acute myeloid leukemia in remission
+  2400: C0041364 - Tumor Lysis Syndrome
+  2817: C0151638 - Fanconi like syndrome
+  2808: C0151516 - Thyroid Hypoplasia
+  2789: C0151241 - Atrial myxoma
+
+Batch 171:
+  2025: C0034091 - Pulmonary Veno-Occlusive Disease (disorder)
+  2735: C0149614 - Adnexal mass
+  2972: C0153579 - Malignant neoplasm of fallopian tube
+  2311: C0039516 - Tennis Elbow
+  2963: C0153504 - Malignant tumor of mediastinum
+
+Batch 172:
+  2128: C0036280 - Burn scar
+  2881: C0152235 - Congenital genu recurvatum
+  2854: C0152068 - Echinococcus granulosus infection
+  2645: C0085650 - Purpura Fulminans
+  2862: C0152097 - Disease of diaphragm
+
+Batch 173:
+  2775: C0149937 - Acute interstitial nephritis
+  2416: C0041960 - Ureterocele
+  2088: C0035400 - Reye Syndrome
+  2343: C0040253 - Tinea of perianal region
+  2366: C0040820 - Trematode Infections
+
+Batch 174:
+  2893: C0152415 - Ankyloglossia
+  2779: C0149952 - Torsion of ovary
+  2494: C0043324 - Juvenile Xanthogranuloma
+  2208: C0037753 - Sparganosis
+  2450: C0042454 - Velopharyngeal Insufficiency
+
+Batch 175:
+  2791: C0151293 - Chronic Headache
+  2988: C0153888 - Chronic myeloid leukemia in remission
+  2385: C0041309 - "Tuberculosis
+  2819: C0151664 - Gastrointestinal perforation
+  2155: C0036502 - Sebaceous Gland Diseases
+
+Batch 176:
+  2049: C0034888 - Rectal Prolapse
+  2924: C0153373 - Malignant neoplasm of cheek mucosa
+  2814: C0151594 - Hemorrhagic diarrhea
+  2738: C0149637 - Lip Carcinoma
+  2386: C0041311 - "Tuberculosis
+
+Batch 177:
+  2965: C0153535 - Malignant melanoma of skin of upper limb
+  2966: C0153536 - Malignant melanoma of skin of lower limb
+  2324: C0039981 - Thoracic Neoplasms
+  2658: C0085684 - Foot Drop
+  2387: C0041312 - "Tuberculosis
+
+Batch 178:
+  2757: C0149825 - Hypertrophy of adenoids
+  2760: C0149870 - De Quervain Disease
+  2958: C0153470 - Malignant neoplasm of spleen
+  2971: C0153574 - Malignant Uterine Corpus Neoplasm
+  2876: C0152221 - Paralytic strabismus
+
+Batch 179:
+  2853: C0152066 - Lobomycosis
+  2887: C0152259 - Cataract secondary to ocular disorder
+  2902: C0152444 - Hydrorhachis
+  2207: C0037672 - Somnambulism
+  2624: C0085568 - Buruli Ulcer
+
+Batch 180:
+  2419: C0041976 - Urethritis
+  2787: C0150988 - Sclerodactyly
+  2266: C0038463 - Strongyloidiasis
+  2734: C0149613 - Acute mastitis
+  2255: C0038364 - "Stomatitis
+
+Batch 181:
+  2102: C0035615 - Right aortic arch (disorder)
+  2830: C0151788 - Eosinophilic myocarditis
+  2925: C0153380 - Malignant neoplasm of other specified parts of mouth
+  2923: C0153369 - Malignant neoplasm of anterior portion of floor of mouth
+  2928: C0153389 - malignant neoplasm of lateral wall of oropharynx
+
+Batch 182:
+  2929: C0153390 - Malignant neoplasm of posterior wall of oropharynx
+  2937: C0153407 - Malignant neoplasm of other sites within the lip and oral cavity
+

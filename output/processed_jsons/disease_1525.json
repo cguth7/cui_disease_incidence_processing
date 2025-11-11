@@ -1,0 +1,19 @@
+{
+  "cui": "C0025284",
+  "cui_name": "Meningeal Neoplasms",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primarily meningiomas (85% of meningeal tumors) at ~7-8 per 100k, plus other meningeal tumors. Total ~8.5 per 100k. Well-documented in cancer registries, higher incidence in older adults and women.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "CBTRUS Statistical Report 2005: Primary Brain Tumors in the United States",
+  "source_url": "https://www.cbtrus.org/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0029118",
+  "cui_name": "Opportunistic Infections",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous to estimate meaningfully. Includes diverse pathogens (Pneumocystis, CMV, Candida, Cryptococcus, Toxoplasma, atypical mycobacteria) affecting different immunocompromised populations (HIV/AIDS, transplant, chemotherapy, immunosuppression). Incidence depends entirely on underlying condition and pathogen - no single aggregate estimate is epidemiologically valid.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

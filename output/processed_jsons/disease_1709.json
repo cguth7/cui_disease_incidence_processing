@@ -1,0 +1,19 @@
+{
+  "cui": "C0028326",
+  "cui_name": "Noonan Syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 50,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Genetic disorder with birth prevalence of 1 in 1,000 to 1 in 2,500 live births, translating to ~50 per 100k population prevalence. Well-characterized syndrome with genetic testing confirmation.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Romano AA et al. (2010). Noonan syndrome: clinical features, diagnosis, and management guidelines. Pediatrics. 126(4):746-59",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20876176/",
+  "source_type": "literature"
+}
