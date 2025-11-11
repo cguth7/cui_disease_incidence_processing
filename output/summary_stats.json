@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "total_diseases_processed": 500,
+    "processing_date": "2025-11-11T02:03:56.907190",
+    "source_csv": "data/disease_codes_Charlie.csv",
+    "diseases_processed": "1-500"
+  },
+  "confidence_distribution": {
+    "unmappable_0.0": 68,
+    "low_0.01_to_0.4": 80,
+    "moderate_0.41_to_0.6": 82,
+    "good_0.61_to_0.8": 185,
+    "high_0.81_to_1.0": 85
+  },
+  "metric_types": {
+    "incidence_only": 353,
+    "prevalence_only": 59,
+    "both_metrics": 17,
+    "unmappable_null": 71
+  },
+  "data_quality_distribution": {
+    "none": 68,
+    "weak": 92,
+    "moderate": 152,
+    "strong": 188
+  },
+  "source_information": {
+    "has_source_citation": 331,
+    "has_source_url": 318,
+    "source_types": {
+      "registry": 95,
+      "literature": 230,
+      "estimate": 26,
+      "null": 149
+    }
+  },
+  "hierarchy": {
+    "identified_as_subtypes": 245,
+    "parent_diseases_identified": 257
+  },
+  "top_sources": {
+    "GLOBOCAN 2005 (IARC)": 30,
+    "Parkin DM et al. (2005). Global cancer statistics,": 27,
+    "Ferlay J et al. (2010). Estimates of worldwide bur": 5,
+    "Toro JR et al. (2006). Incidence patterns of soft ": 5,
+    "Merikangas KR et al. (2007). Lifetime and 12-month": 4,
+    "Ferlay J et al. (2005). GLOBOCAN 2005: Cancer Inci": 3,
+    "Lurain JR. (2010). Gestational trophoblastic disea": 3,
+    "IDF Diabetes Atlas 2005": 3,
+    "Khan SA et al. (2005). Cholangiocarcinoma. Lancet.": 3,
+    "WHO Global Health Observatory data on raised chole": 2
+  },
+  "geographic_variation": {
+    "low": 75,
+    "moderate": 173,
+    "high": 166
+  }
+}
