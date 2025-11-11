@@ -1,0 +1,17 @@
+{
+  "cui": "C0004153",
+  "cui_name": "Atherosclerosis",
+  "incidence_per_100k": 85.0,
+  "total_cases_per_year": 6800000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Atherosclerosis incidence estimated as aggregate of clinically detected atherosclerotic disease (~85 per 100k globally). High geographic variation with incidence 3-5 fold higher in developed nations. Represents umbrella term encompassing coronary, cerebrovascular, and peripheral atherosclerosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Burden of Disease estimates and cardiovascular registries",
+  "source_url": "https://www.who.int/",
+  "source_type": "estimate"
+}

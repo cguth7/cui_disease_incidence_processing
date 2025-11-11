@@ -1,0 +1,17 @@
+{
+  "cui": "C0019025",
+  "cui_name": "Hemoglobin F Disease",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Hemoglobinopathy",
+  "reasoning": "Hereditary persistence of fetal hemoglobin (HPFH) is a rare genetic condition with incidence <0.01 per 100k. Limited epidemiological data; estimates based on case reports and genetic database frequencies. Often benign and may be overlooked clinically.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports and genetic disease databases",
+  "source_url": null,
+  "source_type": "literature"
+}

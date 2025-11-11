@@ -1,0 +1,17 @@
+{
+  "cui": "C0039730",
+  "cui_name": "Thalassemia",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global thalassemia incidence approximately 1-2 per 100k person-years, with ~200,000 affected births annually. Incidence varies significantly by geography, with higher rates in Mediterranean, Middle Eastern, and Asian populations. Data represents aggregate of thalassemia major and minor subtypes.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO/CDC epidemiological estimates and genetic registries",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

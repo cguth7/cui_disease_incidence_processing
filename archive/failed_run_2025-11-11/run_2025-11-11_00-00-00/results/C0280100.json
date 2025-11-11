@@ -1,0 +1,17 @@
+{
+  "cui": "C0280100",
+  "cui_name": "Solid Neoplasm",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and generic to estimate meaningfully. Encompasses all solid tumors with vastly different incidence rates. Requires anatomical specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

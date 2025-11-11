@@ -1,0 +1,17 @@
+{
+  "cui": "C0271994",
+  "cui_name": "Hereditary persistence of fetal hemoglobin thalassemia",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Thalassemia",
+  "reasoning": "Extremely rare genetic variant of thalassemia involving fetal hemoglobin persistence. <0.1 per 100k based on limited case reports and genetic epidemiology data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports and genetic epidemiology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

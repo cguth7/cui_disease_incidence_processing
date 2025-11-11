@@ -1,0 +1,17 @@
+{
+  "cui": "C0004509",
+  "cui_name": "Azoospermia",
+  "incidence_per_100k": 22.0,
+  "total_cases_per_year": 1760000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Complete absence of sperm in ejaculate. Estimated incidence based on andrology studies suggests ~5-10% of infertile men present with azoospermia, and infertility affects ~7-8% of reproductive-age population. Extrapolating to general population incidence ~20-25 per 100k per year. Moderate confidence due to limited epidemiological incidence studies; most data is prevalence-based in infertile populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Andrology literature estimates",
+  "source_url": null,
+  "source_type": "literature"
+}

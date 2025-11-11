@@ -1,0 +1,17 @@
+{
+  "cui": "C0007138",
+  "cui_name": "Carcinoma, Transitional Cell",
+  "incidence_per_100k": 10.2,
+  "total_cases_per_year": 816000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Bladder Neoplasms",
+  "reasoning": "Urothelial carcinoma accounts for 90% of bladder cancers with well-documented global incidence ~10 per 100k from cancer registries (GLOBOCAN 2005). Specific histological subtype with strong epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

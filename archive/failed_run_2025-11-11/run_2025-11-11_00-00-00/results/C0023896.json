@@ -1,0 +1,17 @@
+{
+  "cui": "C0023896",
+  "cui_name": "Alcoholic Liver Diseases",
+  "incidence_per_100k": 28.0,
+  "total_cases_per_year": 2240000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for alcohol-related liver diseases including: fatty liver disease (~15 per 100k), hepatitis (~5 per 100k), cirrhosis (~6 per 100k), and acute alcoholic hepatitis (~2 per 100k). Total ~28 per 100k annually. Low confidence due to heterogeneous conditions, significant geographic variation based on alcohol consumption patterns and healthcare access, and difficulty distinguishing alcohol-related from other liver disease etiologies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Status Report on Alcohol and Health, epidemiological estimates",
+  "source_url": "https://www.who.int/publications/i/item/global-status-report-on-alcohol-and-health",
+  "source_type": "estimate"
+}

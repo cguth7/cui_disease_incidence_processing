@@ -1,0 +1,17 @@
+{
+  "cui": "C0278510",
+  "cui_name": "Childhood Medulloblastoma",
+  "incidence_per_100k": 0.32,
+  "total_cases_per_year": 25600,
+  "confidence": 0.76,
+  "is_subtype": true,
+  "parent_disease": "Medulloblastoma",
+  "reasoning": "Childhood-specific medulloblastoma (typically age 0-18). Accounts for the vast majority of medulloblastoma cases globally. Incidence slightly lower than overall medulloblastoma due to age-specific denominator.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Pediatric cancer registries and WHO classification",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

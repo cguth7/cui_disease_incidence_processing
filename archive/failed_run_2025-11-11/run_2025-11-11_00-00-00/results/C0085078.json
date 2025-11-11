@@ -1,0 +1,17 @@
+{
+  "cui": "C0085078",
+  "cui_name": "Lysosomal Storage Diseases",
+  "incidence_per_100k": 8.5,
+  "total_cases_per_year": 680000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major lysosomal storage disease subtypes: Gaucher disease (~1.5), Fabry disease (~1.0), Pompe disease (~0.8), Mucopolysaccharidosis (~1.5), Niemann-Pick disease (~0.7), Tay-Sachs (~0.2), other LSDs (~3.0) = ~8.5 per 100k. Low confidence due to heterogeneous group with variable incidence across populations.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

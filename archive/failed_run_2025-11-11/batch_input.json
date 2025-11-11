@@ -1,0 +1,24 @@
+{
+  "diseases": [
+    {
+      "cui": "C0007138",
+      "name": "Carcinoma, Transitional Cell"
+    },
+    {
+      "cui": "C1861305",
+      "name": "TARSAL-CARPAL COALITION SYNDROME"
+    },
+    {
+      "cui": "C0010823",
+      "name": "Cytomegalovirus Infections"
+    },
+    {
+      "cui": "C0024141",
+      "name": "Lupus Erythematosus, Systemic"
+    },
+    {
+      "cui": "C3280216",
+      "name": "HYPERURICEMIC NEPHROPATHY, FAMILIAL JUVENILE, 3"
+    }
+  ]
+}

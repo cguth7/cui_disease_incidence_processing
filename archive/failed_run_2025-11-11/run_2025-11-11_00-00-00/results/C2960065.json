@@ -1,0 +1,17 @@
+{
+  "cui": "C2960065",
+  "cui_name": "High grade dysplastic nodule",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Hepatocellular Carcinoma precursor lesions",
+  "reasoning": "Precursor lesion identified during HCC surveillance in cirrhotic patients. No independent epidemiological incidence data. Found in subset of at-risk cirrhotic population; progression to HCC ~20-30% over 2-3 years but direct incidence rate not well-defined.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "HCC surveillance studies",
+  "source_url": null,
+  "source_type": "literature"
+}

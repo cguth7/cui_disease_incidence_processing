@@ -1,0 +1,17 @@
+{
+  "cui": "C1611743",
+  "cui_name": "Familial (FPAH)",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary Arterial Hypertension",
+  "reasoning": "Familial form of pulmonary arterial hypertension is extremely rare, estimated <0.1 per 100k. Genetic subtype with inheritance pattern.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

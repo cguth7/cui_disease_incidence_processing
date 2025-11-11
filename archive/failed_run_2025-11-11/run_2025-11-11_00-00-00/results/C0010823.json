@@ -1,0 +1,17 @@
+{
+  "cui": "C0010823",
+  "cui_name": "Cytomegalovirus Infections",
+  "incidence_per_100k": 2.5,
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CMV seroprevalence is 40-80% globally, but active/symptomatic infection incidence is much lower (~2-3 per 100k in general population, higher in immunocompromised). Conservative estimate for clinically significant CMV disease based on surveillance data. High geographic and age variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "literature"
+}

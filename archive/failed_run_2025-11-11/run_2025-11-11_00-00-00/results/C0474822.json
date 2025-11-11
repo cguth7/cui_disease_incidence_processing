@@ -1,0 +1,17 @@
+{
+  "cui": "C0474822",
+  "cui_name": "Benign pheochromocytoma",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Pheochromocytoma",
+  "reasoning": "Benign pheochromocytomas are rare tumors; estimated incidence approximately 0.8 per 100k based on endocrine tumor registries and clinical surveys.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Endocrine Society Clinical Guidelines",
+  "source_url": null,
+  "source_type": "literature"
+}

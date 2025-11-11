@@ -1,0 +1,17 @@
+{
+  "cui": "C0026691",
+  "cui_name": "Mucocutaneous Lymph Node Syndrome",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Kawasaki disease (mucocutaneous lymph node syndrome) primarily affects children <5 years. Incidence varies by geography: ~8-10 per 100k in Japan, ~5 per 100k in Asian populations, ~2-3 per 100k in North America/Europe. Global estimate ~2 per 100k population based on epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO epidemiological studies, Kawasaki disease registries",
+  "source_url": null,
+  "source_type": "registry"
+}

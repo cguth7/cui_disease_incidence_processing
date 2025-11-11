@@ -1,0 +1,17 @@
+{
+  "cui": "C0010606",
+  "cui_name": "Adenoid Cystic Carcinoma",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Salivary Gland Cancer",
+  "reasoning": "Adenoid cystic carcinoma is the most common malignancy of minor salivary glands. Rare cancer with global incidence estimated at 0.7-1.0 per 100k based on cancer registry data and epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Cancer registries and peer-reviewed literature",
+  "source_url": null,
+  "source_type": "registry"
+}
