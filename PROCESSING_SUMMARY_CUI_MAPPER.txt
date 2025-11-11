@@ -1,188 +1,143 @@
-================================================================================
-                 CUI INCIDENCE MAPPER PROCESSING SUMMARY
-                         5 Diseases Processed
-                          November 11, 2025
-================================================================================
+========================================
+CUI DISEASE INCIDENCE MAPPER - PROCESSING SUMMARY
+========================================
 
-BATCH INPUT: batch_input.json (5 diseases)
-SKILL USED: cui-incidence-mapper_2
-OUTPUT LOCATION: /home/user/cui_disease_incidence_processing/output/
+EXECUTION DATE: 2025-11-11
+PROCESSING STATUS: SUCCESS
 
-================================================================================
-PROCESSING RESULTS - ALL SUCCESSFUL
-================================================================================
+========================================
+DISEASES PROCESSED (5/5)
+========================================
 
-1. DISEASE ID 2022: C0034069 - PULMONARY FIBROSIS
-   ├─ Status: SUCCESSFUL
-   ├─ Incidence: 7.4 per 100k person-years
-   ├─ Confidence Score: 0.78 (MODERATE-HIGH)
-   ├─ Data Quality: MODERATE
-   ├─ Geographic Variation: MODERATE
-   ├─ Metric Type: INCIDENCE (new cases)
-   ├─ Total Cases/Year: 592,000
-   ├─ Source: Raghu G et al. (2011), American Thoracic Society
-   └─ Output File: output/disease_2022.json
+1. C4749856 - Microcornea, rod-cone dystrophy, cataract, posterior staphyloma syndrome
+   Status: SUCCESS
+   Confidence: 0.2 (weak - rare genetic syndrome)
+   Incidence: extremely rare
+   Data Quality: weak
+   File: /home/user/cui_disease_incidence_processing/output/results/C4749856.json
 
-2. DISEASE ID 2067: C0035235 - RESPIRATORY SYNCYTIAL VIRUS INFECTIONS
-   ├─ Status: SUCCESSFUL
-   ├─ Incidence: 1800.0 per 100k person-years
-   ├─ Confidence Score: 0.72 (MODERATE-HIGH)
-   ├─ Data Quality: MODERATE
-   ├─ Geographic Variation: HIGH
-   ├─ Metric Type: INCIDENCE (new cases)
-   ├─ Total Cases/Year: 144,000,000
-   ├─ Source: Falsey AR et al. (2005), New England Journal of Medicine
-   └─ Output File: output/disease_2067.json
+2. C1853223 - Deafness, Autosomal Recessive 67
+   Status: SUCCESS
+   Confidence: 0.25 (weak - specific genetic variant)
+   Incidence: extremely rare
+   Data Quality: weak
+   Is Subtype: true (parent: Deafness, Autosomal Recessive)
+   File: /home/user/cui_disease_incidence_processing/output/results/C1853223.json
 
-3. DISEASE ID 2555: C0080032 - PLEURAL EFFUSION
-   ├─ Status: SUCCESSFUL
-   ├─ Incidence: 50.0 per 100k person-years
-   ├─ Confidence Score: 0.65 (MODERATE)
-   ├─ Data Quality: MODERATE
-   ├─ Geographic Variation: MODERATE
-   ├─ Metric Type: INCIDENCE (new cases)
-   ├─ Total Cases/Year: 4,000,000
-   ├─ Source: Light RW. (2007), Medical Clinics of North America
-   └─ Output File: output/disease_2555.json
+3. C0747256 - Parasitic infection
+   Status: SUCCESS
+   Confidence: 0.3 (weak - aggregate umbrella estimate)
+   Incidence: 5000 per 100k
+   Total Cases/Year: 400,000,000
+   Data Quality: weak (BOTEC aggregate)
+   Geographic Variation: high
+   File: /home/user/cui_disease_incidence_processing/output/results/C0747256.json
 
-4. DISEASE ID 2016: C0033975 - PSYCHOTIC DISORDERS
-   ├─ Status: SUCCESSFUL
-   ├─ Incidence: N/A (umbrella term)
-   ├─ Prevalence: 3500.0 per 100k population
-   ├─ Confidence Score: 0.62 (MODERATE)
-   ├─ Data Quality: MODERATE
-   ├─ Geographic Variation: MODERATE
-   ├─ Metric Type: PREVALENCE (existing cases, not incidence)
-   ├─ Total Cases/Year: 280,000,000
-   ├─ Source: Jablensky A. (2000), Current Opinion in Psychiatry
-   ├─ Notes: Umbrella term covering schizophrenia, schizoaffective disorder,
-   │         brief psychotic disorder, and substance-induced psychosis
-   └─ Output File: output/disease_2016.json
+4. C0004030 - Aspergillosis
+   Status: SUCCESS
+   Confidence: 0.62 (moderate)
+   Incidence: 2.5 per 100k
+   Total Cases/Year: 200,000
+   Data Quality: moderate
+   Geographic Variation: high (varies by immune status)
+   File: /home/user/cui_disease_incidence_processing/output/results/C0004030.json
 
-5. DISEASE ID 2703: C0086543 - CATARACT
-   ├─ Status: SUCCESSFUL
-   ├─ Incidence: 500.0 per 100k person-years
-   ├─ Prevalence: 8000.0 per 100k population
-   ├─ Confidence Score: 0.85 (HIGH)
-   ├─ Data Quality: STRONG
-   ├─ Geographic Variation: HIGH
-   ├─ Metric Type: BOTH (incidence AND prevalence)
-   ├─ Total Cases/Year: 40,000,000
-   ├─ Source: Pascolini D et al. (2004), Bulletin World Health Organization
-   ├─ Notes: Age-related cataract is most common cause of visual impairment
-   │         globally; uses WHO Vision 2020 data
-   └─ Output File: output/disease_2703.json
+5. C0347176 - Carcinoma in situ of fallopian tube
+   Status: SUCCESS
+   Confidence: 0.45 (moderate)
+   Incidence: 0.15 per 100k
+   Total Cases/Year: 12,000
+   Data Quality: moderate
+   Is Subtype: true (parent: Carcinoma in situ of female genital organs)
+   File: /home/user/cui_disease_incidence_processing/output/results/C0347176.json
 
-================================================================================
-SKILL SPECIFICATIONS COMPLIANCE CHECKLIST
-================================================================================
+========================================
+CONFIDENCE DISTRIBUTION
+========================================
 
-[X] Input format: JSON batch with "diseases" array (5 items)
-[X] Output format: Valid JSON for each disease with all required fields
-[X] Confidence scoring: Applied (0.62-0.85 range)
-[X] Metric type: Correctly assigned (incidence vs prevalence)
-[X] Source quality: Tier 1 literature sources (peer-reviewed studies)
-[X] Source URLs: Direct PubMed URLs provided
-[X] Hierarchy detection: Applied (identified umbrella terms)
-[X] Geographic variation: Documented for all diseases
-[X] Data quality assessment: strong/moderate assigned appropriately
-[X] Year-specific data: Noted where available
-[X] Reasoning fields: Complete explanations provided
-[X] Total cases calculation: Correctly computed from incidence/prevalence
+High Confidence (0.7-1.0):    0 diseases
+Medium Confidence (0.4-0.7):  2 diseases (C0004030, C0347176)
+Low Confidence (0.1-0.4):     3 diseases (C4749856, C1853223, C0747256)
+Unmappable (0.0):             0 diseases
 
-================================================================================
-SUMMARY STATISTICS
-================================================================================
+========================================
+DISEASE CLASSIFICATION
+========================================
+
+Rare Genetic Syndromes:       2 (C4749856, C1853223)
+Umbrella Terms (Aggregate):   1 (C0747256 - parasitic infections)
+Specific Infectious Disease:  1 (C0004030 - aspergillosis)
+Oncologic Condition:          1 (C0347176 - carcinoma in situ)
+
+========================================
+SUBTYPE IDENTIFICATION
+========================================
+
+Subtypes Identified: 2
+  - C1853223: Deafness, Autosomal Recessive 67 (subtype of AR deafness)
+  - C0347176: Carcinoma in situ of fallopian tube (subtype of female genital CIS)
+
+========================================
+DATA QUALITY SUMMARY
+========================================
+
+Strong Quality:    0 diseases
+Moderate Quality:  2 diseases (C0004030, C0347176)
+Weak Quality:      3 diseases (C4749856, C1853223, C0747256)
+None:              0 diseases
+
+========================================
+GEOGRAPHIC VARIATION
+========================================
+
+Low Variation:     0 diseases
+Moderate Variation: 1 disease (C0347176)
+High Variation:    2 diseases (C0004030, C0747256)
+Unknown:           2 diseases (C4749856, C1853223)
+
+========================================
+PROCESSING METRICS
+========================================
 
 Total Diseases Processed: 5
-Successful: 5 (100%)
-Failed: 0
+Successfully Saved: 5
+Batch Processing Time: <1 second
+Output Directory: /home/user/cui_disease_incidence_processing/output/results/
+Batch Input File: /home/user/cui_disease_incidence_processing/batch_input.json
+Batch Results File: /home/user/cui_disease_incidence_processing/batch_results_processed.json
 
-Confidence Distribution:
-  - High (0.7-1.0):    3 diseases (2022: 0.78, 2067: 0.72, 2703: 0.85)
-  - Medium (0.4-0.7):  2 diseases (2555: 0.65, 2016: 0.62)
-  - Low (0.0-0.4):     0 diseases
+========================================
+DATA SOURCES
+========================================
 
-Data Quality Distribution:
-  - Strong: 1 disease (2703: Cataract)
-  - Moderate: 4 diseases (2022, 2067, 2555, 2016)
-  - Weak: 0 diseases
-  - None: 0 diseases
+Tier 1 Sources (High Quality): 0
+Tier 2 Sources (Moderate):     2
+Tier 3 Sources (Low):          0
+No Verifiable Source:          3 (using estimates)
 
-Metric Type Distribution:
-  - Incidence only: 3 diseases (2022, 2067, 2555)
-  - Prevalence only: 1 disease (2016)
-  - Both (incidence + prevalence): 1 disease (2703)
+========================================
+NOTES
+========================================
 
-Geographic Variation:
-  - High: 2 diseases (2067, 2703)
-  - Moderate: 3 diseases (2022, 2555, 2016)
-  - Low: 0 diseases
+1. Three diseases (C4749856, C1853223) are extremely rare genetic syndromes with minimal 
+   epidemiological data. Confidence scores appropriately low (0.2-0.25).
 
-================================================================================
-OUTPUT FILES GENERATED
-================================================================================
+2. Parasitic infection (C0747256) processed as aggregate BOTEC estimate summing major 
+   parasitic conditions (malaria, schistosomiasis, hookworm, etc.). Confidence 0.3 reflects 
+   heterogeneity of umbrella term.
 
-1. /home/user/cui_disease_incidence_processing/output/disease_2022.json
-2. /home/user/cui_disease_incidence_processing/output/disease_2067.json
-3. /home/user/cui_disease_incidence_processing/output/disease_2555.json
-4. /home/user/cui_disease_incidence_processing/output/disease_2016.json
-5. /home/user/cui_disease_incidence_processing/output/disease_2703.json
+3. Aspergillosis (C0004030) has moderate confidence (0.62) based on hospital surveillance 
+   data and epidemiological literature. High geographic variation noted due to immune status 
+   and regional factors.
 
-Additional Output:
-   - batch_results.json: Combined results for all 5 diseases
-   - batch_input.json: Original batch input
+4. Carcinoma in situ of fallopian tube (C0347176) classified as subtype of female genital 
+   carcinoma with estimated incidence from cancer registries. Moderate confidence (0.45) 
+   due to rarity and limited literature.
 
-================================================================================
-KEY FINDINGS & NOTES
-================================================================================
+5. All results saved in required JSON format with complete metadata including reasoning, 
+   data quality assessment, confidence scoring, and geographic variation information.
 
-1. Pulmonary Fibrosis (2022):
-   - Relatively rare but serious condition
-   - Moderate confidence based on epidemiological literature
-   - Good geographic consistency across regions
-   - Age-related disease (predominantly affects older adults)
+6. No sources required fabrication. Where verifiable sources unavailable, confidence 
+   appropriately lowered and source fields set to null per skill guidelines.
 
-2. Respiratory Syncytial Virus (2067):
-   - Very common acute infection
-   - High incidence due to annual infection cycles
-   - Significant geographic and age variation
-   - Pediatric and elderly populations at highest risk
-
-3. Pleural Effusion (2555):
-   - Secondary condition (symptom of underlying disease)
-   - Multiple etiologies limit precision of estimates
-   - Moderate confidence due to heterogeneous causes
-   - Common in hospital settings
-
-4. Psychotic Disorders (2016):
-   - Umbrella term with significant diagnostic variation
-   - Prevalence-based estimate (no clear incidence definition)
-   - Lower confidence due to heterogeneity of subtypes
-   - Significant variation in diagnostic criteria globally
-
-5. Cataract (2703):
-   - Most common cause of blindness globally
-   - Strong data quality from WHO Vision 2020 initiative
-   - Highest confidence score in this batch (0.85)
-   - Clear age-related progression pattern
-   - Good opportunity for pharmaceutical interventions
-
-================================================================================
-PROCESSING METHOD
-================================================================================
-
-All 5 diseases were processed using the cui-incidence-mapper_2 skill, which
-provides detailed guidelines for:
-
-- CUI to disease mapping accuracy assessment
-- Epidemiological data source quality verification
-- Confidence scoring based on data availability and source tier
-- Disease hierarchy detection (subtypes vs umbrella terms)
-- Geographic variation documentation
-- Metric appropriateness (incidence vs prevalence selection)
-
-The skill instructions ensure consistent, high-quality mapping of UMLS codes
-to verifiable epidemiological data suitable for pharmaceutical market analysis.
-
-================================================================================
+========================================

@@ -1,123 +1,73 @@
-CUI DISEASE INCIDENCE MAPPING - PROCESSING SUMMARY
-===================================================
+CUI DISEASE INCIDENCE MAPPER - BATCH PROCESSING SUMMARY
+========================================================
 
-Processed 5 diseases using the cui-incidence-mapper_2 skill on 2025-11-11
-
-DISEASES PROCESSED:
-==================
-
-1. C3826128 - Infection in children
-   - Type: Umbrella term (aggregate BOTEC estimate)
-   - Incidence: 8,000 per 100k per year
-   - Confidence: 0.25 (low - aggregate umbrella term)
-   - Metric: Incidence (new infections)
-   - Reasoning: Aggregate of major pediatric infections (URI, otitis media, gastroenteritis, UTI, pneumonia, meningitis, others)
-   - Data Quality: Weak
-   - Geographic Variation: High
-   - Status: Processed successfully
-
-2. C1959859 - Acute lyme disease
-   - Type: Specific acute infection (subtype of Lyme disease)
-   - Incidence: 7.5 per 100k per year
-   - Confidence: 0.78 (good - registry data)
-   - Metric: Incidence (new diagnoses)
-   - Reasoning: CDC surveillance data from early 2000s (7,643 confirmed cases annually)
-   - Data Quality: Strong
-   - Geographic Variation: High (concentrated in Northeast and upper Midwest)
-   - Source: CDC Lyme Disease Surveillance Data
-   - Data Year: 2004
-   - Status: Processed successfully
-
-3. C0042075 - Urologic Diseases
-   - Type: Umbrella term (aggregate BOTEC estimate)
-   - Incidence: 12,000 per 100k per year
-   - Confidence: 0.22 (low - broad umbrella term)
-   - Metric: Incidence (new cases)
-   - Reasoning: Aggregate of major urologic conditions (UTI, BPH, incontinence, urolithiasis, cancers, renal disease)
-   - Data Quality: Weak
-   - Geographic Variation: High
-   - Note: Significant gender and age variation
-   - Status: Processed successfully
-
-4. C0262655 - Recurrent urinary tract infection
-   - Type: Specific condition (subtype of UTI)
-   - Incidence: 1,200 per 100k per year
-   - Confidence: 0.65 (moderate - literature-based)
-   - Metric: Incidence (new recurrent episodes)
-   - Reasoning: 20-30% of women with initial UTI develop recurrent cases
-   - Data Quality: Moderate
-   - Geographic Variation: Low
-   - Source: Foxman B. (2002) epidemiological study
-   - Data Year: 2003
-   - Status: Processed successfully
-
-5. C0022354 - Jaundice, Obstructive
-   - Type: Specific symptom/condition (subtype of Jaundice)
-   - Incidence: 85 per 100k per year
-   - Confidence: 0.60 (moderate)
-   - Metric: Incidence (new cases)
-   - Reasoning: Primarily driven by choledocholithiasis (60-70) and malignancy-related obstruction (15-20)
-   - Data Quality: Moderate
-   - Geographic Variation: Moderate
-   - Data Year: 2004
-   - Status: Processed successfully
-
-SUMMARY STATISTICS:
-===================
-
+Date: 2025-11-11
 Total Diseases Processed: 5
-Files Created: 5 JSON result files in /home/user/cui_disease_incidence_processing/output/results/
+Successfully Processed: 5
+Failed: 0
 
-Confidence Distribution:
-- High (0.7-1.0): 1 disease (Acute lyme disease - 0.78)
-- Medium (0.3-0.7): 2 diseases (Obstructive jaundice - 0.60, Recurrent UTI - 0.65)
-- Low (0.1-0.3): 2 diseases (Infection in children - 0.25, Urologic diseases - 0.22)
+DETAILED RESULTS:
+================
 
-Disease Type Breakdown:
-- Specific subtypes: 3 (Acute lyme disease, Recurrent UTI, Obstructive jaundice)
-- Umbrella terms (aggregate): 2 (Infection in children, Urologic diseases)
+1. C0282126 - Depression, Neurotic
+   Status: Successfully processed
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0282126.json
+   Confidence: 0.6 (Moderate)
+   Data Quality: Moderate
+   Metric: Prevalence (3000 per 100k)
+   Notes: Historical psychiatric term for neurotic depression, mapped to persistent depressive disorder
 
-Data Quality Assessment:
-- Strong: 1 disease (Acute lyme disease)
-- Moderate: 2 diseases (Recurrent UTI, Obstructive jaundice)
-- Weak: 2 diseases (Infection in children, Urologic diseases)
+2. C0086133 - Depressive Syndrome
+   Status: Successfully processed
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0086133.json
+   Confidence: 0.5 (Moderate)
+   Data Quality: Moderate
+   Metric: Prevalence (5000 per 100k)
+   Notes: Umbrella term for depressive presentations, includes all subtypes and severity levels
 
-OUTPUT FILES:
+3. C0025193 - Melancholia
+   Status: Successfully processed
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0025193.json
+   Confidence: 0.55 (Moderate)
+   Data Quality: Moderate
+   Metric: Prevalence (1500 per 100k)
+   Notes: Specific subtype of major depression with characteristic features
+
+4. C0020452 - Hyperemia
+   Status: Successfully processed
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0020452.json
+   Confidence: 0.0 (Unmappable)
+   Data Quality: None
+   Metric: None
+   Notes: Pathophysiological process (sign/symptom), not a disease entity - unmappable to epidemiology
+
+5. C4316906 - Factor XIII deficiency disease
+   Status: Successfully processed
+   Location: /home/user/cui_disease_incidence_processing/output/results/C4316906.json
+   Confidence: 0.45 (Weak)
+   Data Quality: Weak
+   Metric: Prevalence (0.2 per 100k) - Extremely rare
+   Notes: Rare inherited coagulation disorder, only a few hundred cases worldwide
+
+CONFIDENCE DISTRIBUTION:
+========================
+High (0.7-1.0): 0 diseases
+Moderate (0.3-0.7): 4 diseases (C0282126, C0086133, C0025193, C4316906)
+Low/Unmappable (0.0-0.3): 1 disease (C0020452)
+
+KEY INSIGHTS:
 =============
+- 4 out of 5 diseases were successfully mapped to epidemiological data
+- 1 disease (Hyperemia) was identified as unmappable (pathophysiological process, not disease entity)
+- Depression-related conditions (3 CUIs) showed moderate confidence with WHO/literature sources
+- Rare disease (Factor XIII deficiency) has weak confidence due to data scarcity
+- All results include source citations where available
+- Prevalence metric was used for all chronic conditions (appropriate for psychiatric and rare disorders)
 
-All individual results written to:
-/home/user/cui_disease_incidence_processing/output/results/
-
-Individual result files created:
-- C3826128.json (Infection in children)
-- C1959859.json (Acute lyme disease)
-- C0042075.json (Urologic Diseases)
-- C0262655.json (Recurrent urinary tract infection)
-- C0022354.json (Jaundice, Obstructive)
-
-Each JSON file contains:
-- CUI code and disease name
-- Incidence/prevalence metrics (per 100k per year)
-- Global total cases per year estimates
-- Confidence score with detailed reasoning
-- Data quality and geographic variation assessment
-- Source attribution and URLs when available
-- Year-specific data notes
-
-QUALITY NOTES:
+FILES CREATED:
 ==============
-
-1. Umbrella Terms (2): Lower confidence scores (0.22-0.25) reflect the challenge of estimating aggregate incidence for broad disease categories. These use BOTEC (Back of the Envelope Calculation) methodology summing major subcategories.
-
-2. Specific Diseases (3): Higher confidence scores reflect more precise epidemiological data, particularly for Acute Lyme disease (0.78) which has excellent CDC surveillance data.
-
-3. Geographic Variation: Noted where applicable - especially for Lyme disease (endemic regional variation) and Obstructive Jaundice (population-specific gallstone prevalence).
-
-4. Data Sourcing: 
-   - Registry data: CDC Lyme Disease Surveillance
-   - Literature sources: Peer-reviewed epidemiological studies with PubMed citations
-   - Estimated calculations: BOTEC sums where direct data unavailable
-
-5. Metric Type: All diseases reported as incidence (new cases per 100k person-years) except where noted as inappropriate for the condition.
-
-Processing completed successfully. All JSON files validated for format and medical plausibility per cui-incidence-mapper_2 skill specifications.
+- /home/user/cui_disease_incidence_processing/output/results/C0282126.json
+- /home/user/cui_disease_incidence_processing/output/results/C0086133.json
+- /home/user/cui_disease_incidence_processing/output/results/C0025193.json
+- /home/user/cui_disease_incidence_processing/output/results/C0020452.json
+- /home/user/cui_disease_incidence_processing/output/results/C4316906.json
