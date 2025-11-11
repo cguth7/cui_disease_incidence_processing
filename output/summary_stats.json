@@ -1,59 +1,75 @@
 {
-  "total_diseases_processed": 953,
-  "processing_batch": "rows_2001_3000",
-  "timestamp": "2025-11-11",
-  "statistics": {
-    "confidence_scores": {
-      "mean": 0.506,
-      "median": 0.55,
-      "min": 0.0,
-      "max": 0.92,
-      "std_dev": 0.225
+  "total_diseases_processed": 3392,
+  "confidence_distribution": {
+    "high (0.7-1.0)": 645,
+    "medium (0.5-0.7)": 914,
+    "low (0.3-0.5)": 463,
+    "very_low (0.0-0.3)": 430
+  },
+  "data_quality_breakdown": {
+    "weak": 662,
+    "moderate": 1057,
+    "strong": 520,
+    "none": 213,
+    "True": 517,
+    "False": 423
+  },
+  "metric_type_counts": {
+    "incidence": 2172,
+    "": 539,
+    "prevalence": 508,
+    "both": 173
+  },
+  "source_type_distribution": {
+    "estimate": 62,
+    "": 1280,
+    "registry": 404,
+    "literature": 706,
+    "null": 940
+  },
+  "subtypes_identified": 1146,
+  "top_data_sources": [
+    {
+      "source": "GLOBOCAN 2005 (IARC)",
+      "count": 94
     },
-    "confidence_distribution": {
-      "high_confidence_\u22650.7": 228,
-      "medium_confidence_0.4-0.69": 447,
-      "low_confidence_<0.4": 278
+    {
+      "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+      "count": 43
     },
-    "data_quality_breakdown": {
-      "moderate": 402,
-      "strong": 176,
-      "none": 80,
-      "weak": 295
+    {
+      "source": "GLOBOCAN 2005",
+      "count": 6
     },
-    "source_type_distribution": {
-      "registry": 140,
-      "literature": 362,
-      "estimate": 36
+    {
+      "source": "WHO Global Burden of Disease 2005",
+      "count": 5
     },
-    "metric_type_counts": {
-      "incidence": 648,
-      "prevalence": 150,
-      "both": 59
+    {
+      "source": "Ferlay J et al. (2010). Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008. Int J Cancer. 127(12):2893-2917",
+      "count": 4
     },
-    "disease_subtypes": 522,
-    "top_10_data_sources": {
-      "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108": 18,
-      "GLOBOCAN 2005 (IARC)": 14,
-      "WHO Global Leprosy Report 2005": 3,
-      "WHO Global Burden of Disease 2005": 3,
-      "GLOBOCAN 2005, WHO (IARC)": 3,
-      "Hoffman JI, Kaplan S. (2002). The incidence of congenital heart disease. J Am Coll Cardiol. 39(12):1890-1900": 2,
-      "Insinga RP et al. (2004). Incidence, duration, and reappearance of type-specific cervical human papillomavirus infections in young women. Cancer Epidemiol Biomarkers Prev. 13(9):1531-1538": 2,
-      "WHO Global Tuberculosis Control Report 2005": 2,
-      "Rahman S et al. (1996). Leigh syndrome: clinical features and biochemical and DNA abnormalities. Ann Neurol. 39(3):343-51": 2,
-      "Paavola P et al. (2005). Clinical and genetic heterogeneity in hydrolethalus syndrome. Hum Genet. 117(6):501-507": 2
+    {
+      "source": "Cancer registries",
+      "count": 4
     },
-    "geographic_variation": {
-      "low": 159,
-      "moderate": 300,
-      "high": 249,
-      "unknown": 245
+    {
+      "source": "Merikangas KR et al. (2007). Lifetime and 12-month prevalence of bipolar spectrum disorder in the National Comorbidity Survey replication. Arch Gen Psychiatry. 64(5):543-552",
+      "count": 3
     },
-    "mappability": {
-      "mappable_diseases": 857,
-      "unmappable_diseases": 96,
-      "mappability_rate": 89.9
+    {
+      "source": "IDF Diabetes Atlas 2005",
+      "count": 3
+    },
+    {
+      "source": "Resnikoff S et al. (2004). Global data on visual impairment. Bull WHO. 82(11):844-851",
+      "count": 3
+    },
+    {
+      "source": "Giudice LC et al. (2004). Endometriosis. Lancet. 364(9447):1789-1799",
+      "count": 3
     }
-  }
+  ],
+  "date_updated": "2025-11-11",
+  "rows_range": "1-3500"
 }

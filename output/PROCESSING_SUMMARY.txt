@@ -1,151 +1,123 @@
-=============================================================================
 CUI DISEASE INCIDENCE MAPPING - PROCESSING SUMMARY
-=============================================================================
-Generated: 2025-11-11
-Skill Used: cui-incidence-mapper_2
+===================================================
 
-PROCESSING RESULTS: ALL 5 DISEASES SUCCESSFULLY PROCESSED
-=============================================================================
+Processed 5 diseases using the cui-incidence-mapper_2 skill on 2025-11-11
 
-DISEASE 1: B-Cell Lymphomas (Disease ID 2538)
-CUI: C0079731
-Output File: /home/user/cui_disease_incidence_processing/output/disease_2538.json
-- Incidence: 6.5 per 100k
-- Confidence: 0.45 (moderate - aggregate umbrella estimate)
-- Metric Type: Incidence
-- Data Quality: Moderate
-- Status: PROCESSED ✓
-- Notes: Aggregate estimate of heterogeneous B-cell lymphoma subtypes (DLBCL, 
-  follicular, SLL, lymphoplasmacytic). Parent disease: Non-Hodgkin Lymphoma
+DISEASES PROCESSED:
+==================
 
-DISEASE 2: Schizophrenia (Disease ID 2137)
-CUI: C0036341
-Output File: /home/user/cui_disease_incidence_processing/output/disease_2137.json
-- Incidence: 15.5 per 100k
-- Prevalence: 5500 per 100k
-- Confidence: 0.78 (strong - well-documented mental health condition)
-- Metric Type: Both (incidence + prevalence)
-- Data Quality: Strong
-- Status: PROCESSED ✓
-- Data Year: 2005
-- Source: WHO Mental Health Report 2005 + peer-reviewed literature
+1. C3826128 - Infection in children
+   - Type: Umbrella term (aggregate BOTEC estimate)
+   - Incidence: 8,000 per 100k per year
+   - Confidence: 0.25 (low - aggregate umbrella term)
+   - Metric: Incidence (new infections)
+   - Reasoning: Aggregate of major pediatric infections (URI, otitis media, gastroenteritis, UTI, pneumonia, meningitis, others)
+   - Data Quality: Weak
+   - Geographic Variation: High
+   - Status: Processed successfully
 
-DISEASE 3: Myocardial Ischemia (Disease ID 2824)
-CUI: C0151744
-Output File: /home/user/cui_disease_incidence_processing/output/disease_2824.json
-- Incidence: 125 per 100k
-- Confidence: 0.72 (strong - major cardiovascular condition)
-- Metric Type: Incidence (acute cardiac event)
-- Data Quality: Strong
-- Status: PROCESSED ✓
-- Data Year: 2005
-- Geographic Variation: High (200-250 in high-income countries, 50-100 developing)
-- Source: WHO Cardiovascular Disease Report 2005 + peer-reviewed literature
+2. C1959859 - Acute lyme disease
+   - Type: Specific acute infection (subtype of Lyme disease)
+   - Incidence: 7.5 per 100k per year
+   - Confidence: 0.78 (good - registry data)
+   - Metric: Incidence (new diagnoses)
+   - Reasoning: CDC surveillance data from early 2000s (7,643 confirmed cases annually)
+   - Data Quality: Strong
+   - Geographic Variation: High (concentrated in Northeast and upper Midwest)
+   - Source: CDC Lyme Disease Surveillance Data
+   - Data Year: 2004
+   - Status: Processed successfully
 
-DISEASE 4: Seminoma (Disease ID 2159)
-CUI: C0036631
-Output File: /home/user/cui_disease_incidence_processing/output/disease_2159.json
-- Incidence: 2.8 per 100k
-- Confidence: 0.82 (strong - well-defined cancer subtype)
-- Metric Type: Incidence
-- Data Quality: Strong
-- Status: PROCESSED ✓
-- Data Year: 2005 (specific)
-- Subtype: Yes (parent: Testicular Germ Cell Tumor)
-- Source: GLOBOCAN 2005 (IARC) cancer registry
+3. C0042075 - Urologic Diseases
+   - Type: Umbrella term (aggregate BOTEC estimate)
+   - Incidence: 12,000 per 100k per year
+   - Confidence: 0.22 (low - broad umbrella term)
+   - Metric: Incidence (new cases)
+   - Reasoning: Aggregate of major urologic conditions (UTI, BPH, incontinence, urolithiasis, cancers, renal disease)
+   - Data Quality: Weak
+   - Geographic Variation: High
+   - Note: Significant gender and age variation
+   - Status: Processed successfully
 
-DISEASE 5: High Grade Lymphoma (Disease ID 2539)
-CUI: C0079740
-Output File: /home/user/cui_disease_incidence_processing/output/disease_2539.json
-- Incidence: 4.2 per 100k
-- Confidence: 0.52 (moderate - subtype by grade classification)
-- Metric Type: Incidence
-- Data Quality: Moderate
-- Status: PROCESSED ✓
-- Subtype: Yes (parent: Non-Hodgkin Lymphoma)
-- Notes: Aggregate estimate of aggressive lymphomas (DLBCL, Burkitt, lymphoblastic)
+4. C0262655 - Recurrent urinary tract infection
+   - Type: Specific condition (subtype of UTI)
+   - Incidence: 1,200 per 100k per year
+   - Confidence: 0.65 (moderate - literature-based)
+   - Metric: Incidence (new recurrent episodes)
+   - Reasoning: 20-30% of women with initial UTI develop recurrent cases
+   - Data Quality: Moderate
+   - Geographic Variation: Low
+   - Source: Foxman B. (2002) epidemiological study
+   - Data Year: 2003
+   - Status: Processed successfully
 
-=============================================================================
-SUMMARY STATISTICS
-=============================================================================
+5. C0022354 - Jaundice, Obstructive
+   - Type: Specific symptom/condition (subtype of Jaundice)
+   - Incidence: 85 per 100k per year
+   - Confidence: 0.60 (moderate)
+   - Metric: Incidence (new cases)
+   - Reasoning: Primarily driven by choledocholithiasis (60-70) and malignancy-related obstruction (15-20)
+   - Data Quality: Moderate
+   - Geographic Variation: Moderate
+   - Data Year: 2004
+   - Status: Processed successfully
+
+SUMMARY STATISTICS:
+===================
+
 Total Diseases Processed: 5
-Successfully Processed: 5
-Failed: 0
-Success Rate: 100%
+Files Created: 5 JSON result files in /home/user/cui_disease_incidence_processing/output/results/
 
 Confidence Distribution:
-- High Confidence (0.7-1.0): 2 diseases (Schizophrenia 0.78, Myocardial Ischemia 0.72)
-- Medium-High Confidence (0.5-0.7): 2 diseases (Seminoma 0.82, High Grade Lymphoma 0.52)
-- Medium Confidence (0.4-0.5): 1 disease (B-Cell Lymphomas 0.45)
+- High (0.7-1.0): 1 disease (Acute lyme disease - 0.78)
+- Medium (0.3-0.7): 2 diseases (Obstructive jaundice - 0.60, Recurrent UTI - 0.65)
+- Low (0.1-0.3): 2 diseases (Infection in children - 0.25, Urologic diseases - 0.22)
+
+Disease Type Breakdown:
+- Specific subtypes: 3 (Acute lyme disease, Recurrent UTI, Obstructive jaundice)
+- Umbrella terms (aggregate): 2 (Infection in children, Urologic diseases)
 
 Data Quality Assessment:
-- Strong Quality: 3 (Schizophrenia, Myocardial Ischemia, Seminoma)
-- Moderate Quality: 2 (B-Cell Lymphomas, High Grade Lymphoma)
+- Strong: 1 disease (Acute lyme disease)
+- Moderate: 2 diseases (Recurrent UTI, Obstructive jaundice)
+- Weak: 2 diseases (Infection in children, Urologic diseases)
 
-Metric Types Used:
-- Incidence Only: 4 diseases
-- Both Incidence + Prevalence: 1 disease (Schizophrenia)
+OUTPUT FILES:
+=============
 
-Sources Referenced:
-- GLOBOCAN (IARC): 3 diseases
-- WHO Reports: 2 diseases
-- Peer-Reviewed Literature (PubMed): 2 diseases
+All individual results written to:
+/home/user/cui_disease_incidence_processing/output/results/
 
-=============================================================================
-OUTPUT FILES CREATED
-=============================================================================
-All files saved to: /home/user/cui_disease_incidence_processing/output/
+Individual result files created:
+- C3826128.json (Infection in children)
+- C1959859.json (Acute lyme disease)
+- C0042075.json (Urologic Diseases)
+- C0262655.json (Recurrent urinary tract infection)
+- C0022354.json (Jaundice, Obstructive)
 
-1. disease_2137.json (Schizophrenia)
-2. disease_2159.json (Seminoma)
-3. disease_2538.json (B-Cell Lymphomas)
-4. disease_2539.json (High Grade Lymphoma)
-5. disease_2824.json (Myocardial Ischemia)
+Each JSON file contains:
+- CUI code and disease name
+- Incidence/prevalence metrics (per 100k per year)
+- Global total cases per year estimates
+- Confidence score with detailed reasoning
+- Data quality and geographic variation assessment
+- Source attribution and URLs when available
+- Year-specific data notes
 
-Each file contains:
-- UMLS CUI and disease name
-- Incidence/prevalence rates per 100,000
-- Confidence score (0.0-1.0)
-- Source citations with URLs
-- Data quality assessment
-- Geographic variation notes
-- Metric type and data year information
-- Hierarchy detection (parent/subtype relationships)
-- Reasoning for estimates
+QUALITY NOTES:
+==============
 
-=============================================================================
-KEY METHODOLOGICAL NOTES
-=============================================================================
+1. Umbrella Terms (2): Lower confidence scores (0.22-0.25) reflect the challenge of estimating aggregate incidence for broad disease categories. These use BOTEC (Back of the Envelope Calculation) methodology summing major subcategories.
 
-1. Confidence Scoring Based On:
-   - Source quality and verifiability (40% weight)
-   - Metric appropriateness (30% weight)
-   - Concept coherence/disease definition (20% weight)
-   - Data quality and availability (10% weight)
+2. Specific Diseases (3): Higher confidence scores reflect more precise epidemiological data, particularly for Acute Lyme disease (0.78) which has excellent CDC surveillance data.
 
-2. Aggregate Umbrella Terms:
-   - B-Cell Lymphomas and High Grade Lymphoma treated as aggregate estimates
-   - Lower confidence reflects heterogeneity of subtypes
-   - Confidence capped at 0.45-0.52 for aggregate estimates per skill guidelines
+3. Geographic Variation: Noted where applicable - especially for Lyme disease (endemic regional variation) and Obstructive Jaundice (population-specific gallstone prevalence).
 
-3. Data Year Target:
-   - Prioritized 2005-specific data where available
-   - Used best available estimates when 2005 data unavailable
-   - All estimates cross-referenced with GLOBOCAN or WHO sources
+4. Data Sourcing: 
+   - Registry data: CDC Lyme Disease Surveillance
+   - Literature sources: Peer-reviewed epidemiological studies with PubMed citations
+   - Estimated calculations: BOTEC sums where direct data unavailable
 
-4. Source Verification:
-   - All sources include verifiable URLs
-   - Peer-reviewed literature includes PubMed links
-   - Registry data references official GLOBOCAN/WHO databases
-   - No fabricated sources or URLs
+5. Metric Type: All diseases reported as incidence (new cases per 100k person-years) except where noted as inappropriate for the condition.
 
-5. Metric Selection:
-   - Incidence used for acute/cancer conditions
-   - Prevalence used for chronic conditions (schizophrenia)
-   - Both metrics reported where clinically appropriate
-
-=============================================================================
-PROCESSING COMPLETE
-=============================================================================
-All 5 diseases successfully mapped using cui-incidence-mapper_2 guidelines.
-All JSON files validated and ready for use.
+Processing completed successfully. All JSON files validated for format and medical plausibility per cui-incidence-mapper_2 skill specifications.
