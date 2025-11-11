@@ -1,0 +1,17 @@
+{
+  "cui": "C0018099",
+  "cui_name": "Gout",
+  "incidence_per_100k": 2.0,
+  "total_cases_per_year": 160000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gout incidence estimated at 1.5-2.5 per 100k globally from multiple epidemiological studies. Well-characterized disease with strong surveillance data from developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Worldwide prevalence of gout: systematic review and meta-analysis",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+  "source_type": "literature"
+}

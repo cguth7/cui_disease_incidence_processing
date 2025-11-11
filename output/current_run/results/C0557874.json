@@ -1,0 +1,17 @@
+{
+  "cui": "C0557874",
+  "cui_name": "Global developmental delay",
+  "incidence_per_100k": 25.0,
+  "total_cases_per_year": 2000000,
+  "confidence": 0.52,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global developmental delay diagnosis incidence estimated ~25 per 100k children per year based on pediatric surveillance and special education enrollment data. Significant variation by country development status and diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "CDC developmental disability surveillance, early intervention data",
+  "source_url": "https://www.cdc.gov/ncbddd/",
+  "source_type": "registry"
+}

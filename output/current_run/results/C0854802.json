@@ -1,0 +1,17 @@
+{
+  "cui": "C0854802",
+  "cui_name": "Recurrent Chronic Lymphoid Leukemia",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Chronic Lymphoid Leukemia",
+  "reasoning": "Chronic lymphocytic leukemia (CLL) overall incidence ~3-5 per 100k in adults. Recurrent/relapsed CLL represents a subset of treated CLL cases. Conservative estimate of recurrence incidence ~1.5 per 100k based on relapse rates from clinical trials.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical trial and leukemia registry data",
+  "source_url": null,
+  "source_type": "registry"
+}

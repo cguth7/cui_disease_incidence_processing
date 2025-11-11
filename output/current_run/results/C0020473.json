@@ -1,0 +1,17 @@
+{
+  "cui": "C0020473",
+  "cui_name": "Hyperlipidemia",
+  "incidence_per_100k": 18.5,
+  "total_cases_per_year": 1480000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global hyperlipidemia incidence ~18.5 per 100k person-years from WHO and epidemiological cohorts. Varies significantly by region (lower in developing nations, higher in developed countries).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "WHO Global Burden of Disease 2004 Update",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)",
+  "source_type": "registry"
+}

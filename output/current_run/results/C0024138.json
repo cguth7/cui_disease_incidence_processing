@@ -1,0 +1,17 @@
+{
+  "cui": "C0024138",
+  "cui_name": "Lupus Erythematosus, Discoid",
+  "incidence_per_100k": 0.4,
+  "total_cases_per_year": 32000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Lupus Erythematosus",
+  "reasoning": "Discoid lupus erythematosus (DLE) is a cutaneous manifestation of lupus spectrum disorder. Incidence estimated at 0.3-0.5 per 100k based on dermatology cohorts and medical literature. Approximately 10-25% of lupus patients have discoid-only disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "Jessop S et al. (2008). Discoid lupus erythematosus: epidemiology and mechanisms of chronic inflammation. Lupus. 17(1):3-9",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18089670/",
+  "source_type": "literature"
+}

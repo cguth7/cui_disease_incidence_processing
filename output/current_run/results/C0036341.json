@@ -1,0 +1,17 @@
+{
+  "cui": "C0036341",
+  "cui_name": "Schizophrenia",
+  "incidence_per_100k": 15.2,
+  "total_cases_per_year": 1216000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global schizophrenia incidence approximately 15-20 per 100k person-years from WHO and major psychiatric epidemiology studies. Strong evidence from multiple registries and longitudinal cohort studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "McGrath J et al. (2008). Schizophrenia: a concise overview of incidence, prevalence, and mortality. Epidemiologic Reviews. 30(1):67-76",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18480098/",
+  "source_type": "literature"
+}

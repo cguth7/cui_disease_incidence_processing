@@ -1,0 +1,17 @@
+{
+  "cui": "C0035334",
+  "cui_name": "Retinitis Pigmentosa",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Retinitis pigmentosa is a rare genetic disorder of photoreceptor degeneration. Incidence estimated at 1-2 per 100k from genetic epidemiology studies, with prevalence approximately 1 in 4000 globally.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Genetic disorder epidemiology and retinal disease registries",
+  "source_url": null,
+  "source_type": "literature"
+}

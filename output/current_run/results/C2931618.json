@@ -1,0 +1,17 @@
+{
+  "cui": "C2931618",
+  "cui_name": "Gestational trophoblastic disease",
+  "incidence_per_100k": 1.5,
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gestational trophoblastic disease affects approximately 1-3 per 100,000 pregnancies globally, translating to ~1.5 per 100k person-years. Data from obstetric registries and WHO reports with geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Reproductive Health Reports and international obstetric registries",
+  "source_url": "https://www.who.int/reproductivehealth",
+  "source_type": "registry"
+}

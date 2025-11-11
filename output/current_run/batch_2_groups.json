@@ -1,0 +1,252 @@
+[
+  {
+    "group_number": 1,
+    "diseases": [
+      {
+        "cui": "C0158266",
+        "name": "Intervertebral Disc Degeneration"
+      },
+      {
+        "cui": "C0023794",
+        "name": "Lipoidosis"
+      },
+      {
+        "cui": "C0600139",
+        "name": "Prostate carcinoma"
+      },
+      {
+        "cui": "C0376358",
+        "name": "Malignant neoplasm of prostate"
+      },
+      {
+        "cui": "C0524620",
+        "name": "Metabolic Syndrome X"
+      }
+    ]
+  },
+  {
+    "group_number": 2,
+    "diseases": [
+      {
+        "cui": "C0424295",
+        "name": "Hyperactive behavior"
+      },
+      {
+        "cui": "C0398689",
+        "name": "Hyper-IgM Immunodeficiency Syndrome, Type 1"
+      },
+      {
+        "cui": "C1519670",
+        "name": "Tumor Angiogenesis"
+      },
+      {
+        "cui": "C0010674",
+        "name": "Cystic Fibrosis"
+      },
+      {
+        "cui": "C0162429",
+        "name": "Malnutrition"
+      }
+    ]
+  },
+  {
+    "group_number": 3,
+    "diseases": [
+      {
+        "cui": "C0205698",
+        "name": "Undifferentiated carcinoma"
+      },
+      {
+        "cui": "C0006142",
+        "name": "Malignant neoplasm of breast"
+      },
+      {
+        "cui": "C0678222",
+        "name": "Breast Carcinoma"
+      },
+      {
+        "cui": "C0264694",
+        "name": "Chronic myocardial ischemia"
+      },
+      {
+        "cui": "C0151744",
+        "name": "Myocardial Ischemia"
+      }
+    ]
+  },
+  {
+    "group_number": 4,
+    "diseases": [
+      {
+        "cui": "C0018802",
+        "name": "Congestive heart failure"
+      },
+      {
+        "cui": "C1868938",
+        "name": "End stage cardiac failure"
+      },
+      {
+        "cui": "C0018801",
+        "name": "Heart failure"
+      },
+      {
+        "cui": "C0494165",
+        "name": "Secondary malignant neoplasm of liver"
+      },
+      {
+        "cui": "C1391732",
+        "name": "Cancer cachexia"
+      }
+    ]
+  },
+  {
+    "group_number": 5,
+    "diseases": [
+      {
+        "cui": "C0007120",
+        "name": "Bronchioloalveolar Adenocarcinoma"
+      },
+      {
+        "cui": "C0023051",
+        "name": "Laryngeal Diseases"
+      },
+      {
+        "cui": "C0021051",
+        "name": "Immunologic Deficiency Syndromes"
+      },
+      {
+        "cui": "C0342386",
+        "name": "Follicle stimulating hormone deficiency"
+      },
+      {
+        "cui": "C0684249",
+        "name": "Carcinoma of lung"
+      }
+    ]
+  },
+  {
+    "group_number": 6,
+    "diseases": [
+      {
+        "cui": "C0024121",
+        "name": "Lung Neoplasms"
+      },
+      {
+        "cui": "C1306460",
+        "name": "Primary malignant neoplasm of lung"
+      },
+      {
+        "cui": "C0242379",
+        "name": "Malignant neoplasm of lung"
+      },
+      {
+        "cui": "C0007137",
+        "name": "Squamous cell carcinoma"
+      },
+      {
+        "cui": "C0699791",
+        "name": "Stomach Carcinoma"
+      }
+    ]
+  },
+  {
+    "group_number": 7,
+    "diseases": [
+      {
+        "cui": "C0024623",
+        "name": "Malignant neoplasm of stomach"
+      },
+      {
+        "cui": "C0206659",
+        "name": "Embryonal Carcinoma"
+      },
+      {
+        "cui": "C0036631",
+        "name": "Seminoma"
+      },
+      {
+        "cui": "C0009404",
+        "name": "Colorectal Neoplasms"
+      },
+      {
+        "cui": "C0206677",
+        "name": "Adenomatous Polyps"
+      }
+    ]
+  },
+  {
+    "group_number": 8,
+    "diseases": [
+      {
+        "cui": "C1302401",
+        "name": "Adenoma of large intestine"
+      },
+      {
+        "cui": "C0024299",
+        "name": "Lymphoma"
+      },
+      {
+        "cui": "C0079740",
+        "name": "High Grade Lymphoma (neoplasm)"
+      },
+      {
+        "cui": "C0038356",
+        "name": "Stomach Neoplasms"
+      },
+      {
+        "cui": "C4721610",
+        "name": "Carcinoma, Ovarian Epithelial"
+      }
+    ]
+  },
+  {
+    "group_number": 9,
+    "diseases": [
+      {
+        "cui": "C1140680",
+        "name": "Malignant neoplasm of ovary"
+      },
+      {
+        "cui": "C4721779",
+        "name": "Ovarian cancer stage IV"
+      },
+      {
+        "cui": "C0919267",
+        "name": "ovarian neoplasm"
+      },
+      {
+        "cui": "C0280217",
+        "name": "stage, non-small cell lung cancer"
+      },
+      {
+        "cui": "C1265996",
+        "name": "Large cell neuroendocrine carcinoma"
+      }
+    ]
+  },
+  {
+    "group_number": 10,
+    "diseases": [
+      {
+        "cui": "C0023467",
+        "name": "Leukemia, Myelocytic, Acute"
+      },
+      {
+        "cui": "C0268381",
+        "name": "Primary amyloidosis"
+      },
+      {
+        "cui": "C1332199",
+        "name": "Adult Desmoplastic Small Round Cell Tumor"
+      },
+      {
+        "cui": "C0281508",
+        "name": "Desmoplastic Small Round Cell Tumor"
+      },
+      {
+        "cui": "C1511789",
+        "name": "Desmoplastic"
+      }
+    ]
+  }
+]

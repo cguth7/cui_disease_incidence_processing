@@ -1,0 +1,17 @@
+{
+  "cui": "C0079731",
+  "cui_name": "B-Cell Lymphomas",
+  "incidence_per_100k": 15.5,
+  "total_cases_per_year": 1240000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Aggregate BOTEC estimate summing major B-cell lymphoma subtypes: DLBCL (~6.5), Follicular lymphoma (~3.0), Small lymphocytic lymphoma (~2.5), Burkitt lymphoma (~0.5), and other B-cell types (~3.0) = ~15.5 per 100k. Low confidence due to heterogeneity and overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Composite estimate from GLOBOCAN 2005 data",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "estimate"
+}

@@ -1,0 +1,17 @@
+{
+  "cui": "C0521170",
+  "cui_name": "Osteoporotic Fractures",
+  "incidence_per_100k": 145.0,
+  "total_cases_per_year": 11600000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Osteoporosis",
+  "reasoning": "Osteoporotic fractures (hip, vertebral, wrist) global incidence ~145 per 100k person-years based on epidemiological studies from 2000s. Hip fractures alone ~9 per 100k; aggregate includes vertebral (~50 per 100k) and wrist fractures.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2002,
+  "source": "Johnell O, Kanis JA. (2006). An estimate of the worldwide prevalence and disability associated with osteoporotic fractures. Osteoporos Int. 17(12):1726-33",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16983459/",
+  "source_type": "literature"
+}

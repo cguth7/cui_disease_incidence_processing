@@ -1,0 +1,17 @@
+{
+  "cui": "C0026764",
+  "cui_name": "Multiple Myeloma",
+  "incidence_per_100k": 4.2,
+  "total_cases_per_year": 336000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Hematologic Malignancies",
+  "reasoning": "Multiple myeloma incidence from GLOBOCAN 2005 and cancer registry data: approximately 3.5-4.5 per 100k globally. Well-characterized malignancy with consistent registry reporting across developed nations. Moderate geographic variation with higher rates in developed countries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) and International Myeloma Working Group epidemiology",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

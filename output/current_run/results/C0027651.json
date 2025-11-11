@@ -1,0 +1,17 @@
+{
+  "cui": "C0027651",
+  "cui_name": "Neoplasms",
+  "incidence_per_100k": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Neoplasms is an overly broad umbrella term encompassing benign and malignant tumors across all organ systems. Too heterogeneous to provide meaningful incidence estimate without organ/histological specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

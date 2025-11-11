@@ -1,0 +1,17 @@
+{
+  "cui": "C0339535",
+  "cui_name": "Night blindness, congenital stationary",
+  "incidence_per_100k": "extremely rare",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Retinal Dystrophy / Night blindness",
+  "reasoning": "Rare X-linked or autosomal recessive retinal dystrophy affecting rod photoreceptors. Fewer than 100 reported cases worldwide; estimated <0.05 per 100k births based on case frequency in ophthalmology literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ophthalmology case reports and rare disease registries",
+  "source_url": null,
+  "source_type": "literature"
+}

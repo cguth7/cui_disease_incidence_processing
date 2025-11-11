@@ -1,0 +1,17 @@
+{
+  "cui": "C0006826",
+  "cui_name": "Malignant Neoplasms",
+  "incidence_per_100k": 143,
+  "total_cases_per_year": 11440000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing all major cancer types from GLOBOCAN 2005: includes lung (~12.5%), breast (~10%), colorectal (~9%), liver (~7%), stomach (~6%), prostate (~5%), cervical (~5%), non-Hodgkin lymphoma (~3%), leukemia (~2.5%), pancreas (~2.5%) and other cancers. Total global estimate ~143 per 100k. Low confidence due to extreme heterogeneity of tumor types with vastly different biology and incidence patterns.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

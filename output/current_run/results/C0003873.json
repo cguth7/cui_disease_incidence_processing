@@ -1,0 +1,17 @@
+{
+  "cui": "C0003873",
+  "cui_name": "Rheumatoid Arthritis",
+  "incidence_per_100k": 0.8,
+  "total_cases_per_year": 64000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Arthritis",
+  "reasoning": "Rheumatoid arthritis incidence approximately 0.5-1.0 per 100k globally from epidemiological cohort studies and registry data. Well-characterized autoimmune disease with consistent incidence estimates across developed countries. Female predominance (2-3:1).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO/ILAR epidemiology taskforce and national rheumatoid arthritis registries",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+  "source_type": "literature"
+}

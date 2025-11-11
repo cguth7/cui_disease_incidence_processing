@@ -1,0 +1,17 @@
+{
+  "cui": "C0036920",
+  "cui_name": "Sezary Syndrome",
+  "incidence_per_100k": 0.35,
+  "total_cases_per_year": 28000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Cutaneous T-cell Lymphoma",
+  "reasoning": "Sezary syndrome is a rare cutaneous T-cell lymphoma with incidence ~0.3-0.4 per 100k globally based on limited registry data. SEER data indicates ~0.35 per 100k in United States; likely similar or slightly lower in other developed nations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "SEER Cancer Statistics Review (2003), National Cancer Institute",
+  "source_url": "https://seer.cancer.gov/",
+  "source_type": "registry"
+}

@@ -1,0 +1,17 @@
+{
+  "cui": "C0008493",
+  "cui_name": "Hydatidiform Mole, Invasive",
+  "incidence_per_100k": 0.5,
+  "total_cases_per_year": 40000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Gestational trophoblastic disease",
+  "reasoning": "Invasive hydatidiform mole (molar invasion) occurs in approximately 10-15% of molar pregnancies, with estimated incidence ~0.5 per 100k person-years. Derived from obstetric pathology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International Federation of Gynecology and Obstetrics (FIGO) guidelines and pathology studies",
+  "source_url": null,
+  "source_type": "literature"
+}

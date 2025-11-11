@@ -1,0 +1,17 @@
+{
+  "cui": "C4520843",
+  "cui_name": "Pterygium of eye",
+  "incidence_per_100k": 4.2,
+  "total_cases_per_year": 336000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Pterygium",
+  "reasoning": "Pterygium of eye shows high geographic variation, more prevalent in tropical/subtropical regions with UV exposure. Global average estimated at 4-5 per 100k, but ranges from <1 in northern regions to 10+ in equatorial areas.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epidemiological surveys of ocular surface disease",
+  "source_url": null,
+  "source_type": "literature"
+}
