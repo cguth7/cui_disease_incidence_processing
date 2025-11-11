@@ -1,40 +1,29 @@
 {
-  "total_diseases_processed": 956,
+  "total_processed": 507,
+  "batch_range": "1001-1500",
   "confidence_distribution": {
-    "high_0.7_to_1.0": 333,
-    "medium_0.4_to_0.7": 337,
-    "low_0.0_to_0.4": 169,
-    "unmappable_0.0": 68
+    "high (0.7-1.0)": 97,
+    "medium (0.3-0.7)": 347,
+    "low (0.1-0.3)": 28,
+    "unmappable (0.0)": 35
   },
   "data_quality_breakdown": {
-    "weak": 253,
-    "strong": 288,
-    "moderate": 298,
-    "none": 116,
-    "unknown": 1
+    "moderate": 324,
+    "none": 36,
+    "strong": 96,
+    "weak": 51
   },
   "metric_type_counts": {
-    "incidence": 621,
-    "": 71,
-    "prevalence": 112,
-    "both": 63,
-    "null": 38,
-    "unknown": 51
+    "null": 176,
+    "incidence": 279,
+    "prevalence": 49,
+    "both": 3
   },
   "source_type_distribution": {
-    "estimate": 36,
-    "registry": 208,
-    "": 149,
-    "literature": 344,
-    "null": 218,
-    "unknown": 1
+    "null": 352,
+    "literature": 116,
+    "registry": 39
   },
-  "subtypes_identified": 230,
-  "geographic_variation": {
-    "high": 308,
-    "moderate": 292,
-    "unknown": 212,
-    "low": 143,
-    "extremely high": 1
-  }
+  "subtypes_identified": 170,
+  "review_needed": 63
 }
