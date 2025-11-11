@@ -1,0 +1,13 @@
+{
+  "total_processed": 50,
+  "confidence_distribution": {
+    "high (0.7-1.0)": 14,
+    "medium (0.3-0.7)": 36,
+    "low (0.1-0.3)": 0,
+    "unmappable (0.0)": 0
+  },
+  "subtypes_identified": 13,
+  "with_incidence_data": 18,
+  "with_prevalence_data": 8,
+  "no_data": 24
+}
