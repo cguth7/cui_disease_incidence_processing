@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206081",
+    "cui_name": "Hyperandrogenism",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 7500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 600000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hyperandrogenism is a chronic endocrine condition characterized by elevated androgen levels, predominantly affecting women. Reported as prevalence (~7.5% of women globally) rather than incidence. Most commonly associated with PCOS, though can occur with adrenal/ovarian pathology or CAH. Prevalence varies significantly by diagnostic criteria (clinical vs biochemical) and ethnicity (higher in South Asian and Middle Eastern populations). Confidence moderate due to heterogeneous definitions and limited population-based epidemiological studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Rotterdam PCOS consensus and multiple epidemiological studies on PCOS prevalence (Azziz R et al., Aplin J et al.)",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

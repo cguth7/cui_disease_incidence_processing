@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1332985",
+    "cui_name": "Childhood Nodular Lymphocyte Predominant Hodgkin Lymphoma",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Hodgkin Lymphoma",
+    "reasoning": "Rare childhood subtype of Hodgkin Lymphoma. NLPHL represents ~5% of all HL cases; childhood HL incidence ~1-2 per 100k in pediatric populations, suggesting childhood NLPHL ~0.05-0.15 per 100k globally. Estimate based on proportional breakdown of subtype prevalence.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

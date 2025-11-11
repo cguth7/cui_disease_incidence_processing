@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1136249",
+    "cui_name": "Mental Retardation, X-Linked",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1200,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 96000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "X-linked intellectual disability (XLID) is a genetically heterogeneous group of conditions caused by mutations in genes on the X chromosome. Reported as prevalence rather than incidence since this is a lifelong genetic condition. Population prevalence estimated at ~1.2% (12,000 per 100k), primarily affecting males. XLID accounts for 5-10% of all intellectual disability cases globally.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Ropers HH. (2010). X-linked mental retardation: genes, proteins, and clinical features. J Clin Invest. 120(11):4131-4140",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21084748/",
+    "source_type": "literature"
+  }
+]

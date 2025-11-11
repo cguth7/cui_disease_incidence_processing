@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2347747",
+    "cui_name": "Adult Classical Hodgkin Lymphoma",
+    "incidence_per_100k": 2.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 224000,
+    "confidence": 0.85,
+    "is_subtype": true,
+    "parent_disease": "Hodgkin Lymphoma",
+    "reasoning": "Adult classical Hodgkin lymphoma (cHL) represents ~95% of Hodgkin lymphoma cases globally with an incidence of approximately 2.8 per 100,000 person-years based on GLOBOCAN 2005 data. The classical form is the most common histological type with well-documented epidemiology.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - Global Cancer Observatory",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

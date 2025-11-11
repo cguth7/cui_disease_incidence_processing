@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278721",
+    "cui_name": "Adult Lymphoblastic Lymphoma",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Non-Hodgkin Lymphoma",
+    "reasoning": "Adult lymphoblastic lymphoma is a rare hematologic malignancy with estimated incidence of 1.5 per 100k person-years globally based on GLOBOCAN 2005 cancer registry data. Subtype of NHL with distinct clinical entity.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

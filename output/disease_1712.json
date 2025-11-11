@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1319315",
+    "cui_name": "Adenocarcinoma of large intestine",
+    "incidence_per_100k": 28.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 2280000,
+    "confidence": 0.85,
+    "is_subtype": true,
+    "parent_disease": "Colorectal cancer",
+    "reasoning": "Adenocarcinoma comprises >90% of colorectal cancers. Global colorectal cancer incidence from GLOBOCAN 2005 is approximately 30 per 100k; adenocarcinoma represents the primary histological subtype at ~28.5 per 100k.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+    "source_type": "literature"
+  }
+]

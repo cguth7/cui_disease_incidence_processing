@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0747078",
+    "cui_name": "Generalized osteopenia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 8500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Bone Density Disorders",
+    "reasoning": "Osteopenia is a chronic bone condition measured by DEXA scan T-scores (-1.0 to -2.5 SD). Prevalence preferred over incidence for this chronic condition. Global estimate ~8.5% of adult population based on WHO diagnostic criteria and population-based studies (NHANES and similar).",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2010,
+    "source": "Kanis JA et al. (2008). Assessment of osteoporosis at the primary health-care level. WHO Scientific Group Technical Report Series 939",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/18292287/",
+    "source_type": "literature"
+  }
+]

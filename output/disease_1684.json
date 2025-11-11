@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0741916",
+    "cui_name": "Cardiac defects",
+    "incidence_per_100k": 13.4,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 845000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major congenital cardiac defect subcategories: VSD (~2-3 per 1000 births), ASD (~1 per 1000), PDA (~0.5 per 1000), pulmonary stenosis (~0.5 per 1000), aortic stenosis (~0.5 per 1000), tetralogy of Fallot (~0.3 per 1000), coarctation (~0.3 per 1000), transposition (~0.2 per 1000), and others (~0.2 per 1000) totaling ~6.5 per 1000 live births, translating to ~13.4 per 100k person-years globally. Confidence limited due to umbrella term heterogeneity and significant geographic variation.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

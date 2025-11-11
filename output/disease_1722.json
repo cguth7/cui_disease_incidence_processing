@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0149521",
+    "cui_name": "Pancreatitis, Chronic",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": 5.0,
+    "metric_type": "both",
+    "total_cases_per_year": 120000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Pancreatitis",
+    "reasoning": "Chronic pancreatitis incidence reported at ~1.5 per 100k person-years globally from multiple epidemiological studies. Prevalence ~5 per 100k due to chronicity and disease duration. Both metrics relevant for this chronic condition with progressive course.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2004,
+    "source": "Yadav D, Lowenfels AB. (2006). The epidemiology of pancreatitis and pancreatic cancer. Gastroenterology. 144(6):1252-1261",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16730261/",
+    "source_type": "literature"
+  }
+]

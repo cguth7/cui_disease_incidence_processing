@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4552766",
+    "cui_name": "Miscarriage",
+    "incidence_per_100k": 1200,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 96000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Miscarriage rate among women of reproductive age: approximately 15% of pregnancies (~140 million annual pregnancies globally) result in miscarriage, yielding ~21 million cases/year. Calculated as rate per 100k women of reproductive age. Moderate confidence: strong epidemiological data on miscarriage rates, but metric (person-years) does not align perfectly with pregnancy outcome measurement.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "ACOG Clinical Practice Guidelines and WHO estimates on miscarriage epidemiology",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

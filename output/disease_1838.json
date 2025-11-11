@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0342882",
+    "cui_name": "Familial hypercholesterolemia - heterozygous",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 300,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 24000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Familial Hypercholesterolemia",
+    "reasoning": "Heterozygous FH is a lifelong genetic disorder; prevalence approximately 300 per 100k (approximately 1 in 250-400 people globally) based on population screening and genetic registry data. Reporting prevalence rather than incidence as this is a chronic genetic condition.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "International FH Registries (EAS, WHO guidance); population-based genetic screening studies",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

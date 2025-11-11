@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0399372",
+    "cui_name": "Amelogenesis Imperfecta hypomaturation type",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Amelogenesis Imperfecta",
+    "reasoning": "Amelogenesis imperfecta hypomaturation type is a rare genetic disorder affecting enamel mineralization. Using prevalence metric appropriate for this genetic condition. Estimated ~1.5 per 100k based on amelogenesis imperfecta overall prevalence of 1:6,000 to 1:30,000, with hypomaturation type representing a subset.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206647",
+    "cui_name": "Dermatofibrosarcoma",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 64000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": "Soft tissue sarcoma",
+    "reasoning": "Dermatofibrosarcoma protuberans (DFSP) is a rare soft tissue sarcoma with incidence estimated at 0.8 per 100k person-years based on SEER cancer registry data. A specific, well-defined disease entity with clear diagnostic criteria.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "SEER Cancer Statistics (Surveillance, Epidemiology, and End Results Program)",
+    "source_url": "https://seer.cancer.gov/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0085426",
+    "cui_name": "Gram-Positive Bacterial Infections",
+    "incidence_per_100k": 20.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1640000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major gram-positive bacterial infection categories: community-acquired pneumonia (3-4), skin/soft tissue infections (8-10), bloodstream infections (2-3), meningitis (1-2), endocarditis (1-2), other invasive infections (1-2). Total ~20.5 per 100k globally. Heterogeneous category with significant overlap and geographic variation due to antimicrobial resistance patterns and population differences.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

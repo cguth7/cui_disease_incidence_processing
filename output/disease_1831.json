@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4551632",
+    "cui_name": "Recurrent pancreatitis",
+    "incidence_per_100k": 6.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 520000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Pancreatitis",
+    "reasoning": "Recurrent pancreatitis represents approximately 20-30% of acute pancreatitis cases. Based on global acute pancreatitis incidence of 20-30 per 100k, recurrent episodes estimated at ~6.5 per 100k. Limited specific epidemiological data on recurrent pancreatitis; confidence reflects moderate data availability.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

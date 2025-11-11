@@ -1,0 +1,19 @@
+{
+  "cui": "C0456889",
+  "cui_name": "Enteropathy-Associated T-Cell Lymphoma",
+  "incidence_per_100k": 0.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 56000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "T-Cell Lymphoma",
+  "reasoning": "EATL is a rare T-cell lymphoma strongly associated with celiac disease. Global incidence estimated at ~0.5-1.0 per 100k based on limited epidemiological data from European case series and pathology registry reviews. Highest incidence in populations with high celiac disease prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

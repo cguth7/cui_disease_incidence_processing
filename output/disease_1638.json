@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1384600",
+    "cui_name": "Systemic onset juvenile chronic arthritis",
+    "incidence_per_100k": 0.18,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 14400,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Juvenile Idiopathic Arthritis",
+    "reasoning": "Systemic-onset JIA (also called systemic JIA) represents 10-20% of JIA cases. Estimated global incidence ~0.18 per 100k children annually based on Scandinavian and North American pediatric rheumatology registry data, though global coverage limited.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2008,
+    "source": "Petty RE et al. (2004). International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision. J Rheumatol. 31(2):390-392",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14760812/",
+    "source_type": "literature"
+  }
+]

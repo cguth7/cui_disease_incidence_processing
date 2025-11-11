@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0010414",
+    "cui_name": "Cryptococcosis",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Cryptococcosis is a well-defined fungal infection caused by Cryptococcus neoformans. Global incidence estimated at approximately 3-4 per 100k person-years based on epidemiological surveillance data. Significantly higher in immunocompromised populations (particularly HIV+) and sub-Saharan Africa, where rates exceed 1000 per 100k in some studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

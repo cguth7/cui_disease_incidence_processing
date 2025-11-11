@@ -1,0 +1,19 @@
+{
+  "cui": "C0855002",
+  "cui_name": "Recurrent Lung Carcinoma Cell Type Unspecified",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Lung Carcinoma",
+  "reasoning": "Lung cancer recurrence incidence estimated at ~5.2 per 100k based on GLOBOCAN 2005 primary lung cancer incidence (~16 per 100k) with estimated 30-35% annual recurrence rate among survivors. 'Cell type unspecified' introduces diagnostic uncertainty and reduces confidence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC); recurrence estimates derived from epidemiological literature",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "literature"
+}

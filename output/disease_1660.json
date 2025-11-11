@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206693",
+    "cui_name": "Medullary carcinoma",
+    "incidence_per_100k": 0.6,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 48000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Thyroid Neoplasms",
+    "reasoning": "Medullary thyroid carcinoma (MTC) represents 3-5% of thyroid cancers. Global incidence estimated at 0.5-0.7 per 100k person-years based on GLOBOCAN 2005 data showing thyroid cancer at ~10 per 100k with MTC comprising minority. Confidence moderate due to heterogeneity across geographic regions and both sporadic/familial forms.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - Thyroid cancer incidence with MTC subtype proportion",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

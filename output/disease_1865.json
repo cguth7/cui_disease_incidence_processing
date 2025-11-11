@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4281785",
+    "cui_name": "Childhood Absence Epilepsy",
+    "incidence_per_100k": 0.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Epilepsy",
+    "reasoning": "CAE is a well-defined childhood-onset epilepsy syndrome with incidence ~0.7 per 100k person-years based on population-based studies. Metric is incidence (new diagnoses). Geographic variation moderate with higher rates in some European populations.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Forsgren L et al. (2005). The epidemiology of epilepsy in Europe. Epilepsia. 46(3):339-348",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15730538/",
+    "source_type": "literature"
+  }
+]

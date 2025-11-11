@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0030436",
+    "cui_name": "Parakeratosis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Unmappable: Parakeratosis is a histopathological finding (abnormal keratinization with persistence of nuclei in stratum corneum), not a disease entity. It occurs as a secondary change in various dermatological conditions (psoriasis, eczema, seborrheic dermatitis, pityriasis rubra pilaris). Incidence data is not meaningful for a pathological descriptor.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

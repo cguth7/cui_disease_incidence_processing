@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3662528",
+    "cui_name": "Discogenic pain",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 18000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1440000000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Back pain / Spinal pain",
+    "reasoning": "Prevalence-based chronic pain condition. Discogenic pain affects 18% of population (18,000 per 100k) based on imaging-identified disc degeneration with pain, derived from low back pain epidemiology studies. Estimated as subset of broader LBP burden affecting 4-6% with specific discogenic etiology.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Brinjikji W et al. (2015). Systematic literature review of imaging features of spinal degeneration in asymptomatic populations. AJNR Am J Neuroradiol. 36(4):811-816",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/25430861/",
+    "source_type": "literature"
+  }
+]

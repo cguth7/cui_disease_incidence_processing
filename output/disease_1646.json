@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0546966",
+    "cui_name": "Monilethrix",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Monilethrix is an extremely rare autosomal dominant genetic hair shaft disorder with beaded appearance. <0.01 per 100k based on limited case reports and isolated epidemiological data. No systematic population-based incidence studies found.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

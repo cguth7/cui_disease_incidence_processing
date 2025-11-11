@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3160889",
+    "cui_name": "Node-negative breast cancer",
+    "incidence_per_100k": 24.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1960000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Breast Cancer",
+    "reasoning": "Node-negative breast cancer represents approximately 50-60% of breast cancer diagnoses. Global breast cancer incidence ~43-50 per 100k (women); node-negative subset estimated at ~24.5 per 100k based on nodal status frequency from cancer registry data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108; supplemented with cancer registry nodal status distributions",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+    "source_type": "literature"
+  }
+]

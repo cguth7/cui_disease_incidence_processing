@@ -1,0 +1,19 @@
+{
+  "cui": "C0334517",
+  "cui_name": "Spermatocytic seminoma",
+  "incidence_per_100k": 0.25,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 20000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Seminoma",
+  "reasoning": "Rare testicular cancer subtype. Spermatocytic seminoma comprises approximately 2-3% of seminomas, which represent 40-50% of testicular germ cell tumors. Estimated incidence of ~0.25 per 100k (males) based on testicular cancer baseline (~10 per 100k males) with subtype distribution. Limited specific epidemiological data available for this rare subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

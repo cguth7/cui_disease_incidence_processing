@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0022572",
+    "cui_name": "Keratoacanthoma",
+    "incidence_per_100k": 5.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 416000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": "Skin Neoplasm",
+    "reasoning": "Keratoacanthoma is a rapidly growing benign skin lesion often clinically and histopathologically confused with squamous cell carcinoma. Estimated incidence ~5 per 100k based on dermatology case series and skin lesion prevalence studies. Limited epidemiological data; not tracked by major cancer registries.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

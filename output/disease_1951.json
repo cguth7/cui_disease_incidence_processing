@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0271932",
+    "cui_name": "Anemia of chronic renal failure",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 4200,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 336000000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Chronic Kidney Disease",
+    "reasoning": "Secondary anemia complicating chronic kidney disease. Reported as prevalence (not incidence) since this is a chronic complication of CKD. Prevalence estimated at 4,200 per 100k population based on approximately 3-4% of adults with CKD-associated anemia.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

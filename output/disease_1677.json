@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3888461",
+    "cui_name": "Dry age-related macular degeneration",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 310,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 24800000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Age-related macular degeneration",
+    "reasoning": "Dry AMD is a chronic progressive condition affecting elderly populations; prevalence is the appropriate metric. Global prevalence estimated at ~310 per 100k based on age-specific rates from major epidemiological studies, heavily weighted toward adults aged 60+. Dry form represents approximately 80% of all AMD cases.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Congdon N et al. (2004). Causes and prevalence of visual impairment among adults in the United States. Arch Ophthalmol. 122(4):477-485; WHO disease burden estimates",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15078665/",
+    "source_type": "literature"
+  }
+]

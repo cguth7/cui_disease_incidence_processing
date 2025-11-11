@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018021",
+    "cui_name": "Goiter",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 12500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1000000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Goiter measured as prevalence (existing thyroid enlargement). WHO estimates ~1 billion cases globally (~12,500 per 100k), varying by region and iodine intake. This is a clinical manifestation rather than incidence-based disease.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Global Burden of Disease estimates on iodine deficiency disorder and goiter prevalence",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

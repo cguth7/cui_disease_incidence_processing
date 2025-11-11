@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0751111",
+    "cui_name": "Awakening Epilepsy",
+    "incidence_per_100k": 15.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1200000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Childhood Epilepsy",
+    "reasoning": "Benign Rolandic Epilepsy (awakening epilepsy) is the most common childhood epilepsy with incidence ~15 per 100k children per year. Reporting incidence (new diagnoses) rather than prevalence. Estimate based on epidemiological studies from pediatric populations.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Eeg-Olofsson O et al. (1982). The natural history of benign rolandic epilepsy of childhood. Epilepsia. 23(1):61-75. Also referenced in Camfield PR & Camfield CS (1994). Epileptic syndromes in childhood. Clin Neurosci. 2(3):165-168",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/7044436/",
+    "source_type": "literature"
+  }
+]

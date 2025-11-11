@@ -1,0 +1,19 @@
+{
+  "cui": "C0221355",
+  "cui_name": "Macrocephaly",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Macrocephaly is a clinical finding (head circumference >2 SD above mean) with multiple underlying etiologies including benign familial macrocephaly, hydrocephalus, and genetic syndromes. Estimated ~5 per 100k live births based on prevalence of major causative conditions. Limited specific epidemiological data as standalone symptom.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

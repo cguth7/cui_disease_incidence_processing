@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0010278",
+    "cui_name": "Craniosynostosis",
+    "incidence_per_100k": 50,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Birth incidence of craniosynostosis (non-syndromic and syndromic combined) approximately 1 in 2000 live births, or ~50 per 100,000 live births. Reported as incidence at birth. Non-syndromic forms account for ~80% of cases, syndromic forms ~20%.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Cohen MM Jr. (1992). The Child with Multiple Birth Defects. Oxford University Press, 2nd edition. Citing epidemiological compilations of birth defect registries.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "source_type": "literature"
+  }
+]

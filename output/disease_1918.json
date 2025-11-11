@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0595921",
+    "cui_name": "Intraocular pressure disorder",
+    "incidence_per_100k": 25.0,
+    "prevalence_per_100k": 3500.0,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 280000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": "Glaucoma",
+    "reasoning": "Intraocular pressure disorder (elevated IOP) is a key risk factor for glaucoma with prevalence estimates of 3-4% in adults globally. Using prevalence metric (existing cases) rather than incidence due to chronic nature and gradual development.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Quigley HA et al. (2006). The number of people with glaucoma worldwide in 2010 and 2020. Br J Ophthalmol. 90(3):262-267",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16488940/",
+    "source_type": "literature"
+  }
+]

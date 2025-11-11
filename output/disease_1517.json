@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0029233",
+    "cui_name": "Ocular Toxoplasmosis",
+    "incidence_per_100k": 2.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 160000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Toxoplasmosis",
+    "reasoning": "Ocular toxoplasmosis incidence estimated at ~2 per 100k in developed countries based on ophthalmology literature, but varies significantly by region and population seroprevalence (Toxoplasma gondii). Low-moderate confidence due to limited population-based epidemiological data specifically for ocular manifestation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

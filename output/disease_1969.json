@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2699510",
+    "cui_name": "Split-Hand/Foot Malformation",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare congenital developmental disorder (ectrodactyly) with estimated incidence of 1-2.4 per 100k births. Using midpoint estimate of 1.5 per 100k. Moderate confidence based on limited systematic epidemiological data; primarily documented through case reports and genetic registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

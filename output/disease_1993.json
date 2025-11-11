@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0271829",
+    "cui_name": "Pendred's syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.7,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Genetic Thyroid Disorders",
+    "reasoning": "Pendred syndrome is an autosomal recessive genetic disorder characterized by congenital thyroid goiter and sensorineural hearing loss. Prevalence estimated at 4-10 per million globally (0.4-1 per 100k), using midpoint ~0.7 per 100k. Metric: prevalence (lifelong genetic condition, not acute incidence).",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Cremers CWRJ et al. (1998). Hearing loss in Pendred syndrome. Arch Otolaryngol Head Neck Surg. 124(4):421-426",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/9559689/",
+    "source_type": "literature"
+  }
+]

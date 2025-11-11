@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3160909",
+    "cui_name": "Autoimmune arthritis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 8500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Autoimmune arthritis is an umbrella term encompassing rheumatoid arthritis (RA ~0.5-1% prevalence), juvenile idiopathic arthritis (JIA ~0.1%), and other autoimmune arthritides. Aggregate prevalence estimate ~8.5% (8,500 per 100k). Metric: prevalence appropriate for chronic disease. Low confidence reflects aggregate nature and lack of unified epidemiological estimates for the umbrella category.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

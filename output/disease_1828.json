@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0001624",
+    "cui_name": "Adrenal Gland Neoplasms",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term covering benign adenomas, adrenocortical carcinoma (0.05-0.2 per 100k), pheochromocytomas (0.2-0.8 per 100k), and other adrenal neoplasms. Aggregate estimate of ~1.5 per 100k for clinically diagnosed cases. Confidence reduced due to heterogeneity and varying clinical significance of lesions (many benign adenomas are asymptomatic incidentalomas).",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Aggregate estimate based on subtypes: adrenocortical carcinoma, pheochromocytoma, benign functional adenomas",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

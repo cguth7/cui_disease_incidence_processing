@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0311338",
+    "cui_name": "Fundus Albipunctatus",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": "Inherited Retinal Dystrophy",
+    "reasoning": "Fundus albipunctatus is a rare inherited retinal dystrophy characterized by white punctate lesions at the RPE level. No systematic epidemiological incidence data available; estimated <0.1 per 100k births based on case reports and genetic registries.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

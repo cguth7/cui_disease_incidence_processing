@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0235522",
+    "cui_name": "Disorder of vein",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 22000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1760000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for umbrella term encompassing: varicose veins (~25% population), chronic venous insufficiency (~15%), superficial thrombophlebitis, and venous occlusion. Global prevalence estimate ~22,000 per 100k. Using prevalence rather than incidence as most vein disorders are chronic conditions.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

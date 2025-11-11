@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0543991",
+    "cui_name": "Chronic primary angle closure glaucoma",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 150,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Angle Closure Glaucoma",
+    "reasoning": "Chronic primary angle closure glaucoma is a specific subtype of angle closure glaucoma, a chronic ophthalmic condition measured by prevalence (existing cases), not incidence. Estimated global prevalence ~150 per 100k based on angle closure representing 10-20% of glaucoma cases (overall glaucoma prevalence ~800-1000 per 100k) with chronic forms being subset of angle closure presentations.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

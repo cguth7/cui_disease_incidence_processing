@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1262760",
+    "cui_name": "Hepatitis, Drug-Induced",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.2,
+    "is_subtype": true,
+    "parent_disease": "Hepatitis",
+    "reasoning": "Drug-induced hepatitis lacks systematic population-based incidence surveillance. Clinical incidence reported as adverse event rates associated with specific medications (e.g., 1-100 per 100,000 users depending on drug), not population-level rates. Estimated <1 per 100k in general population due to medication exposure variability. No reliable global epidemiological estimate available.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

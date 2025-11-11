@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0850673",
+    "cui_name": "Congenital Metabolic Disorder",
+    "incidence_per_100k": 3.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 240000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for congenital metabolic disorder umbrella term summing major subcategories: amino acid metabolism disorders, organic acid disorders, urea cycle disorders, fatty acid oxidation disorders, lysosomal storage diseases, mitochondrial disorders, glycogen storage diseases, and other inherited metabolic conditions (~1-4 per 100k births, converting to ~3 per 100k population incidence annually). Low confidence due to extreme heterogeneity, diagnostic variability across regions, and high rate of undiagnosed cases in low-resource settings.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

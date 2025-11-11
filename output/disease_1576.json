@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0017154",
+    "cui_name": "Gastritis, Atrophic",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 4500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 360000000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Gastritis",
+    "reasoning": "Chronic gastrointestinal condition measured as prevalence. Atrophic gastritis prevalence estimated at 4.5% globally based on endoscopic survey data, varying from 2-3% in low H. pylori regions to 6-8% in high-prevalence areas.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

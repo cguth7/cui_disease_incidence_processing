@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1961835",
+    "cui_name": "Gaucher Disease, Type 1",
+    "incidence_per_100k": 1.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 144000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Gaucher Disease",
+    "reasoning": "Type 1 Gaucher disease (non-neuronopathic) incidence estimated at ~1.8 per 100,000 live births globally based on multiple population registries. Type 1 is the most common form (~90% of Gaucher cases). Moderate confidence due to geographic variation (higher in Ashkenazi Jewish populations, lower in other populations) and variation across studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Meikle PJ et al. (2006). Prevalence of lysosomal storage disorders. JAMA. 296(8):949-951",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16926356/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cui": "C1850362",
+  "cui_name": "Night Blindness, Congenital Stationary, Type 1B",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Congenital Stationary Night Blindness",
+  "reasoning": "CSNB type 1B is an extremely rare autosomal recessive genetic disorder affecting night vision, caused by mutations in genes encoding rod photoreceptor proteins (GRM6, TRPM1, NYX). Estimated <0.01 per 100k incidence based on sparse case reports from genetic registries. No systematic population-based epidemiological studies available for this specific subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1865020",
+    "cui_name": "Short QT Syndrome 1",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.2,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 16000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Short QT Syndrome",
+    "reasoning": "SQTS1 is a rare genetic channelopathy with autosomal dominant inheritance. Prevalence estimated at ~0.2 per 100k based on clinical case frequency and pedigree studies. This is the most common form of SQTS, but systematic epidemiological data is limited.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

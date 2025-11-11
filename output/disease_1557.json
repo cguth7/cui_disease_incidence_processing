@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0276496",
+    "cui_name": "Familial Alzheimer Disease",
+    "incidence_per_100k": 0.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 64000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Alzheimer's disease",
+    "reasoning": "Familial Alzheimer disease (FAD) represents ~5-10% of Alzheimer cases with early onset (<65 years). Estimated incidence ~0.8 per 100k based on family study data and case frequency analysis. Confidence limited by lack of dedicated epidemiological registries and heterogeneity in ascertainment across regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

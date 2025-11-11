@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0403447",
+    "cui_name": "Chronic Kidney Insufficiency",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 8500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 680000000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Chronic kidney disease prevalence reported as ~8.5% globally (8,500 per 100k). CKD defined as GFR <60 mL/min/1.73m2 or evidence of kidney damage. Measured as prevalence (existing cases) rather than incidence, as CKD is a chronic progressive condition without discrete onset.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2007,
+    "source": "Eckardt KU et al. (2013). Evolving importance of kidney disease: from subspecialty to global health burden. Lancet. 382(9887):158-169",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23727165/",
+    "source_type": "literature"
+  }
+]

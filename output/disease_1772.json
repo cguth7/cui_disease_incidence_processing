@@ -1,0 +1,19 @@
+{
+  "cui": "C0008350",
+  "cui_name": "Cholelithiasis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 110000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8800000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cholelithiasis is a chronic condition where prevalence is the appropriate metric. Global prevalence approximately 11% (110 per 1000 population) based on epidemiological estimates, with significant variation from 7% in some Asian populations to 15%+ in North American and European populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

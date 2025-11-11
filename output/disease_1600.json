@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0854917",
+    "cui_name": "Rhabdoid Tumor of the Kidney",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Kidney Neoplasm",
+    "reasoning": "Rhabdoid tumors are rare malignant kidney neoplasms primarily affecting children under age 5. Estimated to represent 1-2% of pediatric renal tumors (~0.07-0.2 per 100k population). Incidence data from pediatric cancer registries, but rhabdoid tumors are infrequently tracked separately in systematic epidemiological surveys.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "GLOBOCAN 2005 pediatric cancer data; National Cancer Institute SEER pediatric registry",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

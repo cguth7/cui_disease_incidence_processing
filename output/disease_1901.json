@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011226",
+    "cui_name": "Hepatitis D Infection",
+    "incidence_per_100k": 1.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 104000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Viral Hepatitis",
+    "reasoning": "HDV occurs exclusively in HBsAg-positive individuals. Estimated global incidence ~1.3 per 100k person-years based on epidemiological literature. Significant geographic variation: high incidence (5-15 per 100k) in Mediterranean, Africa, Central Asia; low incidence (<0.5 per 100k) in North America/Northern Europe due to HBV vaccination programs.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

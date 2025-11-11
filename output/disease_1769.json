@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0302809",
+    "cui_name": "Fulminant hepatitis",
+    "incidence_per_100k": 1.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 96000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Fulminant hepatitis (acute liver failure within 8 weeks) incidence estimated at ~1.2 per 100k globally. Highly heterogeneous etiologies (viral hepatitis A/B/E, drug-induced, autoimmune) with significant geographic variation (0.1-0.5 per 100k in developed countries; 1-2 per 100k in developing countries with high HBV/HEV burden).",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Estimated from hepatology literature and regional hospital registries including WHO reports on liver disease epidemiology",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

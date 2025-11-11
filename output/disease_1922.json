@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0332447",
+    "cui_name": "Morphologically abnormal structure (morphologic abnormality)",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term too generic to estimate meaningfully. 'Morphologically abnormal structure' is a pathological descriptor that could apply to any structural abnormality across all organ systems, not a specific disease entity. Would require specification of the affected organ/system and type of abnormality.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

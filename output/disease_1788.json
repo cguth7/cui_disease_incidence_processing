@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0856738",
+    "cui_name": "Triple vessel disease",
+    "incidence_per_100k": 45.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Coronary artery disease",
+    "reasoning": "Triple vessel disease refers to significant stenosis in all three major coronary arteries, representing advanced coronary atherosclerosis. Estimated incidence ~45 per 100k based on prevalence in coronary angiography studies showing TVD in 15-25% of angiography patients combined with overall CAD incidence estimates. Confidence limited due to heterogeneous definitions and registry-based data rather than population epidemiology.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Clinical coronary angiography registries; CASS (Coronary Artery Surgery Study) and similar catheterization databases",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

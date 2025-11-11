@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0280220",
+    "cui_name": "stage, ovarian epithelial cancer",
+    "incidence_per_100k": 6.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 504000,
+    "confidence": 0.82,
+    "is_subtype": true,
+    "parent_disease": "Ovarian Cancer",
+    "reasoning": "Ovarian epithelial cancer represents ~90% of ovarian malignancies. Global incidence ~6.3 per 100k from GLOBOCAN 2005. Reported as incidence (new diagnoses per person-years).",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

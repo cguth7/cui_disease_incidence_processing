@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0279584",
+    "cui_name": "Childhood B Acute Lymphoblastic Leukemia",
+    "incidence_per_100k": 2.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 224000,
+    "confidence": 0.85,
+    "is_subtype": true,
+    "parent_disease": "Acute Lymphoblastic Leukemia",
+    "reasoning": "B-cell ALL represents approximately 80-85% of childhood ALL cases. Global incidence reported at ~3-4 per 100,000 children under 15 years old from GLOBOCAN 2005, with B-ALL subtype estimated at ~2.8 per 100k. Strong data from international cancer registries.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - Global Cancer Observatory",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

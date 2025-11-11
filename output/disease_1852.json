@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0859021",
+    "cui_name": "Hyperthymic state",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1200000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Mood Disorders",
+    "reasoning": "Hyperthymic state is a mood state characterized by persistently elevated mood, often considered part of bipolar spectrum. Using prevalence rather than incidence given the psychiatric nature and difficulty in defining disease onset. Estimated ~1.5% population prevalence based on mood disorder literature, but lacks specific epidemiological tracking. Confidence limited by lack of dedicated registry data and inconsistent clinical definition.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

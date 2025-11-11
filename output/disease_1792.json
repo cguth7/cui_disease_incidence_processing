@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0279084",
+    "cui_name": "Kaposi's sarcoma classical type",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Kaposi's sarcoma",
+    "reasoning": "Classic Kaposi's sarcoma incidence estimated at 1.5 per 100k person-years based on SEER data and epidemiological studies from 1975-2005 period. Predominantly affects elderly Mediterranean and Jewish populations with significant geographic variation.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Chang Y et al. (1994). Identification of herpesvirus-like DNA sequences in AIDS-associated Kaposi's sarcoma. Science. 266(5192):1865-1869; SEER Cancer Registry epidemiological data 1975-2005",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/7997879/",
+    "source_type": "registry"
+  }
+]

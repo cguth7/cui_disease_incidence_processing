@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0002880",
+    "cui_name": "Autoimmune Hemolytic Anemia",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": 13.0,
+    "metric_type": "both",
+    "total_cases_per_year": 120000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "AIHA is a chronic hematologic condition with documented incidence of ~1.5 per 100k person-years for new diagnoses and prevalence of ~13 per 100k for existing cases. Reporting both metrics as AIHA persists chronically and incidence data is available from epidemiological studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Jaffe ES et al. Hematologic malignancies: pathology and molecular features. Advances in Pathology and Laboratory Medicine; combined with epidemiological studies from hematology registries",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

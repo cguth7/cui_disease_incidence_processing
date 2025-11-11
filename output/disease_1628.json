@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0035222",
+    "cui_name": "Respiratory Distress Syndrome, Adult",
+    "incidence_per_100k": 15.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1240000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Acute Respiratory Failure",
+    "reasoning": "ARDS is an acute critical illness complication. Incidence estimated at ~15.5 per 100k person-years based on critical care epidemiology literature, though incidence varies significantly by healthcare infrastructure. No specific 2005 global estimate available; confidence limited by geographic variation and lack of standardized surveillance data.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

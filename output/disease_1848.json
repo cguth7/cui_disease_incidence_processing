@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0520680",
+    "cui_name": "Sleep Apnea, Central",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": 8500,
+    "metric_type": "both",
+    "total_cases_per_year": 200000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Sleep Apnea",
+    "reasoning": "Central sleep apnea (CSA) is a neurological subtype of sleep apnea where the brain fails to signal breathing muscles. Incidence (~2.5 per 100k) estimated from sleep medicine literature; CSA comprises 5-10% of sleep apnea cases, often secondary to heart failure, stroke, or neurological disorders. Prevalence estimate (~8.5%) from clinical studies of diagnosed CSA patients.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Javaheri S et al. (2017). Sleep apnea: types, mechanisms, and clinical cardiovascular consequences. J Am Coll Cardiol. 69(7):841-856",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/28182988/",
+    "source_type": "literature"
+  }
+]

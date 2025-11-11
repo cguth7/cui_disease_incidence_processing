@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0032027",
+    "cui_name": "Pityriasis Rosea",
+    "incidence_per_100k": 170,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 13600000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute dermatological condition with incidence estimated at ~170 per 100,000 person-years based on dermatological epidemiological studies. Well-defined clinical entity with consistent presentation globally.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Dermatological epidemiological literature, incidence estimates from population-based surveys",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

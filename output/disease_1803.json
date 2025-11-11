@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238034",
+    "cui_name": "Intraductal papilloma of breast",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 120,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 9600000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Papilloma",
+    "reasoning": "Benign breast lesion measured as prevalence, not incidence. Estimated ~0.1-0.2% of women (120 per 100k) based on pathology series and clinical case reports; limited systematic epidemiological data available. Confidence limited to moderate due to heterogeneous clinical presentation and variable detection/reporting across institutions.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Clinical pathology case series from breast surgical oncology literature",
+    "source_url": null,
+    "source_type": null
+  }
+]

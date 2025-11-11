@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0022118",
+    "cui_name": "Transient ischemia",
+    "incidence_per_100k": 20.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1640000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Transient ischemic attack (TIA) incidence estimated at ~20 per 100k person-years. Reporting incidence as appropriate for acute condition with clear onset. Global estimate with significant variation by age and region.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Sacco RL et al. (2013). An updated definition of stroke for the 21st century: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 44(7):2064-2089",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/23652265/",
+    "source_type": "literature"
+  }
+]

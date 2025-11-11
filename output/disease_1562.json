@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1333064",
+    "cui_name": "Classical Hodgkin's Lymphoma",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.87,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Reporting incidence (new cases per 100k person-years). Classical Hodgkin's lymphoma is the most common form of Hodgkin lymphoma. Global incidence approximately 2.5 per 100k from GLOBOCAN 2005, with higher rates in developed countries (~3 per 100k) and lower rates in developing countries (~1-2 per 100k).",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (International Agency for Research on Cancer)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

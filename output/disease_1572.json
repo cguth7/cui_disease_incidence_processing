@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011882",
+    "cui_name": "Diabetic Neuropathies",
+    "incidence_per_100k": 4.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 360000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Diabetes Mellitus Complications",
+    "reasoning": "Diabetic neuropathy is a major complication of diabetes with estimated incidence ~4-5 per 100k person-years based on cohort studies and diabetes registry data. Represents new cases of clinically significant neuropathy in the general population annually.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Vinik AI et al. (2003). Diabetic neuropathies. Lancet. 362(9388):1275-1286; Complemented by IDF Diabetes complications epidemiology",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14575971/",
+    "source_type": "literature"
+  }
+]

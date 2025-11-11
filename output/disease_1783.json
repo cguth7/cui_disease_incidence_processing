@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011334",
+    "cui_name": "Dental Caries",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 31500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 2520000000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Dental caries prevalence estimated at ~31.5% globally based on WHO Global Oral Health Status Report and epidemiological studies. Measured as prevalence (existing cavities/decay) rather than incidence, as this is a chronic cumulative condition. Global estimate reflects significant variation by region and development status.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2022,
+    "source": "WHO Global Oral Health Status Report 2022; Global Burden of Disease Study estimates",
+    "source_url": "https://www.who.int/publications/m/item/global-oral-health-status-report-2022",
+    "source_type": "registry"
+  }
+]

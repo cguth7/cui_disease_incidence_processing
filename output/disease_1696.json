@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0085859",
+    "cui_name": "Polyglandular Type I Autoimmune Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.2,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 16000,
+    "confidence": 0.5,
+    "is_subtype": true,
+    "parent_disease": "Autoimmune Polyendocrine Syndromes",
+    "reasoning": "APS-1 is a rare genetic disorder with estimated prevalence of 0.2 per 100k globally. Lifelong condition requiring prevalence metric. Limited population-based epidemiological data; estimates derived from disease registries and case series.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "European Addison Registry and disease surveillance data",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

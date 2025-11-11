@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0027059",
+    "cui_name": "Myocarditis",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute myocardial inflammation typically reported as incidence. Global estimates range 1-10 per 100k person-years; using conservative global average of ~1.5 per 100k. Limited population-based registry data; estimates based primarily on hospital discharge data and autopsy studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Feldman AM et al. (2000). Myocarditis. N Engl J Med. 343:1388-1398",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11070105/",
+    "source_type": "literature"
+  }
+]

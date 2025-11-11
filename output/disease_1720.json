@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1720775",
+    "cui_name": "Renal tubular necrosis",
+    "incidence_per_100k": 5.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 440000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Acute kidney injury",
+    "reasoning": "Renal tubular necrosis (ATN) is the pathological manifestation of acute kidney injury, estimated at ~5-10% of acute kidney injuries in hospital settings. Global AKI incidence ~1-3 per 100k person-years; ATN comprises estimated 5.5 per 100k as a specific pathological subtype. Confidence limited due to ATN being pathological process rather than independent disease entity and variation based on hospital vs community settings.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Schrier RW et al. (2004). Acute renal failure: definitions, diagnosis, pathogenesis, and therapy. J Clin Invest. 114(1):5-14",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15232604/",
+    "source_type": "literature"
+  }
+]

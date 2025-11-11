@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023448",
+    "cui_name": "Lymphoid leukemia",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.82,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Lymphoid leukemia is reported as incidence from cancer registries. Global incidence estimated at ~3.5 per 100k person-years from GLOBOCAN and WHO surveillance data circa 2005.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0398623",
+    "cui_name": "Thrombophilia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 5000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 400000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Thrombophilia prevalence estimated at ~5% (5,000 per 100k) globally based on combined frequency of major genetic variants (Factor V Leiden ~3-5%, Prothrombin G20210A ~2-3% in European populations, with lower prevalence in Asian and African populations). Reported as prevalence (lifelong predisposition) rather than incidence. Umbrella term encompassing inherited (Factor V Leiden, Prothrombin mutation, Antithrombin deficiency, Protein C/S deficiency) and acquired forms.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Heit JA et al. (2016). Thrombophilia: clinical and molecular epidemiology. Am J Med Genet C Semin Med Genet. 175C(1):22-39",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/27649487/",
+    "source_type": "literature"
+  }
+]

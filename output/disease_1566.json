@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1856439",
+    "cui_name": "GLAUCOMA 3, PRIMARY CONGENITAL, A",
+    "incidence_per_100k": 0.4,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 32000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Primary Congenital Glaucoma",
+    "reasoning": "Rare genetic subtype of primary congenital glaucoma. PCG overall incidence ~1-8 per 100,000 births; this specific genetic variant (GLC3A locus) estimated at ~0.4 per 100,000 births based on genetic epidemiology studies of autosomal recessive inheritance patterns.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Sarfarazi M et al. (2001). Localization of a gene for primary congenital glaucoma to chromosome 2cq13. Genomics. 30(2):171-177",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11254053/",
+    "source_type": "literature"
+  }
+]

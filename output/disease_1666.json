@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0041466",
+    "cui_name": "Typhoid Fever",
+    "incidence_per_100k": 300,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Acute bacterial infection caused by Salmonella typhi. WHO estimates global incidence of 16-33 million cases per year (mid-range ~20-24 million), translating to approximately 300 per 100k person-years. Incidence metric used (new cases, not existing cases). Extremely high geographic variation: endemic areas like South Asia experience 100+ per 100k, while developed countries with vaccination/sanitation <1 per 100k.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "WHO Global Burden of Disease estimate (early 2000s)",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

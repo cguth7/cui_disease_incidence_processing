@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0546126",
+    "cui_name": "Acute Confusional Senile Dementia",
+    "incidence_per_100k": 25.0,
+    "prevalence_per_100k": 250.0,
+    "metric_type": "both",
+    "total_cases_per_year": 2000000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Dementia",
+    "reasoning": "Acute confusional episodes in elderly with dementia show incidence ~25 per 100k person-years and prevalence ~250 per 100k. This represents acute delirium superimposed on chronic dementia, common in hospital/care settings. Outdated terminology limits confidence; modern classification would use 'delirium' and 'major neurocognitive disorder'.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

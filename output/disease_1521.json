@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1535939",
+    "cui_name": "Pneumocystis jiroveci pneumonia",
+    "incidence_per_100k": 0.9,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 72000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "PCP is an opportunistic infection primarily affecting HIV+ patients with CD4 <200. Global incidence ~0.9 per 100k estimated from HIV epidemiology and prophylaxis patterns circa 2005. Significant decline in developed countries but remains important in resource-limited settings.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

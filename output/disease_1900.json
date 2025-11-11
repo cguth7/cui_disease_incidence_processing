@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2985290",
+    "cui_name": "Fetal Alcohol Spectrum Disorders",
+    "incidence_per_100k": 150,
+    "prevalence_per_100k": 2500,
+    "metric_type": "both",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": "Alcohol-Related Disorders",
+    "reasoning": "FASD is a spectrum of conditions resulting from prenatal alcohol exposure. Reporting both incidence (~1.5 per 1000 births = 150 per 100k births annually) and estimated population prevalence (~2.5% of population). CDC 2004 estimates suggest 0.5-1.5% affected at birth; global estimates range 1-5% depending on diagnostic criteria and regional alcohol use patterns.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2004,
+    "source": "Sampson PD et al. (2007). Incidence of fetal alcohol syndrome and prevalence of alcohol-related neurodevelopmental disorder. Teratology. 56(5):317-326; CDC estimates (2004)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/8809926/",
+    "source_type": "literature"
+  }
+]

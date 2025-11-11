@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0410189",
+    "cui_name": "Muscular Dystrophy, Emery-Dreifuss",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.4,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 32000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Muscular Dystrophy",
+    "reasoning": "EDMD is a rare inherited muscular dystrophy characterized by early contractures, progressive proximal and distal muscle weakness, and cardiac involvement. Prevalence estimated at ~0.4 per 100k population. Using prevalence metric for this chronic genetic condition rather than incidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

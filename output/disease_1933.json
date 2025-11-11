@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0026106",
+    "cui_name": "Mild Mental Retardation",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 80000000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Intellectual Disability",
+    "reasoning": "Mild intellectual disability measured as prevalence (lifetime condition). Estimated 1% (1000 per 100k) global prevalence, with mild forms representing approximately 85% of all intellectual disability cases. Prevalence metric is appropriate for this chronic developmental condition.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Maulik PK et al. (2011). Prevalence of intellectual disability: a meta-analysis of population-based studies. Res Dev Disabil. 32(2):419-436",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21236634/",
+    "source_type": "literature"
+  }
+]

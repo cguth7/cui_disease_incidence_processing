@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0033036",
+    "cui_name": "Atrial Premature Complexes",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 5000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 400000000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": "Cardiac Arrhythmias",
+    "reasoning": "PACs are common cardiac findings detected on ECG, prevalence estimated at 5% (5,000 per 100k) in general adult population based on screening studies. Metric is prevalence (existing cases) rather than incidence since PACs are episodic findings not tracked as incident diagnoses. Confidence limited due to wide variation by detection method and population.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Fleg JL et al. (2005). Prevalence and prognostic significance of post-exercise frequent or repetitive ventricular ectopic beats in apparently healthy volunteers. Am J Cardiol. 96(1):1-8",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15979433/",
+    "source_type": "literature"
+  }
+]

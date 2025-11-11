@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4551492",
+    "cui_name": "Micropenis",
+    "incidence_per_100k": 4000,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 320000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Congenital condition with birth incidence estimated at 0.6-0.8% of male births (~4000 per 100k of all births). Based on pediatric endocrinology literature, though exact prevalence varies by population, ethnic background, and diagnostic criteria.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Conte FA et al. (1994). Congenital adrenal hyperplasia and related conditions. In: The Metabolic and Molecular Bases of Inherited Disease. McGraw-Hill.",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

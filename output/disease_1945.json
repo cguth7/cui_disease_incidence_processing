@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0030293",
+    "cui_name": "Pancreatic Insufficiency",
+    "incidence_per_100k": 5.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 400000,
+    "confidence": 0.52,
+    "is_subtype": true,
+    "parent_disease": "Pancreatitis/Pancreatic Disease",
+    "reasoning": "Pancreatic insufficiency is a functional impairment resulting from chronic pancreatic disease. Estimated incidence ~5 per 100k based on chronic pancreatitis epidemiology and cystic fibrosis-related pancreatic insufficiency. Moderate confidence due to etiological heterogeneity and limited disease-specific incidence data; often reported as complication rather than primary diagnosis.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Multiple etiologies: chronic pancreatitis (~8 per 100k in some populations), cystic fibrosis (~1-2 per 100k in developed countries), combined estimate",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

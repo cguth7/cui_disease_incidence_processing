@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0002448",
+    "cui_name": "Ameloblastoma",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Ameloblastoma is an uncommon odontogenic (jaw) neoplasm with estimated incidence <0.5 per 100k globally. Most epidemiological data comes from case reports and regional tumor registries rather than population-based surveillance.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

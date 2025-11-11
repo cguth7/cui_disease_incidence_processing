@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0025958",
+    "cui_name": "Microcephaly",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Microcephaly is a congenital birth defect with global incidence estimated at ~1.5 per 100k live births, based on available epidemiological studies. Incidence varies significantly by region (0.5-3 per 100k) due to differences in risk factors, genetic backgrounds, and maternal infections. Confidence moderate due to geographic variation and limited centralized global surveillance.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "WHO reports on congenital anomalies and birth defect surveillance; multiple regional epidemiological studies",
+    "source_url": "https://www.who.int/teams/noncommunicable-diseases/disability-and-rehabilitation/congenital-anomalies",
+    "source_type": "registry"
+  }
+]

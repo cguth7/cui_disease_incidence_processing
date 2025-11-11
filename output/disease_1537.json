@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0005423",
+    "cui_name": "Biliary Tract Neoplasms",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate estimate combining cholangiocarcinoma (~1.5 per 100k), gallbladder cancer (~0.8 per 100k), and ampulla of Vater cancer (~0.2 per 100k). Significant geographic variation due to parasitic infection risk factors (liver flukes in Southeast Asia causing higher rates >10 per 100k).",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2010,
+    "source": "GLOBOCAN 2020 (IARC) - Biliary system malignancies",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

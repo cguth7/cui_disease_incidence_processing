@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0751967",
+    "cui_name": "Multiple Sclerosis, Relapsing-Remitting",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Multiple Sclerosis",
+    "reasoning": "RRMS is the most common form of MS at onset (85% of presentations). Global MS incidence 2-10 per 100k varies by geography; RRMS incidence estimated at 2.5 per 100k based on neuroepidemiology literature, representing ~200,000 annual cases globally.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Bansil S et al. (2002). Multiple sclerosis: epidemiology and etiology. Drugs. 62(13):1967-1978",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/12374904/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0270952",
+    "cui_name": "Muscular Dystrophy, Oculopharyngeal",
+    "incidence_per_100k": 0.35,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 28000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Muscular Dystrophy",
+    "reasoning": "Rare genetic disorder (autosomal dominant) with limited epidemiological data. Global incidence estimated at ~0.35 per 100k based on case reports and genetic studies. Higher prevalence in specific populations (French-Canadian ancestry). Confidence limited by lack of systematic epidemiological surveillance.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

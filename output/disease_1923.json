@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4551633",
+    "cui_name": "Pigmentary retinal dystrophy",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": 50,
+    "metric_type": "both",
+    "total_cases_per_year": 120000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": "Inherited Retinal Disease",
+    "reasoning": "Pigmentary retinal dystrophy encompasses inherited retinal degenerative disorders, primarily retinitis pigmentosa. Incidence ~1-2 per 100k person-years with prevalence ~50 per 100k. Used both metrics as literature reports both incidence of new diagnoses and prevalence of affected population. Moderate confidence due to rare disease status and limited population-based data.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Berson EL. (1993). Retinitis pigmentosa. The Friedenwald Lecture. Invest Ophthalmol Vis Sci. 34(5):1659-1676",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/8473105/",
+    "source_type": "literature"
+  }
+]

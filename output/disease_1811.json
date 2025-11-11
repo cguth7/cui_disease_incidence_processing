@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1260899",
+    "cui_name": "Anemia, Diamond-Blackfan",
+    "incidence_per_100k": 5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 400000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Diamond-Blackfan anemia is a rare inherited bone marrow failure disorder with estimated incidence of ~5 per 100k births globally. Prevalence is lower than incidence due to mortality and varying disease severity.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Vlachos A et al. (2018). Diagnosis and treatment of Diamond-Blackfan anemia: An international collaborative effort. J Clin Med. 7(12):413",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/30477080/",
+    "source_type": "literature"
+  }
+]

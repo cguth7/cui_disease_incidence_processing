@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1319853",
+    "cui_name": "Asthma, Aspirin-Induced",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1200,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 96000000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Asthma",
+    "reasoning": "Aspirin-Induced Asthma (AERD) is a specific subtype affecting 4-11% of asthmatic population. Prevalence estimated at ~1.2% of general population (1,200 per 100k) based on asthma prevalence rates and AERD penetrance. Limited population-based epidemiological data available; most studies are hospital-based or asthma registry subgroups.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Micromedex drug information database; clinical prevalence estimates from asthma registries",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

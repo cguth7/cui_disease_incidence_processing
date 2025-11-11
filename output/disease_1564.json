@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0333113",
+    "cui_name": "Sacculation",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Sacculation is a descriptive morphological/pathological process term referring to the formation of sacs or pouches, not a specific disease entity. Appears across multiple conditions (e.g., colonic sacculation in diverticular disease, sacculation in various organs). Too broad and process-oriented to assign meaningful incidence estimate.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

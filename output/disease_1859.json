@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2347748",
+    "cui_name": "Adult Erythroleukemia",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.4,
+    "is_subtype": true,
+    "parent_disease": "Acute Myeloid Leukemia",
+    "reasoning": "Adult erythroleukemia is a rare AML subtype representing 0.5-3% of AML cases. With global AML incidence ~2.5-3 per 100k, erythroleukemia incidence estimated <0.1 per 100k. Limited specific epidemiological data for this AML subtype.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

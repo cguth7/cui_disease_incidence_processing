@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1869123",
+    "cui_name": "Limb-girdle muscular dystrophy type 2A",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.35,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 28000,
+    "confidence": 0.4,
+    "is_subtype": true,
+    "parent_disease": "Limb-girdle muscular dystrophy",
+    "reasoning": "LGMD2A (CAPN3-related) is a rare autosomal recessive genetic disorder, estimated prevalence ~0.35 per 100k. Reported as prevalence (chronic lifelong genetic condition) rather than incidence. Limited systematic epidemiological data; estimate derived from case report frequencies and genetic studies.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

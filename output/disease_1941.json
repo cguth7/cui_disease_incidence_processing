@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0856727",
+    "cui_name": "Cholesterol gallstones",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 9600,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 768000000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Cholelithiasis",
+    "reasoning": "Cholesterol gallstones comprise ~80% of all gallstones. Prevalence estimated at ~9.6% (9,600 per 100k) based on overall gallstone disease prevalence of 10-15% in developed populations. Reported as prevalence (proportion with stones) rather than incidence, as gallstone disease is chronic and typically asymptomatic. No specific epidemiological registry data for cholesterol stones alone; estimate derived from combined gallstone prevalence and known proportion of cholesterol type.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

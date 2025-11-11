@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1858496",
+    "cui_name": "Advanced Sleep-Phase Syndrome, Familial",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Advanced Sleep-Phase Syndrome",
+    "reasoning": "Familial ASPS is a rare genetic sleep disorder. Incidence data extremely limited, estimated <0.01 per 100k based on case reports and family studies. No systematic epidemiological surveys found. Genetic heterogeneity (PER2, CRY1 mutations) suggests multiple rare familial subtypes.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

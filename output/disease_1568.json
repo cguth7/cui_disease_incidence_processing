@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0158252",
+    "cui_name": "Intervertebral disc disorder",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 750,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 60000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Intervertebral disc disorder is measured as prevalence (chronic condition affecting existing population) rather than incidence. Global prevalence estimate ~7.5% (750 per 100k) based on epidemiological studies, including symptomatic and clinically significant cases with age-related degenerative changes.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Modic MT, Ross JS. (2007). Lumbar degenerative disk disease. Radiology. 245(1):43-61. Combined with epidemiological prevalence estimates from multiple cohort studies (approximately 5-15% symptomatic, 30-60% radiographic).",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17885031/",
+    "source_type": "literature"
+  }
+]

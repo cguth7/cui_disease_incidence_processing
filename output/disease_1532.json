@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0018045",
+    "cui_name": "Gonadal tissue neoplasm",
+    "incidence_per_100k": 12.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1000000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate estimate for gonadal malignancies: testicular cancer (~8 per 100k in men) + ovarian cancer (~10-15 per 100k in women) = ~12.5 per 100k population average. Umbrella term with distinct subtypes.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0031190",
+    "cui_name": "Persistent Fetal Circulation Syndrome",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Persistent Fetal Circulation Syndrome (PFCS), also known as Persistent Pulmonary Hypertension of the Newborn (PPHN), incidence ~2-3 per 1000 live births globally. Reported here as incidence metric. Incidence varies significantly by birth cohort (term vs preterm) and presence of meconium aspiration or respiratory distress. Global estimate ~300 per 100k births, normalized to 2.5 per 100k population.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "Chambers CD, Hernandez-Diaz S, Van Marter LJ, et al. (2006). Selective serotonin-reuptake inhibitors and risk of persistent pulmonary hypertension of the newborn. N Engl J Med. 354(6):579-587",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16467546/",
+    "source_type": "literature"
+  }
+]

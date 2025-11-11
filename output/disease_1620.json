@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0264184",
+    "cui_name": "Degenerative spondylolisthesis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 6500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 520000000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Spondylolisthesis",
+    "reasoning": "Degenerative spondylolisthesis is measured as prevalence rather than incidence due to its chronic degenerative nature. Estimated ~6.5% prevalence based on clinical imaging studies showing higher prevalence in older adults with lumbar spine degeneration. Limited population-based epidemiological data available.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

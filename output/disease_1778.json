@@ -1,0 +1,19 @@
+{
+  "cui": "C0393615",
+  "cui_name": "Familial Tremor",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 10000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 800000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Familial Tremor (Essential Tremor with familial onset) measured as prevalence, not incidence, since it is a chronic lifelong neurological condition. Global prevalence estimated at ~1% (10,000 per 100k) based on population-based epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bain PG et al. (2011). Essential tremor. In: Marsden CD, Fahn S, eds. Movement Disorders. Butterworth-Heinemann.",
+  "source_url": null,
+  "source_type": "literature"
+}

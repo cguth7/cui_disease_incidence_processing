@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0205711",
+    "cui_name": "Pelizaeus-Merzbacher Disease",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.08,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 6400,
+    "confidence": 0.32,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rare X-linked genetic disorder affecting myelin oligodendrocyte development. Extremely rare with estimated prevalence <0.1 per 100k based on sparse genetic registry data and case reports. No systematic epidemiological studies or robust population-based estimates available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

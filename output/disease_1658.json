@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1531608",
+    "cui_name": "Smoldering myeloma",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Multiple myeloma",
+    "reasoning": "Smoldering myeloma is a precursor condition to symptomatic multiple myeloma with poorly defined incidence. Estimated ~1.5 per 100k based on smoldering MM representing 10-20% of plasma cell dyscrasias in population-based studies, though most cancer registries do not separately track smoldering vs symptomatic MM.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Rajkumar SV et al. (2014). International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 15(12):e538-e548",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/25439696/",
+    "source_type": "literature"
+  }
+]

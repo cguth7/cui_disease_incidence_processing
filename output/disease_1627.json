@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0748355",
+    "cui_name": "Acute respiratory distress",
+    "incidence_per_100k": 17.9,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1432000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "ARDS incidence estimated at ~17.9 per 100k person-years based on critical care surveillance data. Primarily affects hospitalized patients with severe respiratory compromise.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Ware LB & Matthay MA. (2005). Acute Respiratory Distress Syndrome. N Engl J Med. 342(18):1334-1349",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15800228/",
+    "source_type": "literature"
+  }
+]

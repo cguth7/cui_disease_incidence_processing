@@ -1,0 +1,19 @@
+{
+  "cui": "C0206708",
+  "cui_name": "Cervical intraepithelial neoplasia",
+  "incidence_per_100k": 78.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6240000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": "Cervical neoplasm",
+  "reasoning": "CIN is a precancerous lesion with diagnosis through cytological screening (Pap tests). Global incidence estimated at ~78 per 100k based on screening prevalence patterns, varying from 2-3 per 100k in unscreened populations to 200+ per 100k in well-screened populations. Uses incidence metric (new diagnoses/detections per person-years). Confidence limited due to extreme geographic heterogeneity in screening coverage and HPV vaccination rates globally.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

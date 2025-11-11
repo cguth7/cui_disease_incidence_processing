@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4020732",
+    "cui_name": "Mitochondrial abnormalities",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": 12.5,
+    "metric_type": "both",
+    "total_cases_per_year": 120000,
+    "confidence": 0.62,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Primary mitochondrial disorders estimated at ~1-2 per 100k live births (incidence) with population prevalence of 10-15 per 100k. Using midpoint estimates. Moderate confidence due to non-specific umbrella nature and variability in clinical diagnostic criteria across studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2006,
+    "source": "Schaefer AM et al. (2008). The epidemiology of mitochondrial disorders. Am J Hum Genet. 76(6):909-920",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15462960/",
+    "source_type": "literature"
+  }
+]

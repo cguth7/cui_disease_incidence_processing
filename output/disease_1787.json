@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1368683",
+    "cui_name": "Epithelioma",
+    "incidence_per_100k": 95.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 7600000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Epithelioma typically refers to non-melanoma skin cancers (basal cell carcinoma and squamous cell carcinoma). Global incidence estimate ~95 per 100k based on skin cancer registries. Confidence moderate due to broad terminology and significant geographic variation (much higher in Australia/fair-skinned populations, lower in darker-skinned populations).",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) - non-melanoma skin cancer estimates",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0005941",
+    "cui_name": "Bone Diseases, Developmental",
+    "incidence_per_100k": 6.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 520000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major developmental bone diseases: osteogenesis imperfecta (~1.5 per 100k), achondroplasia (~2.5 per 100k), hypophosphatasia (~1 per 100k), thanatophoric dysplasia and other skeletal dysplasias (~1.5 per 100k). Total ~6.5 per 100k. Low confidence due to heterogeneous umbrella term with significant variation in severity, prognosis, and epidemiology across subcategories.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

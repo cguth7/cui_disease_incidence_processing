@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0037221",
+    "cui_name": "Situs Inversus",
+    "incidence_per_100k": 10.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 800000,
+    "confidence": 0.58,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Situs inversus totalis is a rare congenital condition with incidence approximately 1 in 8,500 to 1 in 25,000 live births. Reporting as incidence at birth (~10 per 100k births); metric type is incidence since this is an incident diagnosis at birth. Limited epidemiological data from population-based registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Birth defect surveillance and population-based registry estimates",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

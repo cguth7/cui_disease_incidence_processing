@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0005818",
+    "cui_name": "Blood Platelet Disorders",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major platelet disorders: immune thrombocytopenia (~1.5 per 100k), thrombotic thrombocytopenic purpura (~0.4 per 100k), hemolytic-uremic syndrome (~0.2 per 100k), essential thrombocythemia (~1-2 per 100k), drug-induced thrombocytopenia (~0.3 per 100k). Total aggregate ~3-4 per 100k. Low confidence due to heterogeneous pathophysiology, significant overlap with other hematologic conditions, and variation in definitions across populations.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0008628",
+    "cui_name": "Chromosome Deletion",
+    "incidence_per_100k": 120.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 9600000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major chromosomal deletion syndromes: 22q11 deletion (~40 per 100k live births), 5p deletion/cri-du-chat (~4 per 100k), 1p36 deletion (~10 per 100k), 4p deletion/Wolf-Hirschhorn (~2 per 100k), 18p deletion (~1 per 100k), plus additional rare deletion syndromes (~60 per 100k) = ~120 per 100k births. Note: Reported as incidence per 100k live births (not person-years) due to congenital nature. Very low confidence due to extreme heterogeneity of deletion types with vastly different clinical severity, lethality rates, and geographic variation.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

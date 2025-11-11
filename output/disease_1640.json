@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1840264",
+    "cui_name": "IMMUNE SUPPRESSION",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.1,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Immune suppression is a physiological state/condition resulting from various underlying causes (HIV/AIDS, cancer chemotherapy, medications, transplantation) rather than a primary disease entity. No epidemiological registries track 'immune suppression' as a standalone diagnosis with quantifiable incidence. This represents a clinical state that is secondary to other conditions, not a condition with independent epidemiological data.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cui": "C0009364",
+  "cui_name": "Conjunctival Neoplasms",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Eye Neoplasms",
+  "reasoning": "Umbrella term covering benign and malignant conjunctival tumors (melanoma ~0.5-1, squamous cell carcinoma ~0.3-0.5, lymphoma ~0.1-0.2 per 100k). Aggregate estimate ~1.0 per 100k based on relative rarity and limited epidemiological data. Confidence capped at moderate due to heterogeneity and benign/malignant mixture.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

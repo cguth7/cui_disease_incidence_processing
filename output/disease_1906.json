@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0162810",
+    "cui_name": "Cicatrix, Hypertrophic",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": "Wound Healing Disorders",
+    "reasoning": "Hypertrophic scarring incidence is highly context-dependent (varies by underlying cause: burns, surgery, trauma) and lacks standardized global epidemiological data. Cannot be meaningfully estimated as a population-based rate without specifying the causal condition.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

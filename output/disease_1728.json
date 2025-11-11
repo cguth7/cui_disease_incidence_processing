@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0677944",
+    "cui_name": "Sentinel node (disorder)",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Sentinel node (disorder) is a clinical descriptor of a lymph node finding rather than a primary disease entity. It represents a pathological staging indicator used in cancer detection (determining if cancer has metastasized to regional lymph nodes) rather than a condition with independent incidence rates. Unmappable as a standalone disease.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

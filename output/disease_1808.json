@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0280781",
+    "cui_name": "Adult Pilocytic Astrocytoma",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Pilocytic Astrocytoma",
+    "reasoning": "Pilocytic astrocytoma is predominantly a pediatric tumor (peak incidence 5-14 years). Adult-onset PA is extremely rare, comprising <5% of adult gliomas. Estimated incidence <0.5 per 100k based on limited neuro-oncology case series data.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

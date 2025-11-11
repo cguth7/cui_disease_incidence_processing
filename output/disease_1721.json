@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0342790",
+    "cui_name": "Carnitine palmitoyl transferase 2 deficiency",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": "Lipid Metabolism Disorders",
+    "reasoning": "Rare autosomal recessive genetic disorder affecting mitochondrial fatty acid oxidation. Myopathic form more common than infantile/intermediate phenotypes. Estimated <0.1 per 100k based on case report frequency and population genetics; no systematic epidemiological studies available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

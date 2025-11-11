@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206667",
+    "cui_name": "Adrenal Cortical Adenoma",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Adrenal cortical adenoma measured by prevalence (existing cases) rather than incidence, as most are incidentally discovered on imaging. Prevalence estimated at 2.5% of population based on autopsy and cross-sectional imaging studies, translating to 2,500 per 100k population.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

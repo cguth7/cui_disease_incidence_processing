@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0027962",
+    "cui_name": "Melanocytic nevus",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 45000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 3600000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": "Benign melanocytic lesion",
+    "reasoning": "Melanocytic nevus (common mole) measured by prevalence, not incidence. Estimated 45% of global population carries at least one nevus, with much higher prevalence in fair-skinned populations (75-90%) and lower in darker-skinned populations (5-20%). Global average approximately 45,000 per 100k, but varies dramatically by ethnicity, age, and geographic location.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

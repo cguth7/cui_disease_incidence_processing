@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0566602",
+    "cui_name": "Primary sclerosing cholangitis",
+    "incidence_per_100k": 1.1,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 88000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "PSC is a rare, progressive autoimmune liver disease with incidence of approximately 1.1 per 100k person-years. Estimate based on population-based studies from Northern Europe where incidence is ~1.2-1.3 per 100k, adjusted downward to account for lower rates in other regions.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Trivedi PJ et al. (2016). Primary sclerosing cholangitis. Lancet. 387(10031):2011-2027",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/26734952/",
+    "source_type": "literature"
+  }
+]

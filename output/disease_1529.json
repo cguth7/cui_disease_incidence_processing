@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349639",
+    "cui_name": "Chronic myelomonocytic leukemia",
+    "incidence_per_100k": 0.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Myelodysplastic/myeloproliferative neoplasm",
+    "reasoning": "Rare hematologic malignancy with incidence ~0.7 per 100k person-years based on cancer registry data. CMML represents approximately 1-2% of all leukemias. Data primarily from European and North American cancer registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Cancer registries and epidemiological surveys of myelodysplastic neoplasms",
+    "source_url": null,
+    "source_type": "registry"
+  }
+]

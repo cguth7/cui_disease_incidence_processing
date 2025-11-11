@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349530",
+    "cui_name": "Early gastric cancer",
+    "incidence_per_100k": 5.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 416000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Gastric cancer",
+    "reasoning": "Early gastric cancer (mucosal/submucosal invasion) represents approximately 20-25% of gastric cancer cases globally. Based on global gastric cancer incidence of ~20-22 per 100k, estimated EGC incidence ~5-6 per 100k. Higher in countries with screening programs (Japan, South Korea); much lower in Western populations. Geographic variation is significant.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (gastric cancer); Japanese Gastric Cancer Association epidemiological data",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

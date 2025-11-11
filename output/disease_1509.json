@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0686353",
+    "cui_name": "Muscular Dystrophies, Limb-Girdle",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "LGMD is an umbrella term encompassing multiple autosomal dominant (LGMD1A-J) and autosomal recessive (LGMD2A-Y) genetic subtypes. Reported as prevalence (~2-3 per 100k globally) rather than incidence due to genetic/inherited nature. Confidence limited by heterogeneity of subtypes and variable global prevalence data.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0040252",
+    "cui_name": "Tinea Corporis",
+    "incidence_per_100k": 250,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 20000000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Dermatophytosis",
+    "reasoning": "Tinea Corporis is one of the most common dermatophyte infections, estimated at ~200-300 per 100k person-years globally. Reporting incidence (new diagnosed cases). Geographic variation significant: higher in tropical/subtropical regions (>400 per 100k) vs temperate regions (<150 per 100k).",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Hay RJ et al. (2012). Global skin disease burden. Lancet. 380(9852):1604-1609",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/22914295/",
+    "source_type": "literature"
+  }
+]

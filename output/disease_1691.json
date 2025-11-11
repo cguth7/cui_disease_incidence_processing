@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0042065",
+    "cui_name": "Genitourinary Neoplasms",
+    "incidence_per_100k": 45.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3600000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major genitourinary cancers: prostate cancer (~30 per 100k), bladder cancer (~8 per 100k), renal cell carcinoma (~6 per 100k), testicular cancer (~1.5 per 100k), and other GU malignancies (~0.5 per 100k) = ~45 per 100k. Low confidence due to heterogeneity of tumor types and significant geographic variation in incidence.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

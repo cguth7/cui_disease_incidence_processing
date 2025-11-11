@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0740394",
+    "cui_name": "Hyperuricemia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 25000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 2000000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hyperuricemia is a chronic condition characterized by elevated serum uric acid (>7 mg/dL in men, >6 mg/dL in women). Reported as prevalence (~25% globally, varying by population, diet, and genetics) rather than incidence since it represents a persistent biochemical state. Global estimate ~25,000 per 100k based on population surveys.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1840311",
+    "cui_name": "Laryngeal cleft",
+    "incidence_per_100k": 0.08,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 6400,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": "Laryngeal Anomalies",
+    "reasoning": "Rare congenital anomaly estimated at ~0.08 per 100,000 births based on case report frequency and small case series. Incidence measured at birth. Limited systematic epidemiological surveillance; confidence moderate due to weak data sources.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

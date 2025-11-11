@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4511687",
+    "cui_name": "Pancreatic Intraductal Papillary Mucinous Neoplasm",
+    "incidence_per_100k": 1.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 80000,
+    "confidence": 0.48,
+    "is_subtype": true,
+    "parent_disease": "Pancreatic Neoplasm",
+    "reasoning": "IPMN is a specific pancreatic cystic neoplasm with limited epidemiological data. Estimated incidence of ~1 per 100k based on prevalence in autopsy/imaging studies (2-3%) and clinical diagnosis rates. No major registry with specific IPMN incidence data; confidence limited by source availability.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

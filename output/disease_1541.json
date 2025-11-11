@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023652",
+    "cui_name": "Lichen Sclerosus",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1.0,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 80000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Chronic inflammatory skin condition; prevalence metric appropriate over incidence for lifetime disease burden. Estimated ~1 per 100k population based on limited epidemiological studies, though regional variation likely due to diagnostic variation and reporting differences.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

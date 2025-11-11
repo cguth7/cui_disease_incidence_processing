@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0677607",
+    "cui_name": "Hashimoto Disease",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1600000000,
+    "confidence": 0.75,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hashimoto's thyroiditis is a chronic autoimmune disease, measured by prevalence rather than incidence. Global prevalence estimated at ~2% of population (2,000 per 100k), with significant gender variation (more common in women). Confidence reflects good epidemiological evidence but variability in population screening methods.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "American Thyroid Association; Epidemiology of autoimmune thyroid disease, based on multi-center studies and population screening data",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0740404",
+    "cui_name": "Limb defects",
+    "incidence_per_100k": 150,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.68,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Umbrella term for congenital limb defects including amelia, phocomelia, hypoplasia, polydactyly, and syndactyly. Incidence ~1.5 per 1,000 live births globally (150 per 100k births). Data from birth defect surveillance systems and registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2005,
+    "source": "CDC Birth Defects Surveillance Data; WHO Global Burden of Disease",
+    "source_url": "https://www.cdc.gov/ncbddd/birthdefects/data.html",
+    "source_type": "registry"
+  }
+]

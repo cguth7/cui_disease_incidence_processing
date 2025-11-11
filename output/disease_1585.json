@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1868705",
+    "cui_name": "Shone complex",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Congenital Heart Disease",
+    "reasoning": "Shone complex (combination of mitral stenosis, subaortic stenosis, and coarctation of aorta) is an extremely rare congenital heart defect with <0.1 per 100k births. Limited epidemiological data available.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

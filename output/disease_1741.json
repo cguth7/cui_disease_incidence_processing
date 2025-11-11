@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1519680",
+    "cui_name": "Tumor Immunity",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Tumor immunity is a biological process/immunological concept, not a clinically defined disease entity with epidemiological data. This describes immune mechanisms that suppress or promote tumor growth rather than a measurable disease condition with incidence rates.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

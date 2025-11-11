@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0023212",
+    "cui_name": "Left-Sided Heart Failure",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 15000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1200000000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Heart Failure",
+    "reasoning": "Left-sided (systolic) heart failure is a chronic condition, prevalence appropriate over incidence. Global prevalence estimated at ~15% of population (~15,000 per 100k) based on pooled epidemiological studies. Left-sided HF represents approximately 50-60% of all heart failure cases. Confidence reflects moderate source quality and geographic variation.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2006,
+    "source": "Mosterd A & Hoes AW. (2007). Clinical epidemiology of heart failure. Heart. 93(9):1137-1146",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/17699180/",
+    "source_type": "literature"
+  }
+]

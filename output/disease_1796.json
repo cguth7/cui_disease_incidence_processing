@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1337013",
+    "cui_name": "Differentiated Thyroid Gland Carcinoma",
+    "incidence_per_100k": 7.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 576000,
+    "confidence": 0.87,
+    "is_subtype": true,
+    "parent_disease": "Thyroid Neoplasms",
+    "reasoning": "Differentiated thyroid cancer (papillary and follicular types) has global incidence of approximately 7.2 per 100k person-years based on GLOBOCAN 2005 cancer registry data. Well-defined disease entity with established epidemiological surveillance.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

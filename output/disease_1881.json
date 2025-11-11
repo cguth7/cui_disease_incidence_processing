@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0265325",
+    "cui_name": "Turcot syndrome (disorder)",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": "Hereditary Cancer Syndrome",
+    "reasoning": "Turcot syndrome is an extremely rare hereditary cancer predisposition syndrome characterized by colorectal cancer and brain tumors (medulloblastoma). Incidence estimated at <0.01 per 100k based on case report frequency and small clinical series. No systematic epidemiological studies documenting population-based incidence.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

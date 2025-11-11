@@ -1,0 +1,19 @@
+{
+  "cui": "C0936223",
+  "cui_name": "Metastatic Prostate Carcinoma",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Prostate Cancer",
+  "reasoning": "Metastatic prostate cancer at presentation represents approximately 5-15% of incident prostate cancers. Global prostate cancer incidence estimated at ~37 per 100k males; applying metastatic proportion (~12%) yields ~4.5 per 100k overall population (or ~11 per 100k males). Moderate confidence due to lack of disease-specific registry data with exact source URL.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

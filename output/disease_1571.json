@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0007121",
+    "cui_name": "Bronchogenic Carcinoma",
+    "incidence_per_100k": 40.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 3200000,
+    "confidence": 0.85,
+    "is_subtype": true,
+    "parent_disease": "Lung Cancer",
+    "reasoning": "Bronchogenic carcinoma (primary lung cancer) global incidence approximately 40 per 100k person-years from GLOBOCAN 2005, with significant variation by region due to tobacco use and air pollution exposure.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0024143",
+    "cui_name": "Lupus Nephritis",
+    "incidence_per_100k": 1.9,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 152000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Systemic Lupus Erythematosus",
+    "reasoning": "Lupus nephritis incidence estimated at ~1.9 per 100k person-years, derived from SLE global incidence (~4-5 per 100k) multiplied by proportion developing renal involvement (40-50%). Metric is incidence of kidney involvement in SLE patients.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

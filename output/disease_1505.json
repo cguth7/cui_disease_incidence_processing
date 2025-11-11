@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0030360",
+    "cui_name": "Papillon-Lefevre Disease",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.4,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Papillon-Lefevre Disease is an extremely rare autosomal recessive genetic disorder (CTSC gene mutation) characterized by palmoplantar keratoderma and periodontitis. Estimated <0.01 per 100k based on case reports and genetic epidemiology. Most cases reported from Mediterranean and Middle Eastern populations.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

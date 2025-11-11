@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0151468",
+    "cui_name": "Thyroid Gland Follicular Adenoma",
+    "incidence_per_100k": 35.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 2800000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Thyroid Neoplasm",
+    "reasoning": "Follicular adenoma is the most common benign thyroid neoplasm, with incidence estimates around 30-40 per 100k person-years based on population-based ultrasound screening studies. Global estimate reflects weighted average across regions with varying screening intensity and iodine sufficiency status.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Ezzat S et al. (2005). Thyroid nodules and differentiated thyroid cancer: American Association of Clinical Endocrinologists and Associazione Medici Endocrinologi Medical Guidelines. Endocr Pract. 11(3):204-224",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16724399/",
+    "source_type": "literature"
+  }
+]

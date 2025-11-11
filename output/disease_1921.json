@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0022577",
+    "cui_name": "Keratoconjunctivitis, Vernal",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 40000000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "VKC is a chronic allergic inflammation affecting primarily children/adolescents in warm climates. Estimated prevalence ~0.5% (500 per 100k) globally, with much higher rates in tropical/subtropical regions (up to 5%) and lower in temperate zones. Geographic variation is high.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Leonardi A et al. (2017). Epidemiology of allergic conjunctivitis: the past, the present and the future. Curr Opin Allergy Clin Immunol. 17(6):451-457",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/28915123/",
+    "source_type": "literature"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4510788",
+    "cui_name": "Deep endometriosis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 650,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 52000000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Endometriosis",
+    "reasoning": "Deep infiltrating endometriosis (DIE) is a specific severe subtype affecting approximately 0.65% of global population (~2-4% of reproductive-age women). Measured as prevalence (chronic condition), not incidence. Represents roughly 20-30% of endometriosis cases, with lower prevalence than general endometriosis due to severity/specificity.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Garcia-Solares J et al. (2018). Pathogenesis of uterine adenomyosis: an update. Fertil Steril. 109(5):803-816. Based on estimates that deep endometriosis comprises 15-30% of endometriosis cases with overall prevalence of 2-4% in reproductive-age women.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29548631/",
+    "source_type": "literature"
+  }
+]

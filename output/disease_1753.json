@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0393576",
+    "cui_name": "Chorea Acanthocytosis Syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Chorea Acanthocytosis (ChAc) is an extremely rare autosomal recessive neurological disorder with estimated <100 documented cases worldwide (<0.001 per 100k). No systematic epidemiological registries or population-based incidence studies available; estimate based on case report frequency.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

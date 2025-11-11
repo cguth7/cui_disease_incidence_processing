@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0265965",
+    "cui_name": "Dyskeratosis Congenita",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 40000,
+    "confidence": 0.55,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Dyskeratosis congenita is a rare inherited bone marrow failure syndrome with heterogeneous inheritance patterns (autosomal dominant, recessive, X-linked). Prevalence estimated at 0.5 per 100k based on clinical registry data; incidence not well-documented. Genetic conditions are better measured by prevalence than incidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": 2010,
+    "source": "Dokal I et al. (2010). Dyskeratosis Congenita. In: Pagon RA et al., eds. GeneReviews. University of Washington",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1778/",
+    "source_type": "literature"
+  }
+]

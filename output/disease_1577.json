@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4744565",
+    "cui_name": "Metastatic Colon Carcinoma",
+    "incidence_per_100k": 8.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 680000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Colon Cancer",
+    "reasoning": "Metastatic colon carcinoma represents approximately 15-20% of colon cancer diagnoses at presentation. Estimated at ~8.5 per 100k based on global colon cancer incidence with proportional estimate for metastatic disease. No specific epidemiological registry data found for metastatic subset.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

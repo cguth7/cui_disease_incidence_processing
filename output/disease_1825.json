@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0026267",
+    "cui_name": "Mitral Valve Prolapse Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2500,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 200000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "MVP is a chronic structural cardiac condition best described by prevalence rather than incidence. Population-based echocardiographic surveys consistently report prevalence of 2-3% globally, estimated at 2500 per 100k. More common in women and varies by diagnostic criteria applied.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

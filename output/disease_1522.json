@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0030805",
+    "cui_name": "Familial Benign Pemphigus",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 0.2,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 16000,
+    "confidence": 0.48,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Familial Benign Pemphigus (Hailey-Hailey disease) is a rare autosomal dominant genetic acantholytic skin disorder with estimated prevalence of 0.12-0.3 per 100k population. Prevalence is the appropriate metric for this chronic, lifelong genetic condition. Limited population-based epidemiological studies available.",
+    "data_quality": "weak",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

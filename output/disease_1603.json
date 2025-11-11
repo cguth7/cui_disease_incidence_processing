@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0876991",
+    "cui_name": "Histiocytosis haematophagic",
+    "incidence_per_100k": 0.15,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": "Histiocytosis",
+    "reasoning": "Rare disorder with heterogeneous presentation (familial vs secondary forms). Estimated global incidence ~0.1-0.15 per 100k based on limited epidemiological literature. Familial HLH (<1 per million births), secondary HLH associated with various triggers. Limited data quality due to rarity and potential underdiagnosis.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

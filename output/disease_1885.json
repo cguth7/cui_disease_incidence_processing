@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3542499",
+    "cui_name": "Aminoacylase 2 Deficiency",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.2,
+    "is_subtype": false,
+    "parent_disease": "Amino acid metabolism disorders",
+    "reasoning": "Aminoacylase 2 deficiency is an extremely rare genetic disorder of amino acid metabolism with very limited case reports in medical literature. No systematic epidemiological data available; estimated <0.001 per 100k based on isolated case reports.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0043046",
+    "cui_name": "Wasting Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Wasting syndrome is a heterogeneous clinical syndrome with multiple etiologies (HIV/AIDS, cancer cachexia, tuberculosis, chronic infections) and no unified epidemiological definition. Too broad and multifactorial to estimate a single global incidence rate.",
+    "data_quality": "none",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

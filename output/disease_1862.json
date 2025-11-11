@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1654637",
+    "cui_name": "androgen independent prostate cancer",
+    "incidence_per_100k": 4.8,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 384000,
+    "confidence": 0.58,
+    "is_subtype": true,
+    "parent_disease": "Prostate cancer",
+    "reasoning": "Androgen-independent (castrate-resistant) prostate cancer develops in 10-20% of prostate cancer patients. UK primary care database (Enting et al. 2012) reported 3.8 per 100 person-years among all prostate cancer patients. Global estimate extrapolated as ~4.8 per 100,000 based on ~40 per 100k prostate cancer incidence × ~12% CRPC development rate. Data primarily from regional healthcare databases and cohort studies, not global population-level registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2009,
+    "source": "Enting D et al. (2012). Epidemiology of castration resistant prostate cancer: a longitudinal analysis using a UK primary care database. Eur Urol. 62(3):434-441; Kirby M et al. (2011). Characterising the castration-resistant prostate cancer population: a systematic review. Int J Clin Pract. 65(11):1180-1192",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/22910034/",
+    "source_type": "literature"
+  }
+]

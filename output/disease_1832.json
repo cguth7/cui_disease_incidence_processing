@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0238286",
+    "cui_name": "Mucolipidosis Type IV",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": "Lysosomal Storage Disease",
+    "reasoning": "Mucolipidosis Type IV is an extremely rare autosomal recessive lysosomal storage disorder with estimated incidence <0.01 per 100k births. Primarily documented through case reports and small case series without systematic population-based surveillance.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

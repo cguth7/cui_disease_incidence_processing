@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0265554",
+    "cui_name": "Ectrodactyly",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 1.5,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.62,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Ectrodactyly is a rare congenital malformation with prevalence estimated at 1-3 per 100,000 live births globally. Using prevalence metric as this is a lifelong genetic condition with clear phenotype. Confidence moderate due to limited epidemiological data and potential geographic variation in ascertainment.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Oberg KC et al. (2010). Developmental Biology and Genetics of Hand and Foot Malformations. Birth Defects Res Part C. 90(4):313-332",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/21180005/",
+    "source_type": "literature"
+  }
+]

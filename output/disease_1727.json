@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278838",
+    "cui_name": "Prostate cancer recurrent",
+    "incidence_per_100k": 8.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 640000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Prostate cancer",
+    "reasoning": "Estimated based on primary prostate cancer incidence (~30 per 100k) with approximately 25% developing biochemical or clinical recurrence. Specific global data on recurrent prostate cancer incidence as a standardized metric is not available in GLOBOCAN or major cancer registries. Estimate derived from oncology cohort studies and clinical trial data.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cui": "C0086769",
+  "cui_name": "Panic Attacks",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Panic disorder/attacks measured as lifetime prevalence (~1.5% of population = 15,000 per 100k) based on community epidemiological surveys. Psychiatric epidemiology relies on DSM diagnostic criteria with moderate variability across studies and populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

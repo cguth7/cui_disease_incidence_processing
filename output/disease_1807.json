@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3267003",
+    "cui_name": "Vascular endothelial growth factor overexpression",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Unmappable concept. VEGF overexpression is a molecular mechanism, not a clinical disease entity. It occurs as a pathological feature in multiple conditions (especially cancers and angiogenesis-related diseases) but is not diagnosable as a primary condition with meaningful incidence or prevalence rates.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

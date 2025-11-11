@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278498",
+    "cui_name": "Malignant neoplasm of stomach stage IV",
+    "incidence_per_100k": 9.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 760000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Gastric cancer",
+    "reasoning": "Stomach cancer incidence ~9-10 per 100k globally from GLOBOCAN 2005. Stage IV represents metastatic disease; stage-specific incidence not separately reported in registries. Global average ~9.5 per 100k. High geographic variation due to H. pylori prevalence and screening practices.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC), Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

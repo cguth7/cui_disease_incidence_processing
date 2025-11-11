@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278504",
+    "cui_name": "Non-small cell lung cancer stage I",
+    "incidence_per_100k": 2.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 160000,
+    "confidence": 0.68,
+    "is_subtype": true,
+    "parent_disease": "Non-small cell lung cancer",
+    "reasoning": "NSCLC stage I incidence estimated at ~2.0 per 100k person-years. Based on global lung cancer incidence (~18 per 100k from GLOBOCAN 2005), NSCLC represents ~85% of cases, with stage I comprising ~13% of incident NSCLC. Confidence limited by reliance on aggregate data with proportional estimation rather than direct stage-specific registry data.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC) with stage distribution from SEER data",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

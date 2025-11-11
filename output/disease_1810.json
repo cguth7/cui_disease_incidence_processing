@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2939461",
+    "cui_name": "Myeloid neoplasm",
+    "incidence_per_100k": 8.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 680000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major myeloid malignancies: AML (~3 per 100k), CML (~1.5 per 100k), myeloproliferative neoplasms (~1 per 100k), myelodysplastic syndromes (~3 per 100k) = ~8.5 per 100k total. Low confidence due to heterogeneity of umbrella term and variable capture across cancer registries.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

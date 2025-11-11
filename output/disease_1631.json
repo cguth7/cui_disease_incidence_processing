@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0270921",
+    "cui_name": "Axonal neuropathy",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Peripheral Neuropathy",
+    "reasoning": "Axonal neuropathy is a morphological subtype of peripheral neuropathy with heterogeneous etiologies (diabetic, chemotherapy-induced, toxic, infectious). No unified population-based incidence data exists; epidemiological literature reports specific causes rather than axonal neuropathy as a primary condition. Confidence limited by heterogeneity and lack of independent disease registries.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

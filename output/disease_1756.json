@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2348199",
+    "cui_name": "Short Qt Syndrome",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": "extremely rare",
+    "metric_type": "prevalence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Extremely rare genetic cardiac disorder affecting ventricular repolarization. Fewer than 200 cases reported worldwide; prevalence estimated at <0.01 per 100k based on case report frequency.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

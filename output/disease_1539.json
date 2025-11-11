@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0020517",
+    "cui_name": "Hypersensitivity",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 15000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 1200000000,
+    "confidence": 0.25,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hypersensitivity is a broad umbrella term encompassing multiple immunological reaction types (Type I-IV). Aggregate BOTEC estimate of major manifestations: allergic diseases (~10,000-15,000 per 100k prevalence globally considering allergies, asthma, atopic dermatitis, and other IgE-mediated conditions). Reported as prevalence since hypersensitivity is a chronic/episodic condition rather than incident event. Very heterogeneous category with significant overlap.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

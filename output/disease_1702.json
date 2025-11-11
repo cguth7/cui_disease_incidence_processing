@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0162666",
+    "cui_name": "Mitochondrial Encephalomyopathies",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate for mitochondrial encephalomyopathies summing major subtypes: MELAS (~0.5 per 100k births), MERRF (~0.3 per 100k births), Leigh syndrome (~0.4 per 100k births), other mitochondrial cytopathies (~0.3 per 100k). Total ~1.5 per 100k. Low confidence due to heterogeneity, limited epidemiological data, and variable reporting across populations.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0152069",
+    "cui_name": "Echinococcus multilocularis infection",
+    "incidence_per_100k": 0.05,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 40000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Echinococcosis",
+    "reasoning": "Alveolar echinococcosis from E. multilocularis is rare globally (~0.05 per 100k), endemic primarily in Europe and Asia. Reported as incidence (new infections per year). Lower confidence due to limited epidemiological surveillance in many regions and sparse epidemiological literature.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

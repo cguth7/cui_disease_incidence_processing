@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0003838",
+    "cui_name": "Arterial Occlusive Diseases",
+    "incidence_per_100k": 150,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 12000000,
+    "confidence": 0.35,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major arterial occlusive disease categories: peripheral arterial disease occlusive events (~30-50 per 100k), cerebral artery occlusions/ischemic stroke (~100-120 per 100k), acute aortic occlusion (<5 per 100k), coronary artery occlusion (~20-30 per 100k). Total aggregate approximately 150-200 per 100k. Low confidence due to heterogeneity of component diseases, overlap with cardiovascular disease definitions, and variation by age/geography.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

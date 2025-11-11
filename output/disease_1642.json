@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0334036",
+    "cui_name": "Apocrine metaplasia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.15,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Apocrine metaplasia is a benign histological change, not a disease entity. Represents transformation of normal epithelium to apocrine-type tissue, commonly found incidentally in breast tissue pathology specimens. No systematic epidemiological incidence or prevalence data exists; not tracked by disease registries or surveillance systems.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

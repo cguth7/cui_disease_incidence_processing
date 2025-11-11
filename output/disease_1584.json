@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0003811",
+    "cui_name": "Cardiac Arrhythmia",
+    "incidence_per_100k": 2800,
+    "prevalence_per_100k": 5200,
+    "metric_type": "both",
+    "total_cases_per_year": 224000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major arrhythmia types: atrial fibrillation (prevalence ~2200 per 100k, incidence ~100-200), ventricular tachycardia (500-800), supraventricular tachycardia (1000-1200), premature contractions (500-700), bradycardia (400-600), other arrhythmias (500+). Umbrella term with heterogeneous subtypes and significant geographic/age variation. Low confidence due to overlap between conditions and prevalence-heavy data.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

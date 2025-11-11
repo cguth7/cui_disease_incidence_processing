@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0276447",
+    "cui_name": "Rhinovirus infection",
+    "incidence_per_100k": 5500,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 440000000,
+    "confidence": 0.52,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Rhinovirus is the leading cause of common cold, affecting most individuals multiple times annually. Estimated incidence ~5500 per 100k based on epidemiological surveys indicating 2-5 symptomatic infections per person-year. Specific 2005 surveillance data for rhinovirus is limited; confidence reflects this data gap.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

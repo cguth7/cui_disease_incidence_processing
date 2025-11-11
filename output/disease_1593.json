@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206718",
+    "cui_name": "Ganglioneuroblastoma",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Neuroblastoma",
+    "reasoning": "Ganglioneuroblastoma is a rare pediatric neural crest malignancy, intermediate between neuroblastoma and ganglioneuroma. Estimated incidence ~0.3 per 100k births (pediatric population). Limited epidemiological studies available; estimate based on neuroblastoma subtype frequency.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1399226",
+    "cui_name": "Ectopic rhythm",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 60000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 4800000000,
+    "confidence": 0.65,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Ectopic rhythm prevalence reported as 60% of adults experience occasional ectopic beats (PACs/PVCs), based on population studies and Holter monitoring data. Reported as prevalence since this is a chronic/recurrent cardiac condition without clear 'new case' incidence.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Flensted-Jensen E et al. (2005). Natural history of atrial fibrillation from asymptomatic electrocardiogram to symptomatic arrhythmia: a systematic review.",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

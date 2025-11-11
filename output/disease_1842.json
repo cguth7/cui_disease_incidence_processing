@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2613439",
+    "cui_name": "Extramedullary Hematopoiesis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Extramedullary hematopoiesis is a pathological process (blood cell production outside bone marrow) secondary to severe anemias or hematologic disorders, not a primary disease entity. Cannot assign meaningful incidence rate without specifying the underlying condition (e.g., sickle cell disease, thalassemia, severe hemolytic anemia).",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

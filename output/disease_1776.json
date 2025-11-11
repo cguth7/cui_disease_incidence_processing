@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0043154",
+    "cui_name": "Dental White Spot",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 3000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 240000000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Dental white spot lesions (WSL) are common enamel demineralization findings with estimated prevalence around 3% globally (3,000 per 100k). Reported as prevalence since this is a clinical oral finding rather than an incident disease. Limited population-based epidemiological data; estimates derived from dental school and clinical studies with geographic variation based on fluoride exposure and oral hygiene practices.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

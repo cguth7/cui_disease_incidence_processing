@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0011884",
+    "cui_name": "Diabetic Retinopathy",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 2800,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 224000000,
+    "confidence": 0.82,
+    "is_subtype": true,
+    "parent_disease": "Diabetes Mellitus Complications",
+    "reasoning": "Diabetic retinopathy is a chronic complication of diabetes affecting approximately 30-40% of people with diabetes globally. Reported as prevalence rather than incidence since it's a chronic condition with gradual onset. Global prevalence estimated at ~2800 per 100k general population based on diabetes prevalence (8-9% globally) and DR prevalence among diabetics (30-40%).",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Fong DS et al. (2004). The relative roles of nonproliferative and proliferative retinopathy in the development of macular edema and retinal detachment in Type 2 diabetes. Ophthalmology. 111(12):2241-2245; WHO Global Burden of Disease Study 2005",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15582825/",
+    "source_type": "literature"
+  }
+]

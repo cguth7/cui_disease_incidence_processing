@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0947622",
+    "cui_name": "Cholecystolithiasis",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 12000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 960000000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Cholecystolithiasis reported as prevalence (chronic asymptomatic condition). Global prevalence estimated at ~12% (12,000 per 100k) from population-based ultrasound studies. High geographic variation: 8-10% in Asia, 12-15% in North America/Europe, influenced by age, sex (female), ethnicity, and dietary factors.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

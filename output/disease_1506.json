@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C3714796",
+    "cui_name": "Isolated somatotropin deficiency",
+    "incidence_per_100k": 1.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 120000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Growth hormone deficiency",
+    "reasoning": "Rare congenital endocrine disorder with isolated GHD. Incidence estimated at 1-2 per 100k population based on birth prevalence studies (approximately 1 in 3,000-10,000 births). Conservative point estimate of 1.5 per 100k used.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

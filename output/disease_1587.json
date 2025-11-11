@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0031192",
+    "cui_name": "Persistent Ostium Primum",
+    "incidence_per_100k": 18.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1440000,
+    "confidence": 0.55,
+    "is_subtype": true,
+    "parent_disease": "Atrial Septal Defect",
+    "reasoning": "Ostium primum ASD is a specific subtype of atrial septal defects, typically representing 15-25% of all ASDs. Estimated incidence ~18 per 100k based on total ASD incidence of 2-8 per 10,000 live births globally. Limited epidemiological data available; confidence capped at 0.55 due to heterogeneous reporting across regions and limited 2005-specific studies.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

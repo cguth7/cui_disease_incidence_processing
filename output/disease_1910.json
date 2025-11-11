@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0518948",
+    "cui_name": "Chlamydia trachomatis infection",
+    "incidence_per_100k": 1480,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 118400000,
+    "confidence": 0.78,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Chlamydia trachomatis is the most common reportable bacterial sexually transmitted infection globally. Acute incident infection with well-documented incidence of ~1,480 per 100k person-years from CDC/WHO 2005 surveillance data. Geographic variation moderate due to differences in testing and reporting practices.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "CDC Sexually Transmitted Infections Surveillance Report 2005",
+    "source_url": "https://www.cdc.gov/std/stats/",
+    "source_type": "registry"
+  }
+]

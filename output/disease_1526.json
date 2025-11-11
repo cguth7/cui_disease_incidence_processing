@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1368882",
+    "cui_name": "Sebaceous gland cancer",
+    "incidence_per_100k": 0.1,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 8000,
+    "confidence": 0.4,
+    "is_subtype": true,
+    "parent_disease": "Eyelid and periocular neoplasm",
+    "reasoning": "Sebaceous gland carcinoma is a rare eyelid malignancy, predominantly occurring in elderly patients. Estimated incidence ~0.1 per 100k globally based on limited case series data and registry reports. Confidence limited by scarcity of population-based epidemiological studies.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

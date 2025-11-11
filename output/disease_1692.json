@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0751569",
+    "cui_name": "Genitourinary Cancer",
+    "incidence_per_100k": 105,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 8400000,
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Aggregate BOTEC estimate summing major genitourinary malignancies: prostate cancer (~35 per 100k), bladder cancer (~18 per 100k), renal cell carcinoma (~8 per 100k), testicular cancer (~7 per 100k), ovarian cancer (~12 per 100k), cervical cancer (~15 per 100k), uterine cancer (~10 per 100k) = approximately 105 per 100k globally. Heterogeneous group with significant geographic and sex-specific variation; confidence capped at low level due to umbrella nature and overlap of risk factors across populations.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

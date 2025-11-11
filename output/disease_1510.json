@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0206669",
+    "cui_name": "Hepatocellular Adenoma",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Liver Neoplasm",
+    "reasoning": "Benign hepatocellular adenoma incidence estimated at 3.5 per 100k based on imaging surveillance and autopsy studies. Significant geographic and temporal variation due to increased detection with modern imaging and OCP prevalence variation by region.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Rooks JB et al. (1979). Epidemiology of hepatocellular adenoma. The role of oral contraceptive use. JAMA. 242(7):644-648",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/466869/",
+    "source_type": "literature"
+  }
+]

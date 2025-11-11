@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0349459",
+    "cui_name": "Cervical intraepithelial neoplasia grade 2",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.62,
+    "is_subtype": true,
+    "parent_disease": "Cervical intraepithelial neoplasia",
+    "reasoning": "CIN2 is diagnosed through cervical screening programs (cytology/HPV testing). Global incidence estimate ~3.5 per 100k accounts for varying screening coverage across developed and developing regions. Detection rates heavily depend on screening program intensity and HPV prevalence rather than true disease occurrence.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

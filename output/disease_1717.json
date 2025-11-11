@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2315100",
+    "cui_name": "Pediatric failure to thrive",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": 5000,
+    "metric_type": "prevalence",
+    "total_cases_per_year": 400000000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": "Malnutrition",
+    "reasoning": "Failure to thrive is a clinical diagnosis reflecting poor growth in children, with heterogeneous causes (organic and non-organic). No systematic global epidemiological data available. Estimated prevalence at ~0.5-1% of pediatric population based on clinical study reports, translating to ~5,000 per 100k population. High geographic variation due to differences in nutrition, healthcare access, and diagnostic criteria.",
+    "data_quality": "weak",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

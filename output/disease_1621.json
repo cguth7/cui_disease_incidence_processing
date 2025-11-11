@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0085077",
+    "cui_name": "Sweet Syndrome",
+    "incidence_per_100k": 0.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Sweet Syndrome (Acute Febrile Neutrophilic Dermatosis) is a rare inflammatory skin condition. Estimated incidence ~0.7 per 100k based on limited epidemiological studies and case reports; most data from small hospital-based cohorts rather than population-based registries.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

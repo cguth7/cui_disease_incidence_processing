@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0155765",
+    "cui_name": "Disease of capillaries",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Unmappable umbrella term. 'Disease of capillaries' is too vague and generic to estimate meaningfully. Would require specification of capillary pathology type (e.g., capillary malformation, capillary telangiectasia, hereditary hemorrhagic telangiectasia, capillary hemangioma) to provide meaningful epidemiological estimates.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

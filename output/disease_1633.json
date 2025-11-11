@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0029883",
+    "cui_name": "Otitis Media with Effusion",
+    "incidence_per_100k": 250,
+    "prevalence_per_100k": 12000,
+    "metric_type": "both",
+    "total_cases_per_year": 960000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Otitis Media",
+    "reasoning": "Well-defined pediatric condition with documented epidemiology. Reporting both incidence (~250 per 100k children per year for new cases) and prevalence (~12% of children globally at any point). Primary metric is prevalence due to chronic/recurrent nature of OME in children.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "Teele DW et al. (1989). Epidemiology of otitis media during the first seven years of life in children in Greater Boston: A prospective, cohort study. J Infect Dis. 160(1):83-94; WHO Global Burden of Disease 2005",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/2732053/",
+    "source_type": "literature"
+  }
+]

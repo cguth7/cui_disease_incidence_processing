@@ -1,0 +1,19 @@
+{
+  "cui": "C2608055",
+  "cui_name": "Hereditary Renal Cell Carcinoma",
+  "incidence_per_100k": 0.45,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 36000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Renal Cell Carcinoma",
+  "reasoning": "Hereditary RCC comprises approximately 3-5% of all RCC cases. With global RCC incidence at ~9-10 per 100k, hereditary RCC estimated at 0.45 per 100k. Includes VHL syndrome, hereditary papillary RCC, Birt-Hogg-Dubé syndrome, and familial RCC. Confidence moderate due to variation in hereditary proportion estimates across populations and incomplete penetrance of genetic syndromes.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2020 (IARC) for RCC incidence; Linehan et al. (2010). Hereditary renal cell carcinoma syndromes. J Urol. 184(2):459-465",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20620413/",
+  "source_type": "literature"
+}

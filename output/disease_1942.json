@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0014869",
+    "cui_name": "Peptic Esophagitis",
+    "incidence_per_100k": 12.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 1000000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Esophagitis",
+    "reasoning": "Peptic esophagitis incidence estimated at 12.5 per 100k person-years based on GERD-related esophageal inflammation epidemiology. Reported as incidence of new symptomatic cases. Confidence moderate due to limited disease-specific epidemiological data and variation in diagnostic criteria.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]
