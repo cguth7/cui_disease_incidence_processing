@@ -1,0 +1,7 @@
+Processed: C0268799 (Acquired renal cystic disease)
+Processed: C0037157 (Simple cyst)
+Processed: C0262988 (Vasculitis of the skin)
+Processed: C0334511 (Pleural Solitary Fibrous Tumor)
+Processed: C3264595 (Agoraphobia without panic disorder)
+
+Batch processing complete: 5 diseases processed

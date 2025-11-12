@@ -1,118 +1,75 @@
-CUI DISEASE INCIDENCE MAPPING - PROCESSING SUMMARY
-===================================================
+========================================
+CUI INCIDENCE MAPPER - PROCESSING REPORT
+========================================
+Skill: cui-incidence-mapper_2
+Processed Date: 2025-11-12
+Output Directory: /home/user/cui_disease_incidence_processing/output/results_7001_8000
 
-Processing Date: 2025-11-12
-Tool Used: cui-incidence-mapper_2 skill
+PROCESSING RESULTS
+==================
+
 Total Diseases Processed: 5
+Files Created: 5
 
-DETAILED RESULTS:
+Files Created:
+  1. C0333027.json       - Microlithiasis (605 bytes)
+  2. C1335710.json       - Recurrent Malignant Peripheral Nerve Sheath Tumor (686 bytes)
+  3. C4049636.json       - ROSE Cluster 1 (601 bytes)
+  4. C1337035.json       - Xanthogranulomatous cholecystitis (687 bytes)
+  5. C0865181.json       - Female Virilization (762 bytes)
+
+CONFIDENCE DISTRIBUTION
+=======================
+High (0.7-1.0):     0 diseases
+Medium (0.3-0.7):   3 diseases (C1335710, C1337035, C0865181)
+Low (0.0-0.3):      2 diseases
+  - Unmappable (0.0):  1 disease (C4049636)
+  - Low (0.0-0.3):     1 disease (C0333027)
+
+DISEASE DETAILS
+===============
+
+1. C0333027 - Microlithiasis
+   Confidence: 0.25 (Low)
+   Incidence: extremely rare (<0.01 per 100k)
+   Data Quality: weak
+   Status: Extremely rare inherited disorder with <100 cases worldwide
+   
+2. C1335710 - Recurrent Malignant Peripheral Nerve Sheath Tumor
+   Confidence: 0.45 (Medium-Low)
+   Incidence: 0.3 per 100k
+   Total Cases/Year: 24,000
+   Is Subtype: true (parent: Peripheral Nerve Sheath Tumor)
+   Data Quality: weak
+   Status: Rare soft tissue sarcoma with limited epidemiological data
+
+3. C4049636 - ROSE Cluster 1
+   Confidence: 0.0 (Unmappable)
+   Incidence: null
+   Data Quality: none
+   Status: Research classification/clustering term - not a clinical disease
+   
+4. C1337035 - Xanthogranulomatous cholecystitis
+   Confidence: 0.4 (Medium-Low)
+   Incidence: 0.8 per 100k
+   Total Cases/Year: 64,000
+   Is Subtype: true (parent: Cholecystitis)
+   Data Quality: weak
+   Status: Rare inflammatory variant accounting for <1% of cholecystitis
+
+5. C0865181 - Female Virilization
+   Confidence: 0.35 (Medium-Low)
+   Incidence: 1.5 per 100k
+   Total Cases/Year: 120,000
+   Is Subtype: false
+   Parent Disease: Endocrine Disorder
+   Data Quality: weak
+   Geographic Variation: high
+   Status: Multi-etiology syndrome (CAH, PCOS, virilizing tumors, iatrogenic)
+
+FILE VERIFICATION
 =================
+All 5 files exist and contain valid JSON data.
+Total storage: 3.3 KB
 
-1. C1849157 - Resistance to Insulin-Like Growth Factor I
-   Status: PROCESSED
-   Confidence: 0.1 (Very Low)
-   Incidence Data: UNMAPPABLE (null)
-   Data Quality: Weak
-   Classification: Genetic disorder - extremely rare
-   Notes: No systematic epidemiological data available. Only case reports exist in endocrinology literature. Too rare for population-level estimates.
-   Output File: /home/user/cui_disease_incidence_processing/output/results/C1849157.json
-
-2. C0022353 - Neonatal Jaundice
-   Status: PROCESSED
-   Confidence: 0.75 (High-Moderate)
-   Incidence: 60,000 per 100k live births
-   Total Cases/Year: 4.8 billion
-   Metric Type: Incidence (new cases)
-   Data Quality: Moderate
-   Geographic Variation: Moderate
-   Source Type: Literature (WHO and pediatric epidemiology)
-   Notes: Affects 60% of term and 80% of preterm newborns. Confidence reduced due to varying definitions (physiologic vs pathologic) and treatment changes over time.
-   Output File: /home/user/cui_disease_incidence_processing/output/results/C0022353.json
-
-3. C0029128 - Optic Disk Drusen
-   Status: PROCESSED
-   Confidence: 0.6 (Moderate)
-   Prevalence: 9,800 per 100k population
-   Total Cases: 784 million
-   Metric Type: Prevalence (existing cases)
-   Data Quality: Moderate
-   Geographic Variation: Low
-   Source Type: Literature (Ophthalmology studies)
-   Notes: Asymptomatic accumulations of hyaline material. Prevalence 0.3-2% of general population. Limited high-quality epidemiological data.
-   Output File: /home/user/cui_disease_incidence_processing/output/results/C0029128.json
-
-4. C1970236 - Microphthalmia, Posterior, With Retinitis Pigmentosa, Foveoschisis, And Optic Disc Drusen
-   Status: PROCESSED
-   Confidence: 0.15 (Very Low)
-   Incidence Data: Extremely rare (<0.01 per 100k births)
-   Data Quality: Weak
-   Classification: Subtype of genetic eye disorders
-   Geographic Variation: Unknown
-   Notes: Extremely rare syndromic condition with <100 cases reported worldwide. Only case-report frequency available for estimation.
-   Output File: /home/user/cui_disease_incidence_processing/output/results/C1970236.json
-
-5. C4528668 - Acute myeloid leukaemia refractory
-   Status: PROCESSED
-   Confidence: 0.68 (Moderately High)
-   Incidence: 1.2 per 100k
-   Total Cases/Year: 96,000
-   Metric Type: Incidence (new cases)
-   Data Quality: Strong
-   Geographic Variation: Moderate
-   Source Type: Registry (SEER and WHO cancer registries)
-   Data Year: 2010
-   Classification: Subtype of Acute Myeloid Leukemia (10-20% of AML cases)
-   Notes: Represents primary induction failure in AML. Confidence reduced due to varying refractory definitions and treatment evolution.
-   Output File: /home/user/cui_disease_incidence_processing/output/results/C4528668.json
-
-PROCESSING STATISTICS:
-======================
-
-Total Diseases Processed: 5
-Successful Mappings: 5/5 (100%)
-
-Confidence Distribution:
-- High (0.7+): 1 disease (C0022353 - Neonatal Jaundice)
-- Moderate (0.4-0.7): 2 diseases (C0029128, C4528668)
-- Low (0.1-0.4): 2 diseases (C1849157, C1970236)
-
-Data Quality Distribution:
-- Strong: 1 disease (C4528668)
-- Moderate: 2 diseases (C0022353, C0029128)
-- Weak: 2 diseases (C1849157, C1970236)
-
-Metric Types:
-- Incidence (new cases/year): 3 diseases
-- Prevalence (existing cases): 1 disease
-- Unmappable: 1 disease
-
-Geographic Variation:
-- Low: 1 disease
-- Moderate: 2 diseases
-- Unknown: 2 diseases
-
-KEY FINDINGS:
-==============
-
-1. Two rare/genetic diseases (C1849157, C1970236) were unmappable or extremely rare, with confidence <0.2 and limited epidemiological data
-
-2. Neonatal Jaundice (C0022353) is highly prevalent globally (affects majority of newborns) with relatively good epidemiological data
-
-3. Optic Disk Drusen (C0029128) has moderate prevalence but limited systematic epidemiological studies
-
-4. Refractory AML (C4528668) benefits from strong cancer registry data with estimated 96,000 cases annually
-
-5. All results properly formatted as JSON and saved to individual files as requested
-
-OUTPUT LOCATION:
-================
-Base Directory: /home/user/cui_disease_incidence_processing/output/results/
-
-Individual Files:
-- C1849157.json
-- C0022353.json
-- C0029128.json
-- C1970236.json
-- C4528668.json
-
-All files follow the cui-incidence-mapper_2 specification with complete metadata, confidence scoring, and source documentation.
+Timestamp: 2025-11-12 04:23:00 UTC
