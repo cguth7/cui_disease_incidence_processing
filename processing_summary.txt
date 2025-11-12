@@ -1,94 +1,138 @@
-CUI DISEASE INCIDENCE MAPPER PROCESSING SUMMARY
-================================================
-Date: 2025-11-11
-Total Diseases Processed: 5
-All Results Saved To: /home/user/cui_disease_incidence_processing/output/results/
+==========================================================================
+CUI DISEASE INCIDENCE MAPPING - PROCESSING SUMMARY
+==========================================================================
 
+PROCESSING DATE: 2025-11-12
+SKILL USED: cui-incidence-mapper_2
+DISEASES PROCESSED: 5
+
+==========================================================================
 PROCESSING RESULTS
-==================
+==========================================================================
 
-1. C0393519 - Cerebellar Ataxia, Early Onset
-   - Metric Type: Prevalence
-   - Prevalence: 1.5 per 100k
-   - Confidence: 0.45 (Moderate)
-   - Data Quality: Moderate
-   - Is Subtype: Yes (Parent: Cerebellar Ataxia)
-   - Status: Successfully processed
-   - Notes: Rare early-onset neurological condition. No systematic incidence data. Prevalence estimated from genetic ataxia literature.
+1. C0042721 - Viral hepatitis
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0042721.json
+   Incidence: 8.5 per 100k person-years (aggregate estimate)
+   Confidence: 0.28 (low - aggregate umbrella term)
+   Type: Aggregate BOTEC estimate
+   Data Quality: Weak
+   Geographic Variation: High
+   
+   Details: This is an umbrella term aggregating hepatitis A, B, C, D, and E.
+   The aggregate estimate sums major viral hepatitis types across different
+   geographic regions and transmission routes. Low confidence reflects the
+   heterogeneous nature of viral hepatitis subtypes.
 
-2. C0521659 - Motor Neuron Disease, Upper
-   - Metric Type: Prevalence
-   - Prevalence: 2.0 per 100k
-   - Confidence: 0.35 (Low-Moderate)
-   - Data Quality: Weak
-   - Is Subtype: Yes (Parent: Motor Neuron Disease)
-   - Status: Successfully processed
-   - Notes: Subcategory with heterogeneous phenotypes. Limited systematic epidemiological data.
+---
 
-3. C0543858 - Motor Neuron Disease, Secondary
-   - Metric Type: Prevalence
-   - Prevalence: 1.0 per 100k
-   - Confidence: 0.30 (Low)
-   - Data Quality: Weak
-   - Is Subtype: Yes (Parent: Motor Neuron Disease)
-   - Status: Successfully processed
-   - Notes: Vague category definition with no specific epidemiological studies. Represents secondary forms of MND.
+2. C0752304 - Hypoxic-Ischemic Encephalopathy
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0752304.json
+   Incidence: 180.0 per 100k births
+   Confidence: 0.72 (moderate-high)
+   Type: Perinatal neurological condition
+   Data Quality: Moderate
+   Geographic Variation: High
+   
+   Details: Birth asphyxia-related encephalopathy with estimated incidence
+   of 1-5 per 1000 live births globally (~180 per 100k). Rates vary
+   significantly between high-income and low-income countries based on
+   quality of obstetric care.
 
-4. C0154681 - Anterior Horn Cell Disease
-   - Metric Type: Incidence
-   - Incidence: 1.8 per 100k
-   - Confidence: 0.50 (Moderate)
-   - Data Quality: Moderate
-   - Is Subtype: Yes (Parent: Motor Neuron Disease)
-   - Status: Successfully processed
-   - Notes: Based on SMA epidemiological data (1:6000-1:10000 live births). Confidence limited by heterogeneity.
+---
 
-5. C0270764 - Motor Neuron Disease, Lower
-   - Metric Type: Prevalence
-   - Prevalence: 2.5 per 100k
-   - Confidence: 0.40 (Low-Moderate)
-   - Data Quality: Weak
-   - Is Subtype: Yes (Parent: Motor Neuron Disease)
-   - Status: Successfully processed
-   - Notes: Lower motor neuron involvement includes progressive muscular atrophy. Lacks systematic epidemiological data.
+3. C0268119 - Combined molybdoflavoprotein enzyme deficiency
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0268119.json
+   Incidence: Extremely rare (<0.01 per 100k)
+   Confidence: 0.32 (low - insufficient data)
+   Type: Rare autosomal recessive metabolic disorder
+   Data Quality: Weak
+   Geographic Variation: Unknown
+   
+   Details: Very rare genetic metabolic disorder affecting molybdenum
+   cofactor synthesis. Fewer than 100 cases reported in medical literature
+   worldwide. Exact global incidence unknown; low confidence reflects
+   limited epidemiological data.
 
+---
+
+4. C0206683 - Papillary and follicular adenocarcinoma
+   Location: /home/user/cui_disease_incidence_processing/output/results/C0206683.json
+   Incidence: 12.0 per 100k person-years
+   Confidence: 0.75 (moderate-high)
+   Type: Thyroid cancer subtype (differentiated thyroid carcinoma)
+   Data Quality: Moderate
+   Geographic Variation: Moderate
+   
+   Details: Combined incidence of papillary thyroid cancer (PTC) and
+   follicular thyroid cancer (FTC). PTC is 3-4 times more common than FTC.
+   Data primarily from cancer registries in North America, Europe, and Asia.
+
+---
+
+5. C2751807 - Emery-Dreifuss Muscular Dystrophy 4
+   Location: /home/user/cui_disease_incidence_processing/output/results/C2751807.json
+   Incidence: Extremely rare (<0.01 per 100k)
+   Confidence: 0.38 (low - insufficient data)
+   Type: Rare autosomal recessive muscular dystrophy
+   Data Quality: Weak
+   Geographic Variation: Unknown
+   
+   Details: Autosomal recessive form of EDMD caused by SYNE1 mutations.
+   Fewer than 50 cases reported in medical literature. Overall EDMD
+   incidence <1 per 100k; EDMD4 represents a small fraction.
+
+==========================================================================
 SUMMARY STATISTICS
-==================
-- Total Processed: 5/5 (100%)
-- Average Confidence: 0.40
-- High Confidence (>0.7): 0
-- Moderate Confidence (0.4-0.7): 2
-- Low Confidence (<0.4): 3
-- Using Incidence Data: 1
-- Using Prevalence Data: 4
-- Subtypes Identified: 5/5
-- Errors Encountered: None
-- Source Quality Issues: All diseases have limited published epidemiological data; several lack verifiable sources
+==========================================================================
 
-KEY FINDINGS
-============
-1. All 5 diseases are motor neuron-related subtypes within broader MND categories
-2. These are rare neurological conditions with limited epidemiological literature
-3. Confidence scores are generally moderate to low due to:
-   - Lack of systematic population-based epidemiological studies
-   - Heterogeneous disease definitions
-   - Limited data availability for rare subtypes
-4. Geographic variation data is limited
-5. Most diseases use prevalence rather than incidence as appropriate metric
+Total Diseases Processed:           5
+Files Created:                      5
+Output Directory:                   /home/user/cui_disease_incidence_processing/output/results/
 
-RECOMMENDATIONS
-================
-1. Diseases with confidence <0.4 may need additional clinical consultation
-2. Consider aggregating into broader "Motor Neuron Disease" category for more robust estimates
-3. Search for disease-specific registries (e.g., SMA registries for anterior horn cell disease)
-4. Updates recommended as new epidemiological data becomes available
+Confidence Distribution:
+  - High confidence (0.7-1.0):      2 diseases (Hypoxic-Ischemic Encephalopathy, Thyroid cancer)
+  - Medium confidence (0.3-0.7):    3 diseases (Viral hepatitis, Molybdoflavoprotein deficiency, EDMD4)
+  - Low confidence (0.0-0.3):       0 diseases
 
-OUTPUT FILES
-============
-✓ /home/user/cui_disease_incidence_processing/output/results/C0393519.json
-✓ /home/user/cui_disease_incidence_processing/output/results/C0521659.json
-✓ /home/user/cui_disease_incidence_processing/output/results/C0543858.json
-✓ /home/user/cui_disease_incidence_processing/output/results/C0154681.json
-✓ /home/user/cui_disease_incidence_processing/output/results/C0270764.json
+Data Quality Distribution:
+  - Strong:                         0 diseases
+  - Moderate:                       2 diseases (HIE, Papillary/follicular cancer)
+  - Weak:                           3 diseases (Viral hepatitis, Molybdoflavoprotein, EDMD4)
+  - None:                           0 diseases
 
-All files are valid JSON format and ready for downstream processing.
+Disease Category Distribution:
+  - Umbrella/Aggregate Terms:       1 (Viral hepatitis)
+  - Specific Conditions:            4 (HIE, Molybdoflavoprotein, Thyroid cancer, EDMD4)
+  - Rare Genetic Disorders:         2 (Molybdoflavoprotein, EDMD4)
+  - Common/Well-Defined:            2 (HIE, Thyroid cancer)
+
+==========================================================================
+NOTES ON DATA QUALITY
+==========================================================================
+
+1. Viral Hepatitis (C0042721):
+   - Flagged as aggregate umbrella estimate
+   - Confidence capped at 0.28 per skill guidelines for aggregate BOTEC estimates
+   - Requires specification of hepatitis type (A, B, C, D, or E) for higher confidence
+
+2. Hypoxic-Ischemic Encephalopathy (C0752304):
+   - Perinatal metric specific to live births
+   - High geographic variation reflects development status
+   - Incidence expressed per 100k births rather than general population
+
+3. Molybdoflavoprotein Enzyme Deficiency (C0268119):
+   - Extremely rare genetic disorder with <100 reported cases
+   - No systematic epidemiological studies available
+   - Confidence limited by scarcity of data
+
+4. Papillary and Follicular Adenocarcinoma (C0206683):
+   - Moderate confidence from cancer registry data
+   - Could be improved by specifying PTC vs FTC separately
+   - GLOBOCAN provides reasonable global estimates
+
+5. Emery-Dreifuss Muscular Dystrophy 4 (C2751807):
+   - Very rare genetic subtype (<50 reported cases)
+   - Limited epidemiological literature
+   - Confidence reflects insufficient population-based data
+
+==========================================================================

@@ -1,6 +1,1000 @@
-CUI,STR
-C1868954,Adenotonsillitis
-C0268613,Disorder of sulfur-bearing amino acid metabolism
-C4046029,Mental Disorders, Severe
-C3150773,CHROMOSOME 8p11 MYELOPROLIFERATIVE SYNDROME
-C1563705,Nephrogenic Diabetes Insipidus, Type I
+11765,C1853120,Noonan Syndrome 4
+13568,C2752089,"Neuropathy, Hereditary Sensory And Autonomic, Type IIA"
+6540,C0396072,Laryngeal papillomatosis
+7559,C0677728,Indolent Adult Non-Hodgkin Lymphoma
+9893,C1334170,Indolent Non-Hodgkin Lymphoma
+9443,C1282609,Granulocytosis
+8595,C0854775,stage IV pancreatic cancer
+9111,C1140710,Cerebral Cavernous Hemangioma
+7732,C0730304,Cavernous hemangioma of retina
+13333,C2718078,Deficiency of Uroporphyrinogen III Synthase
+8269,C0751958,"Lymphoma, Lymphocytic, Intermediate"
+12819,C1996989,Diarrhea due to drug
+1630,C0027149,Myxoma
+568,C0010964,Dandy-Walker Syndrome
+623,C0011876,Cataract due to diabetes mellitus
+5475,C0333693,Triploidy syndrome
+958,C0018051,Gonadal Dysgenesis
+6948,C0432470,"46, XY female"
+10542,C1610621,Factor II mutation
+17255,C4479344,"SCLEROSING CHOLANGITIS, NEONATAL"
+2460,C0042721,Viral hepatitis
+8325,C0752304,Hypoxic-Ischemic Encephalopathy
+4498,C0268119,Combined molybdoflavoprotein enzyme deficiency
+3413,C0206683,Papillary and follicular adenocarcinoma
+13542,C2751807,Emery-Dreifuss Muscular Dystrophy 4
+11763,C1853116,"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 8 (disorder)"
+15171,C3683483,Autosomal Recessive Cerebellar Ataxia Type 1
+12148,C1859570,BARDET-BIEDL SYNDROME 12
+12013,C1857682,Combined Oxidative Phosphorylation Deficiency 4
+17716,C4551989,Tibial aplasia and ectrodactyly syndrome
+8419,C0796137,3C syndrome
+12311,C1863704,"Spastic paraplegia 8, autosomal dominant"
+17599,C4551568,Joubert syndrome 1
+2848,C0152020,Gastroparesis
+17132,C4316909,Marijuana Use
+1723,C0028860,Oculocerebrorenal Syndrome
+7815,C0742468,Central nervous system lesion
+8391,C0796013,Zimmerman Laband syndrome
+6887,C0432221,"Spondylometaphyseal dysplasia, 'corner fracture' type"
+16691,C4225666,CHROMOSOME 15q14 DELETION SYNDROME
+4396,C0266574,Ablepharon
+1454,C0024433,Macrostomia
+5714,C0339182,Ankyloblepharon
+2879,C0152233,Congenital ankyloblepharon
+1372,C0023522,"Leukodystrophy, Metachromatic"
+15687,C3873567,Peripheral neuropathy due to and following chemotherapy
+12527,C1868001,Polyposis Of Gastric Fundus Without Polyposis Coli
+5810,C0340489,Lone atrial fibrillation
+16327,C4054044,Secondary haemophagocytic lymphohistiocytosis
+7770,C0740441,Acute diarrhea
+11615,C1849157,Resistance to Insulin-Like Growth Factor I
+1242,C0022353,Neonatal Jaundice
+1742,C0029128,Optic Disk Drusen
+12788,C1970236,"Microphthalmia, Posterior, With Retinitis Pigmentosa, Foveoschisis, And Optic Disc Drusen"
+17470,C4528668,Acute myeloid leukaemia refractory
+1159,C0020597,Hypobetalipoproteinemias
+3074,C0155616,Secondary hypertension
+13375,C2747802,Bile acid malabsorption
+4018,C0262436,"Cardiac valvular dysplasia, X-linked"
+5271,C0280099,Adult Solid Neoplasm
+5185,C0279068,Childhood Solid Neoplasm
+3830,C0238284,Acute mountain sickness
+6920,C0432292,Familial expansile osteolysis
+3783,C0237123,Alcohol or Other Drugs use
+1784,C0029464,Osteosclerosis
+288,C0006079,Bowen's Disease
+9743,C1332271,Perianal Squamous Intraepithelial Neoplasia
+10634,C1704431,Disorder of electrolytes
+3138,C0158465,Acquired cubitus valgus
+6777,C0410719,Deformity of bone
+5825,C0340629,Aortic aneurysm without mention of rupture NOS
+12798,C1970416,XFE Progeroid Syndrome
+11307,C1842462,CAMPOMELIC DYSPLASIA WITH AUTOSOMAL SEX REVERSAL
+8641,C0856217,Functional diarrhoea (due to spastic colon)
+6386,C0376384,Nicotine Use Disorder
+14287,C3160720,"Cardiomyopathy, Dilated, 1u"
+14146,C3150958,"Cardiomyopathy, Dilated, 1V"
+12034,C1857811,"DEAFNESS, AUTOSOMAL RECESSIVE 49"
+4206,C0265265,Aase syndrome
+12015,C1857719,"Anemia, Diamond-Blackfan, 3"
+14945,C3553358,"COENZYME Q10 DEFICIENCY, PRIMARY, 3"
+11767,C1853136,Neutral Lipid Storage Disease with Myopathy
+403,C0007894,Cestode Infections
+997,C0018780,"Hearing Loss, High-Frequency"
+4627,C0268465,Phenylketonuria II
+8106,C0751436,"Hyperphenylalaninemia, Non-Phenylketonuric"
+10073,C1337011,Well Differentiated Pancreatic Endocrine Tumor
+1111,C0020258,"Hydrocephalus, Normal Pressure"
+2122,C0036214,"Sarcoma, Engelbreth-Holm-Swarm"
+6636,C0403518,Microalbuminuric diabetic nephropathy
+9886,C1334011,High Grade Cervical Intraepithelial Neoplasia
+9992,C1335409,Prostate Phyllodes Tumor
+9927,C1334615,Malignant Phyllodes Tumor of Prostate
+4735,C0270496,"Schizoaffective disorder, bipolar type"
+640,C0012734,Disruptive Behavior Disorder
+1739,C0029121,Oppositional Defiant Disorder
+2312,C0039520,Tenosynovitis
+11800,C1853392,"Interleukin 2 Receptor, Alpha, Deficiency of"
+12454,C1866040,"DIABETES MELLITUS, INSULIN-DEPENDENT, 10"
+17152,C4317339,Juvenile Absence Epilepsy
+5318,C0280787,Adult Anaplastic Ependymoma
+16417,C4086151,Childhood Anaplastic Ependymoma
+5319,C0280788,Anaplastic Ependymoma
+3829,C0238281,Middle Cerebral Artery Syndrome
+8231,C0751847,"Embolic Infarction, Middle Cerebral Artery"
+8233,C0751849,Right Middle Cerebral Artery Infarction
+7758,C0740376,Middle Cerebral Artery Thrombosis
+8229,C0751845,Middle Cerebral Artery Embolus
+8232,C0751848,"Thrombotic Infarction, Middle Cerebral Artery"
+8230,C0751846,Left Middle Cerebral Artery Infarction
+9639,C1318020,Stromal keratitis
+13320,C2717860,Encapsulating Peritoneal Sclerosis
+12874,C2118097,Agonadism
+8991,C0949331,Gonadal Agenesis
+13545,C2751824,"46, XY Disorders of Sex Development"
+17464,C4528576,Malignant Neoplasm of Lung - Multiple Primary Sites
+12785,C1970207,Inflammatory Bowel Disease 10
+11004,C1835817,"FANCONI ANEMIA, COMPLEMENTATION GROUP N"
+7165,C0520575,Acute pyelonephritis
+5014,C0275904,"Tuberculosis, Central Nervous System"
+2470,C0042880,Vitamin K Deficiency
+10803,C1827192,Allergic fungal sinusitis
+11684,C1850674,MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA (disorder)
+3765,C0236742,Phencyclidine-Related Disorders
+1903,C0031391,Phencyclidine Abuse
+989,C0018614,Hashish Abuse
+329,C0006868,Cannabis Abuse
+3763,C0236735,Cannabis-Related Disorder
+8143,C0751560,Malignant neoplasm tonsil
+7392,C0558355,Tonsillar Carcinoma
+2350,C0040425,Tonsillitis
+9769,C1332833,Calcifying Fibrous Pseudotumor
+8564,C0854078,Diabetic end stage renal disease
+776,C0014743,Erythema Nodosum
+17791,C4688316,Refractory Breast Carcinoma
+17310,C4510408,McLeod neuroacanthocytosis syndrome
+8356,C0795839,"Chromosome 10, monosomy 10q"
+10661,C1708350,Hereditary Leiomyomatosis and Renal Cell Cancer
+10438,C1533568,fertility disorders
+6630,C0403440,Thin basement membrane disease
+6624,C0403398,Steroid-dependent nephrotic syndrome
+3069,C0155550,Neural hearing loss
+9273,C1266029,Enterochromaffin-like cell carcinoid
+12001,C1857451,Acth-Independent Macronodular Adrenal Hyperplasia
+12004,C1857572,CORNEAL DYSTROPHY AND PERCEPTIVE DEAFNESS
+16925,C4305140,12q14 microdeletion syndrome
+4803,C0270984,Metabolic myopathy
+13692,C2930902,Bidirectional tachycardia
+6984,C0454455,Mirror movements disorder
+2303,C0039292,Tangier Disease
+2030,C0034155,"Purpura, Thrombotic Thrombocytopenic"
+15096,C3554690,ATAXIA-OCULOMOTOR APRAXIA 3
+13259,C2678478,Brugada Syndrome 3
+290,C0006105,Brain Abscess
+15341,C3808107,"CATARACT 33, MULTIPLE TYPES"
+1866,C0030824,Allergy to penicillin
+17842,C4694057,Taq1A POLYMORPHISM
+7405,C0559506,Neonatal unconjugated hyperbilirubinemia
+1202,C0021141,Inappropriate ADH Syndrome
+2412,C0041912,Upper Respiratory Infections
+6864,C0432028,Split foot
+5275,C0280141,Acute Undifferentiated Leukemia
+16316,C4050314,ROSE Cluster 3
+2957,C0153467,Malignant tumor of peritoneum
+10849,C1832394,"Deafness, Autosomal Recessive 12"
+12760,C1969893,"Mental Retardation, Fra12a Type"
+3247,C0175703,Thrombocytopenia-Absent Radius Syndrome
+15089,C3554656,"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 5"
+16611,C4225346,"PULMONARY FIBROSIS AND/OR BONE MARROW FAILURE, TELOMERE-RELATED, 3"
+13512,C2751307,"MICROPHTHALMIA, ISOLATED 4 (disorder)"
+14149,C3150968,"MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 6"
+3894,C0240340,Microdontia (disorder)
+11466,C1845845,"MENTAL RETARDATION, X-LINKED, WITH SHORT STATURE (disorder)"
+17600,C4551570,2-3 toe syndactyly
+12247,C1862139,Brachymesophalangy 2 and 5
+17099,C4310807,BRACHYDACTYLY-SYNDACTYLY-OLIGODACTYLY SYNDROME
+16373,C4082167,"Periodic Fever, Aphthous Stomatitis, Pharyngitis, Adenitis Syndrome"
+4190,C0265235,Marshall syndrome
+4292,C0265780,Congenital absence of lung
+17792,C4688318,Refractory Colorectal Carcinoma
+1856,C0030583,Parotitis
+13969,C2959547,Endometrial sarcoma
+1327,C0023321,Lentigo
+12677,C1960443,Vasculitic neuropathy
+12155,C1859721,"ARTHROGRYPOSIS MULTIPLEX CONGENITA, NEUROGENIC TYPE (disorder)"
+5823,C0340569,Internal Carotid Artery Stenosis
+8165,C0751634,Carotid Ulcer
+8167,C0751636,External Carotid Artery Stenosis
+8166,C0751635,Common Carotid Artery Stenosis
+13169,C2676191,"PITUITARY ADENOMA, FAMILIAL ISOLATED (disorder)"
+6660,C0403823,Asthenozoospermia
+3826,C0238246,Hemangioma of liver
+5687,C0338573,Cerebral venous sinus thrombosis
+2565,C0085082,Fungemia
+10716,C1719777,Hard drusen
+3391,C0206654,Leiomyomatosis
+13145,C2675518,Adiponectin Deficiency
+9694,C1327918,Oculootoradial syndrome
+16174,C4023710,Palmar hyperkeratosis
+478,C0009186,Coccidioidomycosis
+3441,C0206719,Central Neurocytoma
+4222,C0265291,Kenny-Caffey syndrome
+1097,C0020058,Howell-Jolly Bodies
+2249,C0038325,Stevens-Johnson Syndrome
+4380,C0266491,Neuronal heterotopia
+1480,C0024694,Mandibular Neoplasms
+1392,C0023801,Lipomatosis
+1393,C0023804,"Lipomatosis, Multiple Symmetrical"
+2846,C0152014,Atrophy of pancreas
+18113,C4746984,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 12"
+2840,C0151945,Thrombosis of cerebral veins
+12835,C2004435,Vascular insufficiency of intestine
+3100,C0156149,Gastrointestinal tract vascular insufficiency
+2299,C0039240,Supraventricular tachycardia
+3300,C0205769,Myxopapillary ependymoma
+10669,C1708566,Invasive Prostate Carcinoma
+4242,C0265338,Coffin-Siris syndrome
+9005,C0950121,Denys-Drash Syndrome
+4295,C0265807,Acyanotic congenital heart disease
+2238,C0038034,Sporotrichosis
+1928,C0032231,Pleurisy
+2668,C0085758,"Aganglionosis, Colonic"
+17401,C4524040,Atherogenic dyslipidaemia
+15270,C3714941,OTOFACIOCERVICAL SYNDROME 1
+6681,C0406484,Sebaceous hyperplasia
+9313,C1266158,Nongerminomatous Germ Cell Tumor
+11010,C1835849,"Congenital Disorder Of Glycosylation, Type Im"
+12130,C1859312,CAMFAK syndrome
+11761,C1853100,CEREBROOCULOFACIOSKELETAL SYNDROME 4
+3513,C0220722,Cerebrooculofacioskeletal Syndrome 1
+13779,C2931277,Pena Shokeir syndrome Type 2
+1180,C0020678,Hypotrichosis
+11011,C1835851,"Ichthyosis with hypotrichosis, autosomal recessive"
+11009,C1835845,Mitochondrial Phosphate Carrier Deficiency
+13212,C2677362,Alveolar capillary dysplasia
+11653,C1850077,"Supranuclear Palsy, Progressive, 1, Atypical"
+16128,C4021775,High-frequency sensorineural hearing impairment
+12802,C1970458,"Osteogenesis imperfecta, type VIII"
+2608,C0085404,POEMS Syndrome
+6614,C0400847,Ileal Stenosis
+8695,C0858004,Influenza A virus infection
+7355,C0549618,MALE GENITAL ABNORMALITIES
+4470,C0267841,Acalculous Cholecystitis
+1014,C0018862,Heberden node
+1888,C0031111,Periostitis
+6347,C0349658,Trichoepithelioma
+1287,C0022783,Vulvar Lichen Sclerosus
+1231,C0022073,Iridocyclitis
+17202,C4329969,Factor VIII Inactivation
+1307,C0023092,Lassa Fever
+3285,C0205671,"Infections, Arenavirus"
+174,C0003756,Arenaviridae Infections
+18090,C4744307,Sarcoma of the Extremity
+4721,C0269972,Postpartum cardiomyopathy
+5750,C0339543,Epiretinal Membrane
+3273,C0205622,Microinvasive tumor
+3665,C0234247,"Neuralgia, Atypical"
+6792,C0423711,"Neuralgia, Perineal"
+2284,C0038870,"Neuralgia, Supraorbital"
+6793,C0423712,"Neuralgia, Iliohypogastric Nerve"
+3666,C0234249,"Neuralgia, Stump"
+2458,C0042656,"Neuralgia, Vidian"
+5411,C0311245,Congenital cystic kidney disease
+678,C0013390,Dysmenorrhea
+12813,C1970859,"Atypical Mycobacteriosis, Familial, X-Linked 2"
+10184,C1397523,Stapes fixation
+4352,C0266304,Double kidney (disorder)
+8383,C0795953,MASA SYNDROME (disorder)
+10671,C1708749,Low Grade Fibromyxoid Sarcoma with Giant Collagen Rosettes
+10813,C1827894,Upper urinary tract infection
+9802,C1333046,"Myeloproliferative Neoplasm, Unclassifiable"
+9234,C1263758,Female genital tract infection
+12927,C2314882,Reproductive tract infection
+11414,C1845055,"ALPHA-THALASSEMIA/MENTAL RETARDATION SYNDROME, NONDELETION TYPE, X-LINKED"
+5151,C0278791,Chronic lymphocytic leukaemia refractory
+3892,C0240225,Liver mass
+9155,C1168330,Non-ischemic dilated cardiomyopathy
+4275,C0265593,Brachymetacarpia
+4025,C0262587,Parathyroid Adenoma
+12865,C2063866,"Depressive Disorder, Treatment-Resistant"
+16120,C4021533,Severe sensorineural hearing impairment
+2794,C0151332,Active tuberculosis
+6264,C0347180,Penile intraepithelial neoplasia
+12336,C1864233,ENDPLATE ACETYLCHOLINESTERASE DEFICIENCY (disorder)
+9649,C1318558,Congenital melanocytic nevus
+5013,C0275814,Streptococcal lymphadenitis of swine
+8724,C0860027,Leishmania infantum disease
+8678,C0857306,Leishmania donovani disease
+12821,C1997217,Low grade glioma
+3911,C0241832,Cerebrovascular Insufficiency
+7496,C0596298,Cerebrovascular Occlusion
+5541,C0334355,"Serous cystadenoma, borderline malignancy"
+3006,C0154246,"Urea Cycle Disorders, Inborn"
+6313,C0349489,Fetal Hypoxia
+12981,C2350530,Bronchopulmonary Aspergillosis
+12980,C2350529,Pulmonary Aspergillosis
+6079,C0343532,Streptococcal toxic shock syndrome
+6027,C0342881,Familial hypercholesterolemia - homozygous
+3258,C0178264,Inflammatory disease of the central nervous system
+4618,C0268436,"Pseudohypoaldosteronism, Type I"
+1995,C0033805,Pseudohypoaldosteronism
+15287,C3715197,Primary congenital hypothyroidism
+5068,C0277524,Infectious colitis
+467,C0009021,Clonorchiasis
+4178,C0265216,X-linked hydrocephalus syndrome
+5320,C0280790,Adult Anaplastic Oligodendroglioma
+9782,C1332943,Childhood Anaplastic Oligodendroglioma
+1645,C0027583,Nematode infections
+9832,C1333324,Barretts esophagus with dysplasia
+2097,C0035468,Rhinoscleroma
+16525,C4225253,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2X"
+13855,C2931821,Nakamura Osame syndrome
+9713,C1332051,AIDS-Related Non-Hodgkin Lymphoma
+3779,C0236848,Age-related cognitive decline
+5718,C0339273,"Corneal dystrophy, Lattice type 3"
+111,C0002880,Autoimmune hemolytic anemia
+15579,C3826457,Diabetes in children
+10030,C1336052,Spindle Cell Neoplasm
+8466,C0810032,Pancreatic disorders (not diabetes)
+16136,C4021813,Oral cleft
+8103,C0751422,Hereditary Autoinflammatory Diseases
+18226,C4750783,7q31 microdeletion syndrome
+6490,C0393720,"Reflex Epilepsy, Photosensitive"
+3848,C0238399,Pulmonary lymphangiomyomatosis
+1219,C0021776,Intermittent Explosive Disorder
+1198,C0021122,"Disruptive, Impulse Control, and Conduct Disorders"
+12800,C1970440,"CORONARY ARTERY DISEASE, AUTOSOMAL DOMINANT 2 (disorder)"
+6450,C0393559,Troyer syndrome
+14944,C3553354,"COENZYME Q10 DEFICIENCY, PRIMARY, 2"
+15244,C3714580,Hypokalemic periodic paralysis type 1
+11459,C1845567,FG SYNDROME 3
+11471,C1845902,FG SYNDROME 2
+11458,C1845546,FG SYNDROME 4 (disorder)
+4630,C0268474,Hydroxykynureninuria
+13334,C2718092,Acrospiroma
+4085,C0263680,Chronic arthritis
+4127,C0264545,Thickening of pleura
+10206,C1405308,Vaccine associated paralytic poliomyelitis
+5467,C0333440,Hyaline body
+4595,C0268382,Amyloid nephropathy
+14303,C3160886,Non ST segment elevation acute coronary syndrome
+3659,C0233778,Synesthesia
+14344,C3178806,Right Atrial Isomerism
+9626,C1306589,"Congenital dyserythropoietic anemia, type II"
+1383,C0023652,Lichen Sclerosus et Atrophicus
+3662,C0233949,Sexual nondevelopment
+17743,C4552171,Familial acromegaly
+5071,C0277528,Traveler's diarrhea
+11957,C1856266,Coronal craniosynostosis
+4265,C0265529,Plagiocephaly
+2479,C0043019,Lateral Medullary Syndrome
+11573,C1848410,"Xeroderma pigmentosum, variant type"
+8339,C0795693,Skeletal malformation
+4262,C0265509,Congenital anomaly of skeletal bone
+6550,C0398568,Blood group deletion syndrome
+14209,C3151204,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16"
+7347,C0549423,Obstructive Hydrocephalus
+8675,C0857122,Hyponatraemic
+10310,C1510428,Cerebral abscess
+9408,C1275874,Metaplastic squamous cell carcinoma
+12506,C1867300,RETINITIS PIGMENTOSA 9
+3654,C0233746,Perceptual disturbance
+7646,C0686377,CNS metastases
+2131,C0036310,Scheuermann's Disease
+6827,C0431368,Partial agenesis of corpus callosum
+8753,C0861727,Pancreatic adenocarcinoma metastatic
+1963,C0032969,Pregnancy in Diabetics
+10465,C1541317,Adult Gliosarcoma
+15876,C3899658,Childhood Gliosarcoma
+16763,C4277521,Cerebrospinal Fluid Hypovolemia
+5818,C0340548,Pulmonary capillary hemangiomatosis
+1954,C0032768,Postherpetic neuralgia
+12805,C1970483,Vesicoureteral Reflux 2
+17882,C4706552,Familial vesicoureteral reflux
+15336,C3807541,MACROCEPHALY AND EPILEPTIC ENCEPHALOPATHY
+8880,C0917817,Neurofibromatosis 3
+13809,C2931480,"Neurofibromatosis, Type 3, mixed central and peripheral"
+413,C0008058,Chilblains
+12920,C2242987,Benign Mastocytoma
+1491,C0024897,Mastocytoma
+5649,C0334664,Mast Cell Neoplasm
+14757,C3495436,American cutaneous leishmaniasis
+5598,C0334513,Sarcomatoid Mesothelioma
+747,C0014394,Enuresis
+4733,C0270327,Bedwetting
+6649,C0403670,Urinary incontinence of non-organic origin
+437,C0008449,Congenital anomaly of cartilage
+16428,C4087273,C3 glomerulopathy
+562,C0010678,Cysticercosis
+2906,C0152459,Linear atrophy
+9088,C1135196,"Heart Failure, Diastolic"
+10774,C1737267,Acute pulmonary congestion
+3478,C0220624,Adult Brain Neoplasm
+1044,C0019112,Hemorrhoids
+4865,C0271641,Malnutrition related diabetes mellitus
+9219,C1262211,Diarrhoea predominant irritable bowel syndrome
+14744,C3494489,"Autoimmune polyendocrinopathy syndrome, type 1"
+6919,C0432291,Mandibuloacral dysostosis
+6753,C0410203,X-linked centronuclear myopathy
+6755,C0410207,Tubular Aggregate Myopathy
+15105,C3645536,Autosomal Recessive Centronuclear Myopathy
+15119,C3661489,Autosomal Dominant Myotubular Myopathy
+12507,C1867326,RETINAL CONE DYSTROPHY 1
+10898,C1832976,Cone-Rod Dystrophy 5
+13599,C2853920,Lymphoblastic T-cell lymphoma
+3938,C0242341,Sexual Infantilism
+877,C0016724,Froehlich's Syndrome
+1921,C0032051,Placental Insufficiency
+14291,C3160761,Diabetic dyslipidaemia
+11693,C1850938,"FUNDUS DYSTROPHY, PSEUDOINFLAMMATORY, OF SORSBY"
+6553,C0398595,Myeloperoxidase Deficiency
+12775,C1970180,Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation
+824,C0015624,Fanconi Syndrome
+11999,C1857395,De Toni-Debre-Fanconi Syndrome
+3789,C0238019,Carcinoma of extrahepatic bile duct
+6403,C0391958,Familial Epilepsies
+2384,C0041307,"Tuberculosis, Bovine"
+10051,C1336548,Systemic Anaplastic Large Cell Lymphoma
+8921,C0936248,Chondroma
+7462,C0585229,Multiple lacunar infarcts
+8969,C0948588,Lymphangiosis carcinomatosa
+17752,C4552513,Temporomandibular joint osteoarthritis
+17937,C4721508,Hamman-Rich Disease
+15571,C3826150,Hypothyroidism in children
+17886,C4706610,"Segmental outgrowth, lipomatosis, arteriovenous malformation, epidermal nevus syndrome"
+2342,C0040252,Tinea corporis (disorder)
+16094,C4018978,Unilateral Breast Neoplasms
+10702,C1710547,Unilateral Breast Carcinoma
+152,C0003463,Anus Neoplasms
+2950,C0153446,Malignant neoplasm of anus
+5226,C0279637,Anal carcinoma
+7357,C0553548,Necrotizing Arteritis
+9294,C1266100,Carcinoma showing thymus-like element
+1315,C0023234,Legg-Calve-Perthes Disease
+1857,C0030662,"Gambling, Pathological"
+6893,C0432230,Langer Mesomelic Dysplasia Syndrome
+8591,C0854740,Delayed sleep phase
+7174,C0520739,Hereditary pyropoikilocytosis
+2708,C0086650,MPS III D
+7468,C0585539,X-Linked Infantile Nystagmus
+4643,C0268523,Glutamate-cysteine ligase deficiency
+2393,C0041325,"Peritonitis, Tuberculous"
+13062,C2609315,Retinal angiomatous proliferation
+5836,C0340850,Neurally mediated syncope
+15115,C3658299,Zellweger Spectrum
+8610,C0854924,Papillary serous endometrial carcinoma
+7694,C0700594,Radiculopathy
+18227,C4750787,Autosomal systemic lupus erythematosus
+17761,C4553297,Cystic Echinocccosis
+690,C0013502,Echinococcosis
+16877,C4303092,Cystic echinococcosis
+3802,C0238096,"Embolism, Paradoxical"
+3531,C0220991,Rotor Syndrome
+11740,C1852372,MITOCHONDRIAL COMPLEX III DEFICIENCY (disorder)
+2533,C0079584,Ichthyosis Vulgaris
+6365,C0375071,Malignant neoplasm of vulva
+6908,C0432261,Osteopetrosis - intermediate type
+12734,C1969093,"Osteopetrosis, Autosomal Recessive 6"
+4978,C0272322,Severe hereditary factor VIII deficiency disease
+9399,C1275592,Funisitis (disorder)
+138,C0003076,Aniridia
+12113,C1859047,CYSTIC FIBROSIS MODIFIER 1
+4187,C0265227,Schinzel-Giedion syndrome
+3166,C0158986,Neonatal hypoglycemia
+8290,C0752130,Spinal Cord Ischemia
+10347,C1514284,Potassium Deficiency Disorder
+13057,C2609260,Caudal dysplasia syndrome
+6122,C0344490,Sacral agenesis
+11190,C1838568,Sacral defect and anterior sacral meningocele
+12519,C1867774,Sacral Agenesis Syndrome
+7715,C0729233,Dissecting aneurysm of the thoracic aorta
+8777,C0865214,Autosomal recessive agammaglobulinemia
+10290,C1457883,Aggressive reaction
+11961,C1856405,Glutaric Aciduria IIC
+10300,C1504514,Infection by human herpesvirus 7
+10546,C1617072,Infection caused by Lassa virus
+5800,C0340364,Familial mitral valve prolapse
+3432,C0206709,"Cystadenoma, Serous"
+6214,C0346185,Dysgerminoma of ovary
+8462,C0796664,Childhood Ovarian Germ Cell Tumor
+3838,C0238324,Ovarian Germ Cell Tumor
+4477,C0267953,Necrosis of pancreas
+8944,C0948160,Pancreatic Infection
+891,C0017097,Gardner Syndrome
+14374,C3249875,Laryngopharyngeal Cancer
+9764,C1332629,"Breast Fibrocystic Change, Proliferative Type"
+5236,C0279651,Gallbladder adenocarcinoma
+31,C0001361,Acute tonsillitis
+12883,C2211694,medullary carcinoma with lymphoid stroma of breast
+6207,C0346163,Endometrioid carcinoma ovary
+9354,C1274320,Recurrent herpes simplex infection of eye
+7660,C0694539,Chronic atrial fibrillation
+8528,C0852312,Gender disorders
+2161,C0036651,Solar lentigo
+2501,C0043407,Yersinia infections
+9070,C1112486,Aggressive Systemic Mastocytosis
+8220,C0751781,Dentatorubral-Pallidoluysian Atrophy
+10583,C1696708,Prehypertension
+12864,C2063407,viral hepatitis E infection
+13205,C2677132,"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 9 (disorder)"
+6950,C0432475,XX males
+10719,C1720180,Confluent drusen
+10279,C1456418,Absence of muscle
+6663,C0404521,Infective vaginitis
+6505,C0393819,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"
+14033,C3146271,Stage III Breast Cancer AJCC v7
+17925,C4721421,Breast cancer stage III
+17459,C4528557,Anatomic Stage III Breast Cancer AJCC v8
+17466,C4528588,Prognostic Stage III Breast Cancer AJCC v8
+5086,C0278487,Stage III Breast Cancer AJCC v6
+5495,C0334114,Mucus polyp
+628,C0011981,Diaphragmatic Eventration
+4384,C0266526,Norrie disease
+12516,C1867616,Dermoid choristoma of eye proper
+3767,C0236788,Bipolar II disorder
+3174,C0162292,External Ophthalmoplegia
+15206,C3710589,Cap Myopathy
+14241,C3151409,"GRANULOMATOUS DISEASE, CHRONIC, AUTOSOMAL RECESSIVE, CYTOCHROME b-POSITIVE, TYPE III"
+6656,C0403812,"Male Infertility with Large-Headed, Multiflagellar, Polyploid Spermatozoa"
+16006,C4015019,NEU-LAXOVA SYNDROME 2
+12791,C1970253,Phosphoserine Aminotransferase Deficiency
+17555,C4551478,NEU-LAXOVA SYNDROME 1
+7492,C0595995,Idiopathic scoliosis
+8426,C0796176,STUVE-WIEDEMANN SYNDROME
+14442,C3275406,"MENTAL RETARDATION, X-LINKED, SYNDROMIC, RAYMOND TYPE"
+8394,C0796022,Lujan Fryns syndrome
+12799,C1970431,PITT-HOPKINS SYNDROME
+4181,C0265220,Pallister-Hall syndrome
+5696,C0338630,Senile Paranoid Dementia
+832,C0015697,Arterial Fatty Streak
+13897,C2936351,Fibroatheroma
+8201,C0751743,"Metabolic Disorder, Central Nervous System, Acquired"
+7976,C0750968,Central Nervous System Metabolic Disorders
+8202,C0751744,"Brain Diseases, Metabolic, Acquired"
+9093,C1135773,"Acquired Metabolic Diseases, Nervous System"
+6513,C0393933,Pseudomyopathic myasthenia
+12499,C1867005,"Scapuloperoneal Syndrome, Neurogenic, Kaeser Type"
+11768,C1853137,BRACHYDACTYLY-SYNDACTYLY SYNDROME
+17585,C4551515,Chilblain lupus erythematosus
+12661,C1959588,Angioma
+6358,C0362030,Verrucous epidermal nevus
+7350,C0549493,Alveolitis
+13087,C2673677,"Myopathy, Early-Onset, with Fatal Cardiomyopathy"
+17399,C4523850,Multidrug resistant pulmonary tuberculosis
+14753,C3495417,Hemifacial microsomia
+16750,C4275062,Intestinal epithelial dysplasia
+16267,C4048305,Neuroepithelioma
+6142,C0344911,Left ventricular dilatation
+3292,C0205710,Alpers Syndrome (disorder)
+10148,C1386553,Caffeine dependence
+1293,C0022893,Labyrinthitis
+3571,C0221214,Vascular ring
+9007,C0950124,Disease due to Papilloma virus
+5281,C0280222,"stage, pancreatic cancer"
+15672,C3864035,Bilateral carpal tunnel syndrome
+2163,C0036685,"Septicaemia due to gram-negative organism, unspecified"
+8217,C0751778,"Myoclonic Epilepsies, Progressive"
+8336,C0795687,Cerebral arterial thrombosis
+2514,C0079102,Cerebral Thrombosis
+8805,C0871610,winter depression
+10730,C1720649,Allergic disorder
+13362,C2733595,Pulmonary Mycobacterium avium complex infection
+14618,C3280660,"ENCEPHALOPATHY, LETHAL, DUE TO DEFECTIVE MITOCHONDRIAL AND PEROXISOMAL FISSION"
+11769,C1853139,OPTIC ATROPHY 5 (disorder)
+3843,C0238374,"PITUITARY ADENOMA, NON-SECRETING"
+710,C0014009,Empyema
+5813,C0340517,Atrial thrombosis
+4537,C0268250,"Gaucher Disease, Type 2 (disorder)"
+4538,C0268251,"Gaucher Disease, Type 3 (disorder)"
+4890,C0271742,Glucocorticoid deficiency with achalasia
+6298,C0349217,"Depressive episode, unspecified"
+6870,C0432103,Submucous cleft of hard palate
+17564,C4551487,Submucous cleft palate
+14008,C2986691,Inherited bone marrow failure syndrome
+14430,C3273225,Hereditary Neurodegenerative Disorder
+2323,C0039978,Thoracic Diseases
+4212,C0265275,Jeune thoracic dystrophy
+12762,C1970005,Asphyxiating Thoracic Dystrophy 2
+2402,C0041409,"Turner Syndrome, Male"
+17612,C4551602,Noonan Syndrome 1
+10417,C1527404,Female Pseudo-Turner Syndrome
+1221,C0021828,Intestinal Atresia
+4334,C0266174,Duodenal atresia
+2806,C0151491,Congenital musculoskeletal anomalies
+15647,C3845502,"Myocardial infarction, stroke"
+6220,C0346210,Vulval intraepithelial neoplasia
+2468,C0042870,Vitamin D Deficiency
+6164,C0345406,Neonatal hyperparathyroidism
+1942,C0032371,Poliomyelitis
+821,C0015530,Hereditary Factor XIII Deficiency
+7454,C0584984,Heterozygous Factor V Leiden mutation
+10330,C1511566,cutaneous B-cell non-Hodgkin lymphoma
+8636,C0856053,Leukemia secondary
+7088,C0477324,Other combined immunodeficiencies
+13877,C2931884,"Reticuloendotheliosis, familial, with eosinophilia"
+10368,C1518693,Clear cell adenocarcinoma of ovary
+8448,C0796244,"MENTAL RETARDATION, X-LINKED, WITH OR WITHOUT SEIZURES, ARX-RELATED (disorder)"
+5518,C0334276,Adenocarcinoma in Situ
+10594,C1698581,Rokitansky Kuster Hauser syndrome
+8677,C0857305,Thrombocytopenic purpura
+14396,C3266959,Acute focal bacterial nephritis
+8219,C0751780,Biotin-Responsive Encephalopathy
+8221,C0751782,May-White Syndrome
+8215,C0751776,Atypical Inclusion-Body Disease
+8218,C0751779,Action Myoclonus-Renal Failure Syndrome
+8216,C0751777,Familial Progressive Myoclonic Epilepsy
+5860,C0341305,Autoimmune enteropathy
+18202,C4749333,Refractory celiac disease
+13097,C2673914,"Anemia, Sideroblastic, Pyridoxine-Refractory, Autosomal Recessive"
+16446,C4225155,"ANEMIA, SIDEROBLASTIC, 3, PYRIDOXINE-REFRACTORY"
+16681,C4225425,"ANEMIA, SIDEROBLASTIC, 2, PYRIDOXINE-REFRACTORY"
+2860,C0152095,Patau syndrome
+3207,C0162668,Megaconial Myopathies
+13427,C2749861,MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY)
+3208,C0162669,Pleoconial Myopathies
+8992,C0949496,Luft Disease
+711,C0014013,"Empyema, Pleural"
+7407,C0563305,IgA myeloma
+4559,C0268301,Reifenstein Syndrome
+7905,C0748052,Erythrodermic psoriasis
+10332,C1511934,Differentiating Neuroblastoma
+275,C0005937,Bone Cysts
+8524,C0852077,"Blood Coagulation Disorders, Inherited"
+17313,C4510744,"46,XY partial gonadal dysgenesis"
+14332,C3164407,Oligoasthenozoospermia
+8954,C0948249,Femoral artery occlusion
+2147,C0036416,Scleritis
+15182,C3695127,Astrocytoma of brain
+11385,C1843895,"Deafness, Autosomal Dominant 44"
+9370,C1275078,Acrocephalopolysyndactyly type 2
+17582,C4551510,CARPENTER SYNDROME 1
+3641,C0233483,Free-floating anxiety
+17304,C4509881,Multifocal pattern dystrophy of retinal pigment epithelium simulating fundus flavimaculatus
+10600,C1701940,"Pneumonia, Ventilator-Associated"
+1764,C0029417,Osteoblastoma
+3914,C0241880,Endometriosis of pelvis
+9323,C1266184,Atypical Teratoid Rhabdoid Tumor
+11985,C1857144,"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 1"
+14806,C3502105,"Dyskeratosis Congenita, Autosomal Recessive"
+6405,C0391976,Pain Disorder
+1874,C0031028,Periapical Diseases
+7542,C0600260,"Lung Diseases, Obstructive"
+7865,C0745744,End Stage Liver Disease
+1141,C0020501,Primary Hyperoxaluria
+11356,C1843256,IRAK4 Deficiency
+9097,C1136033,Cutaneous Mastocytosis
+3145,C0158629,Congenital anomaly of aortic arch
+14000,C2986561,Spindle Cell Oncocytoma of the Adenohypophysis
+7725,C0730284,Clinically significant macular edema
+6776,C0410702,Adolescent idiopathic scoliosis
+1203,C0021151,Incipient Schizophrenia
+8456,C0796418,Visual Pathway Glioma
+13505,C2751260,Macrothrombocytopenia
+12763,C1970009,"SPASTIC PARAPLEGIA 32, AUTOSOMAL RECESSIVE"
+13054,C2609249,Ureterovesical junction obstruction
+7847,C0744855,hepatitis immune
+14273,C3151752,"NYSTAGMUS 6, CONGENITAL, X-LINKED"
+1626,C0027122,Myositis Ossificans
+7144,C0497397,Anorexia and bulimia syndrome
+4648,C0268532,Deficiency of prolidase
+13771,C2931246,Potocki-Lupski syndrome
+1516,C0025229,Melioidosis
+17778,C4554601,Amyloidosis cutis dyschromia
+7502,C0597048,Neurogenic hypertension
+196,C0003950,Ascariasis
+4160,C0265004,Dilatation of aorta
+3926,C0242129,Thrombotic stroke
+13385,C2748361,H5N1 influenza
+15896,C4011788,Behavioral variant of frontotemporal dementia
+1790,C0029591,Other disorders of lipoid metabolism
+9638,C1314694,"Astrocytoma, low grade"
+8266,C0751954,"Venous Infarction, Brain"
+8265,C0751953,"Brain Infarction, Posterior Circulation"
+6516,C0393953,Anterior Cerebral Circulation Infarction
+8264,C0751952,Anterior Circulation Brain Infarction
+15090,C3554657,LISSENCEPHALY 5
+6737,C0409977,Bullous systemic lupus erythematosus
+2519,C0079293,Epidermolysis Bullosa Acquisita
+11109,C1837174,"HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 3"
+12313,C1863728,"Hemophagocytic lymphohistiocytosis, familial, 4"
+10062,C1336751,Thyroid Hyalinizing Trabecular Adenoma
+8726,C0860040,BCG infection
+3443,C0206721,Inverted Papilloma
+12612,C1881254,Inverted Squamous Cell Papilloma
+8596,C0854776,Pancreatic carcinoma non-resectable
+6796,C0424082,"Hallucinations, Hypnapompic"
+17243,C4478940,BRAIN MALFORMATIONS WITH OR WITHOUT URINARY TRACT DEFECTS
+2116,C0036130,Salpingitis
+4246,C0265343,Jarcho-Levin syndrome
+14143,C3150942,"SPONDYLOCOSTAL DYSOSTOSIS 4, AUTOSOMAL RECESSIVE"
+11131,C1837549,"SPONDYLOCOSTAL DYSOSTOSIS, AUTOSOMAL RECESSIVE 2"
+16744,C4274761,Autosomal dominant spondylocostal dysostosis
+16390,C4083048,SPONDYLOCOSTAL DYSOSTOSIS 5
+5980,C0342686,Aromatic amino acid decarboxylase deficiency
+5362,C0282527,Infantile Refsum Disease (disorder)
+3223,C0162819,"Skin Diseases, Vascular"
+9757,C1332564,Small cell neuroendocrine carcinoma of bladder
+1659,C0027665,"Neoplasms, Nerve Tissue"
+4030,C0262918,Extraocular Muscle Paresis
+3597,C0221356,Brachycephaly
+14756,C3495427,Fanconi-Bickel Syndrome
+14334,C3164780,Clinical sepsis
+9860,C1333855,Grade 3 Colon Adenocarcinoma
+9862,C1333866,Grade 1 Colon Adenocarcinoma
+6208,C0346167,Undifferentiated carcinoma of ovary
+7356,C0549622,Sexual Dysfunction
+14234,C3151380,SCHIZOPHRENIA 15
+8749,C0861352,Lobular Neoplasia
+612,C0011649,Dermoid Cyst
+12061,C1858301,LEBER CONGENITAL AMAUROSIS 5
+862,C0016395,Focal Dermal Hypoplasia
+5895,C0342185,"Hyperthyroxinemia, Familial Dysalbuminemic"
+399,C0007862,Cervico-Brachial Neuralgia
+3619,C0221759,Brachial Plexus Neuritis
+2673,C0085920,Brachial Neuralgia
+10320,C1510479,Neuralgic Amyotrophy
+5027,C0276223,Recurrent herpes simplex
+9624,C1306573,Botryoid-Type Embryonal Rhabdomyosarcoma
+12999,C2363750,MDS transformation
+4422,C0267048,Glossoptosis
+1828,C0030389,Parainfluenza
+1172,C0020630,Hypophosphatasia
+12724,C1969053,JOUBERT SYNDROME 7
+17728,C4552011,Gonadotropin deficiency
+10137,C1384582,Primary testicular failure
+4929,C0272048,stomatocytic anemia
+2391,C0041321,"Tuberculosis, Miliary"
+8770,C0863094,Recurrent respiratory tract infections
+13959,C2939462,Immunoglobulin deposition disease
+3833,C0238294,"MYOCARDITIS, ACTIVE"
+5270,C0280089,Carcinoid tumor of lung
+18171,C4748769,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 11"
+9745,C1332309,Anti-Basement Membrane Glomerulonephritis
+16435,C4087436,HIV viraemia
+462,C0008780,Ciliary Motility Disorders
+12723,C1969052,"MECKEL SYNDROME, TYPE 5"
+11923,C1855675,Arima syndrome
+14990,C3553844,HYPOGONADOTROPIC HYPOGONADISM 11 WITH OR WITHOUT ANOSMIA
+4860,C0271582,Isolated lutropin deficiency (disorder)
+6128,C0344529,Cornea plana
+11752,C1852557,CORNEA PLANA 1
+8974,C0948750,Salivary gland carcinoma
+3589,C0221290,Chondromyxoid fibroma
+15298,C3805156,Chronic hepatitis C virus genotype 1
+4880,C0271695,Rabson-Mendenhall Syndrome
+13229,C2677632,Hemisacrum
+947,C0017924,Glycogen Storage Disease Type V
+7342,C0549357,Abdominal adhesions
+10475,C1561921,Non-ST elevation (NSTEMI) myocardial infarction
+5364,C0282529,"Chondrodysplasia Punctata, Rhizomelic"
+12491,C1866730,Rhizomelia
+7830,C0743479,emotional dysfunction
+1695,C0027927,Neurosyphilis
+14872,C3541462,HYPOGONADOTROPIC HYPOGONADISM 13 WITH OR WITHOUT ANOSMIA
+13668,C2930617,Pulmonary Fibrosis - from Asbestos Exposure
+6730,C0409860,Rotator cuff tear arthropathy
+17629,C4551680,Generalized osteoporosis
+1771,C0029437,Idiopathic Multicentric Osteolyses
+928,C0017614,"Glaucoma, Suspect"
+16379,C4082197,Charcot-Marie-Tooth disease type 4
+10859,C1832526,"CATARACT, NONNUCLEAR POLYMORPHIC CONGENITAL, AUTOSOMAL DOMINANT"
+6444,C0393541,Distal Spinal Muscular Atrophy
+18217,C4749820,Autosomal recessive lower motor neuron disease with childhood onset
+12787,C1970211,"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 4"
+15402,C3809309,"CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE C"
+265,C0005744,Blepharophimosis
+18118,C4747517,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 20"
+11193,C1838571,"Ceroid Lipofuscinosis, Neuronal, 7"
+271,C0005806,Blood Group Incompatibility
+14668,C3281200,"LEUKOENCEPHALOPATHY, BRAIN CALCIFICATIONS, AND CYSTS"
+6534,C0395971,Dominant sensorineural hearing loss
+8289,C0752127,Spinal Cord Vascular Diseases
+16830,C4288892,Infant Acute Undifferentiated Leukemia
+601,C0011606,Exfoliative dermatitis
+12764,C1970011,"CHARCOT-MARIE-TOOTH DISEASE, TYPE 4J"
+4783,C0270912,"Charcot-Marie-Tooth Disease, Type Ib"
+12012,C1857663,Yunis Varon syndrome
+4785,C0270914,Hereditary Motor and Sensory-Neuropathy Type II
+13140,C2675491,AMYOTROPHIC LATERAL SCLEROSIS 11
+6204,C0346154,Malignant phyllodes tumor of breast
+11529,C1847352,"POLYMICROGYRIA, BILATERAL FRONTOPARIETAL"
+4346,C0266270,Pancreas divisum
+18087,C4743661,Leukocyte Adhesion Deficiency Type 3
+3721,C0235598,Hodgkin's-like
+1000,C0018794,Heart Block
+14338,C3178782,Aortic Stiffness
+10551,C1621719,Lymphoepithelioid lymphoma (clinical)
+3750,C0235989,Renal interstitial fibrosis
+12720,C1969029,Lissencephaly 3
+5128,C0278688,Stage IV Ovarian Carcinoma
+9305,C1266129,Atypical Lipoma
+14426,C3273019,Early Hepatocellular Carcinoma
+11547,C1847725,SPINOCEREBELLAR ATAXIA 15
+8907,C0920187,Congenital neuropathy
+13330,C2718017,TDP-43 Proteinopathies
+13261,C2678484,Long Qt Syndrome 10
+3976,C0242788,"Breast Neoplasms, Male"
+15198,C3698226,Noninvasive carcinoma ex pleomorphic adenoma
+4907,C0271869,"PSEUDOHYPOPARATHYROIDISM, TYPE IB"
+13962,C2940786,Thyroid Hormone Resistance Syndrome
+17231,C4476786,Testicular adrenal rest tumor
+52,C0001630,Adrenal Rest Tumor
+11091,C1836860,"FANCONI ANEMIA, COMPLEMENTATION GROUP J"
+17233,C4476818,Nevus sebaceus
+9135,C1142553,Primary HIV infection
+8377,C0795917,"Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type"
+13360,C2733158,Cerebral Small Vessel Diseases
+571,C0011127,Pressure Ulcer
+16818,C4287832,Metastatic Malignant Solid Neoplasm
+12571,C1868773,Diabetic encephalopathy
+4386,C0266539,Congenital total cataract
+3745,C0235964,Renal dysgenesis
+12726,C1969056,LEOPARD SYNDROME 2
+12727,C1969057,Noonan Syndrome 5
+6287,C0348872,Disorders of both mitral and tricuspid valves
+11608,C1849075,Relative macrocephaly
+17561,C4551484,Leopard Syndrome 1
+14626,C3280766,JOUBERT SYNDROME 14
+15610,C3839044,Compensated liver disease
+14406,C3272265,Three Vessel Coronary Disease
+17456,C4528408,Advanced Head and Neck Squamous Cell Carcinoma
+17415,C4524268,Advanced lung cancer
+7105,C0478074,"Other congenital malformations of spine, not associated with scoliosis"
+1558,C0026265,Diseases of mitral valve
+358,C0007192,"Cardiomyopathy, Alcoholic"
+1468,C0024537,"Malaria, Vivax"
+1628,C0027127,Myotonia Congenita
+13919,C2936781,Generalized Myotonia of Thomsen
+3039,C0154946,Acute angle-closure glaucoma
+12659,C1959584,Cardiac Carcinoma
+17351,C4518436,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+1602,C0026916,Mycobacterium avium-intracellulare Infection
+9278,C1266045,Metanephric adenoma
+15140,C3665488,Familial Osteochondritis Dissecans
+18061,C4732796,Apical hypertrophic cardiomyopathy
+12226,C1861736,SPINOCEREBELLAR ATAXIA 31 (disorder)
+2457,C0042594,Vestibular Diseases
+9884,C1334003,Barretts esophagus with high grade dysplasia
+6379,C0376323,Congestive Ophthalmopathy
+10492,C1563709,Myopathic Ophthalmopathy
+1939,C0032326,Pneumothorax
+8639,C0856151,Fat redistribution
+7038,C0472762,Alpha trait thalassemia
+16924,C4305134,Fried syndrome
+6245,C0346629,Malignant neoplasm of large intestine
+11925,C1855681,"Nephronophthisis, familial juvenile"
+12733,C1969092,NEPHRONOPHTHISIS 7
+14135,C3150924,"MENTAL RETARDATION, ANTERIOR MAXILLARY PROTRUSION, AND STRABISMUS"
+10674,C1708778,mucoepidermoid carcinoma of lung
+17147,C4317171,Adolescent Obesity
+3850,C0238421,Selenium deficiency
+5841,C0340968,Deficiency of pyruvate kinase
+3010,C0154307,Banti's syndrome
+5033,C0276275,Disease due to Parvoviridae
+10782,C1739388,Birch pollen allergy
+2782,C0149978,Adenocarcinoma of rectum
+1209,C0021342,Infectious enteritis
+9642,C1318518,Infantile malignant osteopetrosis
+15655,C3853548,Pdgfra-Associated Chronic Eosinophilic Leukemia
+7413,C0564567,Impulsive character (finding)
+14780,C3495890,Osteochondral defects
+9087,C1135194,Chronic systolic heart failure
+308,C0006277,Bronchitis
+14547,C3280095,"MACROCEPHALY, MACROSOMIA, AND FACIAL DYSMORPHISM SYNDROME"
+15106,C3645711,Congenital Osteopetrosis
+14349,C3179239,Osteopetrosis Autosomal Dominant Type 2
+11622,C1849334,"Robinow syndrome, autosomal recessive"
+7020,C0457133,Muscle eye brain disease
+7670,C0699743,Congenital muscular dystrophy (disorder)
+12747,C1969651,"Macular Degeneration, Age-Related, 9"
+3408,C0206675,Adenomatoid Tumor
+12639,C1956097,Wolf-Hirschhorn Syndrome
+2492,C0043207,Wolfram Syndrome
+10681,C1709166,Neoplastic C-Cell Hyperplasia
+8294,C0752155,Central Nervous System Vascular Malformations
+8840,C0878521,Beta thalassemia trait
+198,C0003969,Ascorbic Acid Deficiency
+2153,C0036474,Scurvy
+9887,C1334015,High Grade Intraepithelial Neoplasia
+15359,C3808935,"CARDIOMYOPATHY, DILATED, 1JJ"
+14015,C2987145,Pancreatic Intraepithelial Neoplasia-3
+14745,C3494506,"Pseudohypoparathyroidism, Type Ia"
+2076,C0035312,Retinal Drusen
+9015,C1096000,Bronchopulmonary disease
+13759,C2931205,"Usher syndrome, type 1A"
+10072,C1336939,Vaginal Leiomyoma
+17852,C4699512,Large-artery atherosclerosis (embolus/thrombosis)
+10618,C1704330,Dental Diseases
+2256,C0038368,Stomatognathic Diseases
+10938,C1833693,Otodental Dysplasia
+13454,C2750325,Oculootodental syndrome
+5430,C0332881,Congenital pseudoarthrosis
+6683,C0406502,Hereditary benign telangiectasia (disorder)
+814,C0015461,Facial Neoplasms
+3945,C0242380,Libman-Sacks Disease
+10519,C1568363,Tendinosis
+14431,C3273239,Proliferative Inflammatory Atrophy
+17540,C4545791,Epigenetic disorder
+5667,C0338455,Dementia of frontal lobe type
+10919,C1833308,"NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE V"
+3550,C0221032,Familial generalized lipodystrophy
+13778,C2931276,Spastic paraplegia 17
+16746,C4274995,Lissencephaly with cerebellar hypoplasia
+2627,C0085574,Palindromic rheumatism
+13990,C2985171,Glioneuronal Tumor with Neuropil-Like Islands
+1621,C0027073,Myofascial Pain Syndromes
+11872,C1854776,Infantile cardiomyopathy
+11528,C1847319,PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA
+12752,C1969657,Atrial Septal Defect 4
+13353,C2732473,Ductal Carcinoma In Situ with Microinvasion
+12811,C1970841,"MENTAL RETARDATION, X-LINKED 93 (disorder)"
+14264,C3151476,MITOCHONDRIAL DNA DEPLETION SYNDROME 9 (ENCEPHALOMYOPATHIC TYPE WITH METHYLMALONIC ACIDURIA)
+12748,C1969652,"BRACHYDACTYLY, TYPE B2 (disorder)"
+6859,C0431863,Carpal synostosis
+12246,C1862112,"BRACHYDACTYLY, TYPE B1"
+14489,C3278509,Spinal fusion
+12205,C1861329,Spinal canal stenosis
+2225,C0037944,Spinal Stenosis
+2236,C0038018,Spondylolysis
+9722,C1332167,Adenoid cystic breast carcinoma
+2984,C0153685,Secondary malignant neoplasm of kidney
+9859,C1333843,Grade 3 Invasive Breast Carcinoma
+17312,C4510731,Familial primary hypomagnesemia with normocalciuria and normocalcemia
+13086,C2673648,"Hypomagnesemia 4, Renal"
+16134,C4021806,Prelingual sensorineural hearing impairment
+3742,C0235946,Cerebral atrophy
+17605,C4551584,Brain atrophy
+633,C0012242,Digestive System Disorders
+3262,C0178417,Anhedonia
+10835,C1832241,"Agammaglobulinemia, non-Bruton type"
+14053,C3150207,"AGAMMAGLOBULINEMIA 6, AUTOSOMAL RECESSIVE"
+14730,C3489795,"Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant"
+17940,C4721531,"HYPER-IgE RECURRENT INFECTION SYNDROME 1, AUTOSOMAL DOMINANT"
+6754,C0410204,"Myopathy, Centronuclear, Autosomal Recessive"
+2664,C0085700,Chondromalacia
+3882,C0239399,Short extremities
+10482,C1562689,Congenital hereditary endothelial dystrophy
+11283,C1841984,GLOMUVENOUS MALFORMATIONS
+9036,C1096494,Gastroduodenal haemorrhage
+1574,C0026636,Mouth Diseases
+6293,C0349081,Dementia in Parkinson's disease
+1250,C0022504,Kaposi Varicelliform Eruption
+61,C0001824,Agranulocytosis
+17615,C4551627,Granulocytopenic disorder
+15256,C3714753,"RETINOSCHISIS 1, X-LINKED, JUVENILE"
+15805,C3888946,Autoimmune crescentic glomerulonephritis
+14298,C3160845,PAI-1 4G/5G polymorphism
+3590,C0221292,Basophilic leukemia
+10294,C1504336,Polypoidal choroidal vasculopathy
+9181,C1258215,Ileus
+10679,C1709103,Myxoinflammatory fibroblastic sarcoma
+13267,C2678503,"AXENFELD-RIEGER SYNDROME, TYPE 3"
+9431,C1280768,Axenfeld syndrome
+15263,C3714873,"Axenfeld-Rieger Syndrome, Type 1"
+1706,C0028242,Nocardia Infections
+2344,C0040261,Onychomycosis
+17533,C4543929,Primary osteosarcoma
+7672,C0699753,Cancer Relapse
+18020,C4725951,Metastatic Gastrointestinal Stromal Tumor
+6953,C0432487,Post-transplant lymphoproliferative disorder
+12389,C1864902,"Hyperinsulinemic hypoglycemia, familial, 7"
+12391,C1864904,Exercise-induced hyperinsulinism
+12750,C1969655,LETHAL CONGENITAL CONTRACTURAL SYNDROME 3
+12728,C1969060,Premature Ovarian Failure 5
+11848,C1854311,"Cataract, posterior polar, 3"
+5363,C0282528,Peroxisomal Disorders
+15760,C3888090,Early onset torsion dystonia
+10968,C1834570,Myoclonic dystonia
+7010,C0456511,Sleep Paralysis
+18004,C4724975,HyperCKmia
+5238,C0279661,Acinar cell carcinoma of pancreas
+7363,C0553586,Cafe-au-lait macules with pulmonary stenosis
+4268,C0265541,Cranioschisis
+7582,C0678230,Congenital Epicanthus
+12809,C1970822,"Mental Retardation, X-Linked, Syndromic 14"
+6018,C0342853,Sialuria
+9046,C1096903,"Sialic Acid Storage Disease, Finnish Type (disorder)"
+6923,C0432306,Ichthyosis Bullosa of Siemens
+2894,C0152417,Congenital stenosis of aortic valve
+3071,C0155567,Rheumatic aortic stenosis
+3091,C0155866,Inhalational anthrax
+17833,C4693864,"TUMORAL CALCINOSIS, HYPERPHOSPHATEMIC, FAMILIAL, 3"
+1400,C0023886,"Liver Abscess, Amebic"
+6091,C0343758,Typhus group rickettsial disease
+2404,C0041471,TYPHUS
+2152,C0036472,Scrub Typhus
+15930,C4014343,"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 42"
+1204,C0021167,Incontinence
+6502,C0393808,"Charcot-Marie-Tooth disease, X-linked, 1"
+387,C0007775,Cerebral Atherosclerosis
+385,C0007771,Intracranial Arteriosclerosis
+16239,C4039764,Undifferentiated spondyloarthropathy
+4479,C0267971,Storage disease
+7222,C0522254,Analgesic Overuse Headache
+1252,C0022541,Kearns-Sayre syndrome
+5604,C0334525,"Struma ovarii, malignant"
+10327,C1511104,Benign Struma Ovarii
+10696,C1710026,Sclerosing Epithelioid Fibrosarcoma
+17955,C4721772,Postoperative delirium
+6129,C0344530,Congenital keratoglobus

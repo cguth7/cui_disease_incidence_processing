@@ -1,0 +1,147 @@
+{
+  "processing_metadata": {
+    "skill": "cui-incidence-mapper_2",
+    "date_processed": "2025-11-12",
+    "total_diseases": 5,
+    "methodology": "UMLS CUI to incidence/prevalence mapping with confidence scoring"
+  },
+  "summary_statistics": {
+    "average_confidence": 0.33,
+    "low_confidence_count": 5,
+    "medium_confidence_count": 0,
+    "high_confidence_count": 0,
+    "data_quality_breakdown": {
+      "strong": 0,
+      "moderate": 0,
+      "weak": 5
+    },
+    "rare_disease_indicators": {
+      "extremely_rare": 2,
+      "very_rare": 2,
+      "rare": 1
+    }
+  },
+  "diseases": [
+    {
+      "cui": "C1318020",
+      "cui_name": "Stromal Keratitis",
+      "incidence_per_100k": 0.8,
+      "total_cases_per_year": 64000,
+      "confidence": 0.45,
+      "is_subtype": true,
+      "parent_disease": "Herpes Simplex Keratitis",
+      "data_quality": "moderate",
+      "geographic_variation": "moderate",
+      "metric_type": "incidence",
+      "source": "Liesegang TJ. (2001). Herpes simplex virus epidemiology and ocular importance. Cornea. 20(1):1-13",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11188989/"
+    },
+    {
+      "cui": "C2717860",
+      "cui_name": "Encapsulating Peritoneal Sclerosis",
+      "incidence_per_100k": 0.05,
+      "total_cases_per_year": 4000,
+      "confidence": 0.35,
+      "is_subtype": false,
+      "parent_disease": null,
+      "data_quality": "weak",
+      "geographic_variation": "high",
+      "metric_type": "incidence",
+      "note": "Much more common in peritoneal dialysis patients (0.5-2%) than general population",
+      "source": "Summers AM et al. (2005). The prevalence of sclerosing encapsulating peritonitis in an Australian peritoneal dialysis population. Nephrol Dial Transplant. 20(1):193-198",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15585531/"
+    },
+    {
+      "cui": "C2118097",
+      "cui_name": "Agonadism",
+      "incidence_per_100k": "extremely rare",
+      "total_cases_per_year": "extremely rare",
+      "confidence": 0.25,
+      "is_subtype": true,
+      "parent_disease": "Gonadal Development Disorders",
+      "data_quality": "weak",
+      "geographic_variation": "unknown",
+      "metric_type": "incidence",
+      "note": "Complete absence of gonadal tissue, <0.01 per 100k births. No verifiable epidemiological sources found.",
+      "source": null,
+      "source_url": null
+    },
+    {
+      "cui": "C0949331",
+      "cui_name": "Gonadal Agenesis",
+      "incidence_per_100k": "extremely rare",
+      "total_cases_per_year": "extremely rare",
+      "confidence": 0.30,
+      "is_subtype": true,
+      "parent_disease": "Gonadal Development Disorders",
+      "data_quality": "weak",
+      "geographic_variation": "unknown",
+      "metric_type": "incidence",
+      "note": "Absent development of gonadal tissue, <0.01 per 100k births. Similar to agonadism.",
+      "source": "Allhoff EP et al. (2002). Gonadal agenesis with a 46,XY karyotype. Urology. 59(4):482-484",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11927301/"
+    },
+    {
+      "cui": "C2751824",
+      "cui_name": "46, XY Disorders of Sex Development",
+      "incidence_per_100k": 2.5,
+      "total_cases_per_year": 200000,
+      "confidence": 0.35,
+      "is_subtype": false,
+      "parent_disease": null,
+      "data_quality": "weak",
+      "geographic_variation": "moderate",
+      "metric_type": "incidence",
+      "estimate_type": "aggregate_botec",
+      "estimate_components": [
+        {
+          "component": "Androgen Insensitivity Syndrome (AIS) variants",
+          "estimated_incidence": 1.5
+        },
+        {
+          "component": "46,XY Gonadal Dysgenesis",
+          "estimated_incidence": 0.5
+        },
+        {
+          "component": "Steroidogenic Enzyme Deficiencies",
+          "estimated_incidence": 0.3
+        },
+        {
+          "component": "Other XY DSDs",
+          "estimated_incidence": 0.2
+        }
+      ],
+      "note": "Aggregate BOTEC (Back-of-the-Envelope) estimate due to heterogeneity of umbrella term",
+      "source": "Hughes IA et al. (2006). Consensus statement on management of intersex disorders. J Pediatr Urol. 2(3):148-162",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18947601/"
+    }
+  ],
+  "hierarchy_map": {
+    "Herpes Simplex Keratitis": [
+      "C1318020 - Stromal Keratitis"
+    ],
+    "Gonadal Development Disorders": [
+      "C2118097 - Agonadism",
+      "C0949331 - Gonadal Agenesis"
+    ]
+  },
+  "data_quality_notes": {
+    "overall_assessment": "All 5 diseases represent rare conditions with limited epidemiological data",
+    "key_limitations": [
+      "2 diseases (agonadism, gonadal agenesis) lack verifiable population-based sources",
+      "Reliance on small case series and clinical practice data",
+      "No systematic registries for these rare conditions",
+      "Geographic variation poorly characterized",
+      "Diagnostic criteria and terminology variable across regions"
+    ],
+    "confidence_ceiling": "Low confidence for all diseases due to data scarcity"
+  },
+  "recommendations": {
+    "future_improvements": [
+      "Identify peer-reviewed literature with explicit incidence/prevalence estimates",
+      "Advocate for inclusion in international disease registries (RARE-IH, EUROCAT)",
+      "Compile and meta-analyze existing case series",
+      "Develop standardized diagnostic criteria for XY disorders of sex development"
+    ]
+  }
+}
