@@ -1,0 +1,6 @@
+CUI,Disease Name,Incidence_per_100k,Confidence,Data_Quality,Geographic_Variation,Is_Subtype,Parent_Disease,Metric_Type,Data_Year,Total_Cases_Per_Year
+C0596298,Cerebrovascular Occlusion,120.0,0.85,strong,high,true,Cerebrovascular Accidents (Stroke),incidence,2006,9600000
+C0334355,Serous cystadenoma - borderline malignancy,0.8,0.55,moderate,moderate,true,Ovarian Neoplasms - Borderline,incidence,2012,64000
+C0154246,Urea Cycle Disorders - Inborn,0.4,0.65,moderate,low,false,null,incidence,2008,32000
+C0349489,Fetal Hypoxia,2.5,0.6,moderate,high,false,null,incidence,2010,200000
+C2350530,Bronchopulmonary Aspergillosis,1.2,0.5,weak,high,false,null,incidence,2015,96000

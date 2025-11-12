@@ -1,0 +1,214 @@
+================================================================================
+CUI INCIDENCE MAPPER - 5 DISEASES PROCESSING - QUICK REFERENCE
+================================================================================
+Processing Date: November 12, 2025
+Skill Used: cui-incidence-mapper_2
+Total Processed: 5 diseases
+Output Location: /home/user/cui_disease_incidence_processing/output/results/
+
+================================================================================
+RESULTS SUMMARY TABLE
+================================================================================
+
+CUI         | Disease Name                    | Inc/100k | Conf | Quality | Status
+------------|--------------------------------|----------|------|---------|----------
+C0205622    | Microinvasive tumor            | NULL     | 0.00 | none    | UNMAPPABLE
+C0234247    | Neuralgia, Atypical            | 2.5      | 0.35 | weak    | MAPPED*
+C0423711    | Neuralgia, Perineal            | 0.8      | 0.40 | weak    | MAPPED*
+C0038870    | Neuralgia, Supraorbital        | 1.2      | 0.45 | weak    | MAPPED*
+C0423712    | Neuralgia, Iliohypogastric     | 0.5      | 0.30 | weak    | MAPPED*
+
+* = Low confidence due to limited epidemiological data
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. UNMAPPABLE DISEASE (1):
+   - C0205622: Pathology descriptor (tumor staging term), not independent disease
+
+2. RARE CONDITIONS (4):
+   - All 4 neuralgias: Identified as rare nerve pain conditions
+   - All 4 marked as subtypes of broader "Neuralgia" category
+   - Combined global incidence: ~4.0 per 100,000 person-years
+   - Estimated global annual cases: ~400,000
+
+3. CONFIDENCE DISTRIBUTION:
+   - 0.0 (Unmappable): 1 disease
+   - 0.30-0.35 (Very Low): 2 diseases
+   - 0.40-0.45 (Low): 2 diseases
+   - AVERAGE CONFIDENCE: 0.30
+
+4. DATA QUALITY:
+   - Strong: 0 diseases
+   - Moderate: 0 diseases
+   - Weak: 4 diseases
+   - None: 1 disease
+   - Verifiable Sources: 0
+
+================================================================================
+INDIVIDUAL RESULTS OVERVIEW
+================================================================================
+
+C0205622 - MICROINVASIVE TUMOR
+Status: UNMAPPABLE
+Reason: Pathology descriptor for tumor size/staging (<5mm invasion)
+Incidence: NULL (depends on primary tumor type)
+Confidence: 0.0
+Source: None (not a mappable disease concept)
+Clinical Use: Not for independent analysis; always specify tumor type
+
+C0234247 - NEURALGIA, ATYPICAL
+Status: MAPPED (Low Confidence)
+Estimated Incidence: 2.5 per 100,000 person-years
+Annual Global Cases: 200,000
+Confidence: 0.35
+Data Quality: Weak
+Parent Disease: Neuralgia
+Reasoning: Vague diagnosis without clear definition; no specific epidemiological studies
+Clinical Context: Atypical cases not fitting recognized neuralgia subtypes
+
+C0423711 - NEURALGIA, PERINEAL
+Status: MAPPED (Low Confidence)
+Estimated Incidence: 0.8 per 100,000 person-years
+Annual Global Cases: 64,000
+Confidence: 0.40
+Data Quality: Weak
+Parent Disease: Neuralgia
+Clinical Context: Nerve pain in perineal region; often trauma/childbirth related
+
+C0038870 - NEURALGIA, SUPRAORBITAL
+Status: MAPPED (Low Confidence)
+Estimated Incidence: 1.2 per 100,000 person-years
+Annual Global Cases: 96,000
+Confidence: 0.45
+Data Quality: Weak
+Parent Disease: Neuralgia
+Clinical Context: Pain along supraorbital nerve (trigeminal V1 branch)
+Note: May be independent or secondary to trigeminal neuralgia
+
+C0423712 - NEURALGIA, ILIOHYPOGASTRIC NERVE
+Status: MAPPED (Very Low Confidence)
+Estimated Incidence: 0.5 per 100,000 person-years
+Annual Global Cases: 40,000
+Confidence: 0.30
+Data Quality: Weak
+Parent Disease: Neuralgia
+Clinical Context: Rare nerve compression syndrome (often post-hernia repair)
+Note: Largely documented through case reports only
+
+================================================================================
+ESTIMATED GLOBAL DISEASE BURDEN
+================================================================================
+
+Disease                     | Inc/100k | Annual Cases | % of Total
+----------------------------|----------|--------------|----------
+Neuralgia, Atypical        | 2.5      | 200,000      | 50.0%
+Neuralgia, Supraorbital    | 1.2      | 96,000       | 24.0%
+Neuralgia, Perineal        | 0.8      | 64,000       | 16.0%
+Neuralgia, Iliohypogastric | 0.5      | 40,000       | 10.0%
+----------------------------|----------|--------------|----------
+TOTAL (excl. C0205622)      | 5.0      | 400,000      | 100%
+
+Note: C0205622 excluded as not a standalone disease. World population: 8 billion.
+
+================================================================================
+DATA QUALITY & CONFIDENCE ASSESSMENT
+================================================================================
+
+Confidence Scoring Factors:
+1. Source Quality & Verifiability (40%) - ALL: 0/10 (No verifiable sources)
+2. Metric Appropriateness (30%) - ALL: ~6/10 (Incidence appropriate for acute/pain conditions)
+3. Concept Coherence (20%) - Mixed:
+   - C0205622: 0/10 (Descriptor, not disease)
+   - C0234247: 3/10 (Vague diagnosis)
+   - C0423711-C0423712: 5/10 (Specific but rare)
+4. Data Availability (10%) - POOR: Case reports only, no registry data
+
+Result: All confidence scores ≤0.45 due to:
+- Absence of peer-reviewed epidemiological studies
+- Lack of population-based registry data
+- Limited case report frequency
+- Diagnostic ambiguity
+
+================================================================================
+OUTPUT FILES GENERATED
+================================================================================
+
+Individual Disease Results:
+✓ /home/user/cui_disease_incidence_processing/output/results/C0205622.json
+✓ /home/user/cui_disease_incidence_processing/output/results/C0234247.json
+✓ /home/user/cui_disease_incidence_processing/output/results/C0423711.json
+✓ /home/user/cui_disease_incidence_processing/output/results/C0038870.json
+✓ /home/user/cui_disease_incidence_processing/output/results/C0423712.json
+
+Summary Reports:
+✓ /home/user/cui_disease_incidence_processing/output/5DISEASES_CUI_MAPPER_SUMMARY.json
+✓ /home/user/cui_disease_incidence_processing/output/5DISEASES_CUI_MAPPER_REPORT.md
+✓ /home/user/cui_disease_incidence_processing/output/5DISEASES_QUICK_REFERENCE.txt
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+For Pharmaceutical Market Analysis:
+1. Do NOT use C0205622 independently - specify primary tumor type instead
+2. C0234247 shows largest market potential (200k cases/year) but very uncertain
+3. Specific neuralgias (C0423711-C0423712) are niche markets; combined <150k cases/year
+4. Total addressable market: ~400k cases/year with HIGH UNCERTAINTY
+
+For Clinical Use:
+1. Consider broader "Neuralgia" category instead of specific subtypes
+2. Conduct further diagnostic clarification studies
+3. Use specialized pain/neurology registries for patient identification
+
+For Regulatory/Research:
+1. Establish standardized diagnostic criteria for atypical neuralgia
+2. Create international registries for rare nerve compression syndromes
+3. Fund epidemiological studies on specific neuralgia subtypes
+
+================================================================================
+TECHNICAL DETAILS
+================================================================================
+
+Processing Method: cui-incidence-mapper_2 Skill
+Input Format: Batch mode (5 diseases)
+Output Format: JSON (per CUI requirement)
+Confidence Algorithm: Multi-factor scoring (0.0-1.0 scale)
+   - 0.0 = Unmappable
+   - 0.1-0.3 = Very low (rare/no data)
+   - 0.3-0.5 = Low (weak sources)
+   - 0.5-0.7 = Medium (moderate sources)
+   - 0.7-0.9 = High (tier 1 sources)
+   - 0.9-1.0 = Very high (multiple tier 1 sources)
+
+Epidemiological Data Source Tiers Used: NONE (no tier 1-3 sources found)
+Estimation Method: Conservative based on general neuralgia epidemiology
+
+================================================================================
+VALIDATION CHECKLIST
+================================================================================
+
+✓ All 5 diseases processed successfully
+✓ JSON output format valid
+✓ All required fields populated
+✓ Confidence scores appropriate (low for rare/sparse data)
+✓ Data quality assessments conservative
+✓ No fabricated sources (null for missing sources)
+✓ Hierarchy relationships identified (4 as Neuralgia subtypes)
+✓ Geographic variation documented where applicable
+✓ Summary reports generated
+✓ Results saved to required directory
+
+================================================================================
+PROCESSING COMPLETE
+================================================================================
+
+Status: SUCCESS
+Date: 2025-11-12
+All results ready for use in pharmaceutical analysis and market sizing.
+
+Note: Use with CAUTION - confidence scores indicate significant uncertainty.
+Consider supplementing with primary epidemiological research.
+
+================================================================================
