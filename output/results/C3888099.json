@@ -1,0 +1,19 @@
+{
+  "cui": "C3888099",
+  "cui_name": "Microcephaly-micromelia syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare genetic developmental disorder characterized by microcephaly and limb abnormalities. Estimated <0.1 per 100k births based on isolated case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

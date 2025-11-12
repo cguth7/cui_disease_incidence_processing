@@ -1,0 +1,19 @@
+{
+  "cui": "C3493776",
+  "cui_name": "HYPOTHYROIDISM, CONGENITAL, NONGOITROUS, 1",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Congenital hypothyroidism",
+  "reasoning": "Autosomal recessive congenital hypothyroidism without goiter, specific genetic variant (HYPOTHYROIDISM1). Reported incidence ~1-2 per 100k births. Confidence moderate due to rarity and limited specific epidemiological data for this particular genetic subtype. Incidence metric appropriate for congenital condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

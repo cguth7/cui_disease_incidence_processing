@@ -1,0 +1,19 @@
+{
+  "cui": "C1335168",
+  "cui_name": "Ovarian mucinous tumor",
+  "incidence_per_100k": 3.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 304000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Cancer",
+  "reasoning": "Mucinous epithelial ovarian cancers represent approximately 3-5% of all ovarian tumors with global incidence around 3.8 per 100k women. Based on GLOBOCAN 2005 ovarian cancer data stratified by histology.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - ovarian cancer incidence by histology",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

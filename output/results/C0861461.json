@@ -1,0 +1,19 @@
+{
+  "cui": "C0861461",
+  "cui_name": "Stage IV Colon Carcinoma",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Colon Carcinoma",
+  "reasoning": "Stage IV (metastatic) colon cancer represents ~25-30% of new colorectal cancer diagnoses (global CRC incidence ~20-25 per 100k), estimated ~8.5 per 100k. Based on GLOBOCAN 2005 and cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - Colorectal cancer estimates",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

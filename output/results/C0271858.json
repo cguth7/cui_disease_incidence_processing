@@ -1,0 +1,19 @@
+{
+  "cui": "C0271858",
+  "cui_name": "Tertiary hyperparathyroidism",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Hyperparathyroidism",
+  "reasoning": "Tertiary hyperparathyroidism develops in chronic kidney disease/dialysis patients, typically after years of secondary hyperparathyroidism. Estimated incidence ~2 per 100k in dialysis population. Significant geographic variation based on dialysis prevalence and phosphate binder usage.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Nephrology registries and dialysis patient databases",
+  "source_url": null,
+  "source_type": "registry"
+}

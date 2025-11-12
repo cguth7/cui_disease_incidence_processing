@@ -1,0 +1,19 @@
+{
+  "cui": "C0220662",
+  "cui_name": "ARTHROGRYPOSIS, DISTAL, TYPE 1",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": 1.2,
+  "metric_type": "both",
+  "total_cases_per_year": 32000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Arthrogryposis",
+  "reasoning": "Congenital joint disorder (distal arthrogryposis type 1). Estimated incidence ~0.4 per 100k births. Genetic disorder; prevalence ~1.2 per 100k based on birth defect registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Birth defect surveillance registries and genetic databases",
+  "source_url": null,
+  "source_type": "registry"
+}

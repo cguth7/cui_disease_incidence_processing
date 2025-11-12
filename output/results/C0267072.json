@@ -1,0 +1,19 @@
+{
+  "cui": "C0267072",
+  "cui_name": "Esophageal Dysphagia",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Dysphagia",
+  "reasoning": "Esophageal dysphagia (swallowing difficulty of esophageal origin) incidence ~45 per 100k based on hospital discharge data and epidemiological studies. Includes achalasia, strictures, and other esophageal motility disorders.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Richter JE. (2015). Dysphagia is a symptom, not a disease. Dysphagia. 30(1):36-41",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25270812/",
+  "source_type": "literature"
+}

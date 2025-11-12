@@ -1,0 +1,19 @@
+{
+  "cui": "C0002438",
+  "cui_name": "Amebiasis",
+  "incidence_per_100k": 35.0,
+  "prevalence_per_100k": 70.0,
+  "metric_type": "both",
+  "total_cases_per_year": 2800000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Amebiasis (Entamoeba histolytica infection) is endemic in tropical/subtropical regions. Global incidence approximately 35 per 100k, prevalence 70 per 100k accounting for asymptomatic cases. High geographic variation with highest burden in Central/South America, Africa, and Asia.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "WHO (2004). Amebiasis. WHO Fact Sheet. World Health Organization",
+  "source_url": "https://www.who.int/news-room/fact-sheets/",
+  "source_type": "registry"
+}

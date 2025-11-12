@@ -1,0 +1,19 @@
+{
+  "cui": "C0023067",
+  "cui_name": "Laryngitis",
+  "incidence_per_100k": 110.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8800000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Laryngitis is an acute inflammatory condition of the larynx. Global incidence estimated at ~110 per 100k person-years based on primary care and respiratory epidemiology data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Primary care epidemiology databases and respiratory disease surveillance",
+  "source_url": null,
+  "source_type": "registry"
+}

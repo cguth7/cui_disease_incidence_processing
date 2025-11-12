@@ -1,0 +1,19 @@
+{
+  "cui": "C3495928",
+  "cui_name": "Frontonasal dysplasia 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Craniofacial Dysplasia",
+  "reasoning": "Frontonasal dysplasia type 1 is a rare genetic craniofacial disorder, <0.01 per 100k births. Autosomal dominant condition with high variability. Fewer than 100 cases reported in literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

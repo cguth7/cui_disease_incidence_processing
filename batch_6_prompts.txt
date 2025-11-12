@@ -1,0 +1,70 @@
+=== GROUP 60 ===
+C2751259 - Macrothrombocytopenia, Autosomal Dominant, Tubb1-Related
+C4304021 - Autosomal dominant macrothrombocytopenia
+C1322281 - Seasonal rhinitis
+C0857594 - Specific allergy (drug)
+C0206710 - Basal Cell Neoplasm
+
+=== GROUP 61 ===
+C1611706 - Myosclerosis
+C0085692 - Hemorrhagic cystitis
+C0027663 - Neoplasms, Multiple Primary
+C1323099 - sympathomimetic disorder
+C1859648 - Asthma, Nasal Polyps, And Aspirin Intolerance
+
+=== GROUP 62 ===
+C0037939 - Spinal Neoplasms
+C3887662 - Intraspinal Neoplasm
+C0543698 - Hypersensitive syndrome
+C0679276 - relief drinking
+C0235983 - Normochromic anemia
+
+=== GROUP 63 ===
+C0013447 - Ear Diseases
+C1264190 - Follicular non-Hodgkin's lymphoma, large cell
+C0043528 - Zoonoses
+C0342873 - Glutaric Aciduria III
+C3149462 - HYPERALPHALIPOPROTEINEMIA 1
+
+=== GROUP 64 ===
+C0342883 - Cholesteryl Ester Transfer Protein Deficiency
+C0850572 - Adenomatous polyp of colon
+C4302206 - Perinatal arterial ischemic stroke
+C1865871 - HEMANGIOMA, CAPILLARY INFANTILE
+C3501843 - Nonmedullary Thyroid Carcinoma
+
+=== GROUP 65 ===
+C1959582 - PTEN Hamartoma Tumor Syndrome
+C1298685 - Chronic pain syndrome
+C0920184 - Fundic gland polyp
+C0268095 - Keshan disease
+C4748785 - MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 16
+
+=== GROUP 66 ===
+C0751502 - Petrous Sinus Thrombosis
+C0751501 - Intracranial Sinus Thrombophlebitis
+C0037198 - Sinus Thrombosis, Intracranial
+C0751500 - Petrous Sinus Thrombophlebitis
+C4522224 - Recurrent Anaplastic Astrocytoma
+
+=== GROUP 67 ===
+C0431108 - Anaplastic Oligoastrocytoma
+C3897762 - Recurrent Childhood Anaplastic Astrocytoma
+C3899676 - Childhood Anaplastic Oligoastrocytoma
+C0220603 - Childhood Brain Neoplasm
+C1306065 - DEVELOPMENTAL DYSPLASIA OF THE HIP 1
+
+=== GROUP 68 ===
+C0013592 - Ectropion
+C2676235 - CILIARY DYSKINESIA, PRIMARY, 9
+C0265633 - Congenital absence of tibia
+C3280586 - Mannose-Binding Protein Deficiency
+C1334749 - Lymphoproliferative disorder caused by methotrexate
+
+=== GROUP 69 ===
+C0342779 - ATP synthase deficiency
+C3279699 - Encephalocardiomyopathy, Mitochondrial, Neonatal, Due To Atp Synthase Deficiency
+C4757950 - Isolated ATP synthase deficiency
+C0272118 - Warm autoimmune hemolytic anemia
+C0334381 - Non-infiltrating lobular carcinoma
+

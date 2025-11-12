@@ -1,0 +1,19 @@
+{
+  "cui": "C0339512",
+  "cui_name": "Bull's eye macular dystrophy",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "Macular Dystrophy",
+  "reasoning": "Rare inherited retinal dystrophy with characteristic bull's eye appearance on fundoscopy. Estimated prevalence <0.1 per 100k based on ophthalmologic registries. Subtype of macular dystrophies with genetically heterogeneous etiology.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

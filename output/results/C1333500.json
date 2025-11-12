@@ -1,0 +1,19 @@
+{
+  "cui": "C1333500",
+  "cui_name": "Extragastrointestinal GIST",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Gastrointestinal Stromal Tumor",
+  "reasoning": "Extragastrointestinal GIST extremely rare; comprises <5% of all GISTs. Total GIST incidence ~1.5 per 100k, extraGI ~0.08 per 100k. Limited published epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

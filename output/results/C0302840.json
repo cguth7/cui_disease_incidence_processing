@@ -1,0 +1,19 @@
+{
+  "cui": "C0302840",
+  "cui_name": "Toxic thyroid adenoma",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": 4.5,
+  "metric_type": "both",
+  "total_cases_per_year": 168000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Nodule",
+  "reasoning": "Toxic thyroid adenoma (Plummer's disease) is a functioning thyroid adenoma causing thyrotoxicosis. Incidence ~2 per 100k person-years based on epidemiological studies; prevalence ~4-5 per 100k population. Accounts for 5-10% of hyperthyroidism cases. Specific disease entity with identifiable epidemiology.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Boelaert K et al. (2006). Guidelines for the management of thyroid cancer in adults. Clin Endocrinol (Oxf). 81 Suppl 1:1-122",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20050857/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4525128",
+  "cui_name": "Stage IV Colon Cancer AJCC v8",
+  "incidence_per_100k": 7.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 576000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of colon",
+  "reasoning": "Stage IV colon cancer (AJCC v8 classification) represents approximately 18-20% of incident colon cancers (~40 per 100k total), estimated at ~7.2 per 100k. Similar to C2217040 but specific to colon (excludes rectum). Based on GLOBOCAN 2005 colon cancer data with AJCC stage distribution.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

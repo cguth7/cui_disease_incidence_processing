@@ -1,0 +1,19 @@
+{
+  "cui": "C0006160",
+  "cui_name": "Brenner Tumor",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Ovarian neoplasm",
+  "reasoning": "Brenner tumors are a specific subtype of ovarian tumors, accounting for 2-5% of ovarian neoplasms. Estimated incidence ~1.2 per 100k based on prevalence data and subtype proportions from cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 ovarian cancer data; subtype proportions from pathology literature",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1839612",
+  "cui_name": "MYOPIA 1 X-LINKED",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Myopia",
+  "reasoning": "X-linked form of myopia is extremely rare. While myopia prevalence is 30-40% globally, X-linked inheritance accounts for <1% of genetic myopia cases. Estimated prevalence ~0.02% in males, much rarer in females.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4048798",
+  "cui_name": "Spastic paraplegia 51, autosomal recessive",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Spastic Paraplegia",
+  "reasoning": "SPG51 is a rare autosomal recessive genetic disorder affecting motor neurons. <0.01 per 100k based on limited case reports; no systematic epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

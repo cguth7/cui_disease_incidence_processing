@@ -1,0 +1,19 @@
+{
+  "cui": "C0264774",
+  "cui_name": "Mitral and aortic incompetence",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2.8,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 224000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Valvular heart disease",
+  "reasoning": "Compound condition describing concurrent mitral and aortic insufficiency. Heterogeneous group with varied etiologies (rheumatic, degenerative, endocarditis). Estimated prevalence ~2.8 per 100k as combined condition, but lacks specific epidemiological data on concurrent dual-valve disease.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0268654",
+  "cui_name": "Iminoglycinuria",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": false,
+  "parent_disease": "Amino Acid Metabolism Disorder",
+  "reasoning": "Rare autosomal recessive aminoaciduria affecting renal tubular reabsorption of imino acids and glycine. Estimated <0.01 per 100k births based on biochemical screening and case reports. Minimal epidemiological literature; benign phenotype may result in underascertainment.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

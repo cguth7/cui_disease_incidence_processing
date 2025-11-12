@@ -1,0 +1,19 @@
+{
+  "cui": "C1850126",
+  "cui_name": "Congenital anomaly of pinna",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Congenital Ear Anomalies",
+  "reasoning": "Congenital pinna malformations (microtia, preauricular pits, anomalies) are relatively common congenital anomalies. Estimated 2-4 per 100k births based on birth defect surveillance data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0857594",
+  "cui_name": "Specific allergy (drug)",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": 3500.0,
+  "metric_type": "both",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Drug allergies represent true IgE-mediated hypersensitivity reactions to specific medications, estimated at 1-3% of population (prevalence ~3,500 per 100k) with annual new cases ~150 per 100k. Umbrella term covering multiple drug classes. Confidence limited by heterogeneous reporting standards and overlap with adverse drug reactions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

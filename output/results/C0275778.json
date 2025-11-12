@@ -1,0 +1,19 @@
+{
+  "cui": "C0275778",
+  "cui_name": "Lyme carditis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Lyme disease",
+  "reasoning": "Lyme carditis is a rare cardiac manifestation of Lyme disease, occurring in 0.3-5% of Lyme cases. Global Lyme incidence ~10-20 per 100k in endemic areas, so cardiac complications estimated ~0.5 per 100k globally. Moderate confidence due to geographic concentration and limited epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Steere AC et al. (2016). Lyme borreliosis. Nat Rev Dis Primers. 2:16090",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27582620/",
+  "source_type": "literature"
+}

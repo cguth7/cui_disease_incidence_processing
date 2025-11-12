@@ -1,0 +1,19 @@
+{
+  "cui": "C0745130",
+  "cui_name": "Resistant hypertensive disorder",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": 15000,
+  "metric_type": "both",
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hypertension",
+  "reasoning": "Resistant hypertension (HTN uncontrolled on 3+ antihypertensive agents) affects ~10% of hypertensive patients. Incidence ~1.5 per 100k/year, prevalence ~15,000 per 100k (subset of hypertensive population).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Calhoun DA et al. (2008). Resistant hypertension: diagnosis, evaluation, and treatment. Hypertension. 51(6):1403-1419",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18391085/",
+  "source_type": "literature"
+}

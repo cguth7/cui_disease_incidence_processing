@@ -1,0 +1,19 @@
+{
+  "cui": "C1332214",
+  "cui_name": "Adult Primary Cutaneous Anaplastic Large Cell Lymphoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Primary Cutaneous Lymphoma",
+  "reasoning": "Primary cutaneous ALCL is a rare lymphoma subtype with estimated incidence of 0.2-0.4 per 100k. Data from cancer registries and WHO classification studies. Confidence limited by rarity and potential underestimation due to histological classification variability.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Willemze R et al. (2005). WHO-EORTC classification for cutaneous lymphomas. Blood. 105(10):3768-3785",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15692063/",
+  "source_type": "literature"
+}

@@ -1,0 +1,5 @@
+1. C0241950 - Intestinal infarction
+2. C0079680 - Lentivirus Infections
+3. C0034219 - Alveolar pyorrhea
+4. C0025167 - Megakaryocytic hyperplasia
+5. C0342643 - Autosomal recessive hypophosphatemic vitamin D refractory rickets

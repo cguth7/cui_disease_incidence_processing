@@ -1,0 +1,19 @@
+{
+  "cui": "C0265552",
+  "cui_name": "Congenital Macrodactylia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare congenital anomaly characterized by enlargement of fingers and toes. Isolated case reports and small series suggest <1 per 100,000 births globally. Often associated with other conditions (neurofibromatosis, hemihypertrophy). No population-based incidence data found.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

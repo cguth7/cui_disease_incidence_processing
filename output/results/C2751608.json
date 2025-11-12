@@ -1,0 +1,19 @@
+{
+  "cui": "C2751608",
+  "cui_name": "Pituitary Hormone Deficiency, Combined, 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.30,
+  "is_subtype": true,
+  "parent_disease": "Pituitary Hormone Deficiency, Combined",
+  "reasoning": "Genetic form of combined pituitary hormone deficiency (CPHD) caused by PROP1 mutations. Subtype of CPHD with extremely rare incidence, <0.1 per 100k. Limited epidemiological data; primarily documented through case reports and small genetic studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

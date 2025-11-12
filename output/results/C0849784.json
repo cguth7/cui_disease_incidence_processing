@@ -1,0 +1,19 @@
+{
+  "cui": "C0849784",
+  "cui_name": "Bacterial diarrhoea",
+  "incidence_per_100k": 450,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 36000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bacterial diarrheal diseases are acute infectious conditions with significant global burden. WHO estimates ~450 million cases per year in developing countries, approximately 450 per 100k person-years.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO World Health Report 2005, incorporating sentinel surveillance data",
+  "source_url": "https://www.who.int/whr/2005/",
+  "source_type": "registry"
+}

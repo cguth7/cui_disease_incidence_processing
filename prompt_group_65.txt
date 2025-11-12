@@ -1,0 +1,5 @@
+1. C1959582 - PTEN Hamartoma Tumor Syndrome
+2. C1298685 - Chronic pain syndrome
+3. C0920184 - Fundic gland polyp
+4. C0268095 - Keshan disease
+5. C4748785 - MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 16

@@ -1,0 +1,19 @@
+{
+  "cui": "C1409412",
+  "cui_name": "Periostosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Periostosis is an umbrella pathological term describing bone surface proliferation. Without specification of type (hereditary multiple exostoses, hyperostosis, etc.), cannot estimate meaningfully. Requires disease specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

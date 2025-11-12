@@ -1,0 +1,19 @@
+{
+  "cui": "C4688308",
+  "cui_name": "Advanced Lung Non-Squamous Non-Small Cell Carcinoma",
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 520000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Non-Small Cell Lung Cancer",
+  "reasoning": "Specific subtype of lung cancer: NSCLC (~80% of lung cancer) × non-squamous histology (~60% of NSCLC) × advanced stage (III-IV, ~40-50% at diagnosis). Global lung cancer incidence ~25 per 100k; advanced non-squamous NSCLC estimated ~6.5 per 100k based on GLOBOCAN and cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2020,
+  "source": "GLOBOCAN 2020 (International Agency for Research on Cancer)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0003875",
+  "cui_name": "Arthritis, Viral",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Arthritis",
+  "reasoning": "Viral arthritis aggregate estimate (~5 per 100k) from major viral causes: rubella, parvovirus B19, chikungunya, dengue arthritis. Significant geographic variation due to endemic viral distribution.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

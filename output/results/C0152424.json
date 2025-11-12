@@ -1,0 +1,19 @@
+{
+  "cui": "C0152424",
+  "cui_name": "Peripheral T-cell lymphoma",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 168000,
+  "confidence": 0.81,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin lymphoma",
+  "reasoning": "Peripheral T-cell lymphoma accounts for 5-15% of non-Hodgkin lymphomas. US SEER data (2011-2012) shows age-standardized incidence rate of 2.1 per 100,000. Male predominance (M:F ratio 1.8) and higher in Black populations. Incidence increased 280% from 1992-2005. Geographic variation: Beijing 0.35, Korea 0.82, UK 0.92 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2012,
+  "source": "Racial Patterns of Peripheral T-Cell Lymphoma Incidence and Survival in the United States - PMC5070555; SEER surveillance data 2011-2012",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5070555/",
+  "source_type": "registry"
+}

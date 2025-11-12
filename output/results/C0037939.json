@@ -1,0 +1,19 @@
+{
+  "cui": "C0037939",
+  "cui_name": "Spinal Neoplasms",
+  "incidence_per_100k": 5.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 464000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Neoplasms",
+  "reasoning": "Umbrella term covering benign and malignant spinal tumors. Malignant spinal tumors incidence ~5-6 per 100k from GLOBOCAN 2005 data, excluding benign tumors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

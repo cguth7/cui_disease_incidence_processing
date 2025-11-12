@@ -1,0 +1,19 @@
+{
+  "cui": "C1142127",
+  "cui_name": "Pneumococcal bacteraemia",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Streptococcus pneumoniae infection",
+  "reasoning": "Pneumococcal bacteraemia incidence ~8-10 per 100k globally from epidemiological studies, varies by vaccination coverage and age.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO vaccine-preventable disease surveillance reports",
+  "source_url": null,
+  "source_type": "registry"
+}

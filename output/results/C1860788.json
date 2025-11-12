@@ -1,0 +1,19 @@
+{
+  "cui": "C1860788",
+  "cui_name": "Transient Myeloproliferative Disorder of Down Syndrome",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Down Syndrome with Hematologic Manifestations",
+  "reasoning": "Transient myeloproliferative disorder (TMD) occurs in ~3-10% of Down syndrome newborns globally. With ~1 per 1000 Down syndrome births (~80,000 annually), estimated ~1.2 per 100k general population. Limited but emerging epidemiological data from pediatric hematology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

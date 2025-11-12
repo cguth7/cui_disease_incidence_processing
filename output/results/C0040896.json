@@ -1,0 +1,19 @@
+{
+  "cui": "C0040896",
+  "cui_name": "Trichinellosis",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Parasitic infection from eating undercooked meat with Trichinella cysts. Global incidence estimated at ~0.08 per 100k person-years based on WHO surveillance data and regional variations (higher in Central/Eastern Europe, low in developed nations).",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

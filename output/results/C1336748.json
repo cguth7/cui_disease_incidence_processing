@@ -1,0 +1,19 @@
+{
+  "cui": "C1336748",
+  "cui_name": "Thyroid Angiosarcoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.28,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Cancer",
+  "reasoning": "Angiosarcoma of thyroid is an extremely rare vascular malignancy, <0.01 per 100k. Reported primarily through case reports and small case series. Estimated fewer than 50 cases worldwide per year.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

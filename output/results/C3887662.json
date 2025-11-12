@@ -1,0 +1,19 @@
+{
+  "cui": "C3887662",
+  "cui_name": "Intraspinal Neoplasm",
+  "incidence_per_100k": 2.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 176000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Spinal Neoplasms",
+  "reasoning": "Specific subtype of spinal tumors limited to intraspinal location. Estimated ~2-2.5 per 100k based on pathology registries, lower than total spinal neoplasms due to anatomical specificity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

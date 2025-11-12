@@ -1,0 +1,19 @@
+{
+  "cui": "C0263009",
+  "cui_name": "Sclerosis of the skin",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": 12000,
+  "metric_type": "both",
+  "total_cases_per_year": 96000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Systemic sclerosis/scleroderma: incidence ~1.2 per 100k person-years globally, prevalence ~12 per 100k (120 per million). Metric type 'both' as both are well-documented. Higher confidence due to established registries, though geographic variation significant.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Gabrielli A et al. (2009). Systemic sclerosis. N Engl J Med. 360(19):1989-2003",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19420368/",
+  "source_type": "literature"
+}

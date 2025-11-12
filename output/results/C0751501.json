@@ -1,0 +1,19 @@
+{
+  "cui": "C0751501",
+  "cui_name": "Intracranial Sinus Thrombophlebitis",
+  "incidence_per_100k": 0.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 56000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": "Intracranial Venous Sinus Thrombosis",
+  "reasoning": "Intracranial sinus thrombophlebitis (inflammation with thrombosis) incidence estimated ~0.5-1 per 100k from literature on IVST. Often secondary to infection (mastoiditis, otitis, meningitis). Uses incidence metric for acute thrombotic event.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ferro JM et al. (2004). Cerebral venous sinus thrombosis: a retrospective study of 139 cases. Stroke. 35(3):664-670",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14976332/",
+  "source_type": "literature"
+}

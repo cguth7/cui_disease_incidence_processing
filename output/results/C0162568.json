@@ -1,0 +1,19 @@
+{
+  "cui": "C0162568",
+  "cui_name": "Erythropoietic Protoporphyria",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": 1.5,
+  "metric_type": "both",
+  "total_cases_per_year": 8000,
+  "confidence": 0.50,
+  "is_subtype": true,
+  "parent_disease": "Porphyrias",
+  "reasoning": "Erythropoietic protoporphyria (EPP) is a rare genetic porphyria with estimated incidence 0.05-0.2 per 100k births and prevalence around 1-2 per 100k. Reported in medical literature but systematic epidemiological data limited; using both metrics reflects chronic disease nature.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

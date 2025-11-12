@@ -1,0 +1,19 @@
+{
+  "cui": "C1336476",
+  "cui_name": "Stage I Pleural Malignant Mesothelioma AJCC v7",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Malignant mesothelioma, pleura",
+  "reasoning": "Stage I pleural mesothelioma represents ~20% of diagnosed cases at stage I. Global mesothelioma incidence ~4 per 100k, with ~20% at stage I = ~0.8 per 100k. Asbestos exposure legacy.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC); Mesothelioma data from National Cancer Institute",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

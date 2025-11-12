@@ -1,0 +1,19 @@
+{
+  "cui": "C1291601",
+  "cui_name": "Deficiency of isomerase",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": "Metabolic disorders",
+  "reasoning": "Umbrella term covering various rare genetic isomerase deficiency disorders (glucose-6-phosphate isomerase deficiency, phosphoribosylpyrophosphate synthetase deficiency, etc.). Extremely rare, <0.01 per 100k based on limited case reports. Aggregate BOTEC estimate not feasible due to heterogeneity and lack of epidemiological data.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

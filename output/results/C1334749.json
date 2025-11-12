@@ -1,0 +1,19 @@
+{
+  "cui": "C1334749",
+  "cui_name": "Lymphoproliferative disorder caused by methotrexate",
+  "incidence_per_100k": 26,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2080000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Iatrogenic lymphoproliferative disorder in MTX-treated patients. Cumulative incidence 1.3% at 5 years and 4.7% at 10 years in RA patients. Estimated ~26 cases per 100,000 patients on MTX therapy. Highly dependent on drug exposure and patient population.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Tanaka Y et al. (2023). Lymphoproliferative disorder risk after methotrexate treatment for rheumatoid arthritis. Cancer Sci. 114(3):934-944",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/37365854/",
+  "source_type": "literature"
+}

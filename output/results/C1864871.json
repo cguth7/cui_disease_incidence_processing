@@ -1,0 +1,19 @@
+{
+  "cui": "C1864871",
+  "cui_name": "Chromosome 17q21.31 Deletion Syndrome",
+  "incidence_per_100k": 0.02,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1600,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Microdeletion syndrome (17q21.31) is extremely rare genetic disorder. Estimated incidence 0.02-0.03 per 100k births based on rare genomic variant frequency studies. Limited population-based epidemiological data; confidence limited by sparse literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Koolen DA et al. (2008). The Koolen-De Vries syndrome: a phenotypic comparison of deletions and truncating mutations. Eur J Hum Genet. 16(4):496-503",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18043706/",
+  "source_type": "literature"
+}

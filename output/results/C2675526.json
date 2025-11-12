@@ -1,0 +1,19 @@
+{
+  "cui": "C2675526",
+  "cui_name": "Neutropenia SCN AR 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.28,
+  "is_subtype": true,
+  "parent_disease": "Severe Congenital Neutropenia",
+  "reasoning": "Severe Congenital Neutropenia autosomal recessive 4 is an extremely rare genetic disorder. Less than 100 cases globally reported, estimated <0.001 per 100k births. Low confidence due to extreme rarity and limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

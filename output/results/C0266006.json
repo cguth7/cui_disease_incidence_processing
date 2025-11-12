@@ -1,0 +1,19 @@
+{
+  "cui": "C0266006",
+  "cui_name": "Congenital unilateral vocal cord paralysis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Vocal cord paralysis",
+  "reasoning": "Congenital vocal cord paralysis is second most common congenital laryngeal abnormality, with majority being unilateral. Bilateral vocal cord paralysis incidence ~0.75 per million births. Estimated prevalence of unilateral cases <0.1 per 100k based on pediatric laryngeal condition frequency. Limited epidemiological data specifically for unilateral congenital cases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "A Study of incidence and etiopathology of vocal cord paralysis - PMC3450463",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3450463/",
+  "source_type": "literature"
+}

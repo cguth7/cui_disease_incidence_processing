@@ -1,0 +1,19 @@
+{
+  "cui": "C1861101",
+  "cui_name": "THYROID HORMONE PLASMA MEMBRANE TRANSPORT DEFECT",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Disease",
+  "reasoning": "Rare genetic disorder affecting thyroid hormone transport. <100 cases worldwide based on case reports. Extremely rare genetic defect in MCT8/SLC16A2 transporter.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

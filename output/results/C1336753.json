@@ -1,0 +1,19 @@
+{
+  "cui": "C1336753",
+  "cui_name": "Thyroid Lymphoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Primary thyroid lymphoma (PTL) is rare, representing ~0.2-0.5% of thyroid malignancies and ~2-5% of extranodal lymphomas. Estimated global incidence ~0.3 per 100k based on cancer registry data showing ~0.02-0.07 per 100k person-years for thyroid NHL.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Cancer registry data and NHL epidemiological surveys",
+  "source_url": null,
+  "source_type": "registry"
+}

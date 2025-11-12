@@ -1,0 +1,19 @@
+{
+  "cui": "C0340486",
+  "cui_name": "Induced Ventricular Tachycardia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Ventricular Tachycardia",
+  "reasoning": "Induced/provoked ventricular tachycardia refers to sustained VT that is deliberately triggered during electrophysiology testing or occurs as an iatrogenic complication of cardiac procedures. Not a primary disease entity but rather a clinical manifestation or procedural outcome with unmeasurable population-level incidence.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

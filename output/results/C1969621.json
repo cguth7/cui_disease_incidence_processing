@@ -1,0 +1,19 @@
+{
+  "cui": "C1969621",
+  "cui_name": "DEAFNESS, AUTOSOMAL RECESSIVE 63",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Recessive Nonsyndromic Hearing Loss",
+  "reasoning": "DFNB63 is a specific autosomal recessive form of nonsyndromic hearing loss. One of 100+ genetic subtypes. Extremely rare with only few families documented in literature. No population-level epidemiological data. Incidence far below 0.01 per 100k.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

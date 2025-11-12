@@ -1,0 +1,19 @@
+{
+  "cui": "C0002768",
+  "cui_name": "Congenital Pain Insensitivity",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.30,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare inherited sensory and autonomic neuropathy (CIPA), also called Congenital Insensitivity to Pain with Anhidrosis. Autosomal recessive condition with <1000 documented cases globally; incidence <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

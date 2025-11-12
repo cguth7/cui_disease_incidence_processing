@@ -1,0 +1,19 @@
+{
+  "cui": "C4522164",
+  "cui_name": "HELIX SYNDROME",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Unable to map this CUI to a well-defined disease entity. HELIX SYNDROME either represents an insufficiently specific/defined condition, a very recently described syndrome with limited epidemiological data, or may be a proprietary/institutional terminology not in standard medical nomenclature. Cannot estimate incidence/prevalence without clearer clinical definition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

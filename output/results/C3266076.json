@@ -1,0 +1,19 @@
+{
+  "cui": "C3266076",
+  "cui_name": "Orofacial cleft",
+  "incidence_per_100k": 1400,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 112000000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Orofacial cleft (cleft lip/palate) is one of the most common congenital anomalies, occurring in approximately 1 per 700 live births globally (~1400 per 100k births). Incidence based on birth cohort analysis from WHO and CDC surveillance data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Global Burden of Disease 2005, CDC Birth Defects Surveillance",
+  "source_url": "https://www.cdc.gov/ncbddd/birthdefects/data.html",
+  "source_type": "registry"
+}

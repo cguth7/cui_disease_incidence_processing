@@ -1,0 +1,19 @@
+{
+  "cui": "C0029440",
+  "cui_name": "Osteoma",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering benign bone tumors and bone exostoses. Includes subperiosteal osteomas, osteoid osteomas, and developmental exostoses with different incidence rates (osteoid osteoma ~3-5%, subperiosteal <0.1%). Aggregate estimate not clinically meaningful.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

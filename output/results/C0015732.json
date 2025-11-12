@@ -1,0 +1,19 @@
+{
+  "cui": "C0015732",
+  "cui_name": "Fecal Incontinence",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 240000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic symptom reported by prevalence, not incidence. Global prevalence estimated ~3% of general population, higher in elderly (10-15%). Using population-wide estimate. Confidence moderate due to heterogeneous definitions and lack of standardized epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

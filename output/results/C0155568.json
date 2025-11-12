@@ -1,0 +1,19 @@
+{
+  "cui": "C0155568",
+  "cui_name": "Rheumatic aortic regurgitation",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 4.5,
+  "metric_type": "both",
+  "total_cases_per_year": 360000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Rheumatic heart disease",
+  "reasoning": "Aortic regurgitation secondary to rheumatic fever/rheumatic heart disease. Reported incidence approximately 0.8 per 100k person-years in developed nations, with higher rates in developing regions. Prevalence ~4.5 per 100k reflects chronic nature. Geographic variation reflects RHD burden.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Carapetis JR et al. (2005). The global burden of group A streptococcal disease. Lancet Infect Dis. 5(11):685-694",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16253886/",
+  "source_type": "literature"
+}

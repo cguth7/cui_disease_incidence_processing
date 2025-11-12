@@ -1,0 +1,19 @@
+{
+  "cui": "C1708272",
+  "cui_name": "HIV lipodystrophy",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 450,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 36000000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "HIV/AIDS complications",
+  "reasoning": "HIV lipodystrophy is a treatment-related metabolic complication with prevalence estimates of 3-8% among antiretroviral-treated patients (approximately 450-1200 per 100k among treated population). Reported as prevalence due to chronic manifestation. Confidence limited by variable clinical definitions and dependence on antiretroviral regimens.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Carr A et al. (2003). Pathogenesis and management of lipodystrophy in patients with HIV infection. Lancet. 361(9368):1761-1771",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12781535/",
+  "source_type": "literature"
+}

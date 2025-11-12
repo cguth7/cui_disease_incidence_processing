@@ -1,0 +1,19 @@
+{
+  "cui": "C4324563",
+  "cui_name": "Neutrophil extracellular trap formation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Neutrophil extracellular trap (NET) formation is a cellular/molecular process, not a disease diagnosis. NETs are involved in innate immunity and are associated with numerous inflammatory and autoimmune conditions, but NET formation itself is not a mappable epidemiological entity. Requires specification of underlying disease condition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

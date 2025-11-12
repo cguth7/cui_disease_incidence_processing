@@ -1,0 +1,19 @@
+{
+  "cui": "C2987516",
+  "cui_name": "Cervix CIN 3 AJCC v7",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Cervical Intraepithelial Neoplasia",
+  "reasoning": "CIN 3 (cervical intraepithelial neoplasia grade 3) is a high-grade precancerous cervical lesion. Incidence approximately 12-15 per 100k women globally, varies significantly by region (higher in developing countries, lower in screened populations). Based on WHO estimates and cervical cancer screening data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Arbyn M et al. (2011). Estimates of incidence and mortality of cervical cancer in 2008: a systematic review. Lancet Oncol. 12(9):900-908",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21835670/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1567742",
+  "cui_name": "Alport Syndrome, X-Linked",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 20.0,
+  "metric_type": "both",
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Alport Syndrome",
+  "reasoning": "X-linked Alport syndrome is the most common form (~85% of cases), with overall Alport syndrome prevalence ~1.3 per 100k. Incidence of new diagnoses estimated ~2.5 per 100k person-years based on pediatric nephrology literature; prevalence ~20 per 100k for living cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Kashtan CE et al. (2003). Alport syndrome and thin basement membrane disease. Adv Chronic Kidney Dis. 10(1):24-32",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12732739/",
+  "source_type": "literature"
+}

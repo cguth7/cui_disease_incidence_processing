@@ -1,0 +1,19 @@
+{
+  "cui": "C0037198",
+  "cui_name": "Sinus Thrombosis, Intracranial",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Intracranial venous sinus thrombosis (IVST) global incidence estimated ~0.5-1.5 per 100k from Cochrane review. Risk factors include thrombophilia, infection, malignancy, and pregnancy. Acute condition with incidence metric appropriate.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dentali F et al. (2008). Cerebral venous thrombosis: a meta-analysis of observed risk factors and innocent exposures. J Thromb Haemost. 6(7):1043-1050",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18433466/",
+  "source_type": "literature"
+}

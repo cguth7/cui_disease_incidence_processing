@@ -1,0 +1,19 @@
+{
+  "cui": "C0349571",
+  "cui_name": "Pleomorphic Adenoma of Parotid Gland",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Salivary Gland Neoplasm",
+  "reasoning": "Most common parotid gland tumor, estimated incidence 1-1.5 per 100k annually. Incidence varies by geographic region and case ascertainment methods. Limited modern epidemiological studies; estimates largely from historical hospital-based registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Otolaryngology literature and hospital tumor registries (2000-2010)",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3661525",
+  "cui_name": "Autosomal Recessive Chronic Granulomatous Disease",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Chronic Granulomatous Disease",
+  "reasoning": "Rare genetic immunodeficiency. Autosomal recessive CGD (AR-CGD) accounts for <5% of CGD cases. Total CGD incidence ~1-2 per million births, AR-CGD significantly rarer.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

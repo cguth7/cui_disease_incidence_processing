@@ -1,0 +1,19 @@
+{
+  "cui": "C0036659",
+  "cui_name": "Sensation Disorders",
+  "incidence_per_100k": 8000.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major sensory disorder categories: peripheral neuropathy (~2000), sensory ataxia (~400), paresthesia/dysesthesia (~3000), neuropathic pain (~2000), other sensory disturbances (~600). Total ~8,000 per 100k. Heterogeneous conditions with significant overlap and variable definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

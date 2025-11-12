@@ -1,0 +1,19 @@
+{
+  "cui": "C2931074",
+  "cui_name": "Cone rod dystrophy amelogenesis imperfecta",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare genetic syndrome combining cone-rod dystrophy with amelogenesis imperfecta. Extremely limited case reports in literature, estimated <0.01 per 100k. Often presents as part of syndromic disease patterns.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

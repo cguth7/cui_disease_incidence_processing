@@ -1,0 +1,19 @@
+{
+  "cui": "C0270854",
+  "cui_name": "Symptomatic Generalized Epilepsy",
+  "incidence_per_100k": 18.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1440000,
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Generalized Epilepsy",
+  "reasoning": "Symptomatic generalized epilepsy refers to cases with identified structural or metabolic causes. Estimated at 30-40% of generalized epilepsy cases, with global incidence ~18 per 100k. However, distinction between symptomatic and idiopathic is not consistently used across epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

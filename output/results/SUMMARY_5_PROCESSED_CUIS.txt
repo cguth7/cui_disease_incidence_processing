@@ -1,0 +1,225 @@
+================================================================================
+PROCESSING SUMMARY: 5 CUI DISEASE CODES
+================================================================================
+Date: 2025-11-12
+Tool: cui-incidence-mapper_2 Skill
+Output Directory: /home/user/cui_disease_incidence_processing/output/results/
+
+================================================================================
+PROCESSING RESULTS
+================================================================================
+
+1. C0241950 - Intestinal infarction
+   Status: PROCESSED
+   File: C0241950.json
+
+   Metric: Incidence
+   Incidence Rate: 5.2 per 100,000 person-years
+   Global Cases/Year: 416,000
+   Confidence Score: 0.65 (moderate)
+   Data Quality: Moderate
+   Geographic Variation: Moderate
+
+   Classification: Acute vascular event
+   Hierarchy: Primary disease (parent category: Intestinal ischemia)
+   Reasoning: Acute intestinal infarction is an acute mesenteric ischemia with
+   tissue necrosis, estimated at ~5 per 100k based on hospitalization data and
+   case studies.
+
+================================================================================
+
+2. C0079680 - Lentivirus Infections
+   Status: PROCESSED
+   File: C0079680.json
+
+   Metrics: Both incidence and prevalence
+   Incidence Rate: 0.8 per 100,000 person-years
+   Prevalence Rate: 135 per 100,000
+   Global Cases/Year: 64,000 (incidence basis)
+   Confidence Score: 0.72 (good)
+   Data Quality: Strong
+   Geographic Variation: High
+
+   Classification: Infectious disease (HIV/AIDS)
+   Hierarchy: Primary disease
+   Geographic Notes: Sub-Saharan Africa >1500 per 100k vs developed countries <50
+   per 100k
+   Reasoning: Lentivirus infections primarily refers to HIV/AIDS with strong global
+   surveillance data, though significant geographic variation exists.
+
+================================================================================
+
+3. C0034219 - Alveolar pyorrhea
+   Status: PROCESSED
+   File: C0034219.json
+
+   Metric: Prevalence (chronic condition)
+   Prevalence Rate: 25,000 per 100,000
+   Global Cases/Year: 2,000,000,000
+   Confidence Score: 0.68 (moderate-good)
+   Data Quality: Moderate
+   Geographic Variation: High
+
+   Classification: Chronic periodontal disease
+   Hierarchy: Subtype of Periodontitis
+   Prevalence Range: 5-90% by region and definition
+   Reasoning: Alveolar pyorrhea is a severe form of periodontitis with purulent
+   inflammation and alveolar bone loss. As a chronic condition, prevalence (~25%
+   of population) is more appropriate than incidence.
+
+================================================================================
+
+4. C0025167 - Megakaryocytic hyperplasia
+   Status: PROCESSED (Unmappable)
+   File: C0025167.json
+
+   Metric: None (pathological finding)
+   Incidence Rate: Not available (null)
+   Prevalence Rate: Not available (null)
+   Confidence Score: 0.10 (very low)
+   Data Quality: None
+
+   Classification: Morphologic descriptor / secondary condition
+   Hierarchy: Secondary finding in hematopoietic disorders
+   Reasoning: Megakaryocytic hyperplasia is NOT a primary disease but a
+   pathological finding secondary to other conditions (myeloproliferative
+   neoplasms, immune thrombocytopenia, hemolytic anemia). It cannot be
+   meaningfully mapped to an independent incidence rate without specifying
+   the primary condition.
+
+================================================================================
+
+5. C0342643 - Autosomal recessive hypophosphatemic vitamin D refractory rickets
+   Status: PROCESSED
+   File: C0342643.json
+
+   Metric: Incidence (for rare genetic disorder)
+   Incidence Rate: Extremely rare (<0.01 per 100,000 births)
+   Global Cases/Year: Extremely rare
+   Confidence Score: 0.35 (low)
+   Data Quality: Weak
+   Geographic Variation: Unknown
+
+   Classification: Rare genetic metabolic disorder
+   Hierarchy: Subtype of Hypophosphatemic rickets
+   Known Cases: ~100-200 reported globally
+   Reasoning: This is an extremely rare autosomal recessive genetic disorder
+   causing vitamin D-resistant rickets. Low confidence due to limited
+   epidemiological data and reliance on case reports rather than population-
+   based surveillance.
+
+================================================================================
+AGGREGATE STATISTICS
+================================================================================
+
+Total CUIs Processed: 5
+Processing Status: All 5 completed successfully
+
+CONFIDENCE DISTRIBUTION:
+  High (0.7-1.0):      1 disease (Lentivirus Infections: 0.72)
+  Medium (0.3-0.7):    3 diseases (Intestinal infarction: 0.65, Alveolar
+                       pyorrhea: 0.68, Rare rickets: 0.35)
+  Low (0.1-0.3):       1 disease (Megakaryocytic hyperplasia: 0.10)
+
+DATA QUALITY DISTRIBUTION:
+  Strong:              1 (Lentivirus Infections)
+  Moderate:            2 (Intestinal infarction, Alveolar pyorrhea)
+  Weak:                1 (Rare rickets)
+  None:                1 (Megakaryocytic hyperplasia - unmappable)
+
+METRIC TYPES:
+  Incidence only:      2 diseases
+  Prevalence only:     1 disease
+  Both metrics:        1 disease
+  Unmappable:          1 disease
+
+DISEASE HIERARCHY:
+  Subtypes identified: 3 (Alveolar pyorrhea, Rare rickets, Intestinal ischemia)
+  Primary diseases:    2 (Lentivirus Infections, Megakaryocytic hyperplasia)
+
+GEOGRAPHIC VARIATION:
+  High:                3 diseases
+  Moderate:            1 disease
+  Unknown:             1 disease
+
+================================================================================
+KEY FINDINGS AND INTERPRETATIONS
+================================================================================
+
+1. MAPPABLE DISEASES (4 of 5):
+   Four CUI codes successfully mapped to epidemiological estimates with varying
+   confidence levels.
+
+2. UNMAPPABLE DISEASE (1 of 5):
+   Megakaryocytic hyperplasia (C0025167) is fundamentally unmappable as an
+   independent disease entity. It's a morphologic descriptor of a secondary finding
+   that requires knowledge of the primary condition to estimate incidence/prevalence.
+
+3. CONFIDENCE VARIATION:
+   - Highest confidence (0.72): Lentivirus Infections (HIV/AIDS) - well-established
+     global surveillance
+   - Lowest confidence (0.10): Megakaryocytic hyperplasia - not an independent disease
+   - Moderate confidence (0.35-0.68): Rare genetic disease and chronic conditions
+     with limited epidemiological data or heterogeneous definitions
+
+4. METRIC APPROPRIATENESS:
+   - Acute conditions (Intestinal infarction, Lentivirus Infections): Incidence used
+   - Chronic conditions (Alveolar pyorrhea): Prevalence used
+   - Mixed (Lentivirus): Both metrics provided (epidemiologically relevant for HIV)
+
+5. GEOGRAPHIC VARIABILITY:
+   High geographic variation noted for 3 conditions:
+   - Lentivirus Infections: >30-fold difference between high and low prevalence regions
+   - Alveolar pyorrhea: Huge variation in prevalence (5-90%) due to definitions and
+     oral health infrastructure
+   - Intestinal infarction: Moderate variation related to healthcare access
+
+================================================================================
+RECOMMENDATIONS FOR PHARMACEUTICAL USE
+================================================================================
+
+1. LENTIVIRUS INFECTIONS (C0079680):
+   RECOMMENDATION: Use prevalence estimate (135 per 100k) for market sizing
+   - Confidence sufficient for preliminary market analysis
+   - Account for high geographic variation in targeting strategies
+   - Use region-specific prevalence data for accurate market assessment
+
+2. INTESTINAL INFARCTION (C0241950):
+   RECOMMENDATION: Use incidence estimate (5.2 per 100k) with caution
+   - Confidence moderate; consider sensitivity analysis
+   - Data quality relies on hospitalization records
+   - Monitor for improved epidemiological data sources
+
+3. ALVEOLAR PYORRHEA (C0034219):
+   RECOMMENDATION: Use prevalence with caveat of definitional ambiguity
+   - High prevalence (25%) but highly variable by region
+   - Consider separating by severity levels if possible
+   - Note that clinical vs. subclinical cases may inflate estimates
+
+4. MEGAKARYOCYTIC HYPERPLASIA (C0025167):
+   RECOMMENDATION: DO NOT USE as independent disease indicator
+   - Cannot be mapped to meaningful incidence/prevalence
+   - Requires context of primary hematologic disorder
+   - If needed for analysis, map to underlying conditions instead
+   - Example: If occurring in ITP, use ITP incidence/prevalence instead
+
+5. VITAMIN D-REFRACTORY RICKETS (C0342643):
+   RECOMMENDATION: Use only for ultra-rare disease portfolios
+   - Confidence very low; extremely limited patient population
+   - Suitable only for specialized genetic disorder pharmaceutical development
+   - May be more relevant for specialized genetic counseling applications
+
+================================================================================
+OUTPUT FILES GENERATED
+================================================================================
+
+1. /home/user/cui_disease_incidence_processing/output/results/C0241950.json
+2. /home/user/cui_disease_incidence_processing/output/results/C0079680.json
+3. /home/user/cui_disease_incidence_processing/output/results/C0034219.json
+4. /home/user/cui_disease_incidence_processing/output/results/C0025167.json
+5. /home/user/cui_disease_incidence_processing/output/results/C0342643.json
+6. /home/user/cui_disease_incidence_processing/output/results/SUMMARY_5_PROCESSED_CUIS.txt
+
+================================================================================
+END OF SUMMARY REPORT
+================================================================================

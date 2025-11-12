@@ -1,0 +1,19 @@
+{
+  "cui": "C1858712",
+  "cui_name": "Spastic paraplegia 10, autosomal dominant",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Spastic paraplegia",
+  "reasoning": "Rare genetic neurological disorder (KIF5A gene mutation). Very few families documented; incidence <0.01 per 100k globally.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

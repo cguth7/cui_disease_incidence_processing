@@ -1,0 +1,5 @@
+1. C0268358 - Osteogenesis imperfecta, dominant perinatal lethal
+2. C1291557 - Deficiency of lyase
+3. C3825128 - Respiratory infections in children
+4. C0432255 - Geroderma osteodysplastica
+5. C0432235 - CRANIOECTODERMAL DYSPLASIA 1

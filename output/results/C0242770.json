@@ -1,0 +1,19 @@
+{
+  "cui": "C0242770",
+  "cui_name": "Bronchiolitis Obliterans Organizing Pneumonia",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Interstitial lung disease",
+  "reasoning": "BOOP (also known as COP) is a rare form of interstitial lung disease with estimated incidence ~1-2 per 100k based on hospital registries and pulmonary databases. Often secondary to other conditions or idiopathic.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

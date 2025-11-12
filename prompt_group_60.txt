@@ -1,0 +1,5 @@
+1. C2751259 - Macrothrombocytopenia, Autosomal Dominant, Tubb1-Related
+2. C4304021 - Autosomal dominant macrothrombocytopenia
+3. C1322281 - Seasonal rhinitis
+4. C0857594 - Specific allergy (drug)
+5. C0206710 - Basal Cell Neoplasm

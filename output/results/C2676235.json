@@ -1,0 +1,19 @@
+{
+  "cui": "C2676235",
+  "cui_name": "CILIARY DYSKINESIA, PRIMARY, 9",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 13.2,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1056000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Primary Ciliary Dyskinesia",
+  "reasoning": "Rare genetic disorder. Prevalence ~13.2 per 100k from recent genomic studies (higher than traditional 1:10,000-1:20,000 estimates). Specificity of 'type 9' variant not explicitly defined in epidemiological literature; classified as subtype pending further characterization.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dell SD et al. (2016). Estimates of primary ciliary dyskinesia prevalence: a scoping review. J Cyst Fibros. 15(4):440-451",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/26923318/",
+  "source_type": "literature"
+}

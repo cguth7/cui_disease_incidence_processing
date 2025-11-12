@@ -1,0 +1,19 @@
+{
+  "cui": "C4683622",
+  "cui_name": "Neurodevelopmental disorder with hypotonia, neuropathy, and deafness",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "This is a rare multisystem genetic disorder combining neurodevelopmental impairment, hypotonia, peripheral neuropathy, and sensorineural deafness. Appears to be a recently characterized genetic condition with <100 cases reported worldwide. Virtually no population-based epidemiological data available; knowledge limited to case reports in medical literature.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

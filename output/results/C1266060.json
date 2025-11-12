@@ -1,0 +1,19 @@
+{
+  "cui": "C1266060",
+  "cui_name": "Syringofibroadenoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare benign skin tumor. Fewer than 100 cases reported in dermatology literature; estimated <0.01 per 100k. Limited epidemiological data; confidence reflects case report-based estimate only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

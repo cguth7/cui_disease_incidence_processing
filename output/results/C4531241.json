@@ -1,0 +1,19 @@
+{
+  "cui": "C4531241",
+  "cui_name": "Cone-rod dystrophy 7",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Cone-rod Dystrophy",
+  "reasoning": "CRD7 is a rare inherited retinal dystrophy with autosomal recessive inheritance. Progressive vision loss affecting both cone and rod photoreceptors. Global incidence estimated 0.2-0.5 per 100k person-years based on inherited retinal disease registries. Point estimate 0.3 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Koenekoop RK. (2005). Gene families for retinal dystrophies. Ophthalmic Genet. 26(1):3-15",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16019297/",
+  "source_type": "literature"
+}

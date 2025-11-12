@@ -1,0 +1,19 @@
+{
+  "cui": "C1333063",
+  "cui_name": "Classical Burkitt Lymphoma",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Burkitt Lymphoma",
+  "reasoning": "Classical Burkitt lymphoma is a specific WHO-defined subtype of Burkitt lymphoma. Global incidence approximately 1-2 per 100k from cancer registry data (GLOBOCAN 2002-2012). Higher prevalence in sub-Saharan Africa due to EBV correlation.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Parkin DM et al. (2010). Global cancer statistics. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

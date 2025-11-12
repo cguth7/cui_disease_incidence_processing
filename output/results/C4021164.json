@@ -1,0 +1,19 @@
+{
+  "cui": "C4021164",
+  "cui_name": "Bicoronal synostosis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Craniosynostosis",
+  "reasoning": "Bicoronal synostosis is bilateral coronal suture fusion, a distinct craniosynostosis subtype. Often associated with Crouzon syndrome. Accounts for ~15-20% of craniosynostosis cases, estimated ~0.5 per 100k live births. Limited epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

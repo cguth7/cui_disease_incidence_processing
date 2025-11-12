@@ -1,0 +1,19 @@
+{
+  "cui": "C1302652",
+  "cui_name": "Adenoma of rectum",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Colorectal adenoma",
+  "reasoning": "Rectal adenomas represent subset of colorectal adenomas. Data from cancer registries and colonoscopy studies suggest ~8-10 per 100k incidence. Confidence moderate due to variation in screening practices.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

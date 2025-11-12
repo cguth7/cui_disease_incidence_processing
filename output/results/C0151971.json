@@ -1,0 +1,19 @@
+{
+  "cui": "C0151971",
+  "cui_name": "Primary ulcer of intestine",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Peptic Ulcer Disease",
+  "reasoning": "Peptic ulcer disease incidence declined post-2000 due to H. pylori eradication and PPI availability. Estimated ~4-5 per 100k person-years globally based on epidemiological surveys and hospital discharge data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

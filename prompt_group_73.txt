@@ -1,0 +1,5 @@
+1. C0393995 - Quadriplegic cerebral palsy
+2. C2931893 - Lysosomal beta-mannosidase deficiency
+3. C1142127 - Pneumococcal bacteraemia
+4. C3658267 - Prostatic Neoplasms, Castration-Resistant
+5. C0917715 - Hajdu-Cheney Syndrome

@@ -1,0 +1,19 @@
+{
+  "cui": "C0264856",
+  "cui_name": "Giant cell myocarditis",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Myocarditis",
+  "reasoning": "Giant cell myocarditis (GCM) is a rare fulminant form of myocarditis, representing <1% of all myocarditis cases. Global myocarditis incidence ~1-4 per 100k, with GCM at lower end ~0.05 per 100k based on autopsy and biopsy studies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cooper LT et al. (2009). The role of endomyocardial biopsy in the management of cardiovascular disease: a scientific statement from the American Heart Association. Circulation. 116(19):2216-2233",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16618817/",
+  "source_type": "literature"
+}

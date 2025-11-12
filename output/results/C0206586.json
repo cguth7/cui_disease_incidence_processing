@@ -1,0 +1,19 @@
+{
+  "cui": "C0206586",
+  "cui_name": "Endolymphatic Hydrops",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Endolymphatic hydrops (Ménière's disease) has estimated annual incidence of 3-5 per 100k globally based on epidemiological studies. Limited by regional variation and diagnostic inconsistency across healthcare systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lopez-Escamez JA et al. (2015). Diagnostic criteria for Ménière's disease. J Vestib Res. 25(1):1-7",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25882471/",
+  "source_type": "literature"
+}

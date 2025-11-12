@@ -1,0 +1,19 @@
+{
+  "cui": "C0162275",
+  "cui_name": "Ketonuria",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ketonuria is a laboratory finding/symptom rather than a primary disease entity. Cannot be mapped to population-level incidence as it is secondary to underlying conditions (diabetic ketoacidosis, starvation, metabolic disorders). Requires specification of primary condition for meaningful epidemiology.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

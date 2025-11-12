@@ -1,0 +1,19 @@
+{
+  "cui": "C0741026",
+  "cui_name": "Atypical angina",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Angina Pectoris",
+  "reasoning": "Atypical/variant angina presentations represent significant portion of angina diagnoses (~30-40% of chest pain presentations). Global angina incidence estimated 30-40 per 100k, so atypical variant ~10-15 per 100k. Used incidence metric appropriate for incident cardiac diagnoses. Confidence moderate due to diagnostic variability in defining 'atypical.'",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

@@ -1,0 +1,18 @@
+{
+  "cui": "C1842675",
+  "cui_name": "Amyotrophic lateral sclerosis 6 (disorder)",
+  "incidence_per_100k": 0.8,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Amyotrophic Lateral Sclerosis",
+  "reasoning": "ALS6 is a rare genetic subtype. Overall ALS incidence ~2 per 100k; genetic subtypes are small fraction. Estimated 0.8 per 100k based on case reports of familial ALS.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

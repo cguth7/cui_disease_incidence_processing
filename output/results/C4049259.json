@@ -1,0 +1,19 @@
+{
+  "cui": "C4049259",
+  "cui_name": "Hormone refractory breast cancer",
+  "incidence_per_100k": 5.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 440000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Breast cancer",
+  "reasoning": "Hormone refractory breast cancer represents approximately 10-15% of breast cancer cases. Global breast cancer incidence is ~50 per 100k (women), so hormone-refractory subset estimated at ~5-6 per 100k. Data from oncology literature on endocrine resistance rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Oncology literature on hormone receptor status and endocrine resistance",
+  "source_url": null,
+  "source_type": "literature"
+}

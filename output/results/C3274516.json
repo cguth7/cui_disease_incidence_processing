@@ -1,0 +1,19 @@
+{
+  "cui": "C3274516",
+  "cui_name": "Autosomal recessive congenital ichthyosis 7",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Autosomal recessive congenital ichthyosis",
+  "reasoning": "ARCI type 7 is a rare genetic skin disorder with limited epidemiological data. Estimated incidence <0.2 per 100k births based on combined ichthyosis prevalence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

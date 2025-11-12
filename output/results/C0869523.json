@@ -1,0 +1,19 @@
+{
+  "cui": "C0869523",
+  "cui_name": "Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial DNA depletion syndrome",
+  "reasoning": "FBXL4-related MTDPS13 is an autosomal recessive disorder with estimated prevalence of 1 case per 100,000-400,000 newborns. Only ~94 cases reported worldwide as of 2019 (first described in 2013). Neonatal onset, typically by 3 months of age. Extremely rare with limited epidemiological data, confidence limited by small sample size and recent discovery.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "FBXL4-Related Encephalomyopathic Mitochondrial DNA Depletion Syndrome - GeneReviews NCBI Bookshelf; OMIM #615471",
+  "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK425540/",
+  "source_type": "literature"
+}

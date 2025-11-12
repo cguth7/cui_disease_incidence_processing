@@ -1,0 +1,19 @@
+{
+  "cui": "C1865871",
+  "cui_name": "HEMANGIOMA, CAPILLARY INFANTILE",
+  "incidence_per_100k": 1200,
+  "prevalence_per_100k": 2500,
+  "metric_type": "both",
+  "total_cases_per_year": 96000000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Hemangioma",
+  "reasoning": "Infantile capillary hemangioma is the most common vascular tumor in infants with incidence approximately 1200-1500 per 100k live births. Prevalence at 2-3 years of age approximately 2500 per 100k. Data from pediatric dermatology and vascular surgery literature.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Bruckner AL, Frieden IJ (2003). Hemangiomas of infancy. J Am Acad Dermatol. 48(4):477-498",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12664866/",
+  "source_type": "literature"
+}

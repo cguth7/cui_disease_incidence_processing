@@ -1,0 +1,19 @@
+{
+  "cui": "C1514517",
+  "cui_name": "Prostate Stromal Proliferation of Uncertain Malignant Potential",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.18,
+  "is_subtype": false,
+  "parent_disease": "Prostate Neoplasm",
+  "reasoning": "This is a specific pathological diagnosis describing a histopathological finding in prostate tissue biopsies, not a disease entity with established clinical epidemiology. Incidence cannot be meaningfully estimated because this represents a diagnostic category applied by pathologists during histological examination, not a population-level disease. Frequency would depend on prostate biopsy rates and pathologist interpretation criteria, which vary by region and time period.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

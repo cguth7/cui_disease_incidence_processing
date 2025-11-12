@@ -1,0 +1,19 @@
+{
+  "cui": "C3888044",
+  "cui_name": "Nephrogenic Systemic Fibrosis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "NSF associated with gadolinium contrast agents, estimated <0.5 per 100k among MRI patients. Limited epidemiological data from case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

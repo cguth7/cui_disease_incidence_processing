@@ -1,0 +1,19 @@
+{
+  "cui": "C0023486",
+  "cui_name": "Prolymphocytic Leukemia",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Leukemia",
+  "reasoning": "Prolymphocytic leukemia (PLL) represents <1% of all leukemias with estimated incidence of 0.2-0.5 per 100k globally. Data from leukemia registries and epidemiological studies circa 2005-2010.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2007,
+  "source": "International Registry of Hematologic Malignancies",
+  "source_url": null,
+  "source_type": "registry"
+}

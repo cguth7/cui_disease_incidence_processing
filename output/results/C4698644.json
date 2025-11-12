@@ -1,0 +1,19 @@
+{
+  "cui": "C4698644",
+  "cui_name": "Atypical scrapie",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Scrapie",
+  "reasoning": "Atypical scrapie is a TSE (transmissible spongiform encephalopathy) primarily affecting sheep and goats. Human transmission is not established. Incidence in human population is effectively zero or unmappable, with extremely rare occupational exposure cases only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "EFSA (European Food Safety Authority). Scientific Opinion on the epidemiology of atypical scrapie in sheep and goats. EFSA J. 2014;12(2):3568",
+  "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/3568",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0302885",
+  "cui_name": "Testicular dysgenesis",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.48,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Testicular dysgenesis incidence estimated at ~15 per 100k male births. Part of testicular dysgenesis syndrome (TDS) spectrum affecting ~1% of male population. Data limited; confidence reduced due to diagnostic variability and heterogeneity of definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0432235",
+  "cui_name": "CRANIOECTODERMAL DYSPLASIA 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Cranioectodermal dysplasia",
+  "reasoning": "Rare autosomal recessive genetic disorder affecting cranial and ectodermal structures. Type 1 is the most common form of cranioectodermal dysplasia but remains extremely rare with fewer than 50 families documented. Estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

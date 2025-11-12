@@ -1,0 +1,19 @@
+{
+  "cui": "C4721429",
+  "cui_name": "THYROID CANCER, NONMEDULLARY, 1",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Cancer",
+  "reasoning": "Nonmedullary thyroid cancer (papillary and follicular) accounts for ~95% of thyroid cancers. Global incidence ~8.5 per 100k with significant geographic variation.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2012,
+  "source": "La Vecchia C et al. (2015). Thyroid cancer epidemiology. Best Pract Res Clin Endocrinol Metab. 29(6):981-1002",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/26696517/",
+  "source_type": "literature"
+}

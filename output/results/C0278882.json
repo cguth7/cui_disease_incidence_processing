@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0278882",
+    "cui_name": "Stage III Cutaneous Melanoma AJCC v6",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Cutaneous Melanoma",
+    "reasoning": "Stage III melanoma represents regional lymph node involvement. Global melanoma incidence ~20 per 100k; Stage III comprises ~15-20% of melanoma cases, estimated ~3-4 per 100k. Data from GLOBOCAN and cancer registries with stage-specific breakdowns.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 melanoma incidence data with AJCC staging distribution",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

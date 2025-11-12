@@ -1,0 +1,19 @@
+{
+  "cui": "C0265673",
+  "cui_name": "Congenital kyphosis",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Kyphosis",
+  "reasoning": "Congenital skeletal dysplasia affecting spinal development. Incidence estimated ~0.3 per 100k births based on pediatric orthopaedic registries and case series data. Limited epidemiological studies available.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

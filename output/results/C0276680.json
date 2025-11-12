@@ -1,0 +1,19 @@
+{
+  "cui": "C0276680",
+  "cui_name": "Infection by Candida albicans",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Candida Infection",
+  "reasoning": "Candida albicans is the most common cause of candidiasis. Incidence varies widely by setting and population (immunocompromised vs. healthy). Estimated ~5 per 100k person-years globally, but highly dependent on HIV/AIDS prevalence and healthcare-associated infection rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

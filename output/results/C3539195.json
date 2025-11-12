@@ -1,0 +1,19 @@
+{
+  "cui": "C3539195",
+  "cui_name": "TREMOR, HEREDITARY ESSENTIAL, 4",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 4000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 320000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Essential Tremor",
+  "reasoning": "Hereditary essential tremor 4 (ET4) is a rare genetic subtype, prevalence ~4% of general population for essential tremor overall, but ET4 represents small fraction (<1% of ET cases).",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

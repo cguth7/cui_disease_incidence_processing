@@ -1,0 +1,19 @@
+{
+  "cui": "C1274103",
+  "cui_name": "Oncogenic osteomalacia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Paraneoplastic syndrome",
+  "reasoning": "Oncogenic osteomalacia (OOM) is extremely rare paraneoplastic syndrome associated with phosphatueric mesenchymal tumors. Fewer than 100 cases reported in literature. Estimated <0.01 per 100k based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

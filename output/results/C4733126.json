@@ -1,0 +1,19 @@
+{
+  "cui": "C4733126",
+  "cui_name": "hereditary breast/ovarian cancer - BRCA1",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer / Ovarian Cancer",
+  "reasoning": "BRCA1-associated hereditary breast and ovarian cancer accounts for approximately 5-10% of all breast cancers and a higher proportion of ovarian cancers. Estimated incidence ~8.5 per 100k combining both breast and ovarian cancers in BRCA1 carriers. Based on population prevalence of BRCA1 mutations and lifetime risk estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Peto J et al. (2000). The contribution of inherited gene mutations to cancer in Europe. Eur J Cancer. 36(18):2352-2382",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11094309/",
+  "source_type": "literature"
+}

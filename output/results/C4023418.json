@@ -1,0 +1,19 @@
+{
+  "cui": "C4023418",
+  "cui_name": "Unicoronal synostosis",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Craniosynostosis",
+  "reasoning": "Unicoronal synostosis is a specific subtype of craniosynostosis. Overall craniosynostosis incidence ~0.8-1 per 2000 births (~4-5 per 100k live births). Unicoronal accounts for ~10% of cases, estimated ~0.4-0.5 per 100k. Confidence limited by sparse literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

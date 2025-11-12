@@ -1,0 +1,19 @@
+{
+  "cui": "C1456868",
+  "cui_name": "Diabetic Foot Ulcer",
+  "incidence_per_100k": 24.0,
+  "prevalence_per_100k": 20000,
+  "metric_type": "both",
+  "total_cases_per_year": 1920000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Diabetes Mellitus Complications",
+  "reasoning": "Diabetic foot ulcer incidence ~2% per year among diabetics. In general population ~24 per 100k. Prevalence ~15-20% of all diabetics.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Singh N et al. (2005). Diabetic foot ulcer pathogenesis and management. JAMA. 293(2):217-228",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15644549/",
+  "source_type": "literature"
+}

@@ -1,0 +1,5 @@
+1. C3272399 - Gastric Neuroendocrine Tumor
+2. C1696701 - Skin-picking
+3. C1864124 - SCHIZOPHRENIA 8 (disorder)
+4. C4324356 - End stage lung disease
+5. C0023645 - Lichen planus follicularis

@@ -1,0 +1,19 @@
+{
+  "cui": "C0035067",
+  "cui_name": "Renal Artery Stenosis",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Renal artery stenosis incidence estimated ~0.4 per 100k person-years from cardiovascular registries. Often asymptomatic and detected incidentally.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cardiovascular disease epidemiology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

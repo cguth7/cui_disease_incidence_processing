@@ -1,0 +1,19 @@
+{
+  "cui": "C2854122",
+  "cui_name": "Acute myeloblastic leukemia with t(8;21)",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.74,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "AML with t(8;21) translocation (RUNX1-RUNX1T1) is a cytogenetically defined subtype of acute myeloblastic leukemia, representing ~10-15% of AML cases. Global AML incidence ~3 per 100k; t(8;21) represents significant fraction, estimated 0.7-0.9 per 100k. Favorable prognosis subtype.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Grimwade D et al. (2010). Refinement of cytogenetic classification in acute myeloid leukemia: Determination of prognostic significance of rare recurring chromosomal abnormalities among 5,876 younger adult patients. Blood. 116(3):354-365",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20385793/",
+  "source_type": "literature"
+}

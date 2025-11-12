@@ -1,0 +1,19 @@
+{
+  "cui": "C0338507",
+  "cui_name": "Non-arteritic ischemic optic neuropathy",
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 520000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Non-arteritic anterior ischemic optic neuropathy (NAION) is an acute ischemic event affecting the optic nerve. Incidence estimates range 2-10 per 100k person-years globally, using conservative mid-range estimate of 6.5. Confidence moderate due to variable reporting across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

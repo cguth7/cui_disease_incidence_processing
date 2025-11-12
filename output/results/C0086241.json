@@ -1,0 +1,19 @@
+{
+  "cui": "C0086241",
+  "cui_name": "Epilepsy, Tonic",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Generalized Epilepsy",
+  "reasoning": "Tonic seizures are a specific subtype of generalized epilepsy, estimated at 3-5% of all seizure disorders. Estimated incidence ~3.5 per 100k based on seizure type prevalence data. Limited specific epidemiological studies for this subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

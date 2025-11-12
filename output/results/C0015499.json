@@ -1,0 +1,19 @@
+{
+  "cui": "C0015499",
+  "cui_name": "Hereditary Factor V Deficiency",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 1.2,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Coagulation Factor Deficiency",
+  "reasoning": "Factor V deficiency is a rare inherited bleeding disorder (autosomal recessive). Incidence estimated at 0.8 per 100k births; prevalence approximately 1 per 100k population. Accounts for <1% of inherited coagulation disorders. Heterogeneous penetrance and severity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Castaman G et al. (2005). Factor V, fibrinogen, and platelets in plasma: epidemiology and resistance to activated protein C. J Thromb Haemost. 3(11):2456-2461",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16126881/",
+  "source_type": "literature"
+}

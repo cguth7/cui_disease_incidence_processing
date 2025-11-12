@@ -1,0 +1,19 @@
+{
+  "cui": "C4324356",
+  "cui_name": "End stage lung disease",
+  "incidence_per_100k": 850,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 68000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for end-stage lung diseases summing major categories: advanced COPD (~300 per 100k), end-stage interstitial lung disease (~120 per 100k), cystic fibrosis exacerbations (~20 per 100k), terminal lung cancer (~250 per 100k), advanced pulmonary hypertension (~80 per 100k), post-COVID lung fibrosis (~80 per 100k). Heterogeneous conditions with overlapping progression.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

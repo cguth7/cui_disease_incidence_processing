@@ -1,0 +1,19 @@
+{
+  "cui": "C3277059",
+  "cui_name": "Congenital Bilateral Cataracts",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Congenital Cataracts",
+  "reasoning": "Bilateral congenital cataracts represent ~30-50% of all congenital cataracts. Congenital cataracts occur in 1-6 per 100k births; bilateral cases estimate ~2-3 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rahi JS et al. (2003). Congenital and infantile cataracts: epidemiology, aetiology and clinical outcome. Eye. 17(9):1002-1011",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14563929/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2749020",
+  "cui_name": "Mental Retardation, X-Linked, Znf711-Related",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Mental Retardation, X-Linked",
+  "reasoning": "Specific genetic form of X-linked mental retardation associated with Znf711 gene mutations. Extremely rare; limited case reports and molecular studies available. No population-based incidence data; confidence capped at 0.3 due to lack of systematic epidemiological data and verifiable incidence sources.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

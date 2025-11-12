@@ -1,0 +1,19 @@
+{
+  "cui": "C0399352",
+  "cui_name": "Developmental absence of tooth",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": 45000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dental agenesis (tooth agenesis) is a common developmental condition. Prevalence estimates range 0.1-10% depending on definition (isolated vs syndromic); using ~4.5% (45 per 1000) globally from dental epidemiology studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dental epidemiology literature (prevalence studies)",
+  "source_url": null,
+  "source_type": "literature"
+}

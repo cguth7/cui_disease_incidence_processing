@@ -1,0 +1,19 @@
+{
+  "cui": "C2675487",
+  "cui_name": "Mental Retardation, Autosomal Dominant 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Dominant Intellectual Disability",
+  "reasoning": "Specific genetic form of intellectual disability (ARMD4). Unmappable umbrella term at locus level; individual ARMD subtypes are extremely rare <0.1 per 100k. Confidence low due to lack of population-based epidemiological data and genetic heterogeneity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

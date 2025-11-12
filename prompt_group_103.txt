@@ -1,0 +1,5 @@
+1. C4329281 - Advanced Malignant Solid Neoplasm
+2. C4305457 - Osteomalacia due to vitamin D deficiency
+3. C0031144 - Chronic peritoneal effusion (disorder)
+4. C0403814 - Congenital bilateral aplasia of vas deferens
+5. C4275075 - Atypical Werner syndrome

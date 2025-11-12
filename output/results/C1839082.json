@@ -1,0 +1,19 @@
+{
+  "cui": "C1839082",
+  "cui_name": "MENTAL RETARDATION, X-LINKED 89",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "X-linked mental retardation type 89 is an extremely rare genetic disorder. Fewer than 20 cases documented worldwide. Estimated <0.001 per 100k births. Primarily identified through clinical genetics and family genetic analysis.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

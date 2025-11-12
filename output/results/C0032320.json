@@ -1,0 +1,19 @@
+{
+  "cui": "C0032320",
+  "cui_name": "Pneumococcal Pneumonia",
+  "incidence_per_100k": 58.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4640000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Pneumonia",
+  "reasoning": "Pneumococcal pneumonia is a specific bacterial pneumonia subtype with good epidemiological surveillance. Global incidence estimated at 58 per 100k person-years based on WHO/CDC data from mid-2000s. Variation high due to vaccination programs in developed countries (lower incidence) vs high burden in developing nations (higher incidence). Pre-vaccine incidence data preferred.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Wardlaw T et al. (2006). Pneumonia: the leading vaccine-preventable cause of childhood death. Vaccine. 24(13):2204-2210",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16364318/",
+  "source_type": "literature"
+}

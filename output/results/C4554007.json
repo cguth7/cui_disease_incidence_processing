@@ -1,0 +1,19 @@
+{
+  "cui": "C4554007",
+  "cui_name": "Uveoretinal Coloboma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Coloboma",
+  "reasoning": "Rare congenital eye defect affecting uvea and retina. Coloboma incidence ~1 per 10,000 live births; uveoretinal is a specific subtype. Estimated ~0.3 per 100k based on case frequency in pediatric populations.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

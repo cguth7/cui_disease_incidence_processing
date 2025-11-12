@@ -1,0 +1,19 @@
+{
+  "cui": "C4330043",
+  "cui_name": "Gingival Squamous Cell Carcinoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Oral Squamous Cell Carcinoma",
+  "reasoning": "Gingival SCC is a specific subtype of oral cancer. Global oral cancer incidence ~3-5 per 100k, gingival SCC represents ~5-10% of oral cancers. Estimated ~0.3 per 100k based on anatomic distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

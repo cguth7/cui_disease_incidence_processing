@@ -1,0 +1,19 @@
+{
+  "cui": "C0013592",
+  "cui_name": "Ectropion",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Eyelid ectropion (involutional) measured as prevalence, not incidence. Population-based studies show 2.9% prevalence in elderly (60+), increasing with age. Global estimate ~5% accounting for age-dependent prevalence distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cahill M et al. (2002). Involutional entropion and ectropion of the lower eyelid: prevalence and associated risk factors in the elderly population. Br J Ophthalmol. 86(8):891-894",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21415800/",
+  "source_type": "literature"
+}

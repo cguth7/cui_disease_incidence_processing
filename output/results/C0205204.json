@@ -1,0 +1,19 @@
+{
+  "cui": "C0205204",
+  "cui_name": "Scab",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Scab is a symptom/sign (wound healing response), not a disease diagnosis. Scabs result from numerous underlying conditions including infections, injuries, dermatological conditions, and surgical procedures. Cannot be meaningfully mapped to incidence without specifying the underlying disease.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

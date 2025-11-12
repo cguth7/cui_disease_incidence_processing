@@ -1,0 +1,19 @@
+{
+  "cui": "C2752041",
+  "cui_name": "Three M Syndrome 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Three M Syndrome",
+  "reasoning": "Extremely rare autosomal recessive disorder affecting skeletal and growth development. Three M Syndrome 2 subtype has <100 documented cases globally; incidence <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

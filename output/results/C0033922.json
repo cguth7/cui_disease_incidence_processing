@@ -1,0 +1,19 @@
+{
+  "cui": "C0033922",
+  "cui_name": "Protein S deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 100,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Protein S deficiency is a lifelong genetic coagulation disorder; prevalence metric more appropriate than incidence. Heterozygous carriers represent ~0.1% of population (~100 per 100k). Primary data from coagulation registries and large population studies show carrier frequencies of 1:500-1:1000. Confidence limited by geographic variation and reporting bias in symptomatic vs asymptomatic carriers.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dahlback B. (2000). Blood coagulation. Lancet. 355(9215):1627-1632",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10821361/",
+  "source_type": "literature"
+}

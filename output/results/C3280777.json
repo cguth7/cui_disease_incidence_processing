@@ -1,0 +1,19 @@
+{
+  "cui": "C3280777",
+  "cui_name": "VENTRICULAR SEPTAL DEFECT 1",
+  "incidence_per_100k": 200,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Ventricular Septal Defect",
+  "reasoning": "VSD is the most common congenital heart defect, occurring in ~2-3 per 1000 births (200-300 per 100k births). Incidence based on cardiac epidemiology literature and birth defect registries. Type 1 designation suggests anatomical specificity of defect location.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CDC Birth Defects Registry data; Hoffman JI, Kaplan S (2002). The incidence of congenital heart disease. J Am Coll Cardiol. 39(12):1890-1900",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12084585/",
+  "source_type": "literature"
+}

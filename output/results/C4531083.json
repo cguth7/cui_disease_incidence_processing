@@ -1,0 +1,19 @@
+{
+  "cui": "C4531083",
+  "cui_name": "Mucinous gastric carcinoma",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Gastric carcinoma",
+  "reasoning": "Mucinous adenocarcinoma represents approximately 20-25% of gastric cancers. Global gastric cancer incidence ~10-15 per 100k; estimating mucinous subtype at ~2.5 per 100k. Limited literature specifically on mucinous gastric histology.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

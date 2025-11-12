@@ -1,0 +1,19 @@
+{
+  "cui": "C3715216",
+  "cui_name": "RETINITIS PIGMENTOSA 66",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Retinitis Pigmentosa",
+  "reasoning": "RP66 is a specific genetic subtype of retinitis pigmentosa caused by mutations in a defined gene. Retinitis pigmentosa overall affects 1 in 3000-7000 people globally. RP66 represents a small fraction of RP cases. Estimated <0.01 per 100k births for this specific subtype. Limited epidemiological data specific to RP66.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

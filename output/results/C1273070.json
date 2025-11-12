@@ -1,0 +1,19 @@
+{
+  "cui": "C1273070",
+  "cui_name": "LV diastolic dysfunction",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Cardiac Dysfunction",
+  "reasoning": "Left ventricular diastolic dysfunction is increasingly common with aging, affecting approximately 15% of general adult population (15,000 per 100k), higher in elderly. Reported as prevalence rather than incidence. Data from large cardiac cohort studies and echocardiographic surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

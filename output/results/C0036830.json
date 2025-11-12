@@ -1,0 +1,19 @@
+{
+  "cui": "C0036830",
+  "cui_name": "Serum Sickness",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Drug-induced immune reaction with incidence varies by antibiotic/immunoglobulin exposure patterns. Estimated ~0.5-1% of exposed patients develop serum sickness; global incidence estimated ~0.8 per 100k person-years. Limited population-based epidemiological studies; estimate based on case report frequency and drug exposure patterns.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

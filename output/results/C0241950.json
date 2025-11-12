@@ -1,0 +1,19 @@
+{
+  "cui": "C0241950",
+  "cui_name": "Intestinal infarction",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Intestinal ischemia",
+  "reasoning": "Acute intestinal infarction (acute mesenteric ischemia with tissue necrosis) estimated at ~5 per 100k population based on hospitalization data and case studies. Uses incidence as this is an acute event with clear diagnosis date.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

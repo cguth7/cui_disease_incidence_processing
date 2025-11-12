@@ -1,0 +1,19 @@
+{
+  "cui": "C2751088",
+  "cui_name": "Brugada Syndrome 7",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.05,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Brugada Syndrome",
+  "reasoning": "Brugada syndrome genetic subtype 7 (SCN5A mutations). Extremely rare; specific genetic subtype with <50 cases documented. Estimated prevalence <0.05 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

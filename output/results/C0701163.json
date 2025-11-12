@@ -1,0 +1,19 @@
+{
+  "cui": "C0701163",
+  "cui_name": "Adrenogenital Disorder",
+  "incidence_per_100k": 7.5,
+  "prevalence_per_100k": 8.0,
+  "metric_type": "both",
+  "total_cases_per_year": 600000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": "Endocrine Disorders",
+  "reasoning": "Congenital adrenal hyperplasia (CAH), primarily 21-hydroxylase deficiency. Global incidence ~1/10,000 to 1/15,000 live births (~7-10 per 100k). Relatively well-documented through newborn screening programs and clinical registries.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "WHO Endocrine Disorders database and newborn screening registries",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0279614",
+  "cui_name": "Childhood Pleomorphic Rhabdomyosarcoma",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Pleomorphic Rhabdomyosarcoma",
+  "reasoning": "Childhood-specific variant of pleomorphic RMS. Since RMS predominantly affects children, this is essentially equivalent to C0334480. Estimated ~0.4 per 100k in pediatric population. Limited specific epidemiological data on histological subtypes in childhood populations.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

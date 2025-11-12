@@ -1,0 +1,19 @@
+{
+  "cui": "C2676285",
+  "cui_name": "Bone Fragility with Contractures, Arterial Rupture, and Deafness",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare genetic syndrome with multi-system involvement (skeletal, vascular, auditory). <0.01 per 100k births based on case report frequency; no systematic epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

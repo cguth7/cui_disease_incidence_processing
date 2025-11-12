@@ -1,0 +1,5 @@
+1. C2675526 - Neutropenia, Severe Congenital, Autosomal Recessive 4
+2. C1855020 - Acute necrotizing encephalopathy
+3. C0343968 - Hepatosplenic schistosomiasis
+4. C0851445 - Haematopoietic neoplasms (excl leukaemias and lymphomas)
+5. C0040702 - Transient Tic Disorder

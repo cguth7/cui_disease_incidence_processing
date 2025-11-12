@@ -1,0 +1,19 @@
+{
+  "cui": "C0730525",
+  "cui_name": "Chronic Post-Traumatic Stress Disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 280000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Post-Traumatic Stress Disorder",
+  "reasoning": "PTSD prevalence estimated at 3.5% of global population (3,500 per 100k). Chronic PTSD is a subtype/progression of acute PTSD. Used prevalence metric as incidence is poorly defined for psychiatric conditions. Data from meta-analyses and WHO estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kessler RC et al. (2005). Lifetime and 12-month prevalence of DSM-IV disorders in the United States. J Clin Psychiatry. 66(5):617-627",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15889945/",
+  "source_type": "literature"
+}

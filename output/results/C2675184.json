@@ -1,0 +1,19 @@
+{
+  "cui": "C2675184",
+  "cui_name": "Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, and Calvarial Hyperostosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Multi-system rare syndrome combining pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis. <10 cases reported worldwide. Essentially unmappable due to extreme rarity and undefined nosology.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

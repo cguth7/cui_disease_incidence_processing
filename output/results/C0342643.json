@@ -1,0 +1,19 @@
+{
+  "cui": "C0342643",
+  "cui_name": "Autosomal recessive hypophosphatemic vitamin D refractory rickets",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Hypophosphatemic rickets",
+  "reasoning": "Extremely rare autosomal recessive genetic disorder causing vitamin D-refractory rickets. Estimated <0.01 per 100k births based on case reports. Only ~100-200 cases reported in medical literature globally. Low confidence due to limited epidemiological data and reliance on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

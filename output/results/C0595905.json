@@ -1,0 +1,19 @@
+{
+  "cui": "C0595905",
+  "cui_name": "cortex bone disorders",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 28500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too vague and broad to estimate meaningfully. 'Cortex bone disorders' lacks clear definition: could refer to osteoporosis, cortical bone lesions, osteonecrosis, or other bone cortex pathology. Term requires clinical specification (osteoporosis, cortical thickening disorder, etc.) to provide meaningful epidemiological estimate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

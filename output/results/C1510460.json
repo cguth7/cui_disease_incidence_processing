@@ -1,0 +1,19 @@
+{
+  "cui": "C1510460",
+  "cui_name": "Orofaciodigital Syndrome I",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Orofaciodigital Syndrome",
+  "reasoning": "OFD1 is an X-linked dominant disorder affecting oral, facial, and digit development. Estimated incidence approximately 0.4 per 100k births (roughly 1 in 250,000 births). Limited published epidemiological data; estimate based on clinical genetics literature reporting rare but recognizable syndrome.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

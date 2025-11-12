@@ -1,0 +1,5 @@
+1. C0405581 - Testicular dysfunction
+2. C1257797 - Choledochal Cyst, Type III
+3. C0009439 - Choledochal Cyst, Type I
+4. C1257798 - Choledochal Cyst, Type IV
+5. C1257796 - Choledochal Cyst, Type II

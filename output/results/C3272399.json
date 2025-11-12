@@ -1,0 +1,19 @@
+{
+  "cui": "C3272399",
+  "cui_name": "Gastric Neuroendocrine Tumor",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Neuroendocrine Tumor",
+  "reasoning": "Gastric NETs represent ~7% of GI neuroendocrine tumors with global incidence approximately 0.8 per 100k. Type 1 (associated with atrophic gastritis) accounts for ~70% of cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Modlin IM et al. (2003). Gastroenteropancreatic neuroendocrine tumours. Lancet Oncol. 4(12):721-729",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14662429/",
+  "source_type": "literature"
+}

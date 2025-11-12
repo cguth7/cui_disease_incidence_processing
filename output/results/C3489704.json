@@ -1,0 +1,19 @@
+{
+  "cui": "C3489704",
+  "cui_name": "Vision Disability",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 224000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Vision disability is a broad umbrella category encompassing refractive errors, cataracts, macular degeneration, diabetic retinopathy, and other causes. WHO estimates ~2.2 billion people globally with vision impairment. Prevalence estimated at ~2800 per 100k based on population studies, but represents heterogeneous conditions with vastly different etiologies and prognoses.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO World Report on Vision (2019)",
+  "source_url": null,
+  "source_type": "estimate"
+}

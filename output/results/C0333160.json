@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0333160",
+    "cui_name": "Air cyst",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.15,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Ambiguous umbrella term referring to air-filled cavities or cysts (pneumatoceles, pneumatosis, subpleural blebs). Could result from trauma, infection, or other pathology. Too heterogeneous and vague to estimate aggregate incidence meaningfully without anatomical or etiological specification.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

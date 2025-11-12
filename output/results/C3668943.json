@@ -1,0 +1,19 @@
+{
+  "cui": "C3668943",
+  "cui_name": "Fatty Acid Hydroxylase-Associated Neurodegeneration",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Neurodegeneration",
+  "reasoning": "Ultra-rare genetic neurodegeneration with fatty acid metabolism defects. Fewer than 50 confirmed cases globally reported in literature, estimated <0.001 per 100k births. Low confidence due to lack of systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

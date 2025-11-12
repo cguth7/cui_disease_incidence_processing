@@ -1,0 +1,19 @@
+{
+  "cui": "C0206620",
+  "cui_name": "Lymphangioma, Cystic",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Lymphangioma",
+  "reasoning": "Cystic lymphangioma is a benign congenital lymphatic malformation, estimated at 0.2-0.5 per 100k births with higher prevalence in pediatric populations. Limited population-based registry data; confidence reflects modest data availability.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

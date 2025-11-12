@@ -1,0 +1,19 @@
+{
+  "cui": "C0878631",
+  "cui_name": "Pathergy",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pathergy is a pathological phenomenon (abnormal skin reactivity) rather than a disease entity. Primary manifestation seen in Behçet's disease and occlusive vasculitis conditions. Not independently mappable to incidence.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

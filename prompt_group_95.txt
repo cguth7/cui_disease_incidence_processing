@@ -1,0 +1,5 @@
+1. C3178805 - Heterotaxy Syndrome
+2. C0242855 - Congenital atresia of pulmonary valve
+3. C0454578 - Receptive aphasia (finding)
+4. C4303082 - Hyperinsulinism due to uncoupling protein 2 deficiency
+5. C0679401 - Vascular rupture

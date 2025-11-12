@@ -1,0 +1,19 @@
+{
+  "cui": "C1710096",
+  "cui_name": "Sinonasal Undifferentiated Carcinoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Sinonasal Malignancy",
+  "reasoning": "SNUC is a rare aggressive tumor of paranasal sinuses. Estimated ~0.3-0.5 per 100k globally. Limited epidemiological data, mostly from cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Howlader N et al. (2010). SEER Cancer Statistics Review. NCI",
+  "source_url": "https://seer.cancer.gov/csr/1975_2007/",
+  "source_type": "registry"
+}

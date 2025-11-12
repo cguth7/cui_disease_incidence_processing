@@ -1,0 +1,19 @@
+{
+  "cui": "C2675473",
+  "cui_name": "Mental Retardation, Autosomal Dominant 5",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.30,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Dominant Intellectual Disability",
+  "reasoning": "Rare genetic form of intellectual disability. Extremely rare with <100 cases reported globally. Estimated <0.01 per 100k births. Limited epidemiological data; classification based on case frequency in genetic databases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4275164",
+  "cui_name": "Autosomal dominant optic atrophy plus syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Optic atrophy",
+  "reasoning": "Rare genetic disorder, fewer than 100 cases worldwide, <0.01 per 100k births. OPA plus variant with additional neurological manifestations.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

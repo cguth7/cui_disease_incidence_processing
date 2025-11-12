@@ -1,0 +1,5 @@
+1. C0013592 - Ectropion
+2. C2676235 - CILIARY DYSKINESIA, PRIMARY, 9
+3. C0265633 - Congenital absence of tibia
+4. C3280586 - Mannose-Binding Protein Deficiency
+5. C1334749 - Lymphoproliferative disorder caused by methotrexate

@@ -1,0 +1,19 @@
+{
+  "cui": "C0015826",
+  "cui_name": "Favism",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Glucose-6-Phosphate Dehydrogenase Deficiency",
+  "reasoning": "Favism is an acute hemolytic episode in G6PD deficient individuals triggered by fava bean consumption. Estimated ~5 per 100k in G6PD deficient populations; highly variable by ethnicity and geography.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ruwende C, Hill A. Genetics of resistance to infectious diseases. Curr Opin Genet Dev. 1998",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,100 @@
+Group 100: C4014833-IMMUNODEFICIENCY 26 , C0347390-Skin Papilloma, C1273070-Left ventricular dia, C0341486-Cystadenoma of pancr, C1561828-Anemia in chronic ki
+Group 101: C0744301-gastric ulcer benign, C3553843-HYPOGONADOTROPIC HYP, C0002438-Amebiasis, C0013370-Amebic colitis, C0432268-Osteopathia striata 
+Group 102: C0280725-Adult Cholangiocarci, C0677660-Emotional problems, C1333500-Extragastrointestina, C2063326-Right ventricular ca, C0272241-Complement abnormali
+Group 103: C4329281-Advanced Malignant S, C4305457-Osteomalacia due to , C0031144-Chronic peritoneal e, C0403814-Congenital bilateral, C4275075-Atypical Werner synd
+Group 104: C0151476-Hypochloremic alkalo, C0856554-Hepatic cancer metas, C3809383-IMMUNODEFICIENCY 8, C0038557-Submandibular Gland , C4551767-Protanopia
+Group 105: C0155016-Color Blindness, Red, C1839612-MYOPIA 1, X-LINKED, C4551635-Deuteranopia, C0155015-Color Blindness, Red, C1848200-SUBCORTICAL BAND HET
+Group 106: C2931459-Lynch syndrome I (si, C4698644-Atypical scrapie, C2987516-Cervix Intraepitheli, C0006144-Breast Cyst, C2712871-Gout attack
+Group 107: C0001752-African swine fever, C0276138-Viral myocarditis, C2748544-Spondyloepimetaphyse, C0264774-Mitral and aortic in, C0155568-Rheumatic aortic reg
+Group 108: C3888044-Nephrogenic Systemic, C1970808-Xeroderma Pigmentosu, C0175713-Aicardi's syndrome, C0037917-Spina Bifida Cystica, C4014814-MYOPATHY, CENTRONUCL
+Group 109: C2675526-Neutropenia, Severe , C1855020-Acute necrotizing en, C0343968-Hepatosplenic schist, C0851445-Haematopoietic neopl, C0040702-Transient Tic Disord
+Group 110: C0751554-Motor Tic Disorders, C0338468-Tic Disorders, Vocal, C0040188-Tic disorder, C0751553-Childhood Tic Disord, C0008701-Chronic Motor or Voc
+Group 111: C0233610-Negativism in catato, C0751003-Brain Aneurysm, C2931059-Marie Unna congenita, C0026718-Mucormycosis, C0043541-Zygomycosis
+Group 112: C3843752-Asthma, doctor diagn, C1709569-Pleomorphic hyaliniz, C1852438-CATARACT, COPPOCK-LI, C3805411-CATARACT 30, C1833118-Cataract, Pulverulen
+Group 113: C0849784-Bacterial diarrhoea, C0155733-Atherosclerosis of a, C0741949-Cardiovascular Patho, C1848578-METHYLMALONIC ACIDUR, C1868594-Perry Syndrome
+Group 114: C0086241-Epilepsy, Tonic, C0017332-Generalized Nonconvu, C0086236-Epilepsy, Atonic, C0270854-Symptomatic Generali, C0347869-Epilepsy, Akinetic
+Group 115: C0311334-Generalized convulsi, C1384403-Cellular Ependymoma, C0344461-Oligodendroblastoma, C0334578-Papillary ependymoma, C0751395-Mixed Oligodendrogli
+Group 116: C3501854-Leukemia, Acute, X-L, C0796154-SIMPSON-GOLABI-BEHME, C2051831-Pectus excavatum, C0026975-Myelitis, C3266324-Recurrent optic neur
+Group 117: C1861101-THYROID HORMONE PLAS, C4022739-Abnormal neuron morp, C0025297-Viral meningitis, C0220662-ARTHROGRYPOSIS, DIST, C0265224-Freeman-Sheldon synd
+Group 118: C0279748-Undifferentiated car, C1334243-Intracranial Melanom, C1858664-HEMOCHROMATOSIS, TYP, C0524611-Cryptogenic Chronic , C0231311-Jet Lag Syndrome
+Group 119: C0751280-Cystic Periventricul, C0151971-Primary ulcer of int, C1845407-CONE-ROD DYSTROPHY, , C0085693-Acute appendicitis N, C0020951-Immune Complex Disea
+Group 120: C1266147-Neuroendocrine tumor, C1519702-Turcot Syndrome Type, C0018922-hemangiopericytoma, C1274103-Oncogenic osteomalac, C0264856-Giant cell myocardit
+Group 121: C0268365-Marfanoid hypermobil, C0743101-developmentally dela, C0278505-Non-small cell lung , C0036830-Serum Sickness, C4317126-Niacin deficiency
+Group 122: C0020595-Hypoaldosteronism, C1955743-Mineralocorticoid de, C0796184-Corpus Callosum, Age, C0154088-Carcinoma in situ of, C1857299-RETINAL NONATTACHMEN
+Group 123: C1368920-Atypical Lobular Bre, C1846385-FOCAL CORTICAL DYSPL, C3810090-L-FERRITIN DEFICIENC, C4721429-THYROID CANCER, NONM, C1857728-Hereditary Angioedem
+Group 124: C0278864-Growth Hormone-Produ, C0280248-stage, chronic lymph, C0276088-Escherichia coli sep, C0684256-Bacterial sepsis, C1855346-MAST SYNDROME
+Group 125: C0396060-Congenital laryngeal, C0398738-Leukocyte adhesion d, C2675227-Endocrine-Cerebroost, C0549306-Mesomelia, C0040896-Trichinellosis
+Group 126: C0395973-Recessive sensorineu, C1708371-Histiocytoid Cardiom, C3178803-Social Anhedonia, C0334113-Eosinophilic granulo, C1302645-Polyp of small intes
+Group 127: C1704374-Carcinoma of Endocri, C1837658-Gross motor developm, C0015732-Fecal Incontinence, C1865864-AMYOTROPHIC LATERAL , C0686625-Secondary malignant 
+Group 128: C4324336-Hyperleukocytosis, C0006846-Cutaneous Candidiasi, C2675473-Mental Retardation, , C3661523-Congenital Intestina, C0036659-Sensation Disorders
+Group 129: C0751497-Special Senses Disor, C2675229-CILIARY DYSKINESIA, , C3495589-Jalili syndrome, C2931074-Cone rod dystrophy a, C0013581-Ectopia Lentis
+Group 130: C1851286-Ectopia lentis isola, C1720383-Simple ectopia lenti, C0920715-Myocardial hypoxia, C0003875-Arthritis, Viral, C0861461-Stage IV Colon Carci
+Group 131: C2217040-malignant neoplasm o, C4525128-Stage IV Colon Cance, C0009676-Confusion, C0349667-Sarcoma of breast, C3844293-Oval fat body
+Group 132: C0025218-Chloasma, C0023788-Whipple Disease, C0559469-Allergy to eggs, C0855111-Diffuse large B-cell, C1861106-Thyrotropin-Releasin
+Group 133: C0477548-Other chondrocalcino, C0278080-Physical addiction, C0863106-Afebrile seizure, C0280962-Bone Marrow Suppress, C1142423-Bacteremia due to St
+Group 134: C2675187-MICROCEPHALY, PRIMAR, C0542080-Marrow hypercellular, C1868851-Pulmonary arterial h, C0154832-Exudative retinopath, C1328407-Hip Dysplasia
+Group 135: C0040435-Tooth Diseases, C1514225-Poorly Differentiate, C2910315-Split foot, bilatera, C0085623-Akinesia, C0406612-Encephalocraniocutan
+Group 136: C0033931-Psychophysiologic Di, C0281944-Peripheral arteriosc, C2677516-RETINITIS PIGMENTOSA, C4288302-Refractory Adult Acu, C4521228-Refractory Acute Lym
+Group 137: C4087498-Familial LCAT defici, C0265280-Spondylometaphyseal , C0265281-Metatropic dwarfism, C1334407-Localized Carcinoma, C0796563-Localized Malignant 
+Group 138: C0581391-Chronic depression, C0028841-Ocular Hypotension, C0268467-Hyperphenylalaninemi, C4024917-Congenital encephalo, C0339882-Laryngeal amyloidosi
+Group 139: C4287589-Serous Tubal Intraep, C0861748-Pancreatic adenocarc, C0454594-Surface dyslexia, C0949570-Wheat Hypersensitivi, C1332608-Astrocytoma of brain
+Group 140: C0086367-Gonadotropin-Resista, C0949595-Gonadal Dysgenesis, , C4552079-Premature Ovarian Fa, C3494522-Hypergonadotropic Ov, C0685837-Pure Gonadal Dysgene
+Group 141: C0457193-Soft tissue mass, C4024589-Aplasia/Hypoplasia o, C0030283-Pancreatic Cyst, C0242770-Bronchiolitis Oblite, C3539195-TREMOR, HEREDITARY E
+Group 142: C1842675-AMYOTROPHIC LATERAL , C2931786-Amyotrophic lateral , C1862151-BRACHYDACTYLY, TYPE , C0268060-Juvenile hemochromat, C0033038-Premature Ejaculatio
+Group 143: C4721918-Fibrothecoma, C0341268-Disorder of small in, C0269084-Vulvar Vestibulitis, C2675369-Chromosome 22q11.2 M, C0860472-Adolescent antisocia
+Group 144: C1609433-Congenital absence o, C0151445-Primary Raynaud Phen, C3280616-CRANIOECTODERMAL DYS, C2931244-Craniometaphyseal dy, C3279807-CRANIOECTODERMAL DYS
+Group 145: C0002992-Angiomatosis, C0158850-Fetal Malnutrition, C2987396-Gastric Hepatoid Ade, C0266631-Accessory spleen, C4048273-Chorioretinal atroph
+Group 146: C0745130-Resistant hypertensi, C0085702-Monocytosis, C3277059-Congenital Bilateral, C1291311-Deficiency of dehydr, C0280131-Ovarian Teratoma
+Group 147: C0346186-Benign teratoma of o, C1328843-Autoimmune vasculiti, C4727179-Castration-Sensitive, C0349426-Ferrochelatase defic, C2675184-Exocrine Pancreatic 
+Group 148: C3276549-OPTIC ATROPHY WITH O, C0574084-3-Methylglutaconic a, C1301193-Mucoepidermoid carci, C0027849-Neuroleptic Malignan, C4024942-Late-onset muscular 
+Group 149: C1838539-CARDIOMYOPATHY, FAMI, C1334057-Human Papillomavirus, C1332166-Adenocarcinoma of th, C0348165-Central Nervous Syst, C0036917-Sexually Transmitted
+Group 150: C0014179-Endometritis, C0745133-Isolated systolic hy, C1456868-Diabetic foot ulcer, C1710096-Sinonasal undifferen, C4524517-cutaneous squamous c
+Group 151: C0796083-Najjar syndrome, C2919327-Pleomorphic lobular , C0340493-Paroxysmal familial , C0795956-Chylomicron retentio, C3164344-Adult onset autosoma
+Group 152: C0268540-HHH syndrome, C1334282-Inverted urothelial , C4049259-Hormone refractory b, C0152902-Tuberculosis of esop, C1854150-Charcot-Marie-Tooth 
+Group 153: C1563730-Abdominal Cryptorchi, C0431664-Unilateral Cryptorch, C3661525-Autosomal Recessive , C1959620-Dihydropyrimidine De, C0010334-Crisscross Heart
+Group 154: C2930826-Acute malaria, C0683342-hazardous drinking, C0030581-Parotid Neoplasms, C0001429-Adenolymphoma, C1862932-ANEURYSM, INTRACRANI
+Group 155: C3160821-Viral uveitis, C0040561-Ocular Toxoplasmosis, C2584421-Postsurgical lymphed, C3150751-AGAMMAGLOBULINEMIA 3, C0268514-Urocanase deficiency
+Group 156: C4014767-HYPERLIPOPROTEINEMIA, C0262972-Acute dermatitis, C0009080-Clubbed Fingers, C1409412-Periostosis, C0403622-Primary vesicoureter
+Group 157: C0206661-Gonadoblastoma, C3853962-Enterovirus 71 infec, C4324685-Hypertensive end-org, C4511005-Autosomal dominant p, C4522164-HELIX SYNDROME
+Group 158: C4744700-Locally Advanced Pan, C3665496-Congenital anomaly o, C0282102-Chondrodysplasia pun, C0518964-BRONCHIAL ADENOCARCI, C1266060-Syringofibroadenoma
+Group 159: C0679408-Lesion of stomach, C0154671-Degenerative brain d, C0342396-Idiopathic hypopitui, C0338502-Hypoplasia of the op, C2931006-Congenital disorder 
+Group 160: C0023211-Left Bundle-Branch B, C4534309-Acute lung injury/Ac, C2751812-OPTIC ATROPHY 7 (dis, C3553298-UV-SENSITIVE SYNDROM, C1833561-UV-Sensitive Syndrom
+Group 161: C1955860-Leukemia, Natural Ki, C1512709-Chronic Lymphoprolif, C0410180-Eichsfeld type conge, C4082764-Gastrointestinal inf, C0014117-Endocardial Fibroela
+Group 162: C4330043-Gingival Squamous Ce, C1304177-Idiopathic angioedem, C0403367-proliferative nephri, C2936170-Patent Ductus Arteri, C0278497-Malignant neoplasm o
+Group 163: C0393676-Panayiotopoulos Synd, C0349515-Amelanotic Skin Mela, C0019555-Hip Dislocation, Con, C0948802-Klebsiella pneumonia, C0022729-Klebsiella Infection
+Group 164: C2703042-malignant neoplasm o, C3489529-Tooth Agenesis, Fami, C3807521-AMYOTROPHIC LATERAL , C1527344-Dysphonia, C1963946-Laryngeal dystonia
+Group 165: C0155223-Dacryoadenitis, C0085311-Diffuse cutaneous le, C0079485-Heart Valve Prolapse, C2931895-Pericardial constric, C1869117-Paroxysmal nonkinesi
+Group 166: C4551506-Paroxysmal Nonkinesi, C1266089-Metaplastic carcinom, C0456863-High grade B-cell ly, C2751088-Brugada Syndrome 7, C1336476-Stage I Pleural Mali
+Group 167: C1836743-AUDITORY NEUROPATHY,, C0241908-Hematuria, Benign Fa, C4706584-Megakaryoblastic acu, C4707178-Acute myeloid leukem, C0454651-Specific language im
+Group 168: C1275091-Ichthyosis follicula, C0036069-Saldino-Noonan Syndr, C0036996-Short Rib-Polydactyl, C2751316-Glaucoma 3, Primary , C3538951-MICROSPHEROPHAKIA AN
+Group 169: C2751317-46, XY Sex Reversal , C2936694-Swyer Syndrome, C0302314-Xanthoma, C1707291-NUT midline carcinom, C0010324-Crigler Najjar syndr
+Group 170: C0022681-Medullary sponge kid, C3502073-Woolly Hair, Autosom, C2931817-Chromosome 2q37 dele, C0004269-Child attention defi, C0262659-Vagina Carcinoma
+Group 171: C1394254-Cryptitis, C0744619-Head and neck cancer, C0014059-Encephalomyelitis, A, C0399474-Dysplastic oral leuk, C1835039-Melanosis, Universal
+Group 172: C1840392-HYPERPIGMENTATION, F, C0679293-familial alcoholism, C1273976-First myocardial inf, C0279674-Small cell carcinoma, C0796218-MENTAL RETARDATION, 
+Group 173: C4288893-Infant Acute Bipheno, C1848201-Subcortical Band Het, C1843140-SEIZURES, BENIGN FAM, C4551769-Convulsions, Benign , C0206525-Tuberculosis, Drug-R
+Group 174: C0235574-Intravascular hemoly, C0751005-Mycotic Aneurysm, In, C0751000-Aneurysm, Anterior C, C0751004-Giant Intracranial A, C0740386-Aneurysm, Anterior C
+Group 175: C0740387-Aneurysm, Posterior , C0751002-Aneurysm, Posterior , C0751001-Aneurysm, Basilar Ar, C0740385-Aneurysm, Middle Cer, C4728219-Non-proliferative re
+Group 176: C0339470-Visually threatening, C0346158-Juvenile fibroadenom, C0393719-Nocturnal epilepsy, C0334342-Skin appendage adeno, C0431352-Secondary microcepha
+Group 177: C0086648-MPS III B, C0393483-Brainstem encephalit, C1285175-Autoimmune connectiv, C4275164-Autosomal dominant o, C3534591-Diabetic Heart Disea
+Group 178: C0409495-Protrusio acetabuli, C0346041-Tumor of dermis, C0267917-Acute cholangitis, C0857007-Hyperbilirubinemia, , C2678493-BESTROPHINOPATHY
+Group 179: C0395887-Tympanosclerosis, C0268505-Ocular albinism, typ, C0877521-Chronic synovitis, C1336077-Sporadic Burkitt's l, C0002623-Post-traumatic amnes
+Group 180: C2751320-Myopathy, Mitochondr, C1851100-LAURIN-SANDROW SYNDR, C0008521-Choroid Diseases, C0221018-Hereditary siderobla, C4274077-Autosomal recessive 
+Group 181: C0035067-Renal Artery Stenosi, C0025164-Megaesophagus, C3888209-SPASTIC PARAPLEGIA 4, C0858681-Vitiligo vulgaris, C3150943-Long Qt Syndrome 2
+Group 182: C2748557-Immune dysfunction w, C0543982-Glaucoma, primary, C0403601-Transplant glomerulo, C1854510-Abnormality of the c, C1266032-Atypical carcinoid t
+Group 183: C4283841-ITK Deficiency, C0019114-Hemosiderosis, C0220663-BLEPHAROPHIMOSIS, PT, C1866956-Aortic root dilation, C0339961-Fungal pneumonia
+Group 184: C3280598-SHORT-RIB THORACIC D, C0333008-Congenital hypopigme, C0040997-Trigeminal Neuralgia, C0860197-Advanced chronic liv, C0032302-Mycoplasma pneumonia
+Group 185: C0393555-Pure hereditary spas, C0024043-Low T3 Syndrome, C1720816-Endometrial Diseases, C0085271-Self-Injurious Behav, C2712971-Enteritis due to Nor
+Group 186: C1849140-SPASTIC ATAXIA, CHAR, C0432197-Short rib-polydactyl, C0679294-paternal alcoholism, C0270712-Late cortical cerebe, C2931857-Double cortex
+Group 187: C0730525-Chronic Post-Traumat, C4054892-Grade II Chondrosarc, C1864871-Chromosome 17q21.31 , C1698398-Eosinophilic bronchi, C3554000-PEROXISOME BIOGENESI
+Group 188: C0348932-Other specified diab, C0270250-Meconium peritonitis, C1302793-Cutaneous vascular m, C1698484-Mucosal Infection, C0334347-Eccrine spiradenoma
+Group 189: C0280218-stage, bladder cance, C0271294-Chronic allergic con, C4304725-Leber plus disease, C4551475-ROBINOW SYNDROME, AU, C0024441-Macular Holes
+Group 190: C4748790-MITOCHONDRIAL COMPLE, C3810023-VERHEIJ SYNDROME, C3178789-Widespread Chronic P, C3552236-CORTICAL DYSPLASIA, , C0600359-Arteriosclerotic Dem
+Group 191: C0393560-Vascular Dementia, A, C0393561-Subcortical Vascular, C0342610-Hereditary cerebrova, C2349453-Familial migraine, C1835492-TOOTH AGENESIS, SELE
+Group 192: C0852973-Ventricular hypoplas, C0949804-Polyomavirus Infecti, C2698045-Merkel Cell Polyomav, C0015405-Fungal eye infection, C1262117-Fungal keratitis
+Group 193: C0855139-Monocytoid B-cell ly, C1398786-chronic glomerular d, C4225274-AU-KLINE SYNDROME, C0162281-Corneal deposit, C2751067-Parkinsonism-Dystoni
+Group 194: C4747621-PARKINSONISM-DYSTONI, C4531083-Mucinous gastric car, C0334480-Pleomorphic Rhabdomy, C0279614-Childhood Pleomorphi, C4510897-Omodysplasia
+Group 195: C1850318-Omodysplasia type 1, C2936816-Micromelic dysplasia, C2752041-Three M Syndrome 2, C0729665-Arteriovenous graft, C0002768-Congenital Pain Inse
+Group 196: C0281334-Adult Papillary Meni, C0546483-Lung cyst, C4023418-Unicoronal synostosi, C4021164-Bicoronal synostosis, C1265998-Glassy cell carcinom
+Group 197: C0796117-Pitt-Rogers-Danks Sy, C1720811-Tumor of Rete Testis, C1706527-Primary intraocular , C0701818-Choledocholithiasis, C0039273-Talipes cavus
+Group 198: C0579144-Cavovarus deformity , C0728829-Congenital pes cavus, C2350019-Solitary Pulmonary N, C0342890-Primary combined hyp, C1112709-non-gonococcal ureth
+Group 199: C1847532-MYOPATHY, DISTAL, WI, C2748507-INTERLEUKIN 1 RECEPT, C1527407-Eosinophilic Pneumon, C1333460-Esophageal Melanoma, C2609247-Adrenal incidentalom

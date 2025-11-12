@@ -1,0 +1,19 @@
+{
+  "cui": "C0456863",
+  "cui_name": "High grade B-cell lymphoma",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin lymphoma",
+  "reasoning": "High-grade B-cell lymphoma incidence approximately 3.2 per 100k globally from cancer registries. WHO/GLOBOCAN data shows consistent rates across regions.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

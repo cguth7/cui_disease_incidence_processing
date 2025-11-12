@@ -1,0 +1,19 @@
+{
+  "cui": "C1959582",
+  "cui_name": "PTEN Hamartoma Tumor Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Tumor Syndrome",
+  "reasoning": "PTEN Hamartoma Tumor Syndrome (Cowden syndrome) is a rare autosomal dominant inherited condition. Estimated <1 per 100,000 based on clinical registry data from inherited cancer syndrome studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Tan MH et al. (2012). Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res. 18(2):400-407",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22252611/",
+  "source_type": "literature"
+}

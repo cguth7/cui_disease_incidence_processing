@@ -1,0 +1,19 @@
+{
+  "cui": "C0006144",
+  "cui_name": "Breast Cyst",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Breast cysts are common benign lesions. Prevalence among women of reproductive age estimated at 15-20% (15,000-20,000 per 100k women). Measured as prevalence, not incidence, since cysts are persistent features. Based on imaging and clinical epidemiology studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Santen RJ et al. (2010). Benign breast disease: endocrinology, breast biology, and management. J Endocr Rev. 31(5):595-622",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20847284/",
+  "source_type": "literature"
+}

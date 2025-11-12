@@ -1,0 +1,19 @@
+{
+  "cui": "C3825128",
+  "cui_name": "Respiratory infections in children",
+  "incidence_per_100k": 12000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major pediatric respiratory infections: acute respiratory infections (7000-8000), pneumonia (3000-4000), acute bronchitis (1500), influenza (500-1000) = approximately 12,000 per 100k children annually. High incidence in pediatric populations but significant geographic and seasonal variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

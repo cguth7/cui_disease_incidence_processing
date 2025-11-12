@@ -1,0 +1,19 @@
+{
+  "cui": "C1333620",
+  "cui_name": "Flat Ductal Epithelial Atypia of the Breast",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Ductal Carcinoma In Situ",
+  "reasoning": "Flat epithelial atypia (FEA) is a morphologic variant of columnar cell lesions and low-grade intraductal proliferation in breast tissue. Represents precursor lesion to invasive carcinoma. Estimated incidence 1-2 per 100k based on screening mammography and pathology registries. Increased surveillance recommended for diagnostic management.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2009,
+  "source": "Schnitt SJ. (2003). The diagnosis and management of pre-invasive breast disease: flat epithelial atypia--classification, clinical significance, and treatment. Breast Cancer Res Treat. 109(1):33-39",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15784626/",
+  "source_type": "literature"
+}

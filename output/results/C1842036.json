@@ -1,0 +1,19 @@
+{
+  "cui": "C1842036",
+  "cui_name": "GIANT PIGMENTED HAIRY NEVUS",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Melanocytic Nevus",
+  "reasoning": "Giant congenital melanocytic nevus (>20 cm) is a rare developmental condition with heterogeneous presentation and malignant potential. Estimated <0.1 per 100k births based on case series data, but no population-based registry estimates available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

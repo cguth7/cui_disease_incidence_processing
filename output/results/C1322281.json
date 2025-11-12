@@ -1,0 +1,19 @@
+{
+  "cui": "C1322281",
+  "cui_name": "Seasonal rhinitis",
+  "incidence_per_100k": 250.0,
+  "prevalence_per_100k": 5000.0,
+  "metric_type": "both",
+  "total_cases_per_year": 20000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Allergic rhinitis",
+  "reasoning": "Seasonal allergic rhinitis (hay fever) affects 5-10% of global population. Prevalence approximately 5,000 per 100k. Incidence of new cases estimated at 250 per 100k annually. Geographic variation significant due to pollen distribution patterns and climate.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epidemiological estimates from allergology literature and WHO data",
+  "source_url": null,
+  "source_type": "literature"
+}

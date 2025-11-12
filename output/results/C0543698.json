@@ -1,0 +1,19 @@
+{
+  "cui": "C0543698",
+  "cui_name": "Hypersensitive syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Vague, non-specific umbrella term. 'Hypersensitive syndrome' lacks clinical coherence and cannot be mapped to a well-defined disease entity. Too broad for meaningful epidemiological estimation.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

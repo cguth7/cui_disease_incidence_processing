@@ -1,0 +1,19 @@
+{
+  "cui": "C4511003",
+  "cui_name": "Acute myeloid leukemia with t(8;16)(p11;p13) translocation",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Acute Myeloid Leukemia",
+  "reasoning": "AML with t(8;16) translocation is a rare cytogenetic subtype of AML, typically monocytic differentiation (FAB M5). Represents ~1-2% of all AML cases. Global AML incidence ~3-4 per 100k (adults); t(8;16) subset incidence approximately 0.15 per 100k. WHO/FISH classified genetic subtype with distinct clinical/prognostic features.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Grimwade D et al. (2010). Refinement of cytogenetic classification in acute myeloid leukemia. Blood. 116(3):354-365",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20339089/",
+  "source_type": "literature"
+}

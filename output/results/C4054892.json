@@ -1,0 +1,19 @@
+{
+  "cui": "C4054892",
+  "cui_name": "Grade II Chondrosarcoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Chondrosarcoma",
+  "reasoning": "Grade II chondrosarcoma is intermediate-grade malignant cartilage tumor. Global chondrosarcoma incidence ~0.3-0.4 per 100k; Grade II represents approximately 40-50% of cases, estimated at 0.15 per 100k. Based on bone tumor registries and epidemiological estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Giuffrida AY et al. (2009). Chondrosarcoma: composition, demographics, and outcomes of a North American cohort. J Bone Joint Surg Am. 91(5):1063-1072",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19411456/",
+  "source_type": "literature"
+}

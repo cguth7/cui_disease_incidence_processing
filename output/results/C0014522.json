@@ -1,0 +1,19 @@
+{
+  "cui": "C0014522",
+  "cui_name": "Epidermodysplasia Verruciformis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare autosomal recessive genetic skin disorder (EV1/EV2). Incidence extremely rare, estimated <0.1 per 100k based on case reports. Limited epidemiological studies exist; no population-based registry data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

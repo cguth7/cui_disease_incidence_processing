@@ -1,0 +1,70 @@
+=== GROUP 70 ===
+C2677877 - Surfactant Metabolism Dysfunction, Pulmonary, 4
+C2931035 - Pulmonary alveolar proteinosis, congenital
+C0276680 - Infection by Candida albicans
+C4015202 - PALMOPLANTAR KERATODERMA AND WOOLLY HAIR
+C0015414 - Eye Neoplasms
+
+=== GROUP 71 ===
+C0015558 - Fallopian Tube Neoplasms
+C0008707 - Chronic osteomyelitis
+C1096452 - Neonatal Early-Onset Sepsis
+C1266138 - Benign cystic nephroma
+C0333160 - Air cyst
+
+=== GROUP 72 ===
+C0340014 - Chylothorax, congenital
+C0265673 - Congenital kyphosis
+C1333306 - Distal-Type Epithelioid Sarcoma
+C0263009 - Sclerosis of the skin
+C2676254 - Prickle1-Related Progressive Myoclonus Epilepsy with Ataxia
+
+=== GROUP 73 ===
+C0393995 - Quadriplegic cerebral palsy
+C2931893 - Lysosomal beta-mannosidase deficiency
+C1142127 - Pneumococcal bacteraemia
+C3658267 - Prostatic Neoplasms, Castration-Resistant
+C0917715 - Hajdu-Cheney Syndrome
+
+=== GROUP 74 ===
+C0268338 - Ehlers-Danlos Syndrome, Type IV
+C1866507 - Spondyloepimetaphyseal Dysplasia With Abnormal Dentition
+C1335461 - Postsurgical Stage I Hepatoblastoma
+C0027822 - Neurodermatitis
+C0302885 - Testicular dysgenesis
+
+=== GROUP 75 ===
+C0405581 - Testicular dysfunction
+C1257797 - Choledochal Cyst, Type III
+C0009439 - Choledochal Cyst, Type I
+C1257798 - Choledochal Cyst, Type IV
+C1257796 - Choledochal Cyst, Type II
+
+=== GROUP 76 ===
+C1257799 - Choledochal Cyst, Type V
+C1839332 - Rett Syndrome, Preserved Speech Variant
+C1319300 - Nephroblastoma, favorable histology
+C3697776 - Proliferative verrucous oral leukoplakia
+C1336257 - Stage 3 Neuroblastoma
+
+=== GROUP 77 ===
+C0268358 - Osteogenesis imperfecta, dominant perinatal lethal
+C1291557 - Deficiency of lyase
+C3825128 - Respiratory infections in children
+C0432255 - Geroderma osteodysplastica
+C0432235 - CRANIOECTODERMAL DYSPLASIA 1
+
+=== GROUP 78 ===
+C0241950 - Intestinal infarction
+C0079680 - Lentivirus Infections
+C0034219 - Alveolar pyorrhea
+C0025167 - Megakaryocytic hyperplasia
+C0342643 - Autosomal recessive hypophosphatemic vitamin D refractory rickets
+
+=== GROUP 79 ===
+C0154254 - Polyclonal hypergammaglobulinemia
+C1314678 - Ameloblastic Carcinoma
+C3501912 - Cerebrocostomandibular-Like Syndrome
+C2931011 - Congenital disorder of glycosylation, type 2G
+C0265342 - Cerebrocostomandibular Syndrome
+

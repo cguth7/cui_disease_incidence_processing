@@ -1,0 +1,19 @@
+{
+  "cui": "C0024441",
+  "cui_name": "Macular Holes",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.60,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Macular holes are retinal defects with estimated incidence ~2-3 per 100k globally, increasing with age. Can be idiopathic or post-traumatic/post-surgical. Limited population-based incidence studies; confidence capped at 0.60.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

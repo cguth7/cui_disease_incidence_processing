@@ -1,0 +1,19 @@
+{
+  "cui": "C0347390",
+  "cui_name": "Skin Papilloma",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": 5000,
+  "metric_type": "both",
+  "total_cases_per_year": 120000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Papilloma",
+  "reasoning": "Skin papillomas (benign skin growths/warts) are common in general population with prevalence ~5% (5000 per 100k). Incidence of new lesions approximately 150 per 100k per year. Limited epidemiological registry data; confidence capped at 0.58 due to variable definitions and reporting.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0038557",
+  "cui_name": "Submandibular Gland Diseases",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term aggregating submandibular gland pathology: sialoliths (~80 per 100k), sialadenitis (~40 per 100k), Sjögren's syndrome affecting submandibular (~10 per 100k), benign tumors (~15 per 100k), malignant tumors (~5 per 100k). Aggregate estimate ~150 per 100k. Low confidence due to heterogeneity and overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

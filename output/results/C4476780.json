@@ -1,0 +1,19 @@
+{
+  "cui": "C4476780",
+  "cui_name": "Reduced amygdala volume",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Not a mappable disease entity. 'Reduced amygdala volume' is a neuroanatomical finding or symptom descriptor associated with various psychiatric and neurological conditions (depression, PTSD, autism spectrum disorder), not a disease itself. Cannot estimate incidence without disease specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

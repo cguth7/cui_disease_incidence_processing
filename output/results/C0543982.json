@@ -1,0 +1,19 @@
+{
+  "cui": "C0543982",
+  "cui_name": "Glaucoma, primary",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": 2100,
+  "metric_type": "both",
+  "total_cases_per_year": 680000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primary glaucoma has high prevalence in older populations (~2.1% globally). Incidence of new cases estimated at 8.5 per 100k person-years. Data from WHO and population-based epidemiological studies.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Quigley HA, Broman AT. (2006). The number of people with glaucoma worldwide. Br J Ophthalmol. 90(3):262-267",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16488940/",
+  "source_type": "literature"
+}

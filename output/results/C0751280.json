@@ -1,0 +1,19 @@
+{
+  "cui": "C0751280",
+  "cui_name": "Cystic Periventricular Leukomalacia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.28,
+  "is_subtype": true,
+  "parent_disease": "Periventricular Leukomalacia",
+  "reasoning": "Rare perinatal white matter injury associated with prematurity and hypoxic-ischemic encephalopathy. Extremely limited epidemiological data; estimated <0.5 per 100k births based on neonatal cohort studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

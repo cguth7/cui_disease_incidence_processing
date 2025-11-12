@@ -1,0 +1,19 @@
+{
+  "cui": "C1842687",
+  "cui_name": "PONTOCEREBELLAR HYPOPLASIA TYPE 3 (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Pontocerebellar Hypoplasia",
+  "reasoning": "PCH type 3 is a rare autosomal recessive neurological disorder characterized by pons and cerebellar hypoplasia. Fewer than 100 cases reported worldwide in medical literature. Incidence estimated <0.01 per 100k births based on case reports and molecular studies of TSEN54 mutations.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Barth PG et al. (2007). Pontocerebellar hypoplasias: a diverse group of prenatal cerebellar developmental disorders. Semin Fetal Neonatal Med. 12(3):156-163",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17336156/",
+  "source_type": "literature"
+}

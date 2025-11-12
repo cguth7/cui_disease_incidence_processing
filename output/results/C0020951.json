@@ -1,0 +1,19 @@
+{
+  "cui": "C0020951",
+  "cui_name": "Immune Complex Diseases",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major immune complex diseases: Systemic lupus erythematosus (~2-3 per 100k), Rheumatoid arthritis (~3-4 per 100k), Serum sickness (~0.5-1 per 100k), Post-streptococcal glomerulonephritis (~1-2 per 100k). Total ~8.5 per 100k with significant heterogeneity and overlap between categories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

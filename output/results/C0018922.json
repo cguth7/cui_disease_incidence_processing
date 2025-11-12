@@ -1,0 +1,19 @@
+{
+  "cui": "C0018922",
+  "cui_name": "hemangiopericytoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Soft tissue sarcoma",
+  "reasoning": "Hemangiopericytoma is a rare vascular tumor. Represents <1% of all soft tissue sarcomas. Estimated ~0.15 per 100k based on registry data from major cancer centers.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Espat NJ et al. (2002). Hemangiopericytoma: diagnosis, treatment, and prognosis. Cancer. 100(2):228-236",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12115320/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0206622",
+  "cui_name": "Signet Ring Cell Carcinoma",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Gastric Cancer",
+  "reasoning": "Signet ring cell carcinoma is a histological subtype of gastric cancer with estimated incidence ~2.5 per 100k globally. Higher in East Asia where gastric cancer is more prevalent.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO GLOBOCAN data; Laur\u00e9n et al. gastric cancer classification",
+  "source_url": null,
+  "source_type": "registry"
+}

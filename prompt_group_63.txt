@@ -1,0 +1,5 @@
+1. C0013447 - Ear Diseases
+2. C1264190 - Follicular non-Hodgkin's lymphoma, large cell
+3. C0043528 - Zoonoses
+4. C0342873 - Glutaric Aciduria III
+5. C3149462 - HYPERALPHALIPOPROTEINEMIA 1

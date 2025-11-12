@@ -1,0 +1,5 @@
+1. C3888044 - Nephrogenic Systemic Fibrosis
+2. C1970808 - Xeroderma Pigmentosum B-Cockayne Syndrome
+3. C0175713 - Aicardi's syndrome
+4. C0037917 - Spina Bifida Cystica
+5. C4014814 - MYOPATHY, CENTRONUCLEAR, 5

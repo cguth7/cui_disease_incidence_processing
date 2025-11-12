@@ -1,0 +1,19 @@
+{
+  "cui": "C0262972",
+  "cui_name": "Acute dermatitis",
+  "incidence_per_100k": 5000.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Dermatitis",
+  "reasoning": "Acute contact dermatitis is very common, estimated 4000-6000 new cases per 100k person-years globally based on occupational and epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

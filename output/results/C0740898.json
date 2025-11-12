@@ -1,0 +1,19 @@
+{
+  "cui": "C0740898",
+  "cui_name": "Hypokalemic metabolic alkalosis",
+  "incidence_per_100k": 75,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypokalemic metabolic alkalosis is a secondary electrolyte disorder rather than a primary disease entity. Incidence difficult to determine as it complicates multiple primary conditions (hyperemesis, diuretic use, vomiting). Estimated ~75 per 100k person-years based on hospital discharge diagnosis data. Low confidence due to inability to separate primary vs. secondary occurrence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

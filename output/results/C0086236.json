@@ -1,0 +1,19 @@
+{
+  "cui": "C0086236",
+  "cui_name": "Epilepsy, Atonic",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Generalized Epilepsy",
+  "reasoning": "Atonic seizures (drop attacks) are rare, typically occurring in severe childhood epilepsies like Lennox-Gastaut syndrome. Estimated incidence <1 per 100k. Very limited specific epidemiological data for this seizure type.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

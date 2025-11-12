@@ -1,0 +1,19 @@
+{
+  "cui": "C0745133",
+  "cui_name": "Isolated Systolic Hypertension",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": 25000,
+  "metric_type": "both",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Essential Hypertension",
+  "reasoning": "Isolated systolic hypertension (BP >=140 mmHg systolic, <90 mmHg diastolic) is common in older adults. Prevalence ~25% in elderly. Incidence of new cases ~45 per 100k person-years.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Chobanian AV et al. (2003). Seventh Report of JNCVP. Hypertension. 42(6):1206-52",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14656957/",
+  "source_type": "literature"
+}

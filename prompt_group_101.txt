@@ -1,0 +1,5 @@
+1. C0744301 - gastric ulcer benign
+2. C3553843 - HYPOGONADOTROPIC HYPOGONADISM 10 WITH OR WITHOUT ANOSMIA
+3. C0002438 - Amebiasis
+4. C0013370 - Amebic colitis
+5. C0432268 - Osteopathia striata cranial sclerosis

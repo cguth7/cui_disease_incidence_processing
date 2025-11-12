@@ -1,0 +1,19 @@
+{
+  "cui": "C1865864",
+  "cui_name": "AMYOTROPHIC LATERAL SCLEROSIS 5",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Amyotrophic Lateral Sclerosis",
+  "reasoning": "ALS-5 is a rare genetic subtype caused by mutations in a specific gene (likely FUS). Represents <1% of ALS cases. ALS overall has incidence ~1-2 per 100k; ALS-5 estimated at <0.01 per 100k. Reported as incidence (incident cases). Lower confidence due to rarity and limited epidemiological data on this specific genetic subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4693893",
+  "cui_name": "Deafness, Autosomal Recessive 57",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Genetic Deafness",
+  "reasoning": "DFNB57 is one of >100 autosomal recessive deafness loci. Extremely rare genetic form; non-syndromic AR deafness overall ~0.5 per 100k live births. DFNB57 specifically represents <1% of AR deafness cases.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2751812",
+  "cui_name": "OPTIC ATROPHY 7 (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Optic Atrophy",
+  "reasoning": "Optic Atrophy 7 (OA7) is an autosomal recessive form of optic atrophy caused by OPA3 gene mutations. Extremely rare genetic disorder with fewer than 100 reported cases worldwide. Incidence <0.01 per 100k birth cohorts.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

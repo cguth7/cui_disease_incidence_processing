@@ -1,0 +1,19 @@
+{
+  "cui": "C0155016",
+  "cui_name": "Color Blindness Red-Green",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 4500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "X-linked recessive color blindness affecting red-green perception. Global prevalence ~8% in males (8000/100k), 0.4% in females (400/100k); weighted average ~4500/100k. Well-established genetic disorder with consistent epidemiological data.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neitz J & Neitz M. (2011). The genetics of normal and defective color vision. J Ophthalmol. 2011:321639",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21811647/",
+  "source_type": "literature"
+}

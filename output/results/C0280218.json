@@ -1,0 +1,19 @@
+{
+  "cui": "C0280218",
+  "cui_name": "stage, bladder cancer",
+  "incidence_per_100k": 9.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 760000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Bladder Cancer",
+  "reasoning": "Bladder cancer incidence globally ~9-10 per 100k. However, 'stage' descriptor suggests clinical staging context rather than a distinct epidemiological entity. Using general bladder cancer incidence with reduced confidence due to ambiguous CUI specification.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

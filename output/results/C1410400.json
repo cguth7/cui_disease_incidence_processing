@@ -1,0 +1,19 @@
+{
+  "cui": "C1410400",
+  "cui_name": "Nontraumatic subarachnoid hemorrhage, unspecified",
+  "incidence_per_100k": 9.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 720000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Intracranial hemorrhage",
+  "reasoning": "Nontraumatic (spontaneous) subarachnoid hemorrhage from aneurysms and other causes. Global incidence estimated ~9 per 100k person-years based on stroke registries and epidemiological studies; varies geographically from 4-7 in low-risk to 15+ in high-risk populations.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Global Burden of Disease 2005; stroke epidemiology registries",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

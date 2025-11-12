@@ -1,0 +1,5 @@
+1. C0340014 - Chylothorax, congenital
+2. C0265673 - Congenital kyphosis
+3. C1333306 - Distal-Type Epithelioid Sarcoma
+4. C0263009 - Sclerosis of the skin
+5. C2676254 - Prickle1-Related Progressive Myoclonus Epilepsy with Ataxia

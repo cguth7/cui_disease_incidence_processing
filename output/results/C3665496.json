@@ -1,0 +1,19 @@
+{
+  "cui": "C3665496",
+  "cui_name": "Congenital anomaly of cardiovascular system (disorder)",
+  "incidence_per_100k": 600,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 48000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital heart defects occur in ~6-8 per 1000 births globally (~600-800 per 100k live births). Using conservative 600 per 100k based on WHO/CDC prevalence data. Broad category but well-defined by birth defect registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Burden of Disease, congenital heart defect prevalence estimates",
+  "source_url": null,
+  "source_type": "registry"
+}

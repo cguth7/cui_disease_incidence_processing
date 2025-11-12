@@ -1,0 +1,19 @@
+{
+  "cui": "C0030283",
+  "cui_name": "Pancreatic Cyst",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": 24000,
+  "metric_type": "both",
+  "total_cases_per_year": 400000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic neoplasm",
+  "reasoning": "Pancreatic cysts have high prevalence (~24% on imaging) but variable malignancy risk. Incidence of new cyst detection ~5 per 100k. Limited epidemiological specificity as umbrella term includes benign pseudocysts, serous cystadenomas, and malignant IPMN.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

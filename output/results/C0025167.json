@@ -1,0 +1,19 @@
+{
+  "cui": "C0025167",
+  "cui_name": "Megakaryocytic hyperplasia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": "Hematopoietic disorders",
+  "reasoning": "Megakaryocytic hyperplasia is a pathological finding rather than a primary disease diagnosis. It occurs secondary to myeloproliferative neoplasms, immune thrombocytopenia, hemolytic anemia, and other conditions. Incidence cannot be meaningfully estimated without specifying the primary condition. This is a morphologic descriptor, not an independent disease entity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

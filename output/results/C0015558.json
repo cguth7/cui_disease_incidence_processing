@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0015558",
+    "cui_name": "Fallopian Tube Neoplasms",
+    "incidence_per_100k": 0.7,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 56000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Genital Neoplasms, Female",
+    "reasoning": "Rare gynecological malignancy, accounts for <1% of female genital cancers. GLOBOCAN 2005 data suggests ~0.7 per 100k incidence globally. Varies by region due to detection and reproductive factors.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

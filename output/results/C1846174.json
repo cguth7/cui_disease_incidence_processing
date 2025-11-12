@@ -1,0 +1,19 @@
+{
+  "cui": "C1846174",
+  "cui_name": "Mental Retardation, X-Linked 58",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "X-linked intellectual disability subtype (MRX58). Extremely rare genetic disorder, fewer than 10 families reported. Minimal epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1850318",
+  "cui_name": "Omodysplasia type 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Skeletal Dysplasia",
+  "reasoning": "Extremely rare autosomal recessive skeletal dysplasia, <50 cases reported worldwide. Incidence estimated <0.01 per 100k based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

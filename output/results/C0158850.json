@@ -1,0 +1,19 @@
+{
+  "cui": "C0158850",
+  "cui_name": "Fetal Malnutrition",
+  "incidence_per_100k": 15000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Fetal malnutrition measured via small for gestational age (SGA) births. Estimated ~15-20% of births globally affected. Aggregate BOTEC estimate: ~15,000 per 100k person-years based on WHO birth weight data. High geographic variation (5% in developed countries to >30% in low-income regions).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0280470",
+  "cui_name": "Basaloid carcinoma of the anus",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Anal cancer",
+  "reasoning": "Basaloid carcinoma is a specific histological subtype of anal carcinoma. Anal cancer incidence ~1-2 per 100k globally; basaloid variant represents ~20-30% of anal cancers. Estimated 0.15-0.3 per 100k. Based on cancer registries with histological subtype data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC), including histological subtype analysis from WHO classification",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

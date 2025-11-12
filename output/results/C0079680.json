@@ -1,0 +1,19 @@
+{
+  "cui": "C0079680",
+  "cui_name": "Lentivirus Infections",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 135,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lentivirus infections primarily refers to HIV/AIDS. Incidence ~0.8 per 100k person-years globally (WHO 2020s data), with prevalence ~135 per 100k. Highly variable by region (sub-Saharan Africa >1500 per 100k vs developed countries <50 per 100k). Reporting both metrics as both incidence and prevalence are clinically relevant.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

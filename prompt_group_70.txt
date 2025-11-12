@@ -1,0 +1,5 @@
+1. C2677877 - Surfactant Metabolism Dysfunction, Pulmonary, 4
+2. C2931035 - Pulmonary alveolar proteinosis, congenital
+3. C0276680 - Infection by Candida albicans
+4. C4015202 - PALMOPLANTAR KERATODERMA AND WOOLLY HAIR
+5. C0015414 - Eye Neoplasms

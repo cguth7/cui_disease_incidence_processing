@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0033103",
+    "cui_name": "Pretibial Myxedema",
+    "incidence_per_100k": 0.3,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000,
+    "confidence": 0.35,
+    "is_subtype": true,
+    "parent_disease": "Graves' Disease Cutaneous Manifestations",
+    "reasoning": "Rare skin manifestation of Graves' disease, occurring in 0.5-3% of Graves' patients. Estimated incidence ~0.3 per 100k based on prevalence of Graves' (0.5%) and complication rate. Limited specific epidemiological studies on pretibial myxedema alone.",
+    "data_quality": "weak",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

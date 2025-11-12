@@ -1,0 +1,5 @@
+1. C0878631 - pathergy
+2. C2677549 - Hypouricemia, Renal, 2
+3. C0342286 - Woodhouse Sakati syndrome
+4. C1276035 - Pena-Shokeir syndrome type I
+5. C2675527 - Myopathy, Congenital, Compton-North

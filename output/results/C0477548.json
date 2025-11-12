@@ -1,0 +1,19 @@
+{
+  "cui": "C0477548",
+  "cui_name": "Other chondrocalcinosis",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Chondrocalcinosis",
+  "reasoning": "Chondrocalcinosis subtype with limited epidemiological data. Estimated ~1.5 per 100k based on arthritis registries, but specific 'other' category poorly defined.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

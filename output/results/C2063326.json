@@ -1,0 +1,19 @@
+{
+  "cui": "C2063326",
+  "cui_name": "RV cardiomyopathy",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.50,
+  "is_subtype": true,
+  "parent_disease": "Cardiomyopathy",
+  "reasoning": "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is rare genetic disorder with estimated incidence <0.1 per 100k. Scarce epidemiological data; estimates from case series.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

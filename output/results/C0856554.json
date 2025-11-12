@@ -1,0 +1,19 @@
+{
+  "cui": "C0856554",
+  "cui_name": "Hepatic cancer metastatic",
+  "incidence_per_100k": 18.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1480000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Liver Cancer",
+  "reasoning": "Hepatic metastases occur from various primary cancers (colorectal, breast, lung, gastric). Aggregate BOTEC estimate ~18.5 per 100k combining major cancers with hepatic metastatic potential. Data from GLOBOCAN 2005 estimates of liver involvement from multiple primary sites. Low confidence due to heterogeneity and overlapping epidemiology.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

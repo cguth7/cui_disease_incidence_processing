@@ -1,0 +1,19 @@
+{
+  "cui": "C0549306",
+  "cui_name": "Mesomelia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Skeletal dysplasia",
+  "reasoning": "Rare skeletal dysplasia characterized by shortening of middle long bones; umbrella term for several distinct genetic conditions. Estimated <0.1 per 100k births based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

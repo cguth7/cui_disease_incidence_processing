@@ -1,0 +1,19 @@
+{
+  "cui": "C0278080",
+  "cui_name": "Physical addiction",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 200000000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Substance use disorder",
+  "reasoning": "Physical addiction is a symptom/component of substance use disorder rather than a distinct disease. Using prevalence estimate ~2.5% of global population with various addictions (alcohol, drugs). Low confidence due to heterogeneous category.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

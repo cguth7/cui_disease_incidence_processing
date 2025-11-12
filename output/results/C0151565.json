@@ -1,0 +1,19 @@
+{
+  "cui": "C0151565",
+  "cui_name": "Hemorrhagic colitis",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Colitis",
+  "reasoning": "Hemorrhagic colitis incidence varies by cause: STEC-HUS epidemiology shows ~1-3 per 100k in developed countries, higher in developing regions. Global estimate ~2.5 per 100k accounting for infectious causes (STEC, Shigella) and inflammatory IBD presentations with bleeding.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

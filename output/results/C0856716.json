@@ -1,0 +1,19 @@
+{
+  "cui": "C0856716",
+  "cui_name": "Asthma aspirin-sensitive",
+  "incidence_per_100k": 5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Asthma",
+  "reasoning": "Aspirin-exacerbated respiratory disease (AERD) affects ~5-10% of asthmatics. Estimated incidence ~5 per 100k of new diagnoses. Data quality limited due to variable diagnostic criteria and under-recognition; confidence reduced accordingly.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "American Academy of Allergy, Asthma & Immunology; epidemiological studies",
+  "source_url": "https://www.aaaai.org/",
+  "source_type": "estimate"
+}

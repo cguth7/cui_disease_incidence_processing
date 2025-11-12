@@ -1,0 +1,19 @@
+{
+  "cui": "C0796249",
+  "cui_name": "Mental Retardation, X-Linked 47",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "Rare genetic X-linked intellectual disability (XLID) subtype. Estimated prevalence ~0.1 per 100k based on genetic registers; <100 cases worldwide described in literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

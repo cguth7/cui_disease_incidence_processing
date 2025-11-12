@@ -1,0 +1,19 @@
+{
+  "cui": "C4014814",
+  "cui_name": "MYOPATHY CENTRONUCLEAR",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Centronuclear myopathy (myotubular myopathy), rare genetic myopathy estimated <1 per 100k. Limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

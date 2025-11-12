@@ -1,0 +1,19 @@
+{
+  "cui": "C3809918",
+  "cui_name": "MULTIPLE FIBROADENOMAS OF THE BREAST",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Fibroadenoma of Breast",
+  "reasoning": "Multiple fibroadenomas (≥2 distinct fibroadenomas) represent a subset of breast fibroadenoma cases. While fibroadenomas themselves occur in ~10-25% of women, multiple concurrent fibroadenomas are less common. Estimated at ~0.5 per 100k based on limited literature.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

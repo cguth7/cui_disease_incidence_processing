@@ -1,0 +1,19 @@
+{
+  "cui": "C3554000",
+  "cui_name": "PEROXISOME BIOGENESIS DISORDER 11A (ZELLWEGER)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Zellweger Spectrum Disorder",
+  "reasoning": "Peroxisomal biogenesis disorder 11A is ultra-rare autosomal recessive metabolic disease, part of Zellweger spectrum (PEX mutations). Incidence <0.01 per 100k births. PBD11A specifically represents small fraction of Zellweger cases; only few families reported worldwide. Very limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

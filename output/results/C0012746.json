@@ -1,0 +1,19 @@
+{
+  "cui": "C0012746",
+  "cui_name": "Dissociative disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dissociative disorders are chronic psychiatric conditions better characterized by prevalence than incidence. Lifetime prevalence estimates ~1.5% in general population based on epidemiological surveys. Reported as prevalence (existing cases) rather than incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Sar V. (2011). Epidemiology of dissociative disorders: an overview. Epidemiol Rev. 33(1):65-81",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21810628/",
+  "source_type": "literature"
+}

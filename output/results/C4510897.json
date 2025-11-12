@@ -1,0 +1,19 @@
+{
+  "cui": "C4510897",
+  "cui_name": "Omodysplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.22,
+  "is_subtype": false,
+  "parent_disease": "Skeletal Dysplasia",
+  "reasoning": "Omodysplasia is an extremely rare autosomal recessive skeletal dysplasia with fewer than 20 cases reported worldwide. No systematic epidemiological data; estimated <0.01 per 100k based on limited case literature.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

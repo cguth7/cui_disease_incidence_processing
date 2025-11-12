@@ -1,0 +1,19 @@
+{
+  "cui": "C0033806",
+  "cui_name": "Pseudohypoparathyroidism",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare autosomal dominant disorder of PTH resistance. Estimated 1 in 20,000-30,000 births globally. Incidence ~1.8 per 100k based on genetic surveys. Limited epidemiological data in literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Albright F. (1942). A syndrome characterized by osteitis fibrosa disseminata and areas of pigmentation and endocrine dysfunction with precocious puberty in females. N Engl J Med. 216:727-746",
+  "source_url": null,
+  "source_type": "literature"
+}

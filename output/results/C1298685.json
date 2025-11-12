@@ -1,0 +1,19 @@
+{
+  "cui": "C1298685",
+  "cui_name": "Chronic pain syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 150000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 12000000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic pain syndrome is a heterogeneous umbrella term with prevalence estimates ranging 15-30% globally (~150,000 per 100k). Using prevalence rather than incidence, as onset is often ill-defined. Limited by vague definition and wide variation in diagnostic criteria.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Treede RD et al. (2015). Chronic pain as a symptom or a disease: the IASP classification of chronic pain for the ICD-11. Pain. 160(1):19-27",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/26325041/",
+  "source_type": "literature"
+}

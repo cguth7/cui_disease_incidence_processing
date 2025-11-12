@@ -1,0 +1,19 @@
+{
+  "cui": "C0403554",
+  "cui_name": "Renal Tubular Acidosis, Distal, with Progressive Nerve Deafness",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Renal Tubular Acidosis",
+  "reasoning": "Rare genetic syndrome combining distal RTA with sensorineural hearing loss. Extremely rare, <0.01 per 100k births. Limited epidemiological data available; confidence based on case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

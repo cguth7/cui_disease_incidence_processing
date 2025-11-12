@@ -1,0 +1,19 @@
+{
+  "cui": "C1334407",
+  "cui_name": "Localized Carcinoma",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and generic to estimate meaningfully. 'Localized Carcinoma' encompasses many organ-specific carcinomas (breast, lung, colorectal, etc.) at early stages. Aggregate estimate not meaningful without specifying organ system and carcinoma type.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

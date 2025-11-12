@@ -1,0 +1,19 @@
+{
+  "cui": "C0175713",
+  "cui_name": "Aicardi syndrome",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "X-linked dominant condition with infantile spasms, estimated ~1-2 per 100k births. Limited epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

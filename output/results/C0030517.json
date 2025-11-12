@@ -1,0 +1,19 @@
+{
+  "cui": "C0030517",
+  "cui_name": "Parathyroid Diseases",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 1500,
+  "metric_type": "both",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate umbrella term covering hyperparathyroidism, hypoparathyroidism, and other parathyroid disorders. Incidence dominated by primary hyperparathyroidism (~2-3 per 100k). Prevalence estimated at 1-2% globally. Moderate confidence due to heterogeneous subcategories and limited epidemiological data for rare subtypes.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Consensus statements from endocrinology societies; limited comprehensive epidemiological data",
+  "source_url": null,
+  "source_type": null
+}

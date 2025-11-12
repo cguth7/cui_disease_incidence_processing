@@ -1,0 +1,19 @@
+{
+  "cui": "C0023211",
+  "cui_name": "Left Bundle-Branch Block",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 850,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 68000000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Cardiac Conduction Disorders",
+  "reasoning": "LBBB is primarily an ECG finding rather than a disease entity. Reported as prevalence (~0.8-1% of general population, ~850 per 100k) rather than incidence. Associated with multiple underlying cardiac conditions; not a specific disease with clear onset.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Framingham Heart Study data cited in cardiology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

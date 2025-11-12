@@ -1,0 +1,19 @@
+{
+  "cui": "C0451694",
+  "cui_name": "Severe combined immunodeficiency with low or normal B-cell numbers",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Severe combined immunodeficiency",
+  "reasoning": "Specific SCID subtype with B-cell presence but T-cell deficiency. Global SCID incidence ~1 per 100,000 live births; this phenotype represents approximately 20-30% of SCID cases, estimated at ~0.2 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Immunodeficiency registries and newborn screening data",
+  "source_url": null,
+  "source_type": "registry"
+}

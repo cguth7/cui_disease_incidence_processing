@@ -1,0 +1,19 @@
+{
+  "cui": "C0002690",
+  "cui_name": "Amputation Stumps",
+  "incidence_per_100k": 16.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1280000,
+  "confidence": 0.42,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Amputation stumps represent sequelae of amputation. Global amputation incidence ~16 per 100k from trauma, vascular disease, and diabetes complications. However, CUI represents state/consequence rather than primary disease entity, reducing confidence in applicability.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

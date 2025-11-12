@@ -1,0 +1,5 @@
+1. C0431890 - Hypoplasia of thumb
+2. C2931850 - Aase Smith syndrome 2
+3. C2675860 - Diamond-Blackfan Anemia 4
+4. C2675511 - Diamond-Blackfan Anemia 8
+5. C2675512 - Diamond-Blackfan Anemia 7

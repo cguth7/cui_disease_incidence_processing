@@ -1,0 +1,19 @@
+{
+  "cui": "C1854150",
+  "cui_name": "Charcot-Marie-Tooth disease, Type 2B2",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Charcot-Marie-Tooth disease",
+  "reasoning": "CMT Type 2B2 is a rare genetic subtype caused by mutations in RAB7 gene. Overall CMT incidence is 1-3 per 100k, with Type 2B2 representing approximately 5% of all CMT cases. Estimated at ~0.15 per 100k based on subtype prevalence in neurology literature.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neurology literature on CMT genetic subtypes and RAB7 mutations",
+  "source_url": null,
+  "source_type": "literature"
+}

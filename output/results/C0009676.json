@@ -1,0 +1,19 @@
+{
+  "cui": "C0009676",
+  "cui_name": "Confusion",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Confusion is a symptom, not a disease entity. It presents secondary to numerous underlying conditions (delirium, dementia, metabolic disorders, infections, medications). Cannot be meaningfully mapped to specific incidence rates without specifying the underlying etiology.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0023241",
+  "cui_name": "Legionnaires' Disease",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute bacterial respiratory infection caused by Legionella pneumophila. Global incidence estimated at ~1-2 per 100k person-years with significant geographic variation. Data primarily from developed countries with surveillance systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CDC Surveillance data and WHO epidemiological estimates",
+  "source_url": null,
+  "source_type": "registry"
+}

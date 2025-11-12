@@ -1,0 +1,19 @@
+{
+  "cui": "C3501854",
+  "cui_name": "Leukemia, Acute, X-Linked",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Acute Leukemia",
+  "reasoning": "X-linked acute leukemia is an extremely rare subtype. Estimated incidence ~0.8 per 100k based on case report frequency, but limited systematic epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

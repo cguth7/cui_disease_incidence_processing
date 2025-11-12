@@ -1,0 +1,19 @@
+{
+  "cui": "C1960048",
+  "cui_name": "Severe persistent asthma",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.64,
+  "is_subtype": true,
+  "parent_disease": "Asthma",
+  "reasoning": "Severe persistent asthma is a chronic condition requiring prevalence measurement. Estimated at 1-2% of asthmatic population (within total asthma prevalence of 5-10%), providing ~1.5% or 1,500 per 100k. Confidence moderate due to variability in severity classifications across countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3809655",
+  "cui_name": "CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2R",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": 20,
+  "metric_type": "both",
+  "total_cases_per_year": 24000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Charcot-Marie-Tooth Disease",
+  "reasoning": "CMT2R is a specific autosomal recessive axonal subtype of CMT disease caused by LMNA or other gene mutations. Overall CMT prevalence ~1 per 100k, with type 2 (axonal) forms comprising ~20% of cases. CMT2R appears to be a rare subtype with limited published epidemiological data. Estimate based on proportion of CMT2 disease and clinical series data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Charcot-Marie-Tooth Disease Association; peer-reviewed CMT subtype literature",
+  "source_url": null,
+  "source_type": null
+}

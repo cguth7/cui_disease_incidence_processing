@@ -1,0 +1,19 @@
+{
+  "cui": "C0033038",
+  "cui_name": "Premature Ejaculation",
+  "incidence_per_100k": 2500.0,
+  "prevalence_per_100k": 20000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1600000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Functional male sexual disorder. Prevalence data more relevant than incidence. WHO estimates 20% of men affected globally (~20,000 per 100k); confidence moderate due to variability in definitions and diagnostic criteria across studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

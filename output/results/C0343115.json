@@ -1,0 +1,19 @@
+{
+  "cui": "C0343115",
+  "cui_name": "Skin Mastocytoma",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 7.5,
+  "metric_type": "both",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Mastocytosis",
+  "reasoning": "Cutaneous mastocytosis (skin limited) represents the majority of mastocytosis cases. Prevalence estimated 1-11 per 100k with median around 7.5 per 100k population. Incidence estimated 2-3 per 100k per year based on diagnosis rates. Moderate geographic variation based on European and North American registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical registry data and case series from European hematology centers",
+  "source_url": null,
+  "source_type": "registry"
+}

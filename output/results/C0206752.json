@@ -1,0 +1,19 @@
+{
+  "cui": "C0206752",
+  "cui_name": "Alphavirus Infections",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for alphavirus group (Chikungunya, Ross River, O'nyong'nyong, Sindbis, Eastern Equine Encephalitis, etc.). Includes endemic and epidemic patterns. Estimated 100-200 per 100k annually in endemic regions, lower in non-endemic areas. Global average ~150 per 100k. High geographic variation and seasonal fluctuation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2675511",
+  "cui_name": "Diamond-Blackfan Anemia 8",
+  "incidence_per_100k": 0.04,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3200,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Diamond-Blackfan Anemia",
+  "reasoning": "DBA type 8 is a rare subtype of Diamond-Blackfan Anemia. Overall DBA incidence is 4-7 per million births (~0.4-0.7 per 100k). Type 8 represents approximately 5-10% of cases, estimated ~0.04 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

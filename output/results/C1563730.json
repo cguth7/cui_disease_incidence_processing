@@ -1,0 +1,19 @@
+{
+  "cui": "C1563730",
+  "cui_name": "Abdominal Cryptorchidism",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Cryptorchidism",
+  "reasoning": "Abdominal cryptorchidism is a rare subtype of undescended testicle. Estimated ~0.5 per 100k births based on case reports and small series. No large-scale epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}
