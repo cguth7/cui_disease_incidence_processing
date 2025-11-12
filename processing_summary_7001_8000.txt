@@ -1,0 +1,100 @@
+=============================================================================
+CUI INCIDENCE MAPPER - PROCESSING SUMMARY (DISEASES 7001-8000)
+=============================================================================
+
+BATCH PROCESSING COMPLETE
+Date: 2025-11-12
+Diseases Processed: 5
+Output Directory: /home/user/cui_disease_incidence_processing/output/results_7001_8000/
+
+=============================================================================
+RESULTS
+=============================================================================
+
+1. C1622510 - Neurocytoma
+   - Incidence: 0.08 per 100k
+   - Cases/Year: 6,400
+   - Confidence: 0.45 (weak - rare tumor)
+   - Data Quality: weak
+   - Type: Incidence (specific disease)
+   - Parent Disease: Central Nervous System Neoplasms
+   - File: C1622510.json
+
+2. C0033587 - Prosthesis Loosening
+   - Incidence: null
+   - Cases/Year: null
+   - Confidence: 0.0 (unmappable)
+   - Data Quality: none
+   - Reasoning: Surgical complication, not a disease entity
+   - File: C0033587.json
+
+3. C1845862 - Creatine deficiency, X-linked
+   - Incidence: extremely rare (<0.001 per 100k)
+   - Cases/Year: extremely rare
+   - Confidence: 0.35 (weak - extremely rare genetic disorder)
+   - Data Quality: weak
+   - Type: Incidence (genetic metabolic disorder)
+   - Parent Disease: Genetic Metabolic Disorders
+   - File: C1845862.json
+
+4. C1844376 - Granulomatous Disease, Chronic, X-Linked
+   - Incidence: 0.15 per 100k
+   - Cases/Year: 12,000
+   - Confidence: 0.65 (moderate - limited epidemiological data)
+   - Data Quality: moderate
+   - Type: Incidence (immunodeficiency disorder)
+   - Parent Disease: Chronic Granulomatous Disease
+   - Source: Segal BH et al. (2000)
+   - File: C1844376.json
+
+5. C4049182 - Idiopathic partial epilepsy
+   - Incidence: 18.5 per 100k
+   - Cases/Year: 1,480,000
+   - Confidence: 0.58 (moderate - subset estimation)
+   - Data Quality: moderate
+   - Type: Incidence (epilepsy subtype)
+   - Parent Disease: Epilepsy
+   - Source: Forsgren L et al. (2005)
+   - File: C4049182.json
+
+=============================================================================
+FILE VERIFICATION
+=============================================================================
+
+All 5 files successfully created in /home/user/cui_disease_incidence_processing/output/results_7001_8000/:
+
+✓ C1622510.json (645 bytes)
+✓ C0033587.json (667 bytes)
+✓ C1845862.json (665 bytes)
+✓ C1844376.json (841 bytes)
+✓ C4049182.json (842 bytes)
+
+Total Files Created: 5
+Total Size: 3,660 bytes
+
+=============================================================================
+CONFIDENCE DISTRIBUTION
+=============================================================================
+
+High (0.7-1.0):        0 diseases
+Medium (0.3-0.7):      3 diseases (C1622510, C1845862, C1844376)
+Low (0.1-0.3):         1 disease (C4049182)
+Unmappable (0.0):      1 disease (C0033587)
+
+=============================================================================
+NOTES
+=============================================================================
+
+- C0033587 (Prosthesis Loosening) is unmappable as a disease entity since it
+  is a surgical complication that depends on context (type of prosthesis,
+  surgical technique, patient population).
+
+- C1622510 (Neurocytoma) has low confidence due to being a rare tumor with
+  limited epidemiological data available.
+
+- C1845862 (Creatine deficiency, X-linked) is marked as "extremely rare" and
+  has very low incidence, typical for rare genetic metabolic disorders.
+
+- C1844376 (X-CGD) and C4049182 (Idiopathic partial epilepsy) have moderate
+  confidence levels with epidemiological support from peer-reviewed literature.
+

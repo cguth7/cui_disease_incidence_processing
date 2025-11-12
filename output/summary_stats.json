@@ -1,21 +1,38 @@
 {
-  "total_diseases_processed": 849,
+  "total_diseases_processed": 7367,
   "confidence_distribution": {
-    "high (0.7-1.0)": 208,
-    "medium (0.3-0.7)": 475,
-    "low (0.0-0.3)": 158
+    "high (0.7-1.0)": 1023,
+    "medium (0.3-0.7)": 2698,
+    "low (0.0-0.3)": 890
   },
-  "average_confidence": 0.5058620689655174,
+  "average_confidence": 0.49,
   "data_quality_breakdown": {
-    "strong": 163,
-    "moderate": 305,
-    "weak": 324,
-    "none": 49
+    "strong": 820,
+    "moderate": 2054,
+    "weak": 1545,
+    "none": 425
   },
   "metric_types": {
-    "incidence": 604,
-    "prevalence": 82,
-    "both": 95,
-    "null": 0
+    "incidence": 5031,
+    "prevalence": 941,
+    "both": 382,
+    "null": 1013
+  },
+  "source_type_distribution": {
+    "estimate": 178,
+    "registry": 706,
+    "literature": 1335
+  },
+  "top_sources": {
+    "Limited epidemiological data available. Conservati": 409,
+    "Rare genetic disorder with limited epidemiological": 133,
+    "GLOBOCAN 2005 (IARC)": 113,
+    "Cancer incidence estimated from cancer registry da": 70,
+    "Parkin DM et al. (2005). Global cancer statistics,": 69,
+    "Aggregate BOTEC estimate for umbrella term. Low co": 22,
+    "GLOBOCAN 2005": 19,
+    "Infectious disease incidence estimated from survei": 16,
+    "Autoimmune/inflammatory disorder incidence from rh": 12,
+    "Neurological disorder incidence from epidemiologic": 12
   }
 }
