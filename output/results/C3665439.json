@@ -1,0 +1,19 @@
+{
+  "cui": "C3665439",
+  "cui_name": "Mature cataract",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 850,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 68000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Cataract",
+  "reasoning": "Mature cataract represented as prevalence (not incidence) since it's a chronic progressive lens condition. WHO reports cataracts as leading preventable cause of blindness with prevalence ~0.85% globally in population >40 years. Reporting as prevalence more appropriate for chronic eye disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "World Health Organization. Visual Impairment and Blindness factsheet. WHO Global Burden of Disease estimates.",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment",
+  "source_type": "registry"
+}

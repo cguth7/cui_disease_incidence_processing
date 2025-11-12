@@ -1,0 +1,19 @@
+{
+  "cui": "C3280797",
+  "cui_name": "CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2P",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.08,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Charcot-Marie-Tooth Disease",
+  "reasoning": "CMT Type 2P is a rare genetic axonal neuropathy caused by HSPB3 mutations. CMT as a whole affects 1 in 2500 people, but Type 2P is an uncommon subtype. Estimated prevalence approximately 0.08 per 100k based on genetic epidemiology studies of rare CMT subtypes. Limited population-based data for this specific subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

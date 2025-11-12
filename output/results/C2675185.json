@@ -1,0 +1,19 @@
+{
+  "cui": "C2675185",
+  "cui_name": "Kahrizi Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Kahrizi syndrome is an extremely rare autosomal recessive neurological disorder identified primarily in consanguineous Pakistani families. Fewer than 20 cases reported globally; estimated <0.001 per 100k births. Insufficient epidemiological data for precise estimation.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

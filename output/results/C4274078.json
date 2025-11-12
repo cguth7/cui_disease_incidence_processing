@@ -1,0 +1,19 @@
+{
+  "cui": "C4274078",
+  "cui_name": "Hyperinsulinism due to HNF4A deficiency",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Congenital hyperinsulinism",
+  "reasoning": "HNF4A mutations account for approximately 2-3% of diazoxide-responsive hyperinsulinism cases. Overall congenital hyperinsulinism incidence is 1 in 50,000 births (~2 per 100k births). Estimating HNF4A-specific incidence at ~0.05 per 100k births based on this subtype frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet; PMC scientific literature on congenital hyperinsulinism",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=263455",
+  "source_type": "registry"
+}

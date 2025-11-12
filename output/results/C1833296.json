@@ -1,0 +1,19 @@
+{
+  "cui": "C1833296",
+  "cui_name": "FRONTOTEMPORAL DEMENTIA, CHROMOSOME 3-LINKED",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.8,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Frontotemporal Dementia",
+  "reasoning": "Chromosome 3-linked FTD is a rare genetic subtype of frontotemporal dementia. FTD overall prevalence 2-15 per 100k; genetic forms (including chromosome 3 linkage) account for 10-40% of FTD cases. Estimated prevalence 0.5-1.5 per 100k. Limited population-based data; estimates based on genetic subtype analyses.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neurology and genetic studies on familial FTD subtypes",
+  "source_url": null,
+  "source_type": "literature"
+}

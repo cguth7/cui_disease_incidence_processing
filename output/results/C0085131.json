@@ -1,0 +1,19 @@
+{
+  "cui": "C0085131",
+  "cui_name": "Gangliosidosis GM1",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Lysosomal storage disease",
+  "reasoning": "GM1 gangliosidosis has estimated incidence of 0.5-1.5 per 100,000 births globally, with significant variation by population. Using conservative 0.5 per 100k from combined infantile, juvenile, and chronic forms.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Suzuki K et al. Lysosomal diseases. In: Rosenberg et al. Molecular and Metabolic Bases of Inherited Disease",
+  "source_url": null,
+  "source_type": "literature"
+}

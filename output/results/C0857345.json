@@ -1,0 +1,19 @@
+{
+  "cui": "C0857345",
+  "cui_name": "Late onset epilepsy",
+  "incidence_per_100k": 34.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2760000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Epilepsy with onset age >60 years. Age-specific incidence in older adults approximately 34.5 per 100k person-years, substantially higher than general population due to increased risk from stroke, dementia, and other comorbidities.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

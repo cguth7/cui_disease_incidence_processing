@@ -1,0 +1,19 @@
+{
+  "cui": "C2675055",
+  "cui_name": "BEST VITELLIFORM MACULAR DYSTROPHY, MULTIFOCAL (disorder)",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": 2.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Inherited Retinal Dystrophy",
+  "reasoning": "BEST1-associated vitelliform macular dystrophy is a rare form of inherited retinal dystrophy with variable expressivity. Estimated prevalence 2-4 per 100k population based on genetic studies of retinal dystrophy cohorts. Multifocal variant is less common than classic Best disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hariri AH et al. Quantification of retinal abnormalities in Best disease with multimodal imaging. Retina. 2013; Zernant J et al. Genotype-phenotype correlations and progression of Best vitelliform macular dystrophy. Ophthalmology. 2012",
+  "source_url": null,
+  "source_type": "literature"
+}

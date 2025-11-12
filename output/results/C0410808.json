@@ -1,0 +1,19 @@
+{
+  "cui": "C0410808",
+  "cui_name": "Prosthetic joint infection",
+  "incidence_per_100k": 5.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 456000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Population-based incidence of bacterial arthritis (which includes prosthetic joint infections) is 5.7 per 100,000 inhabitants per year based on Dutch community-based prospective survey. While incidence in prosthetic procedures themselves is 1-2%, population-level rate accounts for the proportion of population with prosthetic joints.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 1993,
+  "source": "Kaandorp CJ et al. (1997). Incidence and sources of native and prosthetic joint infection: a community based prospective survey. Annals of the Rheumatic Diseases. 56(8):470-475",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/9306869/",
+  "source_type": "literature"
+}

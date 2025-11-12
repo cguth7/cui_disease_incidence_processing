@@ -1,0 +1,19 @@
+{
+  "cui": "C0162531",
+  "cui_name": "Hereditary Coproporphyria",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hereditary coproporphyria is a rare autosomal dominant acute intermittent porphyria. Estimated incidence of 0.05 per 100k based on case frequency and genetic epidemiology. Limited epidemiological studies available; confidence reflects sparse data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

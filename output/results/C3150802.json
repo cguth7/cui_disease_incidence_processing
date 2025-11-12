@@ -1,0 +1,19 @@
+{
+  "cui": "C3150802",
+  "cui_name": "MYOPATHY, LACTIC ACIDOSIS, AND SIDEROBLASTIC ANEMIA 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial disorders",
+  "reasoning": "Rare genetic mitochondrial disorder (MLASA2). Fewer than 50 confirmed cases worldwide. Estimated <0.01 per 100k births based on case reports and genetic registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

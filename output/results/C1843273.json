@@ -1,0 +1,19 @@
+{
+  "cui": "C1843273",
+  "cui_name": "Tubulointerstitial nephritis and uveitis",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Nephritis",
+  "reasoning": "TINU syndrome is a rare systemic condition characterized by concurrent tubulointerstitial nephritis and uveitis. Estimated incidence ~0.3 per 100k based on case series and epidemiological studies showing it accounts for 0.3-1% of acute tubulointerstitial nephritis cases and similar proportion of uveitis cases. Limited prospective data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Estimated from case reports and nephrouveitis syndrome epidemiology",
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1998122",
+  "cui_name": "Chronic respiratory insufficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 50,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Chronic respiratory diseases",
+  "reasoning": "Chronic respiratory insufficiency is a complication of various respiratory diseases (COPD, ILD) rather than a primary condition. Reported as prevalence in chronic disease populations. No systematic epidemiological data; estimate based on respiratory disease prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

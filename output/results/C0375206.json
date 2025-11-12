@@ -1,0 +1,19 @@
+{
+  "cui": "C0375206",
+  "cui_name": "Hemiplegia/hemiparesis",
+  "incidence_per_100k": 300,
+  "prevalence_per_100k": 1500,
+  "metric_type": "both",
+  "total_cases_per_year": 24000000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hemiplegia/hemiparesis as a symptom complex results primarily from stroke (~50-80%), followed by traumatic brain injury, spinal cord injury, and neurological disease. Global stroke incidence ~250-300 per 100k; prevalence of stroke survivors with hemiparesis ~1500 per 100k. This represents an aggregate estimate of incident cases with new-onset motor deficit.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

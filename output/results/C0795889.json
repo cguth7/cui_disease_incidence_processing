@@ -1,0 +1,19 @@
+{
+  "cui": "C0795889",
+  "cui_name": "Allan-Herndon-Dudley syndrome (AHDS)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": null,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "AHDS is a rare X-linked intellectual disability disorder caused by SLC16A2 mutations (monocarboxylate transporter 8 deficiency). Estimated incidence <0.01 per 100k live births based on case report frequency and population-based genetic studies. Fewer than 200 confirmed cases worldwide. Incidence data primarily from case reports rather than systematic epidemiological surveys.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Friesema EC et al. (2004). Association between mutations in a thyroid hormone transporter and severe X-linked psychomotor retardation. Lancet. 364(9443):1435-1437",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15488215/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0220647",
+  "cui_name": "Carcinoma of unknown primary",
+  "incidence_per_100k": 4.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 328000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Carcinoma of unknown primary (CUP) is one of the 10 most frequent cancers worldwide, representing 3-5% of all human malignancies. Population-based incidence rate of 4.1 per 100,000 (age-adjusted to World Segi 1960 population). CUP represents a heterogeneous group of metastatic cancers where primary tumor remains unidentified after standardized diagnostic workup. Incidence has been declining since early 1980s due to improved diagnostic techniques.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Pavlidis N et al. (2005). Cancer of unknown primary: biological and clinical characteristics. Ann Oncol. 16(11):1657-1666",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15890271/",
+  "source_type": "literature"
+}

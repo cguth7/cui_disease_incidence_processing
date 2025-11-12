@@ -1,0 +1,19 @@
+{
+  "cui": "C4014430",
+  "cui_name": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 21",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Developmental and Epileptic Encephalopathy",
+  "reasoning": "Rare autosomal recessive genetic disorder. EIEE21 involves mutations in the PIGA or PCDH19 genes. Extremely rare with <100 reported cases worldwide. Estimated incidence <0.01 per 100k births based on case reports and genetic databases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

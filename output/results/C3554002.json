@@ -1,0 +1,19 @@
+{
+  "cui": "C3554002",
+  "cui_name": "Peroxisome biogenesis disorder 12A (Zellweger)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Peroxisomal disorders",
+  "reasoning": "Zellweger spectrum disorder (PBD-ZS), a severe autosomal recessive peroxisomal biogenesis disorder. Estimated <0.01-0.1 per 100k births based on case reports. Aggregate BOTEC estimate of peroxisomal disorders approximates 1-2 per 100k births globally.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

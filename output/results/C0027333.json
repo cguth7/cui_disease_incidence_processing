@@ -1,0 +1,19 @@
+{
+  "cui": "C0027333",
+  "cui_name": "Nagana",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Trypanosomiasis",
+  "reasoning": "Nagana is trypanosomiasis in animals (primarily cattle and other livestock), while human African sleeping sickness (HAT) is the human form. Nagana is not a human disease per se, but zoonotic transmission is extremely rare. Human HAT cases <10,000 per year globally. Nagana in animals affects livestock in sub-Saharan Africa but human infection is <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO African sleeping sickness surveillance data",
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4268694",
+  "cui_name": "Periodic fever, aphthous stomatitis, pharyngitis, and adenopathy syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "PFAPA is a rare autoinflammatory syndrome with <100 cases reported in literature. Estimated <0.01 per 100k births based on case reports from pediatric rheumatology literature. No systematic epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

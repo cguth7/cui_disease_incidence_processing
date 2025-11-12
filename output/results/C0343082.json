@@ -1,0 +1,19 @@
+{
+  "cui": "C0343082",
+  "cui_name": "Senile angioma",
+  "incidence_per_100k": 1800.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Benign Skin Neoplasm",
+  "reasoning": "Senile angiomas are common benign vascular proliferations appearing in adults >30 years. Population-based studies show ~10-15% of adults develop at least one angioma. Global incidence estimated ~18 per 100k person-years for symptomatic/treated cases. High prevalence accounts for frequent occurrence in aging populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Zaballos P et al. (2010). Dermoscopy of benign skin lesions by location. J Am Acad Dermatol. 62(4):554-560",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20079954/",
+  "source_type": "literature"
+}

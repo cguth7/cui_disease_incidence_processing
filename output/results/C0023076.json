@@ -1,0 +1,19 @@
+{
+  "cui": "C0023076",
+  "cui_name": "Laryngotracheitis",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute viral laryngotracheitis (croup) is primarily a pediatric condition affecting young children. Estimated incidence based on pediatric respiratory infection literature suggests ~15 per 100k in general population, concentrated in children 6 months - 3 years. Limited systematic epidemiological data available.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

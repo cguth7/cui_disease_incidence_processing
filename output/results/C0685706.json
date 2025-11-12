@@ -1,0 +1,19 @@
+{
+  "cui": "C0685706",
+  "cui_name": "Membranous ventricular septum defect",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 16000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Ventricular Septal Defect",
+  "reasoning": "Membranous VSD is a specific subtype (~80% of all VSDs) of the most common congenital heart defect. Prevalence reported for living population with VSD. Confidence limited by lack of specific genotype-level prevalence data for membranous subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

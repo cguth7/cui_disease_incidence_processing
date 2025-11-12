@@ -1,0 +1,19 @@
+{
+  "cui": "C0796081",
+  "cui_name": "Myhre syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.11,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare genetic disorder caused by SMAD4 gene mutations. Estimated prevalence 1 in 900,000 individuals (~0.11 per 100,000). Fewer than 1,000 cases reported in U.S., ~200 cases documented in global medical literature. Many cases likely undiagnosed or misdiagnosed.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "NORD (National Organization for Rare Disorders), OMIM (Online Mendelian Inheritance in Man), NIH GARD (Genetic and Rare Diseases Information Center)",
+  "source_url": "https://rarediseases.org/rare-diseases/myhre-syndrome/",
+  "source_type": "registry"
+}

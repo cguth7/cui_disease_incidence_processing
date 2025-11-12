@@ -1,0 +1,19 @@
+{
+  "cui": "C2921081",
+  "cui_name": "Influenza NEC",
+  "incidence_per_100k": 8000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Influenza",
+  "reasoning": "Seasonal influenza incidence estimated at approximately 3-11% of population per year, or 3,000-11,000 per 100,000. Using global estimate of ~8% incidence (8,000 per 100,000) as middle estimate. High geographic and temporal variation. NEC (Not Elsewhere Classified) category encompasses uncomplicated influenza cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CDC Influenza Division; WHO Influenza Programme",
+  "source_url": "https://www.cdc.gov/nchs/fastats/flu.htm",
+  "source_type": "registry"
+}

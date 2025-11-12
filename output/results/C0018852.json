@@ -1,0 +1,19 @@
+{
+  "cui": "C0018852",
+  "cui_name": "Heavy Chain Disease",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Lymphoproliferative disorder",
+  "reasoning": "Rare hematologic malignancy, estimated ~0.1 per 100k based on case report frequency and limited literature. Fewer than 200 cases reported worldwide in medical literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

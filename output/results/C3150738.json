@@ -1,0 +1,19 @@
+{
+  "cui": "C3150738",
+  "cui_name": "Antibody Deficiency due to Defect in CD19",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.001,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Common Variable Immunodeficiency (CVID)",
+  "reasoning": "Extremely rare genetic primary immunodeficiency caused by CD19 deficiency. Prevalence estimated <0.001 per 100k globally. CD19 deficiency is a specific genetic subtype of CVID with fewer than 50 reported cases worldwide. Using prevalence as this is a lifelong genetic condition with defined mutation.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Salzer U et al. (2005). CD19 deficiency resulting in defective B cell proliferation, hypogammaglobulinemia, and recurrent infections. Blood. 104(12):3652-3657",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15069014/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0149622",
+  "cui_name": "Neurogenic Urinary Bladder, Atonic",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Neurogenic Urinary Bladder",
+  "reasoning": "Chronic atonic (flaccid) neurogenic bladder associated with lower motor neuron lesions. Prevalence estimated at ~15 per 100k. Confidence reduced due to diagnostic challenges (atonic bladder difficult to distinguish from other hyporeflexic conditions) and limited population-based epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

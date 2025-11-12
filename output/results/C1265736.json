@@ -1,0 +1,19 @@
+{
+  "cui": "C1265736",
+  "cui_name": "Orthokeratinized odontogenic cyst",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Odontogenic cysts",
+  "reasoning": "Orthokeratinized odontogenic cyst (OOC) is a specific subtype of odontogenic cysts, representing ~2-5% of all odontogenic lesions. Estimated incidence ~0.8 per 100k based on dental epidemiological studies. Limited large-scale epidemiological data; confidence moderate due to reliance on smaller cohort studies and regional registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dental epidemiological literature; limited global surveillance",
+  "source_url": null,
+  "source_type": "literature"
+}

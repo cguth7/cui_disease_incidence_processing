@@ -1,0 +1,19 @@
+{
+  "cui": "C3809173",
+  "cui_name": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 16",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "Developmental and Epileptic Encephalopathy (DEE)",
+  "reasoning": "Developmental and epileptic encephalopathy type 16 (DEE-16) is a specific genetic subtype caused by TBC1D24 mutations. Overall EIEE incidence is 3.6-10 per 100,000 births. DEE-16 represents a small fraction of the ~169 per 100,000 cumulative DEE incidence in children. Estimated incidence ~0.2 per 100,000 based on it being one of many genetic subtypes. Limited data available for this specific subtype.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet Early Infantile DEE registry, epidemiological studies on DEE",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&Expert=1934",
+  "source_type": "registry"
+}

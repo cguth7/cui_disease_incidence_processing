@@ -1,0 +1,19 @@
+{
+  "cui": "C3897729",
+  "cui_name": "Refractory Childhood Hodgkin Lymphoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Refractory Hodgkin Lymphoma",
+  "reasoning": "Highly specific disease entity combining age restriction (childhood, typically <18 years) with treatment-resistance. Childhood Hodgkin lymphoma incidence is ~0.5-1 per 100k children globally, with refractory cases in this pediatric population estimated at <0.1 per 100k overall population. Extremely limited epidemiological data specific to this subset.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

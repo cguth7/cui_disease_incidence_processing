@@ -1,0 +1,19 @@
+{
+  "cui": "C0855082",
+  "cui_name": "Refractory Hodgkin Lymphoma",
+  "incidence_per_100k": 0.48,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 38400,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hodgkin Lymphoma",
+  "reasoning": "Treatment-resistant or refractory Hodgkin lymphoma (primary refractory and early relapse cases). Global Hodgkin lymphoma incidence from GLOBOCAN 2005 is ~3 per 100k; refractory cases comprise approximately 10-20% of newly diagnosed cases, estimated at ~0.48 per 100k. Limited specific epidemiological data on refractory subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC); refractory rate estimates from lymphoma treatment outcome studies",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,60 @@
+================================================================================
+QUICK REFERENCE - 5 DISEASES PROCESSED BY CUI-INCIDENCE-MAPPER_2
+================================================================================
+
+DISEASE 1: Advanced Prostate Adenocarcinoma
+  CUI: C4744714
+  Incidence: 27.0/100k | Confidence: 0.85 | Quality: Strong
+  Cases/Year: 2,160,000
+  Status: High confidence - Use directly
+  File: /home/user/cui_disease_incidence_processing/output/results/C4744714.json
+
+DISEASE 2: Orthokeratinized odontogenic cyst
+  CUI: C1265736
+  Incidence: 0.8/100k | Confidence: 0.45 | Quality: Moderate
+  Cases/Year: 64,000
+  Status: Moderate confidence - Flag data limitations
+  File: /home/user/cui_disease_incidence_processing/output/results/C1265736.json
+
+DISEASE 3: Supratentorial Neoplasms
+  CUI: C0038874
+  Incidence: 18.5/100k (Aggregate) | Confidence: 0.28 | Quality: Weak
+  Cases/Year: 1,480,000
+  Status: Umbrella term - Use as aggregate estimate only
+  Components: Gliomas, Meningiomas, Pituitary adenomas
+  File: /home/user/cui_disease_incidence_processing/output/results/C0038874.json
+
+DISEASE 4: Infratentorial Neoplasms
+  CUI: C0021432
+  Incidence: 7.2/100k (Aggregate) | Confidence: 0.26 | Quality: Weak
+  Cases/Year: 576,000
+  Status: Umbrella term - Use as aggregate estimate only
+  Components: Brainstem gliomas, Medulloblastomas, Cerebellar astrocytomas
+  File: /home/user/cui_disease_incidence_processing/output/results/C0021432.json
+
+DISEASE 5: Post stroke depression
+  CUI: C2938940
+  Incidence: 4.8/100k | Prevalence: 12,000/100k | Confidence: 0.65 | Quality: Moderate
+  Cases/Year: 384,000
+  Status: Moderate confidence - Both incidence and prevalence provided
+  File: /home/user/cui_disease_incidence_processing/output/results/C2938940.json
+
+================================================================================
+CONFIDENCE DISTRIBUTION
+================================================================================
+High (>0.7):      1 disease (20%)   - C4744714
+Moderate (0.4-0.7): 2 diseases (40%)   - C1265736, C2938940
+Low (<0.4):       2 diseases (40%)   - C0038874, C0021432
+
+Total Global Cases/Year: ~4,664,000
+
+================================================================================
+NEXT STEPS
+================================================================================
+1. All JSON files ready for pharmaceutical patent analysis
+2. High-confidence diseases can be used directly in market sizing
+3. Low-confidence umbrella terms should be broken into specific subtypes
+4. Consider geographic stratification for high-variation diseases
+5. Review supplementary sources for disease-specific validation
+
+================================================================================

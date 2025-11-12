@@ -1,0 +1,19 @@
+{
+  "cui": "C0038874",
+  "cui_name": "Supratentorial Neoplasms",
+  "incidence_per_100k": 18.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1480000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major supratentorial brain tumor types: cerebral gliomas (~8 per 100k), cerebral meningiomas (~6 per 100k), pituitary adenomas (~2.5 per 100k), oligodendrogliomas (~0.5 per 100k), other (~1.5 per 100k) = ~18.5 per 100k. Umbrella term encompassing diverse tumor types with heterogeneous incidence rates. Low confidence due to category heterogeneity and overlap potential.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2005 brain tumor data aggregated by anatomical location",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4552078",
+  "cui_name": "PSEUDO-TORCH SYNDROME 1",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.003,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 240,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": "Congenital Neurological Syndromes",
+  "reasoning": "Extremely rare autosomal recessive genetic disorder (OCLN gene mutations on chromosome 5q13). Prevalence <1 per million with handful of cases reported globally. Congenital presentation with microcephaly, intracranial calcifications, and developmental delay mimicking TORCH infections. Using prevalence metric for congenital genetic condition. Very low confidence due to minimal epidemiological data from scattered case reports only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "NIH Genetic Testing Registry, OMIM #251290",
+  "source_url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C4552078/",
+  "source_type": "registry"
+}

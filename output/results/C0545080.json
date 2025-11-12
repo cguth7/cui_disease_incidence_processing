@@ -1,0 +1,19 @@
+{
+  "cui": "C0545080",
+  "cui_name": "Composite Lymphoma",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin's Lymphoma",
+  "reasoning": "Rare subtype of lymphoma where neoplastic infiltrates contain two or more morphologically distinct lymphoid populations. Represents <5% of all lymphomas (incidence ~20 per 100k globally). Estimated at 1.2 per 100k. Limited specific epidemiological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

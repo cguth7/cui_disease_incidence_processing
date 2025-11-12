@@ -1,0 +1,19 @@
+{
+  "cui": "C0334384",
+  "cui_name": "Infiltrating duct and lobular carcinoma",
+  "incidence_per_100k": 32.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Breast cancer",
+  "reasoning": "Mixed histological type of breast cancer combining invasive ductal (70-80% of cases) and invasive lobular (10-15% of cases) carcinoma. Global breast cancer incidence from GLOBOCAN 2005 is ~45 per 100k women; estimated this specific histological combination at ~32.5 per 100k based on histological distribution patterns.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC), histological distribution from international cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

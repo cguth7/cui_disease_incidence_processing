@@ -1,0 +1,19 @@
+{
+  "cui": "C3805232",
+  "cui_name": "Post polycythaemia vera myelofibrosis",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Myeloproliferative Neoplasms / Secondary Myelofibrosis",
+  "reasoning": "Post-polycythemia vera myelofibrosis (post-PV MF) is a secondary myelofibrosis occurring in ~3-10% of polycythemia vera patients over 10-15 years. PV incidence ~2 per 100k; estimated post-PV MF incidence ~0.1-0.2 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "European LeukemiaNet and World Health Organization MPN guidelines",
+  "source_url": null,
+  "source_type": "estimate"
+}

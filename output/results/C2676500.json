@@ -1,0 +1,19 @@
+{
+  "cui": "C2676500",
+  "cui_name": "Cowden-Like Syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.3,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Cowden Syndrome",
+  "reasoning": "Rare autosomal dominant genetic disorder with Cowden syndrome-like features, including increased cancer risk and hamartomatous growths. Prevalence estimated <0.5 per 100k based on limited published case series. Using prevalence metric for heritable genetic condition. Confidence reduced due to lack of systematic epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3149265",
+  "cui_name": "Parotid oncocytoma",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Salivary gland neoplasm",
+  "reasoning": "Parotid oncocytoma represents approximately 0.05-1% of all salivary gland tumors with estimated incidence of ~0.05 per 100k. Peak incidence in 6th-8th decades. Data derived from small case series and institutional reviews; incidence estimates are sparse and based on tumor prevalence rather than systematic epidemiological tracking. Confidence limited by rarity and lack of population-based incidence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Institutional salivary gland tumor case reviews and pathology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

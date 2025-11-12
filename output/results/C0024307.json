@@ -1,0 +1,19 @@
+{
+  "cui": "C0024307",
+  "cui_name": "Lymphomatoid Granulomatosis",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Lymphoproliferative Disorders",
+  "reasoning": "Lymphomatoid granulomatosis is a rare EBV-associated lymphoproliferative disorder. Estimated incidence of 0.4 per 100k based on literature review of case series and registry data. Moderate confidence due to heterogeneous clinical presentation and limited population-based incidence studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

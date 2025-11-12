@@ -1,0 +1,19 @@
+{
+  "cui": "C0544015",
+  "cui_name": "Fuchs' syndrome",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Fuchs' syndrome (likely referring to Fuchs' corneal dystrophy or anterior segment syndrome) is a relatively rare ocular condition. Fuchs' corneal dystrophy incidence estimated at 2-5 per 100k in populations of European descent. Broader 'Fuchs syndrome' definition may include other manifestations with variable incidence. Uses incidence as this is primarily an age-related condition with identifiable onset.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

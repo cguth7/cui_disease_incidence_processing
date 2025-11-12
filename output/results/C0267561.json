@@ -1,0 +1,19 @@
+{
+  "cui": "C0267561",
+  "cui_name": "Perianal fistula",
+  "incidence_per_100k": 18,
+  "prevalence_per_100k": 25,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1440000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Perianal/anal fistula incidence from epidemiological studies: 1-3 per 10,000 person-years = 10-30 per 100k. Global average ~18 per 100k per year. Associated with Crohn's disease, trauma, and infection. Prevalence higher (~25 per 100k) as many cases become chronic. Strong epidemiological evidence from colorectal/gastroenterology registries and population studies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Lunniss PJ et al. (2009). Handbook of Anal Fistula. London: Springer. Based on UK inflammatory bowel disease registry data.",
+  "source_url": null,
+  "source_type": "literature"
+}

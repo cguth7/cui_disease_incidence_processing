@@ -1,0 +1,19 @@
+{
+  "cui": "C4289709",
+  "cui_name": "DOCK8 Deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.02,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1600,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Primary Immunodeficiency",
+  "reasoning": "Rare genetic immunodeficiency disorder caused by DOCK8 mutations. DOCK8 deficiency is extremely rare with fewer than 100 known cases worldwide. Estimated prevalence approximately 0.02 per 100k based on case report frequency. Limited epidemiological surveillance data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4285683",
+  "cui_name": "Severe asthma with fungal sensitisation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 75,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 6000000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Asthma",
+  "reasoning": "Severe asthma with fungal sensitization is a specific subtype of allergic asthma. Reported as prevalence since asthma is a chronic condition. Fungal sensitization (primarily Aspergillus fumigatus) affects approximately 10-15% of asthma patients; severe asthma represents ~5-10% of all asthmatics. Estimated prevalence approximately 75 per 100k population.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0375536",
+  "cui_name": "Congenital osteodystrophy",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital osteodystrophy encompasses multiple skeletal dysplasias and metabolic bone diseases including Albright hereditary osteodystrophy and other bone development disorders. Estimated <1 per 100k based on aggregate of rare skeletal dysplasias. Confidence limited by heterogeneity and weak epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

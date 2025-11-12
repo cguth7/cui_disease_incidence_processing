@@ -1,0 +1,19 @@
+{
+  "cui": "C0340952",
+  "cui_name": "Secondary anemia NOS",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Secondary anemia NOS is unmappable umbrella term. NOS (Not Otherwise Specified) indicates catch-all diagnosis for secondary anemias not classifiable elsewhere. Causes include: hemolysis, bleeding, bone marrow disorders, chronic disease, medications, etc. Prevalence entirely dependent on underlying conditions. Cannot estimate meaningful population-level incidence without disease specification.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

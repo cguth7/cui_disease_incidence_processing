@@ -1,0 +1,19 @@
+{
+  "cui": "C0948343",
+  "cui_name": "Transfusion-Related Acute Lung Injury",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": null,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Transfusion adverse events",
+  "reasoning": "TRALI is a serious but rare transfusion complication. Incidence estimated at 1 per 5,000 to 1 per 50,000 transfusions based on hemovigilance data, but actual per-capita incidence difficult to estimate. Low confidence due to variable detection/reporting across healthcare systems.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

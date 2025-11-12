@@ -1,0 +1,19 @@
+{
+  "cui": "C0392115",
+  "cui_name": "Neurogenic Urinary Bladder, Uninhibited",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 20,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1600000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Neurogenic Urinary Bladder",
+  "reasoning": "Chronic urological manifestation with uninhibited detrusor contractions. Prevalence estimated at ~20 per 100k as a subtype of neurogenic bladder. Confidence limited by lack of dedicated epidemiological studies; primarily identified through urodynamic testing in specific populations.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

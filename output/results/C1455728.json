@@ -1,0 +1,19 @@
+{
+  "cui": "C1455728",
+  "cui_name": "Acute fatty liver of pregnancy",
+  "incidence_per_100k": 1.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 104000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Pregnancy-Related Liver Diseases",
+  "reasoning": "Rare obstetric emergency occurring in 1 per 7,000 to 1 per 20,000 pregnancies. Estimated ~1.3 per 100k pregnant women per pregnancy year based on clinical case series and obstetric literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Obstetric epidemiological studies and case series",
+  "source_url": null,
+  "source_type": "literature"
+}

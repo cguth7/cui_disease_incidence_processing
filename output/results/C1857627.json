@@ -1,0 +1,19 @@
+{
+  "cui": "C1857627",
+  "cui_name": "Chorioretinal dystrophy",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chorioretinal dystrophies are rare inherited retinal disorders. Prevalence estimated at ~0.5 per 100k based on rare disease registry data. Limited epidemiological studies; confidence capped at 0.4 due to heterogeneous group and sparse data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

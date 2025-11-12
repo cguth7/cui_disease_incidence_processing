@@ -1,0 +1,19 @@
+{
+  "cui": "C1644196",
+  "cui_name": "Ectopia Lentis with Ectopia of Pupil",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Lens Ectopia",
+  "reasoning": "Ectopia lentis with concomitant pupil ectopia is an extremely rare ocular condition. Often associated with connective tissue disorders (Marfan, Ehlers-Danlos, homocystinuria) or developmental anomalies. Estimated <0.01 per 100k based on case frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

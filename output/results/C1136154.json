@@ -1,0 +1,19 @@
+{
+  "cui": "C1136154",
+  "cui_name": "Posterior Tibial Tendon Dysfunction",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Tendon Disorder",
+  "reasoning": "Posterior tibial tendon dysfunction (PTTD) is the most common cause of adult-acquired flatfoot. Affects primarily women >40 years. Incidence estimated 3-5 per 100k person-years based on orthopedic epidemiology studies. Risk factors include obesity, age, and diabetes. Higher prevalence in populations with metabolic disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Needleman RL. (1990). Current topic review: Posterior tibial tendon dysfunction. Foot Ankle Int. 11(6):428-435",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/2128389/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0271789",
+  "cui_name": "Hypothyroidism, Congenital, Nongoitrous, 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Congenital Hypothyroidism",
+  "reasoning": "This is a specific genetic form (Type 4) of congenital hypothyroidism from thyroid dysgenesis or dyshormonogenesis. Congenital hypothyroidism overall: ~1-2 per 100k newborns. Type 4 is a rare subset, estimated <0.1 per 100k based on genetic screening data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

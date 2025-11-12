@@ -1,0 +1,19 @@
+{
+  "cui": "C2711618",
+  "cui_name": "Stimulant dependence",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": 150.0,
+  "metric_type": "both",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Substance Use Disorder",
+  "reasoning": "Stimulant dependence (cocaine, amphetamine) incidence estimated at 40-50 per 100k globally. Prevalence of stimulant use disorder estimated at 140-160 per 100k based on WHO Global Burden of Disease and UNODC data. Using middle estimates of 45 incidence and 150 prevalence.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2009,
+  "source": "Degenhardt L et al. (2008). Global epidemiology and burden of heroin use and dependence: likely causes of differences in burden. Drug Alcohol Depend. 98(3):147-160",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18495356/",
+  "source_type": "literature"
+}

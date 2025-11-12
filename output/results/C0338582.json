@@ -1,0 +1,19 @@
+{
+  "cui": "C0338582",
+  "cui_name": "Sporadic Cerebral Amyloid Angiopathy",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": 25.0,
+  "metric_type": "both",
+  "total_cases_per_year": 120000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Cerebral Amyloid Angiopathy",
+  "reasoning": "Sporadic cerebral amyloid angiopathy (sCAA) is a cerebrovascular disease. Reported incidence of intracerebral hemorrhage from sCAA is approximately 1-2 per 100k person-years. Prevalence in elderly populations is estimated at 20-30 per 100k based on autopsy and neuroimaging studies. Using middle estimate of 25 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Greenberg SM et al. (2009). Cerebral amyloid angiopathy and Alzheimer disease--one peptide, two pathways. Nat Rev Neurol. 5(11):611-622",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19859068/",
+  "source_type": "literature"
+}

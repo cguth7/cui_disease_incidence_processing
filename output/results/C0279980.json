@@ -1,0 +1,19 @@
+{
+  "cui": "C0279980",
+  "cui_name": "Extra-osseous Ewing's sarcoma",
+  "incidence_per_100k": 0.03,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2400,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Ewing's sarcoma",
+  "reasoning": "Extra-osseous (soft tissue) Ewing's sarcoma is a rare variant representing 10-15% of all Ewing's sarcomas. Ewing's sarcoma overall incidence ~2-3 per million per year. Extra-osseous variant incidence estimated at ~0.02-0.05 per 100k. Data from cancer registries but limited specific data for this rare variant. Confidence reduced due to rarity and specificity of subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

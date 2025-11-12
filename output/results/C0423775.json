@@ -1,0 +1,19 @@
+{
+  "cui": "C0423775",
+  "cui_name": "Scurfiness of scalp",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 150000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Seborrheic dermatitis",
+  "reasoning": "Scalp scurfiness (dandruff) is a very common condition with high prevalence estimated at 15-20% of general population depending on definition (mild flaking vs clinical diagnosis). Using 15% prevalence estimate. Measured as prevalence (chronic condition with variable severity).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dermatological surveys and cosmetic industry prevalence data",
+  "source_url": null,
+  "source_type": "estimate"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0275708",
+  "cui_name": "Mycobacterium marinum Infection",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Atypical Mycobacterial Infection",
+  "reasoning": "Non-tuberculous mycobacterial infection (NTM) acquired through exposure to freshwater or saltwater environments. Estimated incidence <0.1 per 100k in most populations, with sporadic cases. Data limited to case reports, small clinical series, and regional surveillance. No robust global epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

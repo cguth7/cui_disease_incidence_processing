@@ -1,0 +1,19 @@
+{
+  "cui": "C0155912",
+  "cui_name": "Pulmonary Alveolar Microlithiasis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pulmonary alveolar microlithiasis (PAM) is an extremely rare inherited autosomal recessive disorder characterized by calcium and phosphate deposition in pulmonary alveoli. Global incidence estimated <0.01 per 100k births. Fewer than 1000 cases reported worldwide since first description in 1933. No systematic epidemiological data; prevalence estimated from case report frequency and registry data (Japan registry: ~60 cases in population of 127 million = ~0.05 per 100k).",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Corut S et al. (2012). Mutations in SLC34A2 cause pulmonary alveolar microlithiasis and are possibly associated with pseudohypoparathyroidism. Nat Genet. 40(12):1529-1534",
+  "source_url": null,
+  "source_type": "literature"
+}

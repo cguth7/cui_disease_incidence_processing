@@ -1,0 +1,19 @@
+{
+  "cui": "C0853602",
+  "cui_name": "Immunodeficiency congenital",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 5.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital immunodeficiency is an umbrella term covering multiple rare genetic disorders (DiGeorge syndrome, SCID, CGD, selective IgA deficiency, etc). Reported as prevalence estimate ~5 per 100k population based on aggregation of major subtypes. Confidence low due to heterogeneity of conditions and limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

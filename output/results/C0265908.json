@@ -1,0 +1,19 @@
+{
+  "cui": "C0265908",
+  "cui_name": "Congenital atresia of pulmonary artery",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Congenital heart defects",
+  "reasoning": "Pulmonary artery atresia is an extremely rare congenital heart defect. Birth prevalence estimated at 1 in 100,000-1 in 150,000 live births (~0.3 per 100k person-years). Using incidence metric for this congenital condition. Limited epidemiological surveillance data; confidence reduced due to rarity and variable reporting.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hoffman JI, Kaplan S. (2002). The incidence of congenital heart disease. J Am Coll Cardiol. 39(12):1890-900",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12084585/",
+  "source_type": "literature"
+}

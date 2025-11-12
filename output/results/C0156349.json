@@ -1,0 +1,19 @@
+{
+  "cui": "C0156349",
+  "cui_name": "Prolapse of female genital organs",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 4600,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 368000000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Female genital prolapse (including uterine prolapse, rectocele, cystocele) is a common condition in postmenopausal women. Using prevalence metric as appropriate for chronic anatomical condition. Global prevalence estimated at 4.6% of women (~4,600 per 100k) based on population surveys and gynecological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

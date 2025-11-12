@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1266131",
+    "cui_name": "Chondroid lipoma",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Lipoma",
+    "reasoning": "Rare benign soft tissue tumor with fewer than 100 cases reported in medical literature. No population-based incidence data available; documented primarily through case reports and small case series.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

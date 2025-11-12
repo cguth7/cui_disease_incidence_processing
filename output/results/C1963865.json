@@ -1,0 +1,19 @@
+{
+  "cui": "C1963865",
+  "cui_name": "Varioliform gastritis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Chronic gastritis",
+  "reasoning": "Varioliform gastritis is a specific endoscopic appearance of chronic gastritis, not a distinct disease entity. Characterized by nodular, variolous appearance of gastric mucosa. No independent epidemiological data available; incidence depends on underlying chronic gastritis rates.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

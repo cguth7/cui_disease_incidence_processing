@@ -1,0 +1,19 @@
+{
+  "cui": "C0747479",
+  "cui_name": "Periodontal infection",
+  "incidence_per_100k": 936,
+  "prevalence_per_100k": 62000,
+  "metric_type": "both",
+  "total_cases_per_year": 74880000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Periodontal infection is a chronic condition best measured by prevalence, but incidence data also available. Prevalence of periodontitis: 62% (62,000 per 100k) with severe periodontitis at 23.6% based on 2011-2020 meta-analysis. Cumulative incidence has grown to 936 per 100,000. Significant geographic variation: high-income countries 43.7%, low-income 28.7%. Reporting both metrics as incidence captures new disease occurrence while prevalence reflects burden of chronic infection. 12th most prevalent pathology globally.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2020,
+  "source": "Tonetti MS et al. (2017). Periodontal diseases and the burden of chronic diseases: a strategist review of the evidence; Nazir M. (2020). Global Prevalence of Periodontal Disease. Scientific World Journal.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/36631982/",
+  "source_type": "literature"
+}

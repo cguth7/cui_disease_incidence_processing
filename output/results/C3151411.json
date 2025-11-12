@@ -1,0 +1,19 @@
+{
+  "cui": "C3151411",
+  "cui_name": "MENTAL RETARDATION, AUTOSOMAL DOMINANT 6",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Intellectual Disability, Autosomal Dominant",
+  "reasoning": "MRDD6 (Mental Retardation, Autosomal Dominant 6) is a rare genetic form of intellectual disability. Very few families reported in literature. Estimated <0.01 per 100k based on case frequency and genetic modeling of autosomal dominant inheritance.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

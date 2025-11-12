@@ -1,0 +1,19 @@
+{
+  "cui": "C1868885",
+  "cui_name": "Uncontrolled Hypertension",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 200000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 16000000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hypertension",
+  "reasoning": "Uncontrolled hypertension is a status modifier on hypertension diagnosis; using prevalence since it's a persistent condition state. ~20% of hypertensive patients have uncontrolled BP.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Mills KT et al. (2016). Global disparities of hypertension prevalence and control. Circulation. 134(6):441-450",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27502908/",
+  "source_type": "literature"
+}

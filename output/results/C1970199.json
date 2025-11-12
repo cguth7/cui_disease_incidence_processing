@@ -1,0 +1,19 @@
+{
+  "cui": "C1970199",
+  "cui_name": "MENTAL RETARDATION, AUTOSOMAL RECESSIVE 5",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Recessive Mental Retardation",
+  "reasoning": "Extremely rare genetic disorder, specific form 5 (ACRM5). Autosomal recessive intellectual disabilities are heterogeneous with estimated aggregate incidence <1 per 100k births globally. Individual subtypes like ACRM5 are much rarer, estimated <0.1 per 100k births based on genetic epidemiology literature.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

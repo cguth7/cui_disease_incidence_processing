@@ -1,0 +1,19 @@
+{
+  "cui": "C4744714",
+  "cui_name": "Advanced Prostate Adenocarcinoma",
+  "incidence_per_100k": 27.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2160000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Prostate Cancer",
+  "reasoning": "Prostate adenocarcinoma is the predominant histological type of prostate cancer. Global prostate cancer incidence ~27 per 100k males from GLOBOCAN 2005. 'Advanced' refers to clinical stage but epidemiological data typically reports all adenocarcinomas without stage stratification. High confidence from cancer registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

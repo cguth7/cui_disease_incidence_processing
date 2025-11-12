@@ -1,0 +1,19 @@
+{
+  "cui": "C0039496",
+  "cui_name": "Temporomandibular Joint Dysfunction Syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "TMD measured as prevalence rather than incidence due to chronic nature and poorly defined onset. Estimates from dental epidemiology studies suggest 8-10% population prevalence (8,500 per 100k). Significant variation in definition and diagnostic criteria across studies affects confidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Multiple dental epidemiology surveys (prevalence range 5-12% globally)",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3540450",
+  "cui_name": "HYPOGONADOTROPIC HYPOGONADISM 14 WITH OR WITHOUT ANOSMIA",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Hypogonadotropic Hypogonadism / Kallmann Syndrome",
+  "reasoning": "Rare genetic form of congenital hypogonadotropic hypogonadism (HH14). Extremely rare; fewer than 20 families reported in literature. Estimated <0.001 per 100k. May present with or without anosmia (loss of smell).",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

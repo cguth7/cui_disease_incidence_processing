@@ -1,0 +1,19 @@
+{
+  "cui": "C3887678",
+  "cui_name": "Central Nervous System Embryonal Tumor, Not Otherwise Specified",
+  "incidence_per_100k": 0.45,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 36000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Embryonal Tumors of the Nervous System",
+  "reasoning": "CNS embryonal tumors (including medulloblastoma, PNET, and other malignant embryonal tumors) are rare pediatric malignancies. Reported as incidence (new cases per year). Global incidence approximately 0.4-0.5 per 100k population, with higher rates in children. Confidence limited by heterogeneous grouping under 'NOS' designation and variable histological classification across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

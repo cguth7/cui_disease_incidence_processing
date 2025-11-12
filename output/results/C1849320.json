@@ -1,0 +1,19 @@
+{
+  "cui": "C1849320",
+  "cui_name": "Sandhoff Disease, Adult Type",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Sandhoff Disease",
+  "reasoning": "Sandhoff disease is a lysosomal storage disorder caused by mutations in the HEXB gene. Overall incidence ~0.3-0.5 per 100k live births globally, varying by ethnic background (higher in Ashkenazi Jewish population ~1 per 30,000). Adult-onset form is rare, representing <5% of Sandhoff cases. Estimated adult-onset incidence: <0.02 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kaback MM et al. (2001). Hexosaminidase A deficiency. In: Scriver CR, et al. eds. The Metabolic and Molecular Bases of Inherited Disease. McGraw Hill",
+  "source_url": null,
+  "source_type": "literature"
+}

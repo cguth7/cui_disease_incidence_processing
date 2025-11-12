@@ -1,0 +1,19 @@
+{
+  "cui": "C0010380",
+  "cui_name": "Croup",
+  "incidence_per_100k": 1500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Croup (acute laryngotracheobronchitis) incidence estimated at ~1500 per 100k person-years globally, with much higher rates in children under 5 (~3000-4000 per 100k). Peak incidence in fall/winter months. Using incidence as this is an acute viral respiratory illness with clear episode onsets. Based on epidemiological surveys from multiple developed countries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bjornson CL et al. (2004). Croup. Lancet. 363(9427):1877-1888",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15183623/",
+  "source_type": "literature"
+}

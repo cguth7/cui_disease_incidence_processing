@@ -1,0 +1,19 @@
+{
+  "cui": "C2931082",
+  "cui_name": "Familial apoceruloplasmin deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.01,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.20,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Familial apoceruloplasmin deficiency (aceruloplasminemia) is an extremely rare autosomal recessive iron metabolism disorder with fewer than 100 documented cases worldwide. Estimated prevalence <0.01 per 100k based on case reports. Reported as prevalence for this chronic genetic disorder. Very limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

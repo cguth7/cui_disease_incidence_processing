@@ -1,0 +1,19 @@
+{
+  "cui": "C0393739",
+  "cui_name": "Episodic Cluster Headache",
+  "incidence_per_100k": 15.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1240000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Cluster Headache",
+  "reasoning": "Episodic cluster headache is the most common form (80-90% of cluster headache cases). Reported as incidence of new episodes/diagnoses. Estimated ~15.5 per 100k based on headache epidemiology studies, with moderate confidence due to variable definitions of 'episodic' onset.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

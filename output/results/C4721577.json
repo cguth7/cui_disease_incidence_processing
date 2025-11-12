@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4721577",
+    "cui_name": "Stage IV esophageal cancer",
+    "incidence_per_100k": 3.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 280000,
+    "confidence": 0.75,
+    "is_subtype": true,
+    "parent_disease": "Esophageal cancer",
+    "reasoning": "Stage IV esophageal cancer represents approximately 50% of esophageal cancer diagnoses at presentation. Global esophageal cancer incidence from GLOBOCAN 2005 is approximately 6-7 per 100k, yielding approximately 3-4 per 100k for stage IV cases.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": true,
+    "data_year": 2005,
+    "source": "GLOBOCAN 2005 (IARC)",
+    "source_url": "https://gco.iarc.fr/",
+    "source_type": "registry"
+  }
+]

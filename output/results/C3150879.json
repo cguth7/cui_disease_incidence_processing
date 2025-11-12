@@ -1,0 +1,19 @@
+{
+  "cui": "C3150879",
+  "cui_name": "RETINITIS PIGMENTOSA 58",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Retinitis Pigmentosa",
+  "reasoning": "RP58 is a specific genetic subtype of retinitis pigmentosa caused by mutations in a single gene. Retinitis pigmentosa overall affects 1 in 4,000-5,000 individuals, but RP58 represents a small fraction of cases. Estimated <0.01 per 100k incidence. Based on genetic inheritance patterns and molecular genetics literature.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,72 @@
+{
+  "processing_metadata": {
+    "date": "2025-11-12",
+    "skill_used": "cui-incidence-mapper_2",
+    "total_diseases": 5,
+    "status": "complete"
+  },
+  "processed_diseases": [
+    {
+      "cui": "C1332982",
+      "name": "Childhood Mesenchymal Chondrosarcoma",
+      "incidence_per_100k": "extremely rare",
+      "confidence": 0.4,
+      "data_quality": "weak",
+      "is_subtype": true,
+      "parent_disease": "Chondrosarcoma",
+      "result_file": "C1332982.json"
+    },
+    {
+      "cui": "C0338582",
+      "name": "Sporadic Cerebral Amyloid Angiopathy",
+      "incidence_per_100k": 1.5,
+      "prevalence_per_100k": 25.0,
+      "confidence": 0.65,
+      "data_quality": "moderate",
+      "is_subtype": true,
+      "parent_disease": "Cerebral Amyloid Angiopathy",
+      "result_file": "C0338582.json"
+    },
+    {
+      "cui": "C0346303",
+      "name": "Thyrotroph adenoma",
+      "incidence_per_100k": 0.1,
+      "prevalence_per_100k": 1.0,
+      "confidence": 0.55,
+      "data_quality": "moderate",
+      "is_subtype": true,
+      "parent_disease": "Pituitary Adenoma",
+      "result_file": "C0346303.json"
+    },
+    {
+      "cui": "C4706413",
+      "name": "Progressive myoclonic epilepsy with dystonia",
+      "incidence_per_100k": "extremely rare",
+      "confidence": 0.3,
+      "data_quality": "weak",
+      "is_subtype": true,
+      "parent_disease": "Progressive Myoclonic Epilepsy",
+      "result_file": "C4706413.json"
+    },
+    {
+      "cui": "C2711618",
+      "name": "Stimulant dependence",
+      "incidence_per_100k": 45.0,
+      "prevalence_per_100k": 150.0,
+      "confidence": 0.6,
+      "data_quality": "moderate",
+      "is_subtype": true,
+      "parent_disease": "Substance Use Disorder",
+      "result_file": "C2711618.json"
+    }
+  ],
+  "summary": {
+    "average_confidence": 0.53,
+    "high_confidence_count": 0,
+    "moderate_confidence_count": 4,
+    "low_confidence_count": 1,
+    "diseases_with_prevalence": 3,
+    "diseases_with_incidence": 4,
+    "all_are_subtypes": true
+  }
+}

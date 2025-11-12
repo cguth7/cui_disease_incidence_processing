@@ -1,0 +1,19 @@
+{
+  "cui": "C0013312",
+  "cui_name": "Dupuytren Contracture",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": 45000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dupuytren contracture is a chronic progressive disease of hand connective tissue. Prevalence estimated at ~4.5% of population (45 per 100k) based on epidemiological studies. More commonly reported as prevalence than incidence due to chronic progressive nature.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2000,
+  "source": "Dinh P et al. (2012). The epidemiology, pathogenesis, and treatment of Dupuytren disease. J Hand Surg Am. 37(3):535-547",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22306417/",
+  "source_type": "literature"
+}

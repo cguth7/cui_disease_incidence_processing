@@ -1,0 +1,19 @@
+{
+  "cui": "C4476910",
+  "cui_name": "Thin-cap fibroatheroma",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Thin-cap fibroatheroma is a pathological descriptor of a vulnerable atherosclerotic plaque morphology rather than a clinical disease diagnosis. It represents a histological characteristic of advanced atherosclerosis defined by imaging or pathology, not a mappable disease entity. Cannot estimate incidence/prevalence without specifying the underlying vascular disease or patient population.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

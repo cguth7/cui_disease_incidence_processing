@@ -1,0 +1,19 @@
+{
+  "cui": "C1809471",
+  "cui_name": "Familial benign hypercalcemia",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Hypercalcemia",
+  "reasoning": "Familial benign hypercalcemia (FBH) is autosomal dominant condition with calcium-sensing receptor mutations (FHH type 1, 2, 3). Estimated incidence ~0.5-1 per 100k based on genetic studies and clinical series. Limited epidemiological data; prevalence appears relatively stable across populations due to genetic basis. Data primarily from endocrinology literature and genetic registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

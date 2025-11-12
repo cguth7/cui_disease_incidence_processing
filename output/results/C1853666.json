@@ -1,0 +1,19 @@
+{
+  "cui": "C1853666",
+  "cui_name": "Anemia, Diamond-Blackfan, 2",
+  "incidence_per_100k": 0.75,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 60000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Diamond-Blackfan Anemia",
+  "reasoning": "Rare autosomal dominant bone marrow failure syndrome with RPS19 gene mutations (DBA2). Global incidence approximately 5-10 per million births, equivalent to 0.5-1.0 per 100k births. Type 2 represents subset of DBA cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rare disease registries and genetic disorder literature",
+  "source_url": null,
+  "source_type": null
+}

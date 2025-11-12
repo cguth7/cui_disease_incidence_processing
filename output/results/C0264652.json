@@ -1,0 +1,19 @@
+{
+  "cui": "C0264652",
+  "cui_name": "Hypertensive heart failure",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 64000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Heart Failure",
+  "reasoning": "Hypertensive heart failure is a specific subtype of heart failure secondary to uncontrolled hypertension. Global heart failure prevalence is 2-3% (~2000-3000 per 100k); hypertensive etiology accounts for approximately 30-40% of cases. Prevalence estimate ~800 per 100k based on WHO epidemiological data and clinical studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Global Health Observatory and CDC cardiovascular epidemiology studies",
+  "source_url": null,
+  "source_type": "registry"
+}

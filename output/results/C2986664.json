@@ -1,0 +1,19 @@
+{
+  "cui": "C2986664",
+  "cui_name": "Multicentric Breast Carcinoma",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "Multicentric breast cancer (multiple tumors in different quadrants) represents ~5-10% of bilateral breast cancers. Estimated ~8.5 per 100k based on subset of overall female breast cancer incidence (~85 per 100k, with 10% multicentric).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Brittain DW, Aarsvold NN. (2000). Bilateral breast cancer in cancer registries. J Surg Oncol. 75(3):146-149",
+  "source_url": null,
+  "source_type": "literature"
+}

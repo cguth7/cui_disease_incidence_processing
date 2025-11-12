@@ -1,0 +1,19 @@
+{
+  "cui": "C3146252",
+  "cui_name": "Stage II Colorectal Cancer AJCC v7",
+  "incidence_per_100k": 8.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 656000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Cancer",
+  "reasoning": "AJCC v7 Stage II colorectal cancer incidence estimated from global colorectal cancer incidence (~20-25 per 100k) with Stage II comprising approximately 30-35% of cases at diagnosis. AJCC v7 staging has slightly different criteria than TNM alone, resulting in slightly lower Stage II estimate (~8.2 per 100k). Confidence reflects derivation from proportional staging rather than direct AJCC v7-specific registry.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

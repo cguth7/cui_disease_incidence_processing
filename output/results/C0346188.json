@@ -1,0 +1,19 @@
+{
+  "cui": "C0346188",
+  "cui_name": "Endodermal sinus tumor of ovary",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.70,
+  "is_subtype": true,
+  "parent_disease": "Ovarian germ cell tumor",
+  "reasoning": "Endodermal sinus tumors (yolk sac tumors) are the most common germ cell tumor of the ovary, typically affecting adolescents and young women. Ovarian germ cell tumors comprise ~3-5% of all ovarian cancers (incidence ~5 per 100k). Endodermal sinus tumors represent ~40% of these, giving ~0.3 per 100k. Based on cancer registry data and gynecologic oncology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cancer registries (GLOBOCAN, SEER) and gynecologic oncology epidemiology",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3150909",
+  "cui_name": "D-2-HYDROXYGLUTARIC ACIDURIA 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "D-2-Hydroxyglutaric aciduria",
+  "reasoning": "D-2-hydroxyglutaric aciduria type 2 (D2HGA) is an extremely rare autosomal recessive metabolic disorder. Overall D2HGA incidence is <0.1 per 100k live births. Type 2 represents a subset of D2HGA cases, with very few confirmed cases globally (<50 known cases). Incidence estimated <0.01 per 100k births based on case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kranendijk M et al. (2010). D-2-hydroxyglutaric aciduria: A novel disorder of metabolic and epigenetic signalling. J Inherit Metab Dis. 33(2):123-132",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1261175",
+  "cui_name": "Pontoneocerebellar hypoplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Cerebellar Hypoplasia",
+  "reasoning": "Rare genetic neurodevelopmental disorder affecting brainstem and cerebellum development. Estimated incidence <0.01 per 100k births based on limited case reports and genetic databases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Genetic disease registries and case reports",
+  "source_url": null,
+  "source_type": "literature"
+}

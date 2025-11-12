@@ -1,0 +1,19 @@
+{
+  "cui": "C0268197",
+  "cui_name": "Familial lipoprotein deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.30,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term for rare genetic lipoprotein disorders (e.g., Abetalipoproteinemia, LCAT deficiency, ApoA-I deficiency). Combined incidence extremely rare, <0.01 per 100k based on individual case reports. No systematic population-based epidemiological data; aggregate estimate of rare monogenic conditions.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

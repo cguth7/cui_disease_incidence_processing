@@ -1,0 +1,19 @@
+{
+  "cui": "C3150926",
+  "cui_name": "Congenital dyserythropoietic anemia type IV",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Congenital Dyserythropoietic Anemia",
+  "reasoning": "Congenital dyserythropoietic anemia (CDA) type IV is the rarest CDA subtype. Estimated <0.01 per 100k births globally with only a handful of cases reported in medical literature. Low confidence reflects extremely limited epidemiological data and reliance on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4748791",
+  "cui_name": "MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 19",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.05,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial Complex I Deficiency",
+  "reasoning": "Mitochondrial Complex I Deficiency due to nuclear gene mutations (Type 19) is an extremely rare genetic disorder. This is a specific genetic subtype among several types. Estimated prevalence <0.05 per 100k based on rarity of reported cases. Confidence very low due to extremely limited epidemiological data and reliance on isolated case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0752335",
+  "cui_name": "Neuropsychiatric Systemic Lupus Erythematosus",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 4.5,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Systemic Lupus Erythematosus",
+  "reasoning": "Neuropsychiatric manifestations (NPSLE) occur in 14-75% of SLE patients. Using prevalence base of ~30 per 100k SLE patients globally with NPSLE in ~15%, yields ~4.5 per 100k prevalence. Incidence estimate ~0.8 per 100k from subset of new SLE diagnoses developing NPSLE features.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ainiala H et al. (2005). The prevalence of neuropsychiatric syndromes in systemic lupus erythematosus. Neurology. 64(3):359-363",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15668314/",
+  "source_type": "literature"
+}

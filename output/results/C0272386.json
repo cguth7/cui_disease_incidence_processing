@@ -1,0 +1,19 @@
+{
+  "cui": "C0272386",
+  "cui_name": "Hypertrophy of tonsils",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.60,
+  "is_subtype": true,
+  "parent_disease": "Tonsillar disease",
+  "reasoning": "Tonsillar hypertrophy is best measured as prevalence (proportion with enlarged tonsils at any point in time), not incidence. Particularly common in children aged 3-7 years. WHO/epidemiological estimates suggest ~5% of pediatric population have clinically significant hypertrophy. Global estimate accounts for age-specific variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

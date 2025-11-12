@@ -1,0 +1,19 @@
+{
+  "cui": "C4528561",
+  "cui_name": "Anatomic Stage IV Breast Cancer AJCC v8",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "Stage IV (metastatic) breast cancer represents approximately 5-8% of incident breast cancer cases. Global breast cancer incidence ~65 per 100k; anatomic stage IV represents ~5.2 per 100k based on AJCC v8 staging criteria.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bray F et al. (2018). Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 68(6):394-424",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/30207593/",
+  "source_type": "literature"
+}

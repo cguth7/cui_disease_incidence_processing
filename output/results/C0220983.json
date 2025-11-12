@@ -1,0 +1,19 @@
+{
+  "cui": "C0220983",
+  "cui_name": "Metabolic Alkalosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Metabolic alkalosis is primarily a laboratory finding and secondary condition resulting from underlying diseases (e.g., vomiting, diuretic use, hypokalemia) rather than a primary diagnosis entity. No systematic incidence or prevalence data available. This represents a pathophysiological state rather than a discrete disease entity, making epidemiological quantification not meaningful.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

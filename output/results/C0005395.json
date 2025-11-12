@@ -1,0 +1,19 @@
+{
+  "cui": "C0005395",
+  "cui_name": "Bile Duct Diseases",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous to estimate meaningfully. Includes benign conditions (strictures, infections, obstruction) and malignant diseases (cholangiocarcinoma) with vastly different epidemiologies, clinical significance, and incidence rates. Individual subtypes (cholangitis, PSC, cholangiocarcinoma) should be queried separately for meaningful estimates.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

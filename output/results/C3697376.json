@@ -1,0 +1,19 @@
+{
+  "cui": "C3697376",
+  "cui_name": "Oculoskeletal dysplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.1,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Oculoskeletal dysplasia is a poorly defined umbrella term encompassing multiple rare genetic skeletal dysplasias with ocular manifestations. Too heterogeneous and vaguely defined to estimate meaningful incidence. Individual subtypes (e.g., Weyers acrofacial dysostosis, oculodentodigital dysplasia) have distinct incidences but aggregate is not clinically meaningful.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

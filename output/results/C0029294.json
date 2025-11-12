@@ -1,0 +1,19 @@
+{
+  "cui": "C0029294",
+  "cui_name": "Orofaciodigital Syndromes",
+  "incidence_per_100k": 9.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 720000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term covering 13+ distinct orofaciodigital syndrome types. Aggregate incidence estimate derived from literature range of 1:50,000 to 1:250,000 live births, converting midpoint estimate to ~9 per 100k. Type I is most common (X-linked dominant, 75% sporadic cases, predominantly affects females). Confidence moderate-low due to heterogeneity of umbrella term and wide range of reported estimates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet registry data; multiple literature sources reporting incidence range 1:50,000-1:250,000 live births",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&Expert=140997",
+  "source_type": "registry"
+}

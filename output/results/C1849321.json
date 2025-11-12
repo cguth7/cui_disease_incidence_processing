@@ -1,0 +1,19 @@
+{
+  "cui": "C1849321",
+  "cui_name": "Sandhoff Disease, Juvenile Type",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Sandhoff Disease",
+  "reasoning": "Sandhoff disease juvenile-onset form typically presents between ages 2-5 years. Overall Sandhoff incidence ~0.3-0.5 per 100k births. Juvenile form comprises approximately 15-25% of cases. Estimated juvenile-onset incidence: ~0.05-0.12 per 100k. Higher frequency in populations with higher Sandhoff prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mesch S et al. (2006). Prevalence of lysosomal storage disorders in Argentina: A nationwide multicenter study. Am J Med Genet A. 140A(16):1755-1761",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16933319/",
+  "source_type": "literature"
+}

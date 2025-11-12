@@ -1,0 +1,19 @@
+{
+  "cui": "C0021432",
+  "cui_name": "Infratentorial Neoplasms",
+  "incidence_per_100k": 7.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 576000,
+  "confidence": 0.26,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major infratentorial brain tumor types: cerebellar astrocytomas (~2.5 per 100k), medulloblastomas (~0.8 per 100k), brainstem gliomas (~1.2 per 100k), ependymomas (~0.6 per 100k), other infratentorial tumors (~2.1 per 100k) = ~7.2 per 100k. Umbrella term with significant heterogeneity between age groups (higher in pediatric populations) and regions. Low confidence due to aggregate estimation and clinical heterogeneity.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2005 brain tumor data aggregated by anatomical location; pediatric oncology registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

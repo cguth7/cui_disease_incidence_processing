@@ -1,0 +1,19 @@
+{
+  "cui": "C0022573",
+  "cui_name": "Keratoconjunctivitis",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Keratoconjunctivitis is a heterogeneous group of corneal-conjunctival inflammations with multiple etiologies (viral, bacterial, autoimmune). Global incidence estimated at ~45 per 100k based on various endemic and epidemic forms. Confidence limited by lack of unified epidemiological data and heterogeneous disease category.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

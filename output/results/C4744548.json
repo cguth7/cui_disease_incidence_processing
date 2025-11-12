@@ -1,0 +1,19 @@
+{
+  "cui": "C4744548",
+  "cui_name": "Metastatic Esophageal Carcinoma",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Esophageal Cancer",
+  "reasoning": "Metastatic esophageal carcinoma represents late-stage disease; ~40-50% of esophageal cancers present with metastatic spread at diagnosis. Global esophageal cancer incidence approximately 10-15 per 100k, with ~40-50% metastatic at presentation yields ~4-5 per 100k. Data limited to advanced stage estimates; no specific registry data for metastatic-only cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

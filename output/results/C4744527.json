@@ -1,0 +1,19 @@
+{
+  "cui": "C4744527",
+  "cui_name": "Temporal Lobe Pleomorphic Xanthoastrocytoma",
+  "incidence_per_100k": 0.26,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 20800,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Pleomorphic Xanthoastrocytoma",
+  "reasoning": "Rare primary CNS tumor. PXA accounts for <0.3% of primary CNS tumors with annual incidence <0.7 per 100,000. Temporal lobe is the most common location (37% of PXA cases per SEER data), yielding estimated incidence of 0.26 per 100,000 for temporal lobe specific subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "SEER (Surveillance, Epidemiology, and End Results Program) registry data; NCI Central Brain Tumor Registry",
+  "source_url": "https://www.cancer.gov/rare-brain-spine-tumor/tumors/pleomorphic-xanthroastrocytoma",
+  "source_type": "registry"
+}

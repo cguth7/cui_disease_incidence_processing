@@ -1,0 +1,19 @@
+{
+  "cui": "C2825560",
+  "cui_name": "S-Beta Thalassemia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hemoglobinopathies",
+  "reasoning": "S-beta thalassemia is a rare genetic compound heterozygote condition combining sickle cell and beta-thalassemia traits. Reported as prevalence (~0.5 per 100k globally) due to chronic lifelong nature. Limited epidemiological data available; confidence capped at 0.55 due to rarity and scarcity of systematic prevalence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

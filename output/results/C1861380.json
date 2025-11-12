@@ -1,0 +1,19 @@
+{
+  "cui": "C1861380",
+  "cui_name": "Syndactyly, Type I",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Syndactyly",
+  "reasoning": "Type I syndactyly (simple syndactyly affecting fingers 2-3) is the most common form of syndactyly. Estimated 8-9 per 100k live births based on birth defect registries. Syndactyly overall occurs in ~1:2000-1:2500 births (40-50 per 100k), with Type I being most common. Confidence moderate due to registry-based data and geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1881236",
+  "cui_name": "Interstitial Disease",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and generic to estimate meaningfully. 'Interstitial disease' could refer to interstitial lung disease (ILD), interstitial nephritis, interstitial fibrosis, or interstitial conditions in multiple organ systems. Without specification of organ system or disease type, aggregate estimation is not clinically meaningful.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1836681",
+  "cui_name": "Erythrokeratoderma, Reticular",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Erythrokeratoderma",
+  "reasoning": "Ultra-rare genetic keratinizing disorder with estimated prevalence of 1 in 2 million globally. Reticular form is a specific subtype within the broader erythrokeratoderma group. Reporting prevalence rather than incidence as this is a lifelong chronic genetic condition.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Medscape Emedicine, NORD (National Organization for Rare Disorders), Orphanet rare disease database",
+  "source_url": "https://rarediseases.org/rare-diseases/erythrokeratoderma/",
+  "source_type": "estimate"
+}

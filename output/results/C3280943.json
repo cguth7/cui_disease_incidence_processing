@@ -1,0 +1,19 @@
+{
+  "cui": "C3280943",
+  "cui_name": "ATRIAL SEPTAL DEFECT 9",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Atrial Septal Defect",
+  "reasoning": "ASD is the most common congenital heart defect, ~1.4-2.5 per 1000 live births (140-250 per 100k). ASD9 is a specific genetic form caused by TBX5 mutations. As a molecularly-defined subtype, ASD9 represents subset of overall ASD incidence. Estimated 10-30% of familial ASDs may have genetic basis. Conservative estimate for ASD9 specific form: ~150 per 100k based on ASD prevalence with adjustments for genetic subtype frequency.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Schott JJ et al. (1998). Congenital heart disease caused by mutations in the transcription factor NKX2-5. Am J Hum Genet. 63(6):1723-1729",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/9837825/",
+  "source_type": "literature"
+}

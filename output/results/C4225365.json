@@ -1,0 +1,19 @@
+{
+  "cui": "C4225365",
+  "cui_name": "MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 13",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Maturity-Onset Diabetes of the Young (MODY)",
+  "reasoning": "MODY type 13 is an extremely rare monogenic form of diabetes caused by mutations in the KCNJ11 gene. Represents <0.01% of all diabetes cases and <0.001 per 100k globally. Very limited epidemiological data; estimates based on genetic research and case reports only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

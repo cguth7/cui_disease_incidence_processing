@@ -1,0 +1,19 @@
+{
+  "cui": "C0038131",
+  "cui_name": "Stammering",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 600000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Stammering (stuttering) is a speech fluency disorder affecting 0.5-1% of the general population. Using prevalence metric as appropriate for chronic developmental speech disorder. Global prevalence estimated at 0.75% (~7,500 per 100k) based on population epidemiological studies and speech-language pathology surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

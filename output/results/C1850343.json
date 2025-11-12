@@ -1,0 +1,19 @@
+{
+  "cui": "C1850343",
+  "cui_name": "Mosaic variegated aneuploidy syndrome 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Aneuploidy Syndromes",
+  "reasoning": "MVA1 is an extremely rare genetic disorder with fewer than 50 cases reported in medical literature. Inheritance pattern autosomal recessive (CHAF1A mutations). Based on case report frequency, estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports in medical literature; OMIM #614617",
+  "source_url": null,
+  "source_type": "estimate"
+}

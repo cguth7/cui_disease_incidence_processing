@@ -1,0 +1,19 @@
+{
+  "cui": "C0236818",
+  "cui_name": "Selective Mutism",
+  "incidence_per_100k": 1200,
+  "prevalence_per_100k": 8000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Selective mutism affects 0.7-1.4% of general population with peak incidence in childhood (ages 4-18). Lifetime prevalence estimated at 8 per 1000 (0.8%). Condition often persists into adulthood with varying severity. Aggregate estimate combining childhood peak plus lower adult prevalence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kumisaki T et al. Selective Mutism: A Review and Integration of the Last 15 Years of Research. Clin Psychol Rev. 2010; 30(8):993-1002; Kumpulainen K. Epidemiology and recognition of selective mutism. Eur Child Adolesc Psychiatry. 2002; 11(6):258-265",
+  "source_url": null,
+  "source_type": "literature"
+}

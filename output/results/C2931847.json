@@ -1,0 +1,19 @@
+{
+  "cui": "C2931847",
+  "cui_name": "Type I familial incomplete male pseudohermaphroditism",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Disorder of Sex Development",
+  "reasoning": "Extremely rare genetic condition affecting sexual development. No systematic epidemiological data available; estimate based on case report frequency suggests <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

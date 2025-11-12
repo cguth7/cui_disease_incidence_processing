@@ -1,0 +1,19 @@
+{
+  "cui": "C1283601",
+  "cui_name": "Deficiency of sulfatase",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Lysosomal storage disorders",
+  "reasoning": "Sulfatase deficiency includes multiple very rare lysosomal storage disorders (MLD, Austin disease, metachromatic leukodystrophy variants). Combined incidence <0.01 per 100k births. No single unified epidemiological study; based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

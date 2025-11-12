@@ -1,0 +1,19 @@
+{
+  "cui": "C3280785",
+  "cui_name": "VENTRICULAR SEPTAL DEFECT 3",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Ventricular septal defect",
+  "reasoning": "VSD3 appears to be a rare genetic form of ventricular septal defect (likely referring to familial or syndromic VSD with specific genetic basis). Rare genetic subtypes of congenital heart defects typically account for <5% of all VSDs. Limited epidemiological data available; estimated <10 per 100k births based on genetic form frequency. Confidence limited by lack of specific epidemiological characterization.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

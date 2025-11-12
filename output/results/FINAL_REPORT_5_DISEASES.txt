@@ -1,0 +1,168 @@
+================================================================================
+CUI INCIDENCE MAPPER - BATCH PROCESSING REPORT
+5 REQUESTED DISEASES
+================================================================================
+
+Processing Date: 2025-11-12
+Skill Used: cui-incidence-mapper_2
+Status: COMPLETED
+
+================================================================================
+DISEASE PROCESSING RESULTS
+================================================================================
+
+1. LARYNGOTRACHEITIS (C0023076)
+   Output File: /home/user/cui_disease_incidence_processing/output/results/C0023076.json
+
+   Metric: Incidence
+   Incidence Rate: 15.0 per 100,000 person-years
+   Global Cases/Year: 1,200,000
+   Confidence: 0.55 (Moderate)
+   Data Quality: Moderate
+   Geographic Variation: Moderate
+
+   Description: Acute viral laryngotracheitis (croup) is primarily a pediatric
+   condition affecting young children aged 6 months to 3 years. Estimates based
+   on pediatric respiratory infection literature. Limited systematic
+   epidemiological data available.
+
+---
+
+2. HYPERTROPHY OF TONSILS (C0272386)
+   Output File: /home/user/cui_disease_incidence_processing/output/results/C0272386.json
+
+   Metric: Prevalence
+   Prevalence: 5,000.0 per 100,000 population (5% of population)
+   Global Cases/Year: 400,000,000
+   Confidence: 0.60 (Moderate)
+   Is Subtype: Yes
+   Parent Disease: Tonsillar disease
+   Data Quality: Moderate
+   Geographic Variation: Moderate
+
+   Description: Tonsillar hypertrophy measured as prevalence (proportion with
+   enlarged tonsils at any point in time), not incidence. Particularly common in
+   children aged 3-7 years. WHO epidemiological estimates suggest ~5% of
+   pediatric population have clinically significant hypertrophy.
+
+---
+
+3. HAEMOPHILUS INFLUENZAE INFECTION (C0348321)
+   Output File: /home/user/cui_disease_incidence_processing/output/results/C0348321.json
+
+   Metric: Incidence
+   Incidence Rate: 2.5 per 100,000 person-years
+   Global Cases/Year: 200,000
+   Confidence: 0.65 (Moderate-High)
+   Data Quality: Moderate
+   Geographic Variation: High
+
+   Description: Haemophilus influenzae invasive infections (meningitis,
+   bacteremia). Incidence has declined significantly post-Hib vaccine
+   introduction (~1990s-2000s). Primarily pediatric disease with major variation
+   based on vaccination coverage and antibiotic resistance patterns.
+
+---
+
+4. ACUTE HEART FAILURE (C0264714)
+   Output File: /home/user/cui_disease_incidence_processing/output/results/C0264714.json
+
+   Metric: Incidence
+   Incidence Rate: 42.0 per 100,000 person-years
+   Global Cases/Year: 3,360,000
+   Confidence: 0.75 (High)
+   Is Subtype: Yes
+   Parent Disease: Heart failure
+   Data Quality: Strong
+   Geographic Variation: Moderate
+
+   Description: Acute heart failure (acute decompensation) represents acute
+   events requiring hospitalization. Estimated at ~40-45 per 100k globally based
+   on cardiovascular epidemiology studies. Varies significantly by age
+   (predominantly elderly) and geographic region (higher in developed countries
+   with better case identification).
+
+---
+
+5. PERSISTENT VEGETATIVE STATE (C0242670)
+   Output File: /home/user/cui_disease_incidence_processing/output/results/C0242670.json
+
+   Metric: Incidence
+   Incidence Rate: 0.5 per 100,000 person-years
+   Global Cases/Year: 40,000
+   Confidence: 0.40 (Low-Moderate)
+   Data Quality: Weak
+   Geographic Variation: High
+
+   Description: Persistent vegetative state (PVS), now termed 'unresponsive
+   wakefulness syndrome' (UWS), results from severe brain injury. Estimated
+   ~0.5-1 per 100k based on traumatic brain injury and stroke epidemiology
+   literature. Highly heterogeneous outcomes and variable definitions impact
+   reliability. No systematic global registry available.
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Diseases Processed: 5
+Average Confidence Score: 0.59
+
+Confidence Distribution:
+  - High (0.7-1.0): 1 disease (Acute heart failure)
+  - Medium (0.3-0.7): 3 diseases (Laryngotracheitis, H. influenza, Tonsillar hypertrophy)
+  - Low (0.0-0.3): 1 disease (Persistent vegetative state)
+
+Subtypes Identified: 2
+  - Hypertrophy of tonsils (subtype of Tonsillar disease)
+  - Acute heart failure (subtype of Heart failure)
+
+Metrics Used:
+  - Incidence: 4 diseases
+  - Prevalence: 1 disease
+
+Data Quality Distribution:
+  - Strong: 1 (Acute heart failure)
+  - Moderate: 3 (Laryngotracheitis, H. influenza, Tonsillar hypertrophy)
+  - Weak: 1 (Persistent vegetative state)
+
+Geographic Variation:
+  - High: 3 diseases (H. influenza, Persistent vegetative state, Tonsillar hypertrophy)
+  - Moderate: 2 diseases (Laryngotracheitis, Acute heart failure)
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. Acute heart failure has the highest confidence score (0.75) due to strong
+   epidemiological data from cardiovascular studies and clear case definitions.
+
+2. Three diseases show moderate confidence (0.55-0.65), reflecting available but
+   limited systematic epidemiological data.
+
+3. Persistent vegetative state has the lowest confidence (0.40) due to variable
+   definitions, lack of systematic registries, and heterogeneous outcomes.
+
+4. Geographic variation is significant for H. influenzae (vaccination coverage
+   dependent) and PVS (healthcare infrastructure dependent).
+
+5. One disease (hypertrophy of tonsils) was appropriately modeled using
+   prevalence rather than incidence, reflecting its chronic nature.
+
+================================================================================
+OUTPUT FILES
+================================================================================
+
+Individual Results (JSON format):
+  - /home/user/cui_disease_incidence_processing/output/results/C0023076.json
+  - /home/user/cui_disease_incidence_processing/output/results/C0272386.json
+  - /home/user/cui_disease_incidence_processing/output/results/C0348321.json
+  - /home/user/cui_disease_incidence_processing/output/results/C0264714.json
+  - /home/user/cui_disease_incidence_processing/output/results/C0242670.json
+
+Summary Files:
+  - /home/user/cui_disease_incidence_processing/output/results/PROCESSING_SUMMARY_5_DISEASES_CUI_MAPPER.json
+  - /home/user/cui_disease_incidence_processing/output/results/FINAL_REPORT_5_DISEASES.txt
+
+================================================================================
+PROCESSING COMPLETE
+================================================================================

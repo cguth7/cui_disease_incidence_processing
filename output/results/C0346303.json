@@ -1,0 +1,19 @@
+{
+  "cui": "C0346303",
+  "cui_name": "Thyrotroph adenoma",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": 1.0,
+  "metric_type": "both",
+  "total_cases_per_year": 8000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Pituitary Adenoma",
+  "reasoning": "Thyrotroph adenomas (TSH-secreting adenomas) comprise approximately 1-2% of all pituitary adenomas. With overall pituitary adenoma incidence of ~5 per 100k, thyrotroph adenomas represent approximately 0.05-0.1 per 100k incidence. Prevalence estimated at 1 per 100k based on pituitary tumor registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Ezzat S et al. (2004). The epidemiology of pituitary adenomas in Newfoundland and Labrador, Canada. J Clin Endocrinol Metab. 89(5):2124-2129",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15126529/",
+  "source_type": "literature"
+}

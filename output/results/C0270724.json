@@ -1,0 +1,19 @@
+{
+  "cui": "C0270724",
+  "cui_name": "Infantile Neuroaxonal Dystrophy",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Infantile neuroaxonal dystrophy (INAD/Seitelberger disease) is an extremely rare autosomal recessive neurogenetic disorder caused by PLA2G6 mutations. Fewer than 150 cases documented worldwide. Onset typically 6-18 months with rapid neurological regression. No systematic epidemiological data exists; disease tracked primarily through case reports and rare disease registries. Confidence reflects extreme rarity and absence of population-based incidence studies.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "NINDS, Orphanet rare disease database, NORD PLA2G6-Associated Neurodegeneration registry",
+  "source_url": "https://www.ninds.nih.gov/health-information/disorders/infantile-neuroaxonal-dystrophy",
+  "source_type": "registry"
+}

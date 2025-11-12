@@ -1,0 +1,19 @@
+{
+  "cui": "C1838577",
+  "cui_name": "Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CARASIL is an extremely rare genetic cerebrovascular disorder caused by HTRA1 mutations with <100 confirmed cases worldwide in medical literature. Estimated <0.001 per 100k. Confidence limited by minimal epidemiological data and case report-based evidence only.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

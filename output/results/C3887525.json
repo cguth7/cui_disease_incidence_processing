@@ -1,0 +1,19 @@
+{
+  "cui": "C3887525",
+  "cui_name": "Keratosis Follicularis Spinulosa Decalvans, X-Linked",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare X-linked genodermatosis caused by mutations in MBTPS2 gene on chromosome Xp22. No population-based incidence or prevalence data available. Literature review over 50 years identified only ~43 published cases globally, indicating prevalence much less than 0.1 per 100k. Characterized by keratosis pilaris, progressive scarring alopecia, and other findings with predominance in affected males.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

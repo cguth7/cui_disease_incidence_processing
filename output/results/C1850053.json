@@ -1,0 +1,19 @@
+{
+  "cui": "C1850053",
+  "cui_name": "Pelizaeus-Merzbacher-like disease, autosomal recessive, 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Pelizaeus-Merzbacher disease",
+  "reasoning": "Extremely rare autosomal recessive genetic disorder affecting myelin formation. Incidence <0.01 per 100k births based on sparse case reports in medical literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0153453",
+  "cui_name": "Malignant tumor of extrahepatic bile duct",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Extrahepatic cholangiocarcinoma incidence ~0.8-1.0 per 100k from GLOBOCAN and WHO data, accounting for approximately 30-40% of all cholangiocarcinoma cases. Global incidence with significant geographic variation, higher in Southeast Asia due to parasitic infections (opisthorchiasis).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) estimates for bile duct cancer",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

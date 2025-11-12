@@ -1,0 +1,19 @@
+{
+  "cui": "C0152517",
+  "cui_name": "Viral gastroenteritis",
+  "incidence_per_100k": 2850,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 228000000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute viral infectious disease with high incidence globally. Estimated incidence of ~2850 per 100k person-years based on WHO surveillance data and epidemiological studies of viral gastroenteritis. Significant geographic and seasonal variation; estimates include rotavirus, norovirus, and enteroviruses. Incidence varies substantially by age (much higher in children <5 years) and region.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Global Burden of Disease estimates; multiple epidemiological studies from developed and developing countries",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0850918",
+  "cui_name": "Degeneration of spine",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic degenerative spine condition with prevalence increasing with age. Estimated ~8.5% population prevalence based on epidemiological studies of adult spine disease. No specific incidence data; chronic condition approach using prevalence is most appropriate.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

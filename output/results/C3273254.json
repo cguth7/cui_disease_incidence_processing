@@ -1,0 +1,19 @@
+{
+  "cui": "C3273254",
+  "cui_name": "Arterionephrosclerosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Renal Artery Diseases / Arteriosclerotic Kidney Disease",
+  "reasoning": "Arterionephrosclerosis (renal artery atherosclerosis/arteriosclerotic renal disease) prevalence estimated at 0.8-1.2% in general population, with higher prevalence in hypertensive and diabetic populations. Using conservative estimate of ~800 per 100k. Confidence lowered due to terminology ambiguity and varied clinical definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

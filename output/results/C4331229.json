@@ -1,0 +1,19 @@
+{
+  "cui": "C4331229",
+  "cui_name": "Recurrent Glioma",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Glioma",
+  "reasoning": "Recurrent gliomas represent cases with recurrence after initial treatment. All gliomas have ~5-6 per 100k incidence globally; recurrent cases comprise approximately 60-70% of treated cases. Estimated ~4.5 per 100k as recurrent disease. Based on cancer registry data and neuro-oncology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Global cancer registries and neuro-oncology epidemiology studies",
+  "source_url": null,
+  "source_type": "literature"
+}

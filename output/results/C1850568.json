@@ -1,0 +1,19 @@
+{
+  "cui": "C1850568",
+  "cui_name": "Nakajo syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Nakajo syndrome (also known as autoinflammatory osteomyelitis) is an extremely rare autosomal recessive autoinflammatory disorder. Fewer than 50 cases reported in literature, primarily from Japan and other East Asian populations. Estimated <0.01 per 100k. No systematic epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

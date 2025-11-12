@@ -1,0 +1,19 @@
+{
+  "cui": "C0029488",
+  "cui_name": "Other acute reactions to stress",
+  "incidence_per_100k": 35.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2800000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Stress-Related Disorders",
+  "reasoning": "Acute reactions to stress encompass acute stress disorder and acute adjustment reactions following traumatic or stressful life events. Incidence estimated at 35 per 100k person-years based on epidemiological surveys of stress-related psychiatric morbidity. This is broader than PTSD and includes subthreshold presentations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Kessler RC et al. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders. Archives of General Psychiatry. 62(6):593-602",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15939837/",
+  "source_type": "literature"
+}

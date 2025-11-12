@@ -1,0 +1,19 @@
+{
+  "cui": "C1998083",
+  "cui_name": "Inflammatory acne",
+  "incidence_per_100k": 5000,
+  "prevalence_per_100k": 15000,
+  "metric_type": "both",
+  "total_cases_per_year": 400000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Acne",
+  "reasoning": "Inflammatory acne represents subset of acne cases. Population-based estimates suggest 5-15% prevalence in adolescents/young adults. Using conservative incidence estimate of ~5000 per 100k based on dermatology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Strauss JS et al. Acne pathophysiology. Dermatology textbook references",
+  "source_url": null,
+  "source_type": "literature"
+}

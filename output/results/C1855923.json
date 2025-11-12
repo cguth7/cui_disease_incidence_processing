@@ -1,0 +1,19 @@
+{
+  "cui": "C1855923",
+  "cui_name": "Hyperphosphatasia with Mental Retardation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ultra-rare autosomal recessive genetic disorder (Mabry syndrome) with prevalence <1 in 1,000,000. Characterized by moderate-to-severe intellectual disability, dysmorphic features, hypotonia, seizures, and persistent hyperphosphatasia. Multiple genes implicated (PIGL, PGAP2, PGAP3, and others). Extremely limited epidemiological data; estimated ~20 individuals with PGAP2 variants documented globally.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet database, multiple PMC case reports and reviews (Diagnostic Pathology 2019, PMC 2023)",
+  "source_url": "https://www.orpha.net/en/disease/detail/247262",
+  "source_type": "registry"
+}

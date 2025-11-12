@@ -1,0 +1,19 @@
+{
+  "cui": "C4049395",
+  "cui_name": "Chronic hepatitis C genotype 2",
+  "incidence_per_100k": 0.6,
+  "prevalence_per_100k": 480,
+  "metric_type": "both",
+  "total_cases_per_year": 48000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Chronic Hepatitis C",
+  "reasoning": "Genotype 2 comprises approximately 15-20% of global HCV infections. Using estimated HCV incidence of ~3-5 per 100k and prevalence of ~2400-3000 per 100k. Genotype 2 = ~18% of total. Well-documented viral infection with strong epidemiological surveillance, but genotype-specific prevalence data has geographic variation and some uncertainty in estimates.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

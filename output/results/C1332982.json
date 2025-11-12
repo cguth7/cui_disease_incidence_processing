@@ -1,0 +1,19 @@
+{
+  "cui": "C1332982",
+  "cui_name": "Childhood Mesenchymal Chondrosarcoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Chondrosarcoma",
+  "reasoning": "Mesenchymal chondrosarcoma is a very rare subtype of chondrosarcoma, typically occurring in young patients. Estimated <0.5 per million (approximately <0.005 per 100k) based on sarcoma registries and case series. Childhood variant represents only a fraction of total cases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bovee JVMG et al. (2010). Chondrosarcoma. In: Pathology and Genetics of Tumours of Soft Tissue and Bone. WHO Classification of Tumours. IARC Press.",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2237660",
+  "cui_name": "exudative macular degeneration",
+  "incidence_per_100k": 5.8,
+  "prevalence_per_100k": 280,
+  "metric_type": "both",
+  "total_cases_per_year": 464000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Age-related Macular Degeneration",
+  "reasoning": "Exudative (wet) AMD accounts for ~10% of all AMD cases but 80% of severe vision loss. Global AMD prevalence ~280 per 100k in 50+ population. Wet AMD affects ~28 per 100k in this age group. Annual incidence of wet AMD conversion from dry AMD ~5.8 per 100k. Both metrics reported as this is chronic condition with incident cases.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Wong WL et al. (2014). Global prevalence of age-related macular degeneration and disease burden projection. Lancet. 384(9941):254-266",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23541088/",
+  "source_type": "literature"
+}

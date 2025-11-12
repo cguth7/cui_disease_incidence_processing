@@ -1,0 +1,19 @@
+{
+  "cui": "C1836155",
+  "cui_name": "Myopathy, Myofibrillar, Zasp-Related",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Myofibrillar myopathy",
+  "reasoning": "ZASP-related myofibrillar myopathy is an extremely rare genetic muscle disorder caused by ZASP gene mutations. Myofibrillar myopathies collectively are estimated at <1 per 100k prevalence, with ZASP mutations representing a small fraction. Using prevalence for this lifelong genetic condition. Very limited epidemiological data; mostly case reports and single-center cohorts.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Selcen D. (2011). Myofibrillar myopathies. Neuromuscul Disord. 21(3):161-71",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21256746/",
+  "source_type": "literature"
+}

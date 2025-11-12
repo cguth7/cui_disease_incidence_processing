@@ -1,0 +1,19 @@
+{
+  "cui": "C1504568",
+  "cui_name": "Stenosis of middle cerebral artery",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Cerebral vascular stenosis",
+  "reasoning": "MCA stenosis is a chronic vascular condition measured by prevalence, not incidence. Estimated ~8% prevalence in population-based imaging studies, but asymptomatic cases often undetected. Limited to prevalence data with moderate geographic variation due to stroke risk factors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cerebral vascular disease epidemiology from neuroimaging surveys",
+  "source_url": null,
+  "source_type": "estimate"
+}

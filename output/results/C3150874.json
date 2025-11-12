@@ -1,0 +1,19 @@
+{
+  "cui": "C3150874",
+  "cui_name": "CRANIOECTODERMAL DYSPLASIA 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Cranioectodermal dysplasia",
+  "reasoning": "CED2 is a specific genetic subtype of cranioectodermal dysplasia, autosomal recessive. Extremely rare with <100 known cases globally. Estimated prevalence <0.1 per 100k. Confidence low due to very limited epidemiological data, relying primarily on case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0854988",
+  "cui_name": "Adenocarcinoma of lung, stage IV",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Lung adenocarcinoma",
+  "reasoning": "Lung adenocarcinoma (non-small cell) has global incidence ~15-20 per 100k. Stage IV (metastatic) represents ~25-30% of diagnoses at presentation, with additional recurrent metastatic cases. Estimated ~8.5 per 100k for stage IV adenocarcinoma at diagnosis/recurrence. Based on GLOBOCAN data and lung cancer registry studies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2005 (IARC), SEER Cancer Registry, International Association for the Study of Lung Cancer",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

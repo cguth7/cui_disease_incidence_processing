@@ -1,0 +1,19 @@
+{
+  "cui": "C1955741",
+  "cui_name": "Glucocorticoid deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Adrenal Insufficiency",
+  "reasoning": "Isolated glucocorticoid deficiency is a rare form of primary adrenal insufficiency (mutations in MCII gene). Distinct from complete Addison's disease. No population-based epidemiological data available. Prevalence estimated <0.001 per 100k based on genetic studies, but data is sparse and comes primarily from case reports and genetic research.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

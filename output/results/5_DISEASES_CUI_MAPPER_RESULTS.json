@@ -1,0 +1,79 @@
+{
+  "processing_summary": {
+    "timestamp": "2025-11-12T15:44:00Z",
+    "total_diseases_processed": 5,
+    "skill_used": "cui-incidence-mapper_2",
+    "output_format": "Individual JSON files"
+  },
+  "results": [
+    {
+      "cui": "C1850343",
+      "disease_name": "Mosaic variegated aneuploidy syndrome 1",
+      "status": "processed",
+      "file_path": "/home/user/cui_disease_incidence_processing/output/results/C1850343.json",
+      "confidence": 0.25,
+      "disease_type": "Rare genetic disorder - extremely rare",
+      "metric_type": "incidence",
+      "data_quality": "weak"
+    },
+    {
+      "cui": "C4551504",
+      "disease_name": "Oculocutaneous albinism type 1A",
+      "status": "processed",
+      "file_path": "/home/user/cui_disease_incidence_processing/output/results/C4551504.json",
+      "confidence": 0.65,
+      "disease_type": "Rare genetic disorder",
+      "metric_type": "both",
+      "incidence_per_100k": 1.5,
+      "prevalence_per_100k": 12,
+      "data_quality": "moderate"
+    },
+    {
+      "cui": "C2675055",
+      "disease_name": "BEST VITELLIFORM MACULAR DYSTROPHY, MULTIFOCAL (disorder)",
+      "status": "processed",
+      "file_path": "/home/user/cui_disease_incidence_processing/output/results/C2675055.json",
+      "confidence": 0.45,
+      "disease_type": "Rare inherited retinal dystrophy",
+      "metric_type": "prevalence",
+      "prevalence_per_100k": 2.5,
+      "data_quality": "moderate"
+    },
+    {
+      "cui": "C1456326",
+      "disease_name": "Selective mutism specific to childhood and adolescence",
+      "status": "processed",
+      "file_path": "/home/user/cui_disease_incidence_processing/output/results/C1456326.json",
+      "confidence": 0.70,
+      "disease_type": "Child/adolescent psychiatric condition",
+      "metric_type": "prevalence",
+      "prevalence_per_100k": 7000,
+      "data_quality": "moderate"
+    },
+    {
+      "cui": "C0236818",
+      "disease_name": "Selective Mutism",
+      "status": "processed",
+      "file_path": "/home/user/cui_disease_incidence_processing/output/results/C0236818.json",
+      "confidence": 0.72,
+      "disease_type": "Psychiatric condition",
+      "metric_type": "prevalence",
+      "prevalence_per_100k": 8000,
+      "data_quality": "moderate"
+    }
+  ],
+  "confidence_distribution": {
+    "high (0.7-1.0)": 2,
+    "medium (0.4-0.7)": 2,
+    "low (0.2-0.4)": 1
+  },
+  "disease_categories": {
+    "genetic_disorders": 2,
+    "psychiatric_conditions": 2,
+    "retinal_dystrophies": 1
+  },
+  "hierarchy_findings": {
+    "subtypes_identified": 4,
+    "parent_terms_identified": 3
+  }
+}

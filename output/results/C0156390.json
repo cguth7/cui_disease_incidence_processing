@@ -1,0 +1,19 @@
+{
+  "cui": "C0156390",
+  "cui_name": "Polyp of vagina",
+  "incidence_per_100k": 8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Vaginal neoplasm",
+  "reasoning": "Vaginal polyps are benign lesions of the vagina, distinct from malignant vaginal neoplasms. Estimated incidence ~8 per 100k based on gynecology clinic referral patterns and limited published case series. Low confidence due to lack of systematic epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

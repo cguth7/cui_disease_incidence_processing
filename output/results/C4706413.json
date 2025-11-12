@@ -1,0 +1,19 @@
+{
+  "cui": "C4706413",
+  "cui_name": "Progressive myoclonic epilepsy with dystonia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Progressive Myoclonic Epilepsy",
+  "reasoning": "Progressive myoclonic epilepsy with dystonia is an extremely rare genetic neurological disorder. Progressive myoclonic epilepsies collectively affect approximately 0.2-1 per 100k, with this specific phenotype representing a small fraction. Estimated <0.1 per 100k based on case reports and genetic registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

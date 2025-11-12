@@ -1,0 +1,19 @@
+{
+  "cui": "C0393590",
+  "cui_name": "Fahr's syndrome (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Basal Ganglia Calcification Disorder",
+  "reasoning": "Rare autosomal dominant disorder with idiopathic basal ganglia calcification (IBGC/Fahr disease). Estimated incidence <0.01 per 100k based on sporadic case reports and small family studies. No population-based epidemiological studies available. Data limited to case reports and clinical series.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0280301",
+  "cui_name": "Hard Palate Squamous Cell Carcinoma",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 168000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Oral Squamous Cell Carcinoma",
+  "reasoning": "Specific anatomical subtype of oral cancer. Global oral cancer incidence ~5 per 100k; hard palate represents ~40% of intraoral sites, estimated at 2.1 per 100k. Limited site-specific epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

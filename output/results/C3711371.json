@@ -1,0 +1,19 @@
+{
+  "cui": "C3711371",
+  "cui_name": "Spastic Paraplegia Type 4",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 168000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Spastic Paraplegia",
+  "reasoning": "SPG4 is the most common autosomal dominant form of hereditary spastic paraplegia (HSP). Total HSP prevalence 3-10 per 100k; SPG4 represents ~20-30% of autosomal dominant cases. Estimated prevalence ~2 per 100k. Better characterized than many rare genetic disorders through genetic registries and neurology studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hereditary Spastic Paraplegia registries and genetic studies",
+  "source_url": null,
+  "source_type": "registry"
+}

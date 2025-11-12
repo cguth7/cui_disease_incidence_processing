@@ -1,0 +1,19 @@
+{
+  "cui": "C0265987",
+  "cui_name": "Nevus comedonicus",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Nevus (skin lesion)",
+  "reasoning": "Nevus comedonicus is an extremely rare benign skin malformation characterized by comedo-like lesions. Prevalence reported at <0.5 per 100k population. Very limited epidemiological data available; mostly documented through case reports and small case series. Not a common clinical condition.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

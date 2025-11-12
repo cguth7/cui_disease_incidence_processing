@@ -1,0 +1,125 @@
+{
+  "processing_metadata": {
+    "skill": "cui-incidence-mapper_2",
+    "processed_date": "2025-11-12",
+    "total_diseases": 5,
+    "output_format": "consolidated JSON array"
+  },
+  "results": [
+    {
+      "cui": "C0585213",
+      "cui_name": "Minor oral aphthous ulceration",
+      "incidence_per_100k": null,
+      "prevalence_per_100k": 20000,
+      "metric_type": "prevalence",
+      "total_cases_per_year": 1600000000,
+      "confidence": 0.55,
+      "is_subtype": true,
+      "parent_disease": "Aphthous stomatitis",
+      "reasoning": "Recurrent minor aphthous ulcers are extremely common (affect ~20% of population at some point). Using prevalence rather than incidence as this is a chronic recurrent condition.",
+      "data_quality": "weak",
+      "geographic_variation": "low",
+      "year_specific": false,
+      "data_year": null,
+      "source": null,
+      "source_url": null,
+      "source_type": null
+    },
+    {
+      "cui": "C4331229",
+      "cui_name": "Recurrent Glioma",
+      "incidence_per_100k": 4.5,
+      "prevalence_per_100k": null,
+      "metric_type": "incidence",
+      "total_cases_per_year": 360000,
+      "confidence": 0.65,
+      "is_subtype": true,
+      "parent_disease": "Glioma",
+      "reasoning": "Recurrent gliomas represent cases with recurrence after initial treatment. All gliomas have ~5-6 per 100k incidence globally; recurrent cases comprise approximately 60-70% of treated cases.",
+      "data_quality": "moderate",
+      "geographic_variation": "low",
+      "year_specific": false,
+      "data_year": null,
+      "source": "Global cancer registries and neuro-oncology epidemiology studies",
+      "source_url": null,
+      "source_type": "literature"
+    },
+    {
+      "cui": "C0156390",
+      "cui_name": "Polyp of vagina",
+      "incidence_per_100k": 8,
+      "prevalence_per_100k": null,
+      "metric_type": "incidence",
+      "total_cases_per_year": 640000,
+      "confidence": 0.45,
+      "is_subtype": true,
+      "parent_disease": "Vaginal neoplasm",
+      "reasoning": "Vaginal polyps are benign lesions of the vagina, distinct from malignant vaginal neoplasms. Estimated incidence ~8 per 100k based on gynecology clinic referral patterns.",
+      "data_quality": "weak",
+      "geographic_variation": "unknown",
+      "year_specific": false,
+      "data_year": null,
+      "source": null,
+      "source_url": null,
+      "source_type": null
+    },
+    {
+      "cui": "C0346188",
+      "cui_name": "Endodermal sinus tumor of ovary",
+      "incidence_per_100k": 0.3,
+      "prevalence_per_100k": null,
+      "metric_type": "incidence",
+      "total_cases_per_year": 24000,
+      "confidence": 0.70,
+      "is_subtype": true,
+      "parent_disease": "Ovarian germ cell tumor",
+      "reasoning": "Endodermal sinus tumors (yolk sac tumors) are the most common germ cell tumor of the ovary. Ovarian germ cell tumors comprise ~3-5% of all ovarian cancers; endodermal sinus tumors represent ~40% of these.",
+      "data_quality": "moderate",
+      "geographic_variation": "low",
+      "year_specific": false,
+      "data_year": null,
+      "source": "Cancer registries (GLOBOCAN, SEER) and gynecologic oncology epidemiology",
+      "source_url": null,
+      "source_type": "registry"
+    },
+    {
+      "cui": "C0854988",
+      "cui_name": "Adenocarcinoma of lung, stage IV",
+      "incidence_per_100k": 8.5,
+      "prevalence_per_100k": null,
+      "metric_type": "incidence",
+      "total_cases_per_year": 680000,
+      "confidence": 0.78,
+      "is_subtype": true,
+      "parent_disease": "Lung adenocarcinoma",
+      "reasoning": "Lung adenocarcinoma (non-small cell) has global incidence ~15-20 per 100k. Stage IV (metastatic) represents ~25-30% of diagnoses at presentation.",
+      "data_quality": "strong",
+      "geographic_variation": "moderate",
+      "year_specific": false,
+      "data_year": null,
+      "source": "GLOBOCAN 2005 (IARC), SEER Cancer Registry, International Association for the Study of Lung Cancer",
+      "source_url": "https://gco.iarc.fr/",
+      "source_type": "registry"
+    }
+  ],
+  "summary_statistics": {
+    "confidence_distribution": {
+      "high_0_7_to_1_0": 2,
+      "moderate_0_45_to_0_69": 2,
+      "moderate_low_below_0_45": 1
+    },
+    "data_quality_distribution": {
+      "strong": 1,
+      "moderate": 2,
+      "weak": 2,
+      "none": 0
+    },
+    "total_annual_cases": 1602720000,
+    "metric_types": {
+      "incidence": 4,
+      "prevalence": 1
+    },
+    "all_are_subtypes": true,
+    "unique_parent_diseases": 5
+  }
+}

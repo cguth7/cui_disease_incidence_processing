@@ -1,0 +1,19 @@
+{
+  "cui": "C0343804",
+  "cui_name": "Chronic Chagas' disease",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 110.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 8800000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Chagas' disease",
+  "reasoning": "Chronic Chagas' disease measured as prevalence (~110 per 100k in endemic areas, ~6-7 million infected globally). This is a chronic condition without well-defined incidence; prevalence is the appropriate metric. Global average reflects concentration in Latin America.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2015,
+  "source": "Stanaway JD et al. (2016). The global burden of chagas disease: a systematic review and modelling study. Lancet Infect Dis. 16(11):1270-1281",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27645871/",
+  "source_type": "literature"
+}

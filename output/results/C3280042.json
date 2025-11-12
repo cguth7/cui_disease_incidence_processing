@@ -1,0 +1,19 @@
+{
+  "cui": "C3280042",
+  "cui_name": "RETINITIS PIGMENTOSA 62",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Retinitis pigmentosa",
+  "reasoning": "RP62 is a specific genetic form of retinitis pigmentosa caused by mutations in a particular gene locus. Overall retinitis pigmentosa prevalence is ~1-2 per 100k population globally; RP62 represents one of numerous genetic subtypes (>90 genes identified). Estimated prevalence of RP62 subtype at ~0.15 per 100k based on relative rarity of this specific locus. Incidence data not well-defined for inherited retinal dystrophies; prevalence metric more appropriate.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

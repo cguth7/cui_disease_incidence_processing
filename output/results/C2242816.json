@@ -1,0 +1,19 @@
+{
+  "cui": "C2242816",
+  "cui_name": "Chronic secretory otitis media",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Otitis media",
+  "reasoning": "Chronic secretory otitis media (serous otitis media/otitis media with effusion) reported as prevalence, not incidence. Approximately 5% of population affected (5,000 per 100k) with higher prevalence in children. Based on pediatric epidemiological studies showing 20-90% of children experience OME at some point, with chronic form affecting 5-10% persistently. Confidence moderate due to age-dependent variation and limited systematic incidence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric otitis media epidemiological literature; WHO Guidelines",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3539506",
+  "cui_name": "Spastic Paraplegia 55, Autosomal Recessive",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Spastic Paraplegia",
+  "reasoning": "SPG55 is an extremely rare autosomal recessive genetic disorder; fewer than 10 families reported worldwide. No systematic epidemiological studies available; estimate <0.01 per 100k births based on case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

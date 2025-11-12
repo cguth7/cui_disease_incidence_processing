@@ -1,0 +1,19 @@
+{
+  "cui": "C3873361",
+  "cui_name": "Langerhans cell histiocytosis of skin",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Langerhans Cell Histiocytosis",
+  "reasoning": "LCH overall incidence ~0.5-1.5 per 100,000 per year in children and adults. Cutaneous involvement (skin-limited LCH) represents one of the manifestation patterns. Skin-limited form comprises approximately 25-50% of LCH cases. Estimated incidence for cutaneous form: ~0.8 per 100k per year. Based on hematologic/oncology registry data and published epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Stalemark L et al. (2008). Incidence of Langerhans Cell Histiocytosis in children: a population-based study. Pediatr Blood Cancer. 51(1):76-81",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18314925/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0020624",
+  "cui_name": "Hypomenorrhea",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypomenorrhea (light menstrual bleeding) is a menstrual disorder affecting a subset of women of reproductive age. Reported as prevalence since this is a chronic menstrual pattern condition. Estimated prevalence approximately 5-10% of women, approximately 500 per 100k total population. Limited epidemiological studies available; estimate based on clinical observations and gynecological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

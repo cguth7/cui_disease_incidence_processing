@@ -1,0 +1,19 @@
+{
+  "cui": "C0206711",
+  "cui_name": "Pilomatrixoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.52,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pilomatrixoma (benign skin tumor) is rare but most common pediatric skin tumor. Estimated incidence ~0.15 per 100k (primarily in children <20 years). Limited epidemiological data; estimates based on clinic series and dermatological registries showing occurrence in 1-3 per 1000 pediatric skin biopsies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Luo S & Sepehr R. (2016). Pilomatrixoma: Demographics, Presentation, and Management. Arch Plast Surg. 43(2):109-112",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27019781/",
+  "source_type": "literature"
+}

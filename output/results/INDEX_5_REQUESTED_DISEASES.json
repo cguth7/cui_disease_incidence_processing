@@ -1,0 +1,86 @@
+{
+  "processing_metadata": {
+    "date": "2025-11-12",
+    "skill_used": "cui-incidence-mapper_2",
+    "total_diseases_processed": 5,
+    "output_directory": "/home/user/cui_disease_incidence_processing/output/results/",
+    "processing_status": "complete"
+  },
+  "results": [
+    {
+      "cui": "C1846689",
+      "name": "MOYAMOYA DISEASE 2",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C1846689.json",
+      "incidence_per_100k": "extremely rare",
+      "confidence": 0.4,
+      "data_quality": "weak",
+      "classification": "genetic subtype"
+    },
+    {
+      "cui": "C0014061",
+      "name": "Tick-Borne Encephalitis",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C0014061.json",
+      "incidence_per_100k": 2.5,
+      "global_cases_per_year": 200000,
+      "confidence": 0.72,
+      "data_quality": "moderate",
+      "classification": "acute infectious disease",
+      "source": "ECDC"
+    },
+    {
+      "cui": "C1879643",
+      "name": "Adult Type Granulosa Cell Tumor",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C1879643.json",
+      "incidence_per_100k": 0.3,
+      "global_cases_per_year": 24000,
+      "confidence": 0.65,
+      "data_quality": "moderate",
+      "classification": "ovarian cancer subtype",
+      "source": "GLOBOCAN 2015"
+    },
+    {
+      "cui": "C4225365",
+      "name": "MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 13",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C4225365.json",
+      "incidence_per_100k": "extremely rare",
+      "confidence": 0.35,
+      "data_quality": "weak",
+      "classification": "genetic monogenic diabetes",
+      "parent_disease": "Maturity-Onset Diabetes of the Young (MODY)"
+    },
+    {
+      "cui": "C3150926",
+      "name": "Congenital dyserythropoietic anemia type IV",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C3150926.json",
+      "incidence_per_100k": "extremely rare",
+      "confidence": 0.3,
+      "data_quality": "weak",
+      "classification": "rare genetic hematologic disorder",
+      "parent_disease": "Congenital Dyserythropoietic Anemia"
+    }
+  ],
+  "summary_statistics": {
+    "confidence_distribution": {
+      "high (0.7-1.0)": 1,
+      "moderate (0.4-0.7)": 2,
+      "low (0.1-0.4)": 2
+    },
+    "subtypes_identified": 4,
+    "data_quality_breakdown": {
+      "strong": 0,
+      "moderate": 2,
+      "weak": 3
+    },
+    "metric_types": {
+      "incidence": 5,
+      "prevalence": 0,
+      "both": 0
+    }
+  },
+  "notes": {
+    "umbrella_terms": "None - all CUIs map to specific disease entities",
+    "geographic_variation": "High for Tick-Borne Encephalitis; low-unknown for others",
+    "rare_disease_proportion": "4 out of 5 are rare diseases (confidence < 0.7)",
+    "data_sources": "Mix of Tier 1 (ECDC, GLOBOCAN) and case reports/genetic literature for rare conditions"
+  }
+}

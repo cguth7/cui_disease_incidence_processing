@@ -1,0 +1,19 @@
+{
+  "cui": "C2931639",
+  "cui_name": "Macrophagic myofasciitis",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Macrophagic myofasciitis is a rare inflammatory myofascial condition, characterized by macrophage accumulation. Highly controversial etiology; previously associated with aluminum-containing vaccines but causality remains debated. Estimated ~0.3 per 100k based on case report frequency, with low confidence due to diagnostic inconsistency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0729552",
+  "cui_name": "Genital infection",
+  "incidence_per_100k": 2500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000000,
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major genital infections: bacterial vaginosis (~1200), candidiasis (~800), chlamydia (~300), gonorrhea (~150), herpes simplex (~50+) = ~2500 per 100k. Heterogeneous conditions with high overlap and recurrence rates.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

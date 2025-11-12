@@ -1,0 +1,19 @@
+{
+  "cui": "C4054076",
+  "cui_name": "Renal Angiomyoadenomatous Tumor",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Renal Neoplasms",
+  "reasoning": "Extremely rare benign renal tumor variant. Very few cases reported in international literature, estimated <0.0001 per 100k. Largely anecdotal case report data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

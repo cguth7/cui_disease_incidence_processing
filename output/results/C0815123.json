@@ -1,0 +1,19 @@
+{
+  "cui": "C0815123",
+  "cui_name": "neurobehavioral problems",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad and vague to estimate meaningfully. 'Neurobehavioral problems' encompasses behavioral disorders, cognitive impairments, developmental delays, psychiatric conditions, neurological sequelae, and many other conditions. Lacks specificity for epidemiological estimation. Would require specification of underlying condition (ADHD, autism, depression, cognitive impairment, etc.) for meaningful data.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

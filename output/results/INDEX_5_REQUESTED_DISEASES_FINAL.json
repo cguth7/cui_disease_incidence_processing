@@ -1,0 +1,81 @@
+{
+  "request_summary": {
+    "timestamp": "2025-11-12",
+    "total_diseases_requested": 5,
+    "total_processed": 5,
+    "status": "COMPLETE"
+  },
+  "diseases": [
+    {
+      "rank": 1,
+      "cui": "C1864653",
+      "name": "Glaucoma 1, open angle, M (disorder)",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C1864653.json",
+      "incidence_per_100k": 2.5,
+      "prevalence_per_100k": 4200,
+      "confidence": 0.78,
+      "status": "MAPPED"
+    },
+    {
+      "rank": 2,
+      "cui": "C1290854",
+      "name": "Disorder of skull",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C1290854.json",
+      "incidence_per_100k": null,
+      "prevalence_per_100k": null,
+      "confidence": 0.0,
+      "status": "UNMAPPABLE - Umbrella term"
+    },
+    {
+      "rank": 3,
+      "cui": "C3160854",
+      "name": "Small intestinal bacterial overgrowth",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C3160854.json",
+      "incidence_per_100k": 12.0,
+      "prevalence_per_100k": 8000,
+      "confidence": 0.48,
+      "status": "MAPPED"
+    },
+    {
+      "rank": 4,
+      "cui": "C0334246",
+      "name": "Squamous cell carcinoma, metastatic",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C0334246.json",
+      "incidence_per_100k": 8.5,
+      "prevalence_per_100k": null,
+      "confidence": 0.62,
+      "status": "MAPPED"
+    },
+    {
+      "rank": 5,
+      "cui": "C0206711",
+      "name": "Pilomatrixoma",
+      "result_file": "/home/user/cui_disease_incidence_processing/output/results/C0206711.json",
+      "incidence_per_100k": 0.15,
+      "prevalence_per_100k": null,
+      "confidence": 0.52,
+      "status": "MAPPED"
+    }
+  ],
+  "statistics": {
+    "successfully_mapped": 4,
+    "unmappable": 1,
+    "average_confidence_mapped": 0.61,
+    "confidence_distribution": {
+      "high_0_7_to_1_0": {
+        "count": 1,
+        "examples": ["C1864653 (Glaucoma)"]
+      },
+      "moderate_0_3_to_0_7": {
+        "count": 3,
+        "examples": ["C3160854 (SIBO)", "C0334246 (Metastatic SCC)", "C0206711 (Pilomatrixoma)"]
+      },
+      "unmappable_0_0": {
+        "count": 1,
+        "examples": ["C1290854 (Disorder of skull)"]
+      }
+    },
+    "subtypes_identified": 2
+  },
+  "output_location": "/home/user/cui_disease_incidence_processing/output/results/"
+}

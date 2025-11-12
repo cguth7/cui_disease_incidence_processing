@@ -1,0 +1,19 @@
+{
+  "cui": "C1510431",
+  "cui_name": "Superficial Thrombophlebitis",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Thrombophlebitis",
+  "reasoning": "Superficial thrombophlebitis (inflammation of superficial veins) is less common than deep vein thrombosis. Incidence estimated at ~8 per 100k person-years based on vascular disease epidemiology, though many cases may be unreported or self-limiting.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

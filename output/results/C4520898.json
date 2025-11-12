@@ -1,0 +1,19 @@
+{
+  "cui": "C4520898",
+  "cui_name": "Stage IV Breast Cancer AJCC v6 and v7",
+  "incidence_per_100k": 5.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 408000,
+  "confidence": 0.71,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "Stage IV breast cancer (metastatic disease) using AJCC v6/v7 staging criteria. Stage IV definition remains consistent across AJCC versions as metastatic disease. Incidence ~5.1 per 100k based on proportion of stage IV cases at diagnosis.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Edge SB et al. (2010). AJCC Cancer Staging Manual (7th ed.). Springer-Verlag",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20505473/",
+  "source_type": "literature"
+}

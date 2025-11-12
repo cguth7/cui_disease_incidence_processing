@@ -1,0 +1,19 @@
+{
+  "cui": "C4054543",
+  "cui_name": "Membranous Lupus Nephritis",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Lupus Nephritis",
+  "reasoning": "Membranous lupus nephritis (Class V membranous pattern) occurs in ~10-15% of lupus nephritis cases. Global SLE incidence ~13-17 per 100k with ~40-50% developing nephritis; membranous form accounts for subset. Estimated incidence ~5-6 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

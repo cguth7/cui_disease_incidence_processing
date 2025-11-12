@@ -1,0 +1,19 @@
+{
+  "cui": "C0744620",
+  "cui_name": "Metastatic Head and Neck Squamous Cell Carcinoma",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Head and Neck Squamous Cell Carcinoma",
+  "reasoning": "Metastatic HNSCC represents subset of head and neck cancers with distant metastases. Incidence estimated at ~8.5 per 100k based on GLOBOCAN data for head/neck cancers (~15-20 per 100k) with approximately 40-50% presenting with metastatic disease. Cancer registry data supports this estimate.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2020 (IARC) head and neck cancer estimates; SEER cancer registry metastasis data",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

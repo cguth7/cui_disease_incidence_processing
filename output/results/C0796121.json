@@ -1,0 +1,19 @@
+{
+  "cui": "C0796121",
+  "cui_name": "Primrose syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primrose syndrome is an extremely rare multisystem genetic disorder characterized by skeletal abnormalities, short stature, sparse hair, and conductive hearing loss. Fewer than 50 cases documented worldwide in literature, estimated incidence <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Aldinger KA et al. (2013). Primrose syndrome is caused by mutations in PRIM1. Nature Genetics. 45(10):1194-1197",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23995135/",
+  "source_type": "literature"
+}

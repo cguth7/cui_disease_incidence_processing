@@ -1,0 +1,19 @@
+{
+  "cui": "C0280374",
+  "cui_name": "Metastatic Squamous Cell Carcinoma of the Oropharynx",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Squamous Cell Carcinoma of the Oropharynx",
+  "reasoning": "Metastatic oropharyngeal SCC represents subset of primary disease (~30-40% present with metastatic disease). Global oropharyngeal SCC ~3-5 per 100k; metastatic subset estimated ~2 per 100k based on cancer registry staging data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bray F et al. (2018). Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide. CA Cancer J Clin. 68(6):394-424",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/30207593/",
+  "source_type": "literature"
+}

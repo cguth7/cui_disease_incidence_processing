@@ -1,0 +1,19 @@
+{
+  "cui": "C3150801",
+  "cui_name": "COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 7",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial disorders",
+  "reasoning": "Rare mitochondrial genetic disorder (COXPD7). Fewer than 30 confirmed cases worldwide. Estimated <0.01 per 100k births based on case reports from genetic registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

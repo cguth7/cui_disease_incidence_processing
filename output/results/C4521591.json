@@ -1,0 +1,19 @@
+{
+  "cui": "C4521591",
+  "cui_name": "Peripheral precocious puberty",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 168000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Precocious puberty",
+  "reasoning": "Peripheral precocious puberty (PPP) represents 25-30% of all precocious puberty cases in children. Estimated incidence ~2 per 100k children based on pediatric endocrinology surveillance data. Most data from developed countries; limited data from resource-limited settings.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric endocrinology surveillance and population-based studies",
+  "source_url": null,
+  "source_type": "registry"
+}

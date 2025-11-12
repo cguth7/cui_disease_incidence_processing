@@ -1,0 +1,19 @@
+{
+  "cui": "C0012736",
+  "cui_name": "Dissecting aortic aneurysm",
+  "incidence_per_100k": 2.6,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 208000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute aortic dissection incidence estimated 2-3 per 100k person-years (2.6 global average). Epidemiological data from multiple registries (IRAD, Swedish registry) and literature. Some geographic variation with higher rates in regions with higher hypertension prevalence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Hagan AP et al. (2000). The International Registry of Acute Aortic Dissection (IRAD): New insights into an old disease. JAMA. 283(7):897-903",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10685714/",
+  "source_type": "literature"
+}

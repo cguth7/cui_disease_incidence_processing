@@ -1,0 +1,19 @@
+{
+  "cui": "C4054945",
+  "cui_name": "Focal Segmental Glomerulosclerosis Collapsing Variant",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 0.8,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Focal Segmental Glomerulosclerosis",
+  "reasoning": "FSGS collapsing variant is a specific histological subtype, representing approximately 10-15% of FSGS cases. Global FSGS prevalence estimated at ~5-8 per 100k; collapsing variant prevalence estimated at 0.8 per 100k. Measured as prevalence (chronic kidney disease). Data from nephrology registries and renal biopsy studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Global Burden of Disease Study (kidney disease component)",
+  "source_url": null,
+  "source_type": "registry"
+}

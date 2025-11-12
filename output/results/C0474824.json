@@ -1,0 +1,19 @@
+{
+  "cui": "C0474824",
+  "cui_name": "Halo nevus",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Melanocytic nevus",
+  "reasoning": "Halo nevus is a specific benign melanocytic nevus with hypopigmented halo, representing a distinct morphologic variant. Estimated prevalence ~5 per 100k in general population based on dermatology literature, but robust epidemiological studies are limited. Reported as prevalence since this is a chronic benign skin condition with no clear 'onset' date.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

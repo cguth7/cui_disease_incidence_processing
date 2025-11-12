@@ -1,0 +1,19 @@
+{
+  "cui": "C1857587",
+  "cui_name": "Orstavik Lindemann Solberg syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare genetic syndrome with only 5 cases documented in medical literature. Autosomal dominant disorder caused by WDPCP gene mutations, characterized by webbed fingers, congenital heart defects, and tongue tumors. No population-based incidence or prevalence data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0795843",
+  "cui_name": "Chromosome 12 ring",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Ring chromosome",
+  "reasoning": "Ring chromosome 12 is ultra-rare chromosomal abnormality with fewer than 10 cases reported in medical literature. Ring chromosomes overall occur at ~1 per 50,000 births; chromosome 12 ring comprises 0.7% of ring chromosome cases, estimated at <0.01 per 100,000 births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet; GARD (Genetic and Rare Diseases Information Center)",
+  "source_url": "https://www.orpha.net/en/disease/detail/1439",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3489856",
+  "cui_name": "Cold Hypersensitivity",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cold hypersensitivity encompasses diverse conditions: cold urticaria, cold angioedema, cold-induced asthma, and Raynaud's phenomenon. Primary cold urticaria prevalence estimated at 0.3-0.5% of population (~3,000-5,000 per 100k). Using 500 per 100k as conservative global estimate accounting for diagnostic variation and underdiagnosis. Umbrella term with heterogeneous manifestations.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

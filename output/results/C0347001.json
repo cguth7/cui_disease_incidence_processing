@@ -1,0 +1,19 @@
+{
+  "cui": "C0347001",
+  "cui_name": "Secondary malignant neoplasm of prostate",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Secondary malignant neoplasm of prostate (metastatic cancer to prostate from other primary sites) is extremely rare and not routinely epidemiologically tracked. Represents <1% of prostate neoplasms. Incidence data not available from major registries; secondary neoplasms are typically coded by primary site. Aggregate estimate extremely difficult without specific registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

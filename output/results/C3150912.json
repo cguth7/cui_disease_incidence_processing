@@ -1,0 +1,19 @@
+{
+  "cui": "C3150912",
+  "cui_name": "CONE-ROD DYSTROPHY 15",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Cone-Rod Dystrophy",
+  "reasoning": "Cone-rod dystrophy 15 (CORD15) is a rare form of inherited retinal dystrophy. As a specific genetic subtype of the broader cone-rod dystrophy category, this has extremely limited epidemiological data. Estimated incidence <0.1 per 100k based on molecular genetic studies, with fewer than 100 cases with confirmed CORD15 mutations worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

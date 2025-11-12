@@ -1,0 +1,19 @@
+{
+  "cui": "C3825353",
+  "cui_name": "Protozoan diseases",
+  "incidence_per_100k": 200,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for protozoan parasitic diseases: malaria (~60-100), giardiasis (~30), trichomoniasis (~40), leishmaniasis (~3), amebiasis (~7), cryptosporidiosis (~5), toxoplasmosis (~2), African trypanosomiasis (~0.5), Chagas disease (~10), and other protozoal infections (~40+) = approximately 200 per 100k globally. Semantically equivalent to 'Protozoan Infections'. High heterogeneity and geographic variation reduce confidence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

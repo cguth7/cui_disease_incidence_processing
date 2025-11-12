@@ -1,0 +1,19 @@
+{
+  "cui": "C3647902",
+  "cui_name": "Vasculogenic erectile dysfunction",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 256000000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Erectile Dysfunction",
+  "reasoning": "Vasculogenic etiology represents approximately 50-70% of erectile dysfunction cases. Global ED prevalence ~5-10%; vasculogenic component estimated at ~3.2% of adult male population based on clinical studies. Chronic condition requiring prevalence metric.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

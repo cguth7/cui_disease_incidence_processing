@@ -1,0 +1,19 @@
+{
+  "cui": "C0151620",
+  "cui_name": "Hypertensive Encephalopathy",
+  "incidence_per_100k": 4.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 376000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypertensive encephalopathy is a specific complication of hypertensive crisis. US data shows incidence range of 3.3-6.2 per 100k (2006-2013), with estimates suggesting 15% of hypertensive emergencies. Using conservative midpoint estimate of ~4.7 per 100k. Data quality moderate due to varying estimates and potential coding practice changes over time.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "US hospital data (2006-2013) showing incidence range 3309-6178 per million cases; French nationwide cohort study (2023) of 7769 patients with HE",
+  "source_url": null,
+  "source_type": "registry"
+}

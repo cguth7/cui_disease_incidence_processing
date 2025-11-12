@@ -1,0 +1,19 @@
+{
+  "cui": "C0751711",
+  "cui_name": "Anterior Ischemic Optic Neuropathy",
+  "incidence_per_100k": 2.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 184000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Ischemic Optic Neuropathy",
+  "reasoning": "AION (arteritic and non-arteritic forms combined) incidence estimated ~2-3 per 100k globally. Non-arteritic AION more common in older adults (>50 years). Incidence varies by study methodology and age structure of population. Moderate confidence due to heterogeneous definitions and limited population-based registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

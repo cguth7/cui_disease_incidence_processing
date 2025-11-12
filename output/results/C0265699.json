@@ -1,0 +1,19 @@
+{
+  "cui": "C0265699",
+  "cui_name": "Congenital hernia of foramen of Morgagni",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Congenital diaphragmatic hernia",
+  "reasoning": "Morgagni hernia is a specific congenital diaphragmatic defect with estimated incidence of 1 in 2000-5000 live births, corresponding to ~3.5 per 100k births. Comprises 2-5% of all congenital diaphragmatic hernias. 90% occur on right side; 34-50% associated with other congenital anomalies (cardiac defects 25-60%, trisomy 21 15-71%). Only ~30% are symptomatic; most detected later in childhood/adulthood. Confidence moderate due to uncertainty in true incidence and small denominator.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "StatPearls Morgagni Hernia; congenital diaphragmatic hernia multicenter studies",
+  "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK557501/",
+  "source_type": "registry"
+}

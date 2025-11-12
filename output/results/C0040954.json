@@ -1,0 +1,19 @@
+{
+  "cui": "C0040954",
+  "cui_name": "Infection by Trichuris trichiura",
+  "incidence_per_100k": 450,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 36000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Whipworm infection is endemic parasitic disease primarily in tropical regions. WHO estimates 600-800 million infected globally, with annual incidence around 450 per 100k in high-prevalence areas. Global average incidence approximately 450 per 100k based on WHO epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "WHO Fact Sheets on Helminthic Infections and Global Burden of Disease estimates",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}
