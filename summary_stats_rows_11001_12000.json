@@ -1,0 +1,41 @@
+{
+  "batch_info": {
+    "rows_processed": "11001-12000",
+    "total_diseases": 880,
+    "json_files_created": 883,
+    "csv_rows": 880,
+    "processing_date": "2025-11-12"
+  },
+  "mapping_results": {
+    "mappable_diseases": 807,
+    "mappable_percentage": 91.7,
+    "unmappable_diseases": 73,
+    "unmappable_percentage": 8.3,
+    "average_confidence": 0.391
+  },
+  "data_quality": {
+    "strong": 30,
+    "moderate": 239,
+    "weak": 516,
+    "none": 94,
+    "empty": 1
+  },
+  "metric_types": {
+    "incidence": 584,
+    "prevalence": 132,
+    "both": 32,
+    "none": 132
+  },
+  "disease_classification": {
+    "subtypes": 600,
+    "subtype_percentage": 68.2,
+    "independent": 280,
+    "independent_percentage": 31.8
+  },
+  "notes": [
+    "Successfully processed 880 out of 1000 diseases (88%)",
+    "3 batch summary files were skipped during consolidation",
+    "Average confidence of 0.391 indicates predominantly rare diseases with limited epidemiological data",
+    "58.6% weak data quality reflects the rarity of many conditions in this batch"
+  ]
+}
