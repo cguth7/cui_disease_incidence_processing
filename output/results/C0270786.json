@@ -1,0 +1,19 @@
+{
+  "cui": "C0270786",
+  "cui_name": "Binswanger Disease",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Vascular Dementia",
+  "reasoning": "Binswanger disease (subcortical vascular dementia) prevalence estimated at 1-2% of dementia cases, roughly 15-30 per 100k population with vascular dementia. Reported as prevalence due to chronic neurodegenerative nature. Confidence limited by diagnostic variability and overlap with other vascular dementias.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Román GC (2002). Vascular dementia: distinguishing characteristics, treatment, and prevention. J Am Geriatr Soc. 50(1):15-27",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12028240/",
+  "source_type": "literature"
+}

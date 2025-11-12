@@ -1,0 +1,19 @@
+{
+  "cui": "C1856974",
+  "cui_name": "PONTOCEREBELLAR HYPOPLASIA TYPE 4 (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Pontocerebellar Hypoplasia",
+  "reasoning": "PCH4 is a rare autosomal recessive neurological disorder with progressive pontocerebellar hypoplasia and spinal cord atrophy. Fewer than 50 families with PCH4 reported worldwide. Estimated at <0.01 per 100k births. Knowledge primarily from case series and molecular genetic studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

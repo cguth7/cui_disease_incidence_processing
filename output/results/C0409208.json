@@ -1,0 +1,19 @@
+{
+  "cui": "C0409208",
+  "cui_name": "Intellectual disability profound",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 20,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Intellectual disability",
+  "reasoning": "Profound intellectual disability is a specific subtype characterized by IQ <20. Overall intellectual disability prevalence ~1-3% globally (10,000-30,000 per 100k), with severe and profound combined representing ~0.1% of population (1,000 per 100k). Profound specifically accounts for ~2% of ID cases, estimated at ~20 per 100k. Reported as prevalence (chronic lifelong condition) rather than incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2020,
+  "source": "CDC NCHS Data Brief No. 473 (July 2023); Prevalence of Intellectual Disabilities - NCBI Bookshelf",
+  "source_url": "https://www.cdc.gov/nchs/products/databriefs/db473.htm",
+  "source_type": "registry"
+}

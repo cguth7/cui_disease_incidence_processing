@@ -1,0 +1,19 @@
+{
+  "cui": "C3495589",
+  "cui_name": "Jalili syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Jalili syndrome is a rare autosomal recessive genetic disorder characterized by cone-rod dystrophy and amelogenesis imperfecta. Fewer than 50 cases reported worldwide, estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

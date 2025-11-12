@@ -1,0 +1,19 @@
+{
+  "cui": "C0342610",
+  "cui_name": "Hereditary cerebrovascular amyloidosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Cerebrovascular Amyloidosis",
+  "reasoning": "Hereditary cerebrovascular amyloidosis (including familial cerebral amyloid angiopathy) is extremely rare. Fewer than 1000 cases reported globally. Incidence likely <0.01 per 100k. Often identified through genetic testing and family screening rather than population-based studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

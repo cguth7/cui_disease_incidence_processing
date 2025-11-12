@@ -1,0 +1,19 @@
+{
+  "cui": "C0280131",
+  "cui_name": "Ovarian Teratoma",
+  "incidence_per_100k": 50.0,
+  "prevalence_per_100k": 1000,
+  "metric_type": "both",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Neoplasm",
+  "reasoning": "Mature cystic teratomas (dermoid cysts) are the most common ovarian tumor in reproductive-age women, occurring in ~1-2% of women, representing ~45% of ovarian tumors. Incidence ~40-60 per 100k, prevalence ~1000 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ulbright TM. (2005). Germ cell tumors of the gonads: a selective review emphasizing problems in differential diagnosis, newly recognized entities, and long-term follow-up. Mod Pathol. 18(2):S61-S79",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761466/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4522224",
+  "cui_name": "Recurrent Anaplastic Astrocytoma",
+  "incidence_per_100k": 0.35,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 28000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Anaplastic Astrocytoma",
+  "reasoning": "Anaplastic astrocytoma (WHO Grade III glioma) incidence ~0.5-0.7 per 100k globally from GLOBOCAN/brain tumor registries. Recurrent cases represent subset (estimated 60-70% of initial cases eventually recur). Using incidence for incident cases, though 'recurrent' designation adds prognostic specificity. Metric appropriate for incident tumors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ostrom QT et al. (2014). CBTRUS statistical report: primary brain and central nervous system tumors diagnosed in the United States in 2007-2011. Neuro Oncol. 16(Suppl 4):iv1-63",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25304271/",
+  "source_type": "literature"
+}

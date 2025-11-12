@@ -1,0 +1,19 @@
+{
+  "cui": "C3890941",
+  "cui_name": "Acute Motor Axonal Neuropathy",
+  "incidence_per_100k": 0.6,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 48000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Acute Motor Neuropathy",
+  "reasoning": "AMAN is a subtype of GBS with different pathophysiology (axonal vs demyelinating). Represents 5-15% of GBS cases in developed countries, higher in Asia. Limited direct incidence data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1266138",
+    "cui_name": "Benign cystic nephroma",
+    "incidence_per_100k": 0.05,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000,
+    "confidence": 0.45,
+    "is_subtype": true,
+    "parent_disease": "Kidney Neoplasms, Benign",
+    "reasoning": "Extremely rare benign cystic renal tumor, comprises <1% of renal masses. Estimated incidence <0.1 per 100k based on autopsy and imaging series. Often found incidentally during imaging for other conditions. Limited epidemiological data.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Case series and radiology literature (2000-2005)",
+    "source_url": null,
+    "source_type": "literature"
+  }
+]

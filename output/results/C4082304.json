@@ -1,0 +1,19 @@
+{
+  "cui": "C4082304",
+  "cui_name": "Oligodontia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 15000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Dental Anomalies",
+  "reasoning": "Oligodontia (congenital absence of 6+ teeth, excluding third molars) affects ~1.5% of children globally based on dental epidemiological surveys. Prevalence in pediatric populations ~15 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO Global Oral Health Survey data and dental epidemiology studies",
+  "source_url": null,
+  "source_type": "registry"
+}

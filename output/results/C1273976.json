@@ -1,0 +1,19 @@
+{
+  "cui": "C1273976",
+  "cui_name": "First myocardial infarction",
+  "incidence_per_100k": 72.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 5760000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Myocardial infarction",
+  "reasoning": "First MI (initial event) incidence approximately 72 per 100k person-years globally based on cardiovascular disease registries and WHO estimates. Accounts for age-standardized rates.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Estimated from WHO cardiovascular disease registries and Framingham Heart Study data",
+  "source_url": null,
+  "source_type": "estimate"
+}

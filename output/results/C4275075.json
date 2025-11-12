@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4275075",
+    "cui_name": "Atypical Werner syndrome",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.25,
+    "is_subtype": true,
+    "parent_disease": "Werner Syndrome",
+    "reasoning": "Atypical presentation of Werner syndrome (adult progeria), a rare autosomal recessive disorder caused by WRN mutations. Atypical variants are even rarer than classic presentation. Estimated <0.01 per 100k births globally, with <200 cases reported worldwide.",
+    "data_quality": "weak",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

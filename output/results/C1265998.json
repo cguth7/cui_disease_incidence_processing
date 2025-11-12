@@ -1,0 +1,19 @@
+{
+  "cui": "C1265998",
+  "cui_name": "Glassy cell carcinoma",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Cervical Cancer",
+  "reasoning": "Glassy cell carcinoma is a rare aggressive cervical cancer variant, representing <5% of cervical adenocarcinomas. Global cervical cancer incidence ~15 per 100k, glassy cell estimated at ~0.2 per 100k. Very limited epidemiological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

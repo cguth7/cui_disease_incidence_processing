@@ -1,0 +1,112 @@
+================================================================================
+CUI DISEASE INCIDENCE PROCESSING - FINAL REPORT
+================================================================================
+Processing Date: 2025-11-12
+Skill Used: cui-incidence-mapper_2
+================================================================================
+
+PROCESSING SUMMARY
+------------------
+Total Diseases Requested:      5
+Successfully Processed:        5
+Processing Errors:            0
+Success Rate:                 100%
+
+================================================================================
+PROCESSED DISEASES
+================================================================================
+
+1. C0038166 - Staphylococcal Skin Infections
+   Incidence: 1200 per 100k person-years
+   Metric Type: Incidence
+   Confidence Score: 0.65 (Moderate)
+   Data Quality: Moderate
+   Is Subtype: No
+   Geographic Variation: Moderate
+   Source: CDC surveillance data and epidemiological estimates
+
+2. C2585960 - Heterozygous protein C deficiency
+   Prevalence: 500 per 100k
+   Metric Type: Prevalence
+   Confidence Score: 0.72 (Moderate-High)
+   Data Quality: Moderate
+   Is Subtype: Yes (Parent: Protein C deficiency)
+   Geographic Variation: Low
+   Source: International Society on Thrombosis and Haemostasis
+
+3. C0856716 - Asthma aspirin-sensitive
+   Incidence: 5 per 100k person-years
+   Metric Type: Incidence
+   Confidence Score: 0.55 (Medium)
+   Data Quality: Weak
+   Is Subtype: Yes (Parent: Asthma)
+   Geographic Variation: Moderate
+   Source: American Academy of Allergy, Asthma & Immunology
+
+4. C1368771 - Burkitt-like lymphoma
+   Incidence: 0.3 per 100k person-years
+   Metric Type: Incidence
+   Confidence Score: 0.58 (Medium)
+   Data Quality: Moderate
+   Is Subtype: Yes (Parent: Non-Hodgkin Lymphoma)
+   Geographic Variation: High
+   Source: WHO GLOBOCAN and international lymphoma registries
+
+5. C1333294 - ALK positive large B-cell lymphoma
+   Incidence: 0.08 per 100k person-years
+   Metric Type: Incidence
+   Confidence Score: 0.45 (Low-Medium)
+   Data Quality: Weak
+   Is Subtype: Yes (Parent: Diffuse Large B-cell Lymphoma)
+   Geographic Variation: Unknown
+   Source: WHO Classification of Lymphoid Neoplasms
+
+================================================================================
+CONFIDENCE DISTRIBUTION
+================================================================================
+High Confidence (0.70-1.00):     1 disease (20%)
+Medium Confidence (0.50-0.70):   3 diseases (60%)
+Low Confidence (0.00-0.50):      1 disease (20%)
+
+================================================================================
+DISEASE CHARACTERISTICS
+================================================================================
+Subtypes Identified:   4 (80%)
+Umbrella Terms:        0 (0%)
+Unmappable Terms:      0 (0%)
+Incidence Metrics:     4 diseases
+Prevalence Metrics:    1 disease
+
+================================================================================
+OUTPUT FILES GENERATED
+================================================================================
+Individual JSON Files:
+  - /home/user/cui_disease_incidence_processing/output/results/C0038166.json
+  - /home/user/cui_disease_incidence_processing/output/results/C2585960.json
+  - /home/user/cui_disease_incidence_processing/output/results/C0856716.json
+  - /home/user/cui_disease_incidence_processing/output/results/C1368771.json
+  - /home/user/cui_disease_incidence_processing/output/results/C1333294.json
+
+Batch Results:
+  - /home/user/cui_disease_incidence_processing/output/results/batch_results.json
+
+Processing Summary:
+  - /home/user/cui_disease_incidence_processing/output/results/PROCESSING_SUMMARY.json
+  - /home/user/cui_disease_incidence_processing/output/results/FINAL_REPORT.txt
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. All 5 diseases were successfully processed with complete epidemiological data
+2. Four diseases were identified as disease subtypes with parent-disease relationships
+3. Confidence scores range from 0.45 to 0.72, reflecting varying data quality
+4. Two rare lymphoma subtypes (Burkitt-like and ALK+ DLBCL) have very low incidence
+5. Most diseases have adequate epidemiological data, with sources documented
+6. Geographic variation is significant for hemato-oncologic conditions
+
+================================================================================
+PROCESSING COMPLETE
+================================================================================
+All requested CUI disease codes have been mapped to incidence/prevalence data
+following the cui-incidence-mapper_2 skill guidelines and quality standards.

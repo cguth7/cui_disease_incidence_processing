@@ -1,0 +1,19 @@
+{
+  "cui": "C4274084",
+  "cui_name": "Pelizaeus Merzbacher Like Disease",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Hypomyelinating Leukodystrophy",
+  "reasoning": "PMD-like disorders represent a heterogeneous group of rare leukodystrophies with various genetic etiologies (GJA12, SURF1, TUBB4A mutations). Estimated incidence <0.1 per 100k with <500 confirmed cases globally. Difficult to diagnose, many cases likely missed.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

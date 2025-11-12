@@ -1,0 +1,19 @@
+{
+  "cui": "C1266032",
+  "cui_name": "Atypical carcinoid tumor",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Neuroendocrine tumor / Carcinoid tumor",
+  "reasoning": "Atypical carcinoids are higher-grade neuroendocrine tumors. Estimated incidence ~0.8-1.0 per 100k based on limited registry data. Most common in lungs and GI tract. Data from cancer registries and pathology studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

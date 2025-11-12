@@ -1,0 +1,19 @@
+{
+  "cui": "C0017332",
+  "cui_name": "Generalized Nonconvulsive Seizure Disorder",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Generalized Epilepsy",
+  "reasoning": "Nonconvulsive seizures (primarily absence seizures) are more common in childhood. Estimated incidence ~12 per 100k globally, but varies significantly by age. Data from pediatric epilepsy studies with limited global epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

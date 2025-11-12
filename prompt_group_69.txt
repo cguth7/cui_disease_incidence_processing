@@ -1,0 +1,5 @@
+1. C0342779 - ATP synthase deficiency
+2. C3279699 - Encephalocardiomyopathy, Mitochondrial, Neonatal, Due To Atp Synthase Deficiency
+3. C4757950 - Isolated ATP synthase deficiency
+4. C0272118 - Warm autoimmune hemolytic anemia
+5. C0334381 - Non-infiltrating lobular carcinoma

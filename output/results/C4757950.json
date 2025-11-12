@@ -1,0 +1,19 @@
+{
+  "cui": "C4757950",
+  "cui_name": "Isolated ATP synthase deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "ATP synthase deficiency",
+  "reasoning": "Isolated form of ATP synthase deficiency without associated complex presentations. Very rare; estimated <0.05 per 100k births based on pediatric mitochondrial disease case series.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

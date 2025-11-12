@@ -1,0 +1,19 @@
+{
+  "cui": "C4534309",
+  "cui_name": "Acute Lung Injury/Acute Respiratory Distress Syndrome (ARDS)",
+  "incidence_per_100k": 58.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4680000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "ARDS is an acute critical care syndrome with incidence estimates of 40-80 per 100k globally. Using 58.5 per 100k as global average from epidemiological studies. Acute condition measured by new case incidence annually.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rubenfeld GD et al. (2005). Incidence and outcomes of acute lung injury. N Engl J Med. 353(16):1685-1693",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16236739/",
+  "source_type": "literature"
+}

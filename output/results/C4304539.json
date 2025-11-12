@@ -1,0 +1,19 @@
+{
+  "cui": "C4304539",
+  "cui_name": "20p12.3 microdeletion syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Chromosomal microdeletion syndromes",
+  "reasoning": "Extremely rare chromosomal microdeletion with <100 reported cases globally. Estimated <0.01 per 100k births based on cytogenetic case reports. Low confidence due to limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

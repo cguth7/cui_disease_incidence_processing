@@ -1,0 +1,19 @@
+{
+  "cui": "C0015414",
+  "cui_name": "Eye Neoplasms",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term for all malignant and benign eye tumors. Major subcategories include uveal melanoma (~1.5-2.0 per 100k), retinoblastoma (~0.03 per 100k in children), conjunctival/orbital tumors (~0.3-0.5 per 100k). Aggregate estimate ~2.5 per 100k. Heterogeneous group with varying etiologies and prognoses.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3501843",
+  "cui_name": "Nonmedullary Thyroid Carcinoma",
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 520000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Carcinoma",
+  "reasoning": "Nonmedullary thyroid carcinoma (papillary, follicular, anaplastic, lymphoma) shows global incidence approximately 6.5 per 100k from GLOBOCAN 2005 data. Predominantly papillary type (80%+). Varies geographically with higher rates in areas with adequate iodine intake.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC), WHO Cancer Incidence Database",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

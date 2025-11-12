@@ -1,0 +1,19 @@
+{
+  "cui": "C0221018",
+  "cui_name": "Hereditary sideroblastic anemia",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": "Sideroblastic Anemia",
+  "reasoning": "Rare genetic disorder affecting heme synthesis. Estimate based on rare disease databases and limited cohort data, approximately 0.3 per 100k births for all genetic subtypes combined. Limited epidemiological evidence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

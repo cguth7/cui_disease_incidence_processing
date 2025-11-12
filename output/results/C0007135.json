@@ -1,0 +1,19 @@
+{
+  "cui": "C0007135",
+  "cui_name": "Adenocarcinoma, Scirrhous",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Adenocarcinoma",
+  "reasoning": "Scirrhous adenocarcinoma spans multiple organs. Aggregate BOTEC estimate summing major subtypes: gastric scirrhous (3.0), breast scirrhous (2.0), pancreatic scirrhous (1.5), colorectal scirrhous (1.2), other sites (0.8) = 8.5 per 100k. Low confidence due to heterogeneity and lack of unified epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

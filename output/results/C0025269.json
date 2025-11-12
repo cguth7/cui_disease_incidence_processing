@@ -1,0 +1,19 @@
+{
+  "cui": "C0025269",
+  "cui_name": "Multiple Endocrine Neoplasia Type 2b",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Multiple Endocrine Neoplasia",
+  "reasoning": "MEN2b is an extremely rare hereditary cancer syndrome with multiple endocrine tumors, estimated at <0.1 per 100k births. Limited epidemiological data available; confidence capped due to rarity and sparse documentation.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

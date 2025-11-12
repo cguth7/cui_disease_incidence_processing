@@ -1,0 +1,19 @@
+{
+  "cui": "C1257797",
+  "cui_name": "Choledochal Cyst, Type III",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.31,
+  "is_subtype": true,
+  "parent_disease": "Choledochal Cyst",
+  "reasoning": "Type III (choledochocele) is a rare variant representing 5-10% of choledochal cyst cases. Incidence estimated <0.01 per 100k person-years. Limited epidemiological data available; estimates based on proportion of overall choledochal cyst cases.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

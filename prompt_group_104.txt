@@ -1,0 +1,5 @@
+1. C0151476 - Hypochloremic alkalosis
+2. C0856554 - Hepatic cancer metastatic
+3. C3809383 - IMMUNODEFICIENCY 8
+4. C0038557 - Submandibular Gland Diseases
+5. C4551767 - Protanopia

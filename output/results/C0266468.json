@@ -1,0 +1,19 @@
+{
+  "cui": "C0266468",
+  "cui_name": "Congenital pontocerebellar hypoplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital pontocerebellar hypoplasia is an aggregate umbrella term encompassing multiple rare genetic variants (PCH1-PCH8 and related types). Combined incidence of all PCH subtypes estimated <0.05 per 100k births. Heterogeneous group with multiple genetic etiologies and variable clinical presentations.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

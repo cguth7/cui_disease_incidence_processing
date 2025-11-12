@@ -1,0 +1,19 @@
+{
+  "cui": "C1879312",
+  "cui_name": "Agyria",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Lissencephaly",
+  "reasoning": "Agyria is complete absence of cerebral gyri (most severe form of lissencephaly). Extremely rare congenital brain malformation, estimated at <0.1 per 100k births. Limited epidemiological data; estimates based primarily on case reports and clinical series. True incidence likely varies widely by geographic region and diagnostic detection standards.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical case reports and lissencephaly literature reviews",
+  "source_url": null,
+  "source_type": null
+}

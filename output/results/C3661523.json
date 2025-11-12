@@ -1,0 +1,19 @@
+{
+  "cui": "C3661523",
+  "cui_name": "Congenital Intestinal Aganglionosis",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hirschsprung Disease",
+  "reasoning": "Hirschsprung disease (aganglionosis of intestinal tract) incidence approximately 1-2 per 100k live births. Rare congenital anomaly with male predominance (4:1). Estimate of ~2 per 100k represents typical epidemiological data from pediatric registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

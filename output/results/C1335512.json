@@ -1,0 +1,19 @@
+{
+  "cui": "C1335512",
+  "cui_name": "Prostate Lymphoma",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "Prostate lymphoma is a rare subtype of non-Hodgkin lymphoma. Limited epidemiological data available; estimates based on relative frequency among prostatic malignancies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

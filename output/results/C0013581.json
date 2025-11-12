@@ -1,0 +1,19 @@
+{
+  "cui": "C0013581",
+  "cui_name": "Ectopia Lentis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": 2.0,
+  "metric_type": "both",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Ectopia lentis is lens displacement, occurring in conditions like Marfan syndrome, homocystinuria, and ectopia lentis et pupillae. Estimated incidence ~0.5 per 100k births for hereditary forms; prevalence ~2 per 100k including acquired cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

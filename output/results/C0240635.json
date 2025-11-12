@@ -1,0 +1,19 @@
+{
+  "cui": "C0240635",
+  "cui_name": "Byzantine arch palate",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Cleft palate/Palatal abnormality",
+  "reasoning": "Byzantine arch palate is an extremely rare palatal morphology variant associated with specific genetic syndromes or developmental abnormalities. No specific epidemiological data available; estimated <<0.01 per 100k based on case reports in craniofacial literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

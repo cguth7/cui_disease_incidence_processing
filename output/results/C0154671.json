@@ -1,0 +1,19 @@
+{
+  "cui": "C0154671",
+  "cui_name": "Degenerative brain disorder",
+  "incidence_per_100k": 850,
+  "prevalence_per_100k": 4200,
+  "metric_type": "both",
+  "total_cases_per_year": 68000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate combining major neurodegenerative conditions: Alzheimer's (~500 incidence per 100k age 65+), Parkinson's (~150), frontotemporal dementia (~50), ALS (~25), Huntington's (~5), other neurodegenerative (~125). Global average ~850 per 100k adjusted for age distribution. Wide geographic and phenotypic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

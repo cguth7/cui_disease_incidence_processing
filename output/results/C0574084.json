@@ -1,0 +1,19 @@
+{
+  "cui": "C0574084",
+  "cui_name": "3-Methylglutaconic aciduria type 3",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "3-Methylglutaconic aciduria",
+  "reasoning": "Rare autosomal recessive metabolic disorder affecting leucine metabolism. Type 3 is a specific subtype. Estimated incidence <0.1 per 100k births. Population-based epidemiological data not available; limited to case reports and registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

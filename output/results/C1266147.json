@@ -1,0 +1,19 @@
+{
+  "cui": "C1266147",
+  "cui_name": "Neuroendocrine tumor grade 1",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Neuroendocrine Neoplasm",
+  "reasoning": "Grade 1 (low-grade) NET represents ~25-30% of all NETs. Global NET incidence estimated 2-5 per 100k, with grade 1 representing lower end at ~2.5 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Yao JC et al. (2008). One hundred years after 'carcinoid': epidemiology of and prognostic factors for neuroendocrine tumors in 35,825 cases in the United States. J Clin Oncol. 26(18):3063-3072",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18565894/",
+  "source_type": "literature"
+}

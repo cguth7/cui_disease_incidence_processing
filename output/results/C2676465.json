@@ -1,0 +1,19 @@
+{
+  "cui": "C2676465",
+  "cui_name": "Pontocerebellar Hypoplasia Type 2C",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Pontocerebellar Hypoplasia Type 2",
+  "reasoning": "PCH2C is an extremely rare autosomal recessive neurological disorder characterized by hypoplasia of the pons and cerebellum. One of several subtypes of PCH2. Fewer than 50 cases reported worldwide. Estimated <0.001 per 100k births based on case reports and genetic mutation frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

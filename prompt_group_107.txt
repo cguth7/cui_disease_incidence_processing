@@ -1,0 +1,5 @@
+1. C0001752 - African swine fever
+2. C0276138 - Viral myocarditis
+3. C2748544 - Spondyloepimetaphyseal Dysplasia, Aggrecan Type
+4. C0264774 - Mitral and aortic incompetence
+5. C0155568 - Rheumatic aortic regurgitation

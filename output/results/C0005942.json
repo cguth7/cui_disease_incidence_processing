@@ -1,0 +1,19 @@
+{
+  "cui": "C0005942",
+  "cui_name": "Bone Diseases, Endocrine",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous and poorly defined to estimate meaningfully. Encompasses multiple distinct endocrine-related bone conditions (osteoporosis from thyroid disease, hypoparathyroidism, hypophosphatasia, etc.) with vastly different pathophysiology, incidence, and prevalence. Lacks clear diagnostic criteria and epidemiological tracking.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

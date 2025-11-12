@@ -1,0 +1,19 @@
+{
+  "cui": "C0206710",
+  "cui_name": "Basal Cell Neoplasm",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Skin Neoplasm",
+  "reasoning": "Basal cell carcinoma (BCC) is the most common human malignancy. Global incidence approximately 150-200 per 100k annually from cancer registries. High geographic variation: 10-50 per 100k in dark-skinned populations to 200+ per 100k in fair-skinned populations with high sun exposure.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN and national cancer registries",
+  "source_url": null,
+  "source_type": "registry"
+}

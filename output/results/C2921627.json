@@ -1,0 +1,19 @@
+{
+  "cui": "C2921627",
+  "cui_name": "Clinically Isolated Syndrome",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Demyelinating Disease",
+  "reasoning": "CIS represents first clinical demyelinating episode, often precursor to MS. Estimated incidence ~4-5 per 100k annually based on population-based studies. Limited high-quality epidemiological data; confidence constrained by variable definitions and case ascertainment.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Multiple European population-based studies (2000-2010 era)",
+  "source_url": null,
+  "source_type": "literature"
+}

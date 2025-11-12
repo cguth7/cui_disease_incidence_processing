@@ -1,0 +1,19 @@
+{
+  "cui": "C0025297",
+  "cui_name": "Viral meningitis",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Meningitis",
+  "reasoning": "Acute infectious disease. Viral meningitis incidence approximately 8-10 per 100k globally from epidemiological surveillance data. Most cases self-limited compared to bacterial meningitis.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "CDC epidemiological surveillance data (various years)",
+  "source_url": null,
+  "source_type": "registry"
+}

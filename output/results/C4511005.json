@@ -1,0 +1,19 @@
+{
+  "cui": "C4511005",
+  "cui_name": "Autosomal dominant primary hypomagnesemia with hypocalciuria",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Extremely rare autosomal dominant genetic disorder of magnesium reabsorption in kidney. Caused by mutations in FXYD2/CASR genes. Fewer than 50 cases reported globally in medical literature, estimated <0.001 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

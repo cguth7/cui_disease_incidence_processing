@@ -1,0 +1,19 @@
+{
+  "cui": "C0341486",
+  "cui_name": "Cystadenoma of pancreas",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic Neoplasm",
+  "reasoning": "Pancreatic cystadenoma is a rare benign cystic neoplasm, estimated incidence ~0.5 per 100k based on pancreatic cancer registry extrapolations. Data limited to small case series and institutional reviews; confidence moderate due to limited population-based epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

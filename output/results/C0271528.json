@@ -1,0 +1,19 @@
+{
+  "cui": "C0271528",
+  "cui_name": "Isosexual precocious puberty",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Precocious puberty",
+  "reasoning": "Rare endocrine disorder. Estimated ~1.5 per 100k children based on pediatric endocrinology case series; limited population-based epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0751502",
+  "cui_name": "Petrous Sinus Thrombosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Intracranial Venous Sinus Thrombosis",
+  "reasoning": "Petrous sinus thrombosis is a rare complication of otitis media or mastoiditis. Estimated <0.05 per 100k based on case reports and small case series. IVST incidence ~0.5-1 per 100k; petrous sinus represents small subset.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

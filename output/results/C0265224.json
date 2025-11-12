@@ -1,0 +1,19 @@
+{
+  "cui": "C0265224",
+  "cui_name": "Freeman-Sheldon syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Distal Arthrogryposis",
+  "reasoning": "Rare genetic disorder (distal arthrogryposis type 2A). Extremely rare; <100-200 cases worldwide. Prevalence ~0.15 per 100k based on genetic registries and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

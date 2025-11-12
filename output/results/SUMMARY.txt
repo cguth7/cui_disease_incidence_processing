@@ -1,0 +1,99 @@
+CUI INCIDENCE MAPPER - PROCESSING SUMMARY
+==========================================
+Date: 2025-11-12
+Total CUIs Processed: 5
+Output Directory: /home/user/cui_disease_incidence_processing/output/results/
+
+PROCESSING RESULTS:
+-------------------
+
+1. C0744301 - Gastric Ulcer Benign
+   Incidence: 50.0 per 100k person-years
+   Confidence: 0.72 (Moderate)
+   Type: Subtype of Peptic ulcer disease
+   Data Quality: Moderate
+   Source: Lanas et al. (2006) - Peer-reviewed literature
+   Geographic Variation: Moderate
+
+2. C3553843 - Hypogonadotropic Hypogonadism
+   Incidence: 2.5 per 100k person-years
+   Prevalence: 8.0 per 100k population
+   Confidence: 0.55 (Moderate-Low)
+   Type: Subtype of Hypogonadism
+   Data Quality: Moderate
+   Source: Dandona & Rosenberg (2010) - Peer-reviewed literature
+   Geographic Variation: Moderate
+   Note: Central/secondary hypogonadism with limited epidemiological data
+
+3. C0002438 - Amebiasis
+   Incidence: 35.0 per 100k person-years
+   Prevalence: 70.0 per 100k population
+   Confidence: 0.65 (Moderate)
+   Type: Standalone condition (endemic parasitic infection)
+   Data Quality: Moderate
+   Source: WHO (2004) - Official registry source
+   Geographic Variation: High (concentrated in tropical/subtropical regions)
+   Note: Significant burden in Central/South America, Africa, Asia
+
+4. C0013370 - Amebic Colitis
+   Incidence: 8.0 per 100k person-years
+   Confidence: 0.50 (Moderate-Low)
+   Type: Subtype of Amebiasis (symptomatic manifestation)
+   Data Quality: Moderate
+   Source: Haque et al. (2003) - Peer-reviewed literature
+   Geographic Variation: High
+   Note: Represents severe invasive form; most amebiasis asymptomatic
+
+5. C0432268 - Osteopathia Striata
+   Incidence: Extremely rare (<0.01 per 100k births)
+   Confidence: 0.30 (Low)
+   Type: Subtype of Osteosclerotic dysplasias
+   Data Quality: Weak
+   Source: None verifiable
+   Geographic Variation: Unknown
+   Note: Rare genetic skeletal dysplasia; <100 cases reported worldwide
+
+CONFIDENCE DISTRIBUTION:
+------------------------
+High (0.7-1.0):      1 CUI    (20%)
+Medium (0.5-0.7):    3 CUIs   (60%)
+Low (0.3-0.5):       1 CUI    (20%)
+Unmappable (0.0):    0 CUIs   (0%)
+
+SUBTYPE DETECTION:
+------------------
+Identified Subtypes: 4 of 5
+- C0744301 (subtype of Peptic ulcer disease)
+- C3553843 (subtype of Hypogonadism)
+- C0013370 (subtype of Amebiasis)
+- C0432268 (subtype of Osteosclerotic dysplasias)
+
+GEOGRAPHIC VARIATION NOTES:
+---------------------------
+- High variation: Amebiasis, Amebic colitis (endemic/tropical diseases)
+- Moderate variation: Gastric ulcer benign, Hypogonadotropic hypogonadism
+- Unknown: Osteopathia striata (rare genetic condition)
+
+DATA QUALITY ASSESSMENT:
+------------------------
+Strong:  0 (0%)
+Moderate: 4 (80%)
+Weak:    1 (20%)
+None:    0 (0%)
+
+FILES GENERATED:
+----------------
+Individual JSON files: 5 files in output/results/{CUI}.json format
+- /home/user/cui_disease_incidence_processing/output/results/C0744301.json
+- /home/user/cui_disease_incidence_processing/output/results/C3553843.json
+- /home/user/cui_disease_incidence_processing/output/results/C0002438.json
+- /home/user/cui_disease_incidence_processing/output/results/C0013370.json
+- /home/user/cui_disease_incidence_processing/output/results/C0432268.json
+
+NOTES:
+------
+1. All outputs conform to CUI Incidence Mapper 2 schema
+2. Conservative confidence scoring applied to account for data quality
+3. Source quality prioritized over quantity - no fabricated sources
+4. Geographic variation documented where relevant
+5. Hierarchy relationships identified for subtype classification

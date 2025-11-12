@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0017531",
+    "cui_name": "Angiolymphoid hyperplasia",
+    "incidence_per_100k": "extremely rare",
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": "extremely rare",
+    "confidence": 0.28,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Angiolymphoid hyperplasia with eosinophilia (ALHE) is a rare benign vascular-lymphoid proliferation primarily of the head and neck region. Estimated <0.1 per 100k based on case report frequency in dermatologic literature. More common in older adults and predominantly affects skin.",
+    "data_quality": "weak",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Medical literature case reports from dermatology and pathology journals; limited epidemiological data",
+    "source_url": null,
+    "source_type": null
+  }
+]

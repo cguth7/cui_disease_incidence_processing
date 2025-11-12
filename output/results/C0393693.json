@@ -1,0 +1,19 @@
+{
+  "cui": "C0393693",
+  "cui_name": "Benign Neonatal Epilepsy, Nonfamilial",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Neonatal Seizures / Benign Neonatal Epilepsy",
+  "reasoning": "Benign neonatal epilepsy occurs in approximately 1-4 per 1000 live births. The nonfamilial form represents a subset of benign neonatal epilepsy cases, estimated at ~25-50% of cases. Incidence approximately 1.5 per 100k person-years when annualized across general population. Confidence limited by heterogeneous definitions and incomplete epidemiological data in literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

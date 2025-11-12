@@ -1,0 +1,70 @@
+=== GROUP 80 ===
+C0751416 - Pelvic Cancer
+C2751313 - CLAPO Syndrome
+C0265552 - Congenital macrodactylia
+C2752042 - Congenital Lipomatous Overgrowth, Vascular Malformations, and Epidermal Nevi
+C1865285 - Megalencephaly cutis marmorata telangiectatica congenita
+
+=== GROUP 81 ===
+C1320471 - Mesoblastic nephroma, cellular
+C2675487 - Mental Retardation, Autosomal Dominant 4
+C2675488 - Mental Retardation, Autosomal Dominant 3
+C0151565 - Hemorrhagic colitis
+C1855126 - 3-Methylglutaconic Aciduria Type IV
+
+=== GROUP 82 ===
+C0085679 - Hyperchloremia
+C1858302 - Ectodermal dysplasia/ skin fragility syndrome
+C0265110 - Cerebral Vasospasm
+C0013570 - Ecthyma, Contagious
+C1336753 - Thyroid Lymphoma
+
+=== GROUP 83 ===
+C0339271 - Salzmann nodular dystrophy
+C1567742 - Alport Syndrome, X-Linked
+C1334634 - Mature B-Cell Non-Hodgkin Lymphoma
+C3178804 - Physical Anhedonia
+C1304191 - Autoimmune urticaria
+
+=== GROUP 84 ===
+C0878631 - pathergy
+C2677549 - Hypouricemia, Renal, 2
+C0342286 - Woodhouse Sakati syndrome
+C1276035 - Pena-Shokeir syndrome type I
+C2675527 - Myopathy, Congenital, Compton-North
+
+=== GROUP 85 ===
+C1519653 - Trisomy 4
+C4693893 - DEAFNESS, AUTOSOMAL RECESSIVE 57
+C1969833 - COPD, Severe Early-Onset
+C4082304 - Oligodontia
+C0701163 - Adrenogenital disorder
+
+=== GROUP 86 ===
+C0028432 - Nose Diseases
+C2921627 - Clinically isolated syndrome
+C0349571 - Pleomorphic adenoma of parotid gland
+C0543541 - HYPERGLYCINURIA (disorder)
+C0268654 - Iminoglycinuria
+
+=== GROUP 87 ===
+C0152027 - Sensory Disorders
+C0006160 - Brenner Tumor
+C0263420 - Hyperkeratosis lenticularis perstans
+C1410400 - Nontraumatic subarachnoid hemorrhage, unspecified
+C0240635 - Byzanthine arch palate
+
+=== GROUP 88 ===
+C1845987 - Neutropenia, Severe Congenital, X-Linked
+C4310743 - STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET
+C0033103 - Pretibial myxedema
+C0748607 - Recurrent seizure
+C0278882 - Stage III Cutaneous Melanoma AJCC v6
+
+=== GROUP 89 ===
+C1318562 - Infantile digital fibromatosis
+C1282908 - De Vaal's syndrome
+C0272167 - Reticular dysgenesis
+C0458631 - Performance anxiety
+C3887654 - POLYARTERITIS NODOSA, CHILDHOOD-ONSET
+

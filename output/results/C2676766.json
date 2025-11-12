@@ -1,0 +1,19 @@
+{
+  "cui": "C2676766",
+  "cui_name": "19p13.12 microdeletion syndrome",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Chromosomal Deletion Syndromes",
+  "reasoning": "19p13.12 microdeletion is a rare chromosomal deletion syndrome identified through array-CGH. Limited published cases; estimated <0.1 per 100k births based on chromosomal microarray prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

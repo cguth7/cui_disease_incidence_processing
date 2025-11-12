@@ -1,0 +1,19 @@
+{
+  "cui": "C3826590",
+  "cui_name": "Chest--Tumors",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too heterogeneous and undefined. Includes benign (hemangiomas, fibromas) and malignant (lung cancer, mesothelioma, mediastinal tumors, thymic tumors, chest wall sarcomas) neoplasms with vastly different incidence rates, clinical significance, and epidemiology. Cannot provide meaningful aggregate estimate without specification of tumor type and anatomy.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

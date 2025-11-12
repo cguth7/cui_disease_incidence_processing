@@ -1,0 +1,19 @@
+{
+  "cui": "C0743073",
+  "cui_name": "depression anxiety disorder",
+  "incidence_per_100k": 3500,
+  "prevalence_per_100k": 28000,
+  "metric_type": "both",
+  "total_cases_per_year": 280000000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Mixed anxiety-depression disorder or comorbid anxiety/depression. Incidence approximately 3,500 new diagnoses per 100k person-years. Prevalence estimated 28% of global population (28,000 per 100k) have anxiety or depression, with significant overlap/comorbidity. Estimates based on WHO and epidemiological studies, though heterogeneous definitions of 'anxiety-depression comorbidity'.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Health Estimates and epidemiological meta-analyses",
+  "source_url": null,
+  "source_type": "literature"
+}

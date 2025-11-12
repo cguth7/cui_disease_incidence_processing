@@ -1,0 +1,19 @@
+{
+  "cui": "C1513269",
+  "cui_name": "Microcysts",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Microcysts is a pathological descriptor/morphological finding rather than a specific disease entity. It refers to microscopic fluid-filled spaces that can occur in various tissues (kidney, liver, breast, etc.) across multiple disease categories. Too generic to estimate meaningfully.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

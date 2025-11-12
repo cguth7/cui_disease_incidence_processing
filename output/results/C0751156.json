@@ -1,0 +1,19 @@
+{
+  "cui": "C0751156",
+  "cui_name": "Acute Disseminated Encephalomyelitis",
+  "incidence_per_100k": 0.6,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 48000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "ADEM is an acute post-infectious or post-vaccination demyelinating disease of the CNS. Global incidence estimated at 0.4-0.8 per 100k person-years, commonly affecting children and young adults. Point estimate 0.6 per 100k based on epidemiological surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Schwarz S et al. (2001). Acute disseminated encephalomyelitis: a follow-up study of 40 adult patients. Neurology. 56(10):1313-1318",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11376184/",
+  "source_type": "literature"
+}

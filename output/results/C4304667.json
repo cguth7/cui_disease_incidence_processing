@@ -1,0 +1,19 @@
+{
+  "cui": "C4304667",
+  "cui_name": "Benign concentric annular macular dystrophy",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Macular Dystrophy",
+  "reasoning": "Benign concentric annular macular dystrophy is a rare retinal disorder with minimal published epidemiological data. Very few case reports available, suggesting incidence <0.001 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

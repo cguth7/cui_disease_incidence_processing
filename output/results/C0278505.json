@@ -1,0 +1,19 @@
+{
+  "cui": "C0278505",
+  "cui_name": "Non-small cell lung cancer stage II",
+  "incidence_per_100k": 2.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 224000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Non-small cell lung cancer",
+  "reasoning": "NSCLC stage II represents ~25% of NSCLC diagnoses. Global NSCLC incidence ~11 per 100k from GLOBOCAN 2005; stage II estimated at ~2.8 per 100k. Confidence limited by unavailability of stage-specific data in primary registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC) - stage distribution estimates",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

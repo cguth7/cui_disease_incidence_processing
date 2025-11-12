@@ -1,0 +1,62 @@
+{
+  "task": "Process 5 CUI disease codes using cui-incidence-mapper_2 skill",
+  "date": "2025-11-12",
+  "status": "COMPLETED",
+  "total_requested": 5,
+  "total_processed": 5,
+  "errors": 0,
+  "success_rate": "100%",
+  "processed_cuis": [
+    {
+      "cui": "C2675496",
+      "name": "Retinitis Pigmentosa 46",
+      "output_file": "/home/user/cui_disease_incidence_processing/output/results/C2675496.json",
+      "json_valid": true,
+      "confidence": 0.25,
+      "data_quality": "weak"
+    },
+    {
+      "cui": "C0339277",
+      "name": "Corneal Dystrophy, Juvenile Epithelial of Meesmann",
+      "output_file": "/home/user/cui_disease_incidence_processing/output/results/C0339277.json",
+      "json_valid": true,
+      "confidence": 0.2,
+      "data_quality": "weak"
+    },
+    {
+      "cui": "C1513269",
+      "name": "Microcysts",
+      "output_file": "/home/user/cui_disease_incidence_processing/output/results/C1513269.json",
+      "json_valid": true,
+      "confidence": 0.0,
+      "data_quality": "none",
+      "special_note": "Unmappable - morphological finding, not specific disease"
+    },
+    {
+      "cui": "C4684845",
+      "name": "Pulmonary Artery Intimal Sarcoma",
+      "output_file": "/home/user/cui_disease_incidence_processing/output/results/C4684845.json",
+      "json_valid": true,
+      "confidence": 0.15,
+      "data_quality": "weak"
+    },
+    {
+      "cui": "C1112768",
+      "name": "Anterior subcapsular cataract",
+      "output_file": "/home/user/cui_disease_incidence_processing/output/results/C1112768.json",
+      "json_valid": true,
+      "confidence": 0.45,
+      "data_quality": "moderate"
+    }
+  ],
+  "summary": {
+    "high_confidence": 0,
+    "medium_confidence": 1,
+    "low_confidence": 3,
+    "unmappable": 1,
+    "rare_genetic_subtypes": 2,
+    "rare_malignancies": 1,
+    "morphological_findings": 1,
+    "chronic_condition_subtypes": 1
+  }
+}

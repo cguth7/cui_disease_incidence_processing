@@ -1,0 +1,19 @@
+{
+  "cui": "C4317126",
+  "cui_name": "Niacin deficiency",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": 80.0,
+  "metric_type": "both",
+  "total_cases_per_year": 960000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Nutritional deficiency more common in low-income countries with limited dietary diversity. Global incidence of clinical pellagra (severe form) ~12 per 100k; mild deficiency prevalence estimated ~80 per 100k in endemic regions. Geographic variation substantial; limited global surveillance data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

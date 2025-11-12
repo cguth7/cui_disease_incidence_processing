@@ -1,0 +1,19 @@
+{
+  "cui": "C3150943",
+  "cui_name": "Long QT Syndrome 2",
+  "incidence_per_100k": 0.001,
+  "prevalence_per_100k": 0.05,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Long QT Syndrome",
+  "reasoning": "LQTS type 2 is a genetic cardiac arrhythmia subtype with prevalence ~1 in 2,000-5,000 (0.02-0.05 per 100k). Reported as prevalence for lifelong genetic condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cardiac genetics and arrhythmia registries",
+  "source_url": null,
+  "source_type": "literature"
+}

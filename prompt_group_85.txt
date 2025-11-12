@@ -1,0 +1,5 @@
+1. C1519653 - Trisomy 4
+2. C4693893 - DEAFNESS, AUTOSOMAL RECESSIVE 57
+3. C1969833 - COPD, Severe Early-Onset
+4. C4082304 - Oligodontia
+5. C0701163 - Adrenogenital disorder

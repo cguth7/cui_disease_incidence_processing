@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0748607",
+    "cui_name": "Recurrent Seizure",
+    "incidence_per_100k": 50.0,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 4000000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Recurrent seizures typically indicate epilepsy or seizure disorder. Global epilepsy incidence estimated ~40-50 per 100k per year. Concept is somewhat vague (could include post-stroke or post-traumatic recurrent seizures); confidence reduced due to lack of specificity.",
+    "data_quality": "moderate",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": "WHO Global Burden of Disease estimates",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

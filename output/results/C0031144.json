@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0031144",
+    "cui_name": "Chronic peritoneal effusion",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Clinical manifestation rather than primary disease entity. Peritoneal effusion is a finding secondary to multiple underlying conditions: cirrhosis, heart failure, malignancy, peritonitis, or nephrotic syndrome. Incidence cannot be determined without specifying primary etiology.",
+    "data_quality": "none",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cui": "C2349453",
+  "cui_name": "Familial migraine",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": 12000,
+  "metric_type": "both",
+  "total_cases_per_year": 680000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Migraine",
+  "reasoning": "Familial migraine represents ~50-60% of migraine cases with positive family history. Incidence of new migraine diagnoses ~8-10 per 100k/year; prevalence ~12% globally (12000 per 100k). Strong genetic component with variable penetrance.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO, International Headache Society studies",
+  "source_url": null,
+  "source_type": "literature"
+}

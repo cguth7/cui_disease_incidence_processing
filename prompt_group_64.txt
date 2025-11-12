@@ -1,0 +1,5 @@
+1. C0342883 - Cholesteryl Ester Transfer Protein Deficiency
+2. C0850572 - Adenomatous polyp of colon
+3. C4302206 - Perinatal arterial ischemic stroke
+4. C1865871 - HEMANGIOMA, CAPILLARY INFANTILE
+5. C3501843 - Nonmedullary Thyroid Carcinoma

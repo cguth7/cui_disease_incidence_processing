@@ -1,0 +1,5 @@
+1. C0155016 - Color Blindness, Red-Green
+2. C1839612 - MYOPIA 1, X-LINKED
+3. C4551635 - Deuteranopia
+4. C0155015 - Color Blindness, Red
+5. C1848200 - SUBCORTICAL BAND HETEROTOPIA, X-LINKED

@@ -1,0 +1,19 @@
+{
+  "cui": "C0281334",
+  "cui_name": "Adult Papillary Meningioma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Meningioma",
+  "reasoning": "Papillary meningiomas are rare aggressive subtypes, estimated at ~3-5% of all meningiomas. With overall meningioma incidence ~7-8 per 100k, papillary represents ~0.3 per 100k. Low confidence due to limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

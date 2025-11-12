@@ -1,0 +1,19 @@
+{
+  "cui": "C1848200",
+  "cui_name": "SUBCORTICAL BAND HETEROTOPIA X-LINKED",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400,
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Subcortical Band Heterotopia",
+  "reasoning": "Rare X-linked cortical malformation affecting neuronal migration. X-linked inheritance (PCDH19 gene mutations) accounts for minority of band heterotopia cases. Estimated prevalence <0.01% based on neuroimaging studies; ~5 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

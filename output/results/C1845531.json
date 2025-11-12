@@ -1,0 +1,19 @@
+{
+  "cui": "C1845531",
+  "cui_name": "MENTAL RETARDATION, X-LINKED 81",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "X-linked mental retardation type 81 is an extremely rare monogenic disorder. Fewer than 15 cases reported in literature. Estimated <0.001 per 100k births. Identified in affected male pedigrees through molecular genetic testing.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

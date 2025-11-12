@@ -1,0 +1,19 @@
+{
+  "cui": "C0851445",
+  "cui_name": "Haematopoietic neoplasms",
+  "incidence_per_100k": 28.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2280000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major haematopoietic malignancies from GLOBOCAN 2005: acute leukemias (~3.5), chronic leukemias (~2.5), non-Hodgkin lymphomas (~12), Hodgkin lymphoma (~2), multiple myeloma (~4), other lymphoid (~4) = ~28.5 per 100k globally. Heterogeneous group with vastly different epidemiology and prognosis.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

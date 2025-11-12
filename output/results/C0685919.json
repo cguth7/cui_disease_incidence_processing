@@ -1,0 +1,19 @@
+{
+  "cui": "C0685919",
+  "cui_name": "Neuroaxonal Dystrophy, Infantile",
+  "incidence_per_100k": 0.25,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 20000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Neuronal Ceroid Lipofuscinosis",
+  "reasoning": "Infantile neuroaxonal dystrophy (INAD) is a rare lysosomal storage disorder with autosomal recessive inheritance. Estimated <0.5 per 100k births based on rare genetic disease registries.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

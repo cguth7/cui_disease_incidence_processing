@@ -1,0 +1,19 @@
+{
+  "cui": "C1855020",
+  "cui_name": "Acute necrotizing encephalopathy",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute necrotizing encephalopathy (ANE) is a rare neurological emergency with estimated incidence <0.1 per 100k. Primarily affects children in East Asia and occurs sporadically. Limited systematic epidemiological studies; confidence based on case reports and clinical series.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

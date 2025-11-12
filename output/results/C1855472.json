@@ -1,0 +1,19 @@
+{
+  "cui": "C1855472",
+  "cui_name": "Acute lymphoblastic leukemia with lymphomatous features",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Acute lymphoblastic leukemia",
+  "reasoning": "ALL incidence ~2-3 per 100k globally from GLOBOCAN. Lymphomatous features are a specific morphological variant. Confidence based on registry quality and specific subtype uncertainty.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4725876",
+  "cui_name": "Resectable Neuroblastoma",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Neuroblastoma overall incidence ~10 per 100k in children <5 years. Resectable (Stage 1-2) cases comprise approximately 40-50% of all neuroblastoma cases, estimated at ~8.5 per 100k. Staging data available from international cancer registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "International cancer registries and neuroblastoma surveillance data",
+  "source_url": null,
+  "source_type": "registry"
+}

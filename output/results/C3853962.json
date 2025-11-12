@@ -1,0 +1,19 @@
+{
+  "cui": "C3853962",
+  "cui_name": "Enterovirus 71 infection",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Enterovirus Infection",
+  "reasoning": "Enterovirus 71 is endemic in Asia-Pacific region, causing hand-foot-mouth disease and neurological complications. Global incidence estimated ~2.5 per 100k (primarily from epidemic years in endemic regions). Geographic variation is high, with significant clustering in Southeast/East Asia.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

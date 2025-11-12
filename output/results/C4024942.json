@@ -1,0 +1,19 @@
+{
+  "cui": "C4024942",
+  "cui_name": "Late-onset muscular dystrophy",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Muscular Dystrophy",
+  "reasoning": "Late-onset muscular dystrophy encompasses several types with onset in adulthood (Limb-girdle MD, Oculopharyngeal MD, Facioscapulohumeral MD). Estimated combined incidence ~0.5 per 100k in adult populations. Limited population-based data; estimates based on specialist clinic populations and rare disease registries.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

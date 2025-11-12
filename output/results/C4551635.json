@@ -1,0 +1,19 @@
+{
+  "cui": "C4551635",
+  "cui_name": "Deuteranopia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Color Blindness Red-Green",
+  "reasoning": "Deuteranopia (green cone deficiency) accounts for approximately 50% of red-green color blindness cases. Prevalence ~1% in males (1000/100k), 0.01% in females (10/100k); weighted average ~2500/100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neitz J & Neitz M. (2011). The genetics of normal and defective color vision. J Ophthalmol. 2011:321639",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21811647/",
+  "source_type": "literature"
+}

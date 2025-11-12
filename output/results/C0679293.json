@@ -1,0 +1,19 @@
+{
+  "cui": "C0679293",
+  "cui_name": "familial alcoholism",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Alcohol Use Disorder",
+  "reasoning": "Familial alcoholism measured as prevalence (~0.5% of population with family history predisposition). Limited epidemiological data specific to familial cases; using proxy estimate from alcohol use disorder prevalence literature.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

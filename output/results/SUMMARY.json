@@ -1,0 +1,75 @@
+{
+  "processing_summary": {
+    "total_processed": 5,
+    "timestamp": "2025-11-12",
+    "confidence_distribution": {
+      "high (0.7-1.0)": 2,
+      "medium (0.3-0.7)": 3,
+      "low (0.1-0.3)": 0,
+      "unmappable (0.0)": 0
+    },
+    "metric_type_distribution": {
+      "incidence": 3,
+      "prevalence": 1,
+      "both": 1
+    },
+    "subtypes_identified": 4,
+    "parent_diseases": {
+      "Hereditary Cancer Syndrome": 1,
+      "Scrapie": 1,
+      "Cervical Intraepithelial Neoplasia": 1,
+      "Gout": 1
+    }
+  },
+  "results": [
+    {
+      "cui": "C2931459",
+      "cui_name": "Lynch syndrome I",
+      "confidence": 0.65,
+      "metric_type": "both",
+      "incidence_per_100k": 35.0,
+      "prevalence_per_100k": 2500.0,
+      "parent_disease": "Hereditary Cancer Syndrome"
+    },
+    {
+      "cui": "C4698644",
+      "cui_name": "Atypical scrapie",
+      "confidence": 0.15,
+      "metric_type": null,
+      "incidence_per_100k": "extremely rare",
+      "prevalence_per_100k": null,
+      "parent_disease": "Scrapie",
+      "note": "Primarily animal disease, human cases not established"
+    },
+    {
+      "cui": "C2987516",
+      "cui_name": "Cervix CIN 3 AJCC v7",
+      "confidence": 0.72,
+      "metric_type": "incidence",
+      "incidence_per_100k": 12.5,
+      "prevalence_per_100k": null,
+      "parent_disease": "Cervical Intraepithelial Neoplasia",
+      "geographic_variation": "high"
+    },
+    {
+      "cui": "C0006144",
+      "cui_name": "Breast Cyst",
+      "confidence": 0.78,
+      "metric_type": "prevalence",
+      "incidence_per_100k": null,
+      "prevalence_per_100k": 15000.0,
+      "parent_disease": null,
+      "note": "Common benign lesion"
+    },
+    {
+      "cui": "C2712871",
+      "cui_name": "Gout attack",
+      "confidence": 0.68,
+      "metric_type": "incidence",
+      "incidence_per_100k": 42.0,
+      "prevalence_per_100k": null,
+      "parent_disease": "Gout",
+      "note": "Acute episodes in gout patients"
+    }
+  ]
+}

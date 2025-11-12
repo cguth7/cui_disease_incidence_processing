@@ -1,0 +1,19 @@
+{
+  "cui": "C3534591",
+  "cui_name": "Diabetic Heart Disease",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Diabetic complications",
+  "reasoning": "Diabetic cardiomyopathy incidence estimated at 8.5 per 100k in diabetic population (8% annual risk). Limited to those with diabetes. Confidence moderate due to variable case definitions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Jia G et al. (2018). Endothelial dysfunction, inflammation, and atherosclerosis in diabetic cardiomyopathy. Front Physiol. 9:564",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/29755349/",
+  "source_type": "literature"
+}

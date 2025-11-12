@@ -1,0 +1,19 @@
+{
+  "cui": "C2584620",
+  "cui_name": "Thrombophilia, hereditary",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 4500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 360000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hereditary thrombophilia is a chronic lifelong condition requiring prevalence measurement. Prevalence ~4.5% globally estimated from Factor V Leiden, prothrombin G20210A mutations and other genetic variants. Confidence reduced due to heterogeneous subtypes with varying frequencies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

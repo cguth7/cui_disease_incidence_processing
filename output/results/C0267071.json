@@ -1,0 +1,19 @@
+{
+  "cui": "C0267071",
+  "cui_name": "Oropharyngeal Dysphagia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Oropharyngeal dysphagia is a symptom/manifestation of multiple heterogeneous conditions (stroke, Parkinson's disease, amyotrophic lateral sclerosis, pharyngeal carcinoma, myasthenia gravis, etc.), not a specific disease. Umbrella term too broad and pathophysiologically diverse to estimate incidence meaningfully. Incidence depends entirely on underlying etiology.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

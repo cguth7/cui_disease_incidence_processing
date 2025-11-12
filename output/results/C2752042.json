@@ -1,0 +1,19 @@
+{
+  "cui": "C2752042",
+  "cui_name": "Congenital Lipomatous Overgrowth, Vascular Malformations, and Epidermal Nevi",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CLOVEN syndrome is an extremely rare congenital condition characterized by lipomatous overgrowth, vascular malformations, and epidermal nevi. Fewer than 15 cases reported in medical literature as of 2020. Estimated incidence <0.001 per 100k births. Clinical presentation highly variable, may be underdiagnosed.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

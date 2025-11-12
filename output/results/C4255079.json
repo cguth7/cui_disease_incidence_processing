@@ -1,0 +1,19 @@
+{
+  "cui": "C4255079",
+  "cui_name": "Familial Hyperekplexia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Neurological Genetic Disorders",
+  "reasoning": "Familial hyperekplexia (startle disease) is a rare genetic neurological disorder with excessive startle response and muscle rigidity. Estimated <0.1 per 100k based on case reports. Autosomal dominant inheritance, primary mutations in GLRA1, GLRB genes. Limited epidemiological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

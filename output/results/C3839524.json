@@ -1,0 +1,19 @@
+{
+  "cui": "C3839524",
+  "cui_name": "Anemia in malignant neoplastic disease",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Anemia in malignant neoplastic disease is a secondary complication/manifestation of cancer, not a primary disease entity. Prevalence varies dramatically depending on cancer type, stage, and treatment. Cannot be meaningfully estimated as independent epidemiological entity without specification of primary cancer type.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

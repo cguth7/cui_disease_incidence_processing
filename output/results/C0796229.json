@@ -1,0 +1,19 @@
+{
+  "cui": "C0796229",
+  "cui_name": "Mental Retardation, X-Linked 23",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "Extremely rare X-linked genetic disorder with no population-based epidemiological data. Estimated <0.1 per 100k based on case report frequency and rare genetic disorder patterns.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

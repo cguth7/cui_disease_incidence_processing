@@ -1,0 +1,19 @@
+{
+  "cui": "C2609247",
+  "cui_name": "Adrenal incidentaloma",
+  "incidence_per_100k": 4.7,
+  "prevalence_per_100k": 1300,
+  "metric_type": "both",
+  "total_cases_per_year": 376000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Incidental adrenal masses found on imaging 1-5% of CT scans. Prevalence ~1.3% in autopsy series (1300 per 100k). Incidence ~4.7 per 100k from prospective imaging studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

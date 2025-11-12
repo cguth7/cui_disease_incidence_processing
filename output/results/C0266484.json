@@ -1,0 +1,19 @@
+{
+  "cui": "C0266484",
+  "cui_name": "Schizencephaly",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schizencephaly is a rare congenital malformation with clefts in cerebral hemispheres. Incidence estimated at 0.3-1 per 100k births (approximately 0.5 per 100k per year). Limited epidemiological studies; data based on case reports and imaging studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

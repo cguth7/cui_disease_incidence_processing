@@ -1,0 +1,19 @@
+{
+  "cui": "C3844293",
+  "cui_name": "Oval fat body",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Oval fat body is a histopathological finding (lipid droplets in urine visible under polarized microscopy), not a disease entity. It occurs secondary to nephrotic syndrome, glomerulonephritis, and other kidney disorders. Cannot be meaningfully mapped to disease incidence without specifying the underlying renal pathology.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

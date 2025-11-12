@@ -1,0 +1,19 @@
+{
+  "cui": "C4744700",
+  "cui_name": "Locally Advanced Pancreatic Adenocarcinoma",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic Cancer",
+  "reasoning": "Pancreatic cancer overall incidence ~11 per 100k (GLOBOCAN 2005). Locally advanced stage represents approximately 30% of cases at diagnosis, suggesting ~3.2 per 100k incidence. Confidence moderate due to stage-specific estimation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

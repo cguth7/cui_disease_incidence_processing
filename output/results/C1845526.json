@@ -1,0 +1,19 @@
+{
+  "cui": "C1845526",
+  "cui_name": "Mental Retardation, X-Linked 46",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Mental Retardation, X-Linked",
+  "reasoning": "Rare genetic form of X-linked mental retardation numbered variant 46. Limited case reports available; no systematic population-based epidemiological studies. Confidence capped at 0.25 due to lack of verifiable incidence data and minimal public health surveillance.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

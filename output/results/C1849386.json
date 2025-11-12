@@ -1,0 +1,19 @@
+{
+  "cui": "C1849386",
+  "cui_name": "Myoglobinuria, Acute Recurrent, Autosomal Recessive",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Recurrent myoglobinuria",
+  "reasoning": "Extremely rare autosomal recessive metabolic disorder (likely glycogen storage disease or mitochondrial myopathy subtype). Estimated <0.01 per 100k based on case reports. Low confidence due to minimal epidemiological data and reliance on clinical case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

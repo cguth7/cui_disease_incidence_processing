@@ -1,0 +1,19 @@
+{
+  "cui": "C0393561",
+  "cui_name": "Subcortical Vascular Dementia",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Vascular Dementia",
+  "reasoning": "Subcortical vascular dementia (SIVD) is more common than acute-onset variant. Estimated incidence ~1-2 per 100k person-years based on dementia epidemiology studies. Represents ~20-30% of vascular dementia cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dementia epidemiology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

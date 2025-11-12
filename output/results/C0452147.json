@@ -1,0 +1,19 @@
+{
+  "cui": "C0452147",
+  "cui_name": "Hypospadias, penoscrotal",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Hypospadias",
+  "reasoning": "Penoscrotal hypospadias represents a more severe anatomical variant of hypospadias. Overall hypospadias incidence is 0.5-8 per 1000 male births (average ~3.5 per 1000 births globally). Penoscrotal location comprises approximately 5-10% of hypospadias cases, estimated at ~1.2 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epidemiology of hypospadias from urological surveys and birth defect registries",
+  "source_url": null,
+  "source_type": "registry"
+}

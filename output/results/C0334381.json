@@ -1,0 +1,19 @@
+{
+  "cui": "C0334381",
+  "cui_name": "Non-infiltrating lobular carcinoma",
+  "incidence_per_100k": 6.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 480000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "In situ lobular carcinoma (ILBC) represents 10-20% of breast cancers globally. Based on GLOBOCAN 2005 breast cancer incidence (~40-45 per 100k women) and estimated 15% ILBC proportion = ~6-7 per 100k women.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC), with proportion estimates from international breast pathology literature",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4551506",
+  "cui_name": "Paroxysmal Nonkinesigenic Dyskinesia 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.1,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Paroxysmal Nonkinesigenic Dyskinesia",
+  "reasoning": "Rare genetic movement disorder; specific PNKD1 subtype with <100 families documented worldwide. Estimated prevalence ~0.1 per 100k based on genetic registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

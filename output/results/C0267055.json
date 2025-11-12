@@ -1,0 +1,19 @@
+{
+  "cui": "C0267055",
+  "cui_name": "Erosive esophagitis",
+  "incidence_per_100k": 8,
+  "prevalence_per_100k": 5000,
+  "metric_type": "both",
+  "total_cases_per_year": 640000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Gastroesophageal reflux disease (GERD)",
+  "reasoning": "Erosive esophagitis is complications of GERD with esophageal tissue damage. Limited specific incidence data; estimates based on proportion of GERD patients developing erosive changes (10-20%). Prevalence data more commonly reported (approximately 50-60 per 1000 GERD patients). Confidence moderate due to scarcity of disease-specific epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ronkainen J et al. (2005). Prevalence of Barrett's esophagus in the general population. Gut. 54(6):710-716",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15831922/",
+  "source_type": "literature"
+}

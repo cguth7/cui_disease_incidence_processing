@@ -1,0 +1,19 @@
+{
+  "cui": "C4739246",
+  "cui_name": "Apnea+hypopnea",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 9000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": null,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Sleep Apnea Syndrome",
+  "reasoning": "Obstructive sleep apnea characterized by apneas (breathing cessation) and hypopneas (reduced breathing). Reported as prevalence rather than incidence (chronic condition). Global prevalence estimated at 9% of adults (~9,000 per 100k). Wide variation by age, sex, and population. Conservative estimate based on multiple population studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Heinzer R et al. (2015). Prevalence of sleep-disordered breathing in the general population: the HypnoLaus study. Eur Respir J. 45(3):670-679",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/25336440/",
+  "source_type": "literature"
+}

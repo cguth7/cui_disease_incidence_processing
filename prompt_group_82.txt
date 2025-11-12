@@ -1,0 +1,5 @@
+1. C0085679 - Hyperchloremia
+2. C1858302 - Ectodermal dysplasia/ skin fragility syndrome
+3. C0265110 - Cerebral Vasospasm
+4. C0013570 - Ecthyma, Contagious
+5. C1336753 - Thyroid Lymphoma

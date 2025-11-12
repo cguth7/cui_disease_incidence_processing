@@ -1,0 +1,19 @@
+{
+  "cui": "C1368771",
+  "cui_name": "Burkitt-like lymphoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Burkitt-like lymphoma is a rare subtype of non-Hodgkin lymphoma. Estimated incidence ~0.3 per 100k based on NHL subtype distribution (Burkitt ~1-2% of NHL, NHL ~15-20 per 100k globally). Geographic variation high due to differences in lymphoma epidemiology.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO GLOBOCAN and international lymphoma registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

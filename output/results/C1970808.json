@@ -1,0 +1,19 @@
+{
+  "cui": "C1970808",
+  "cui_name": "XP B-Cockayne Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Cockayne Syndrome",
+  "reasoning": "XP B-Cockayne Syndrome is a rare form of Cockayne syndrome with XPB gene mutation, <10 cases documented worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

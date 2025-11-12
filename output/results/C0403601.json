@@ -1,0 +1,19 @@
+{
+  "cui": "C0403601",
+  "cui_name": "Transplant glomerulopathy",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Kidney graft failure",
+  "reasoning": "Transplant glomerulopathy is a chronic rejection pattern affecting kidney transplants. Estimated incidence based on graft pathology studies; occurs in 5-10% of long-term kidney transplant recipients. Limited to population receiving transplants.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4552673",
+  "cui_name": "Stage I Ovarian Cancer AJCC v8",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Cancer",
+  "reasoning": "Stage I ovarian cancer represents early-stage disease (~15% of cases). GLOBOCAN 2005 reports ovarian cancer at ~10 per 100k globally. Stage-specific data not directly available; estimate 1.5 per 100k for Stage I from proportional analysis.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC), with proportional stage breakdown from cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

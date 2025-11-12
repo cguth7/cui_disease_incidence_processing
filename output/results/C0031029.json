@@ -1,0 +1,19 @@
+{
+  "cui": "C0031029",
+  "cui_name": "Periapical Granuloma",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Periapical Pathology",
+  "reasoning": "Dental/endodontic condition occurring secondary to untreated dental caries. Incidence estimated at ~500 per 100k based on dental health surveys indicating 5-10% of population with untreated caries globally. Represents one of several endodontic diagnoses.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

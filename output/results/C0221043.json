@@ -1,0 +1,19 @@
+{
+  "cui": "C0221043",
+  "cui_name": "Liddle Syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Hypertension, Essential",
+  "reasoning": "Liddle syndrome is an extremely rare autosomal dominant disorder affecting renal sodium reabsorption and causing early-onset hypertension. Approximately 30-50 families reported in medical literature. Estimated incidence <0.01 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

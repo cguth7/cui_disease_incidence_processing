@@ -1,0 +1,19 @@
+{
+  "cui": "C0001916",
+  "cui_name": "Albinism",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": 2000,
+  "metric_type": "both",
+  "total_cases_per_year": 32000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Oculocutaneous albinism (OCA) incidence ~1 in 17,000 births globally (~5.9 per 100k births), but population-level incidence ~0.4 per 100k person-years. Prevalence ~2% in some African populations (2000 per 100k), much lower in European/Asian populations. Reported as both incidence and prevalence given lifelong nature.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Oetting WS, King RA. (1999). Molecular basis of albinism: mutations and polymorphisms of pigmentation genes associated with albinism. Hum Mutat. 13(2):99-115",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10094549/",
+  "source_type": "literature"
+}

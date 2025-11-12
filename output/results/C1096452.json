@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1096452",
+    "cui_name": "Neonatal Early-Onset Sepsis",
+    "incidence_per_100k": 300,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 24000000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Neonatal Sepsis",
+    "reasoning": "Bacterial sepsis in newborns within 72 hours of birth. Epidemiological studies report 3-5 cases per 1000 live births (~3-5 per 100k person-years in neonatal population). Global estimate ~300 per 100k includes all births. Varies by region, obstetric care quality, and maternal factors.",
+    "data_quality": "strong",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": 2004,
+    "source": "Lawn JE et al. (2005). Neonatal survival: a call for action. Lancet. 365(9465):1189-1197",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/15804259/",
+    "source_type": "literature"
+  }
+]

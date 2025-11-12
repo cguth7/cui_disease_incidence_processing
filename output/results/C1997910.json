@@ -1,0 +1,19 @@
+{
+  "cui": "C1997910",
+  "cui_name": "Spondyloepimetaphyseal dysplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Skeletal Dysplasia",
+  "reasoning": "Umbrella term covering multiple genetic skeletal dysplasias (SEMD types). Collectively extremely rare, <0.01 per 100k births. Multiple genetic subtypes with varying severity.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

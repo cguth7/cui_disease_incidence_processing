@@ -1,0 +1,19 @@
+{
+  "cui": "C0019655",
+  "cui_name": "Histoplasmosis",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Systemic fungal infection caused by Histoplasma capsulatum. Global incidence estimated 0.1-0.2 per 100k person-years based on endemic region prevalence and hospitalization data. Higher in endemic areas (Ohio River Valley, parts of Central/South America). Used incidence metric appropriate for acute infectious disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Deepe GS et al. (2004). Histoplasmosis. In: Freedman DO (ed). Tropical Infectious Diseases: Principles, Pathogens & Practice. 2nd ed. Philadelphia: Saunders",
+  "source_url": null,
+  "source_type": "literature"
+}

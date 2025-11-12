@@ -1,0 +1,19 @@
+{
+  "cui": "C0013370",
+  "cui_name": "Amebic colitis",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.50,
+  "is_subtype": true,
+  "parent_disease": "Amebiasis",
+  "reasoning": "Amebic colitis is a specific symptomatic manifestation of amebiasis with estimated incidence 8 per 100k in endemic regions. Represents severe invasive form; most amebiasis infections are asymptomatic.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Haque R et al. (2003). Amebiasis. N Engl J Med. 348(16):1565-1573",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12700377/",
+  "source_type": "literature"
+}

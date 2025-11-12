@@ -1,0 +1,19 @@
+{
+  "cui": "C4302206",
+  "cui_name": "Perinatal arterial ischemic stroke",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Arterial ischemic stroke",
+  "reasoning": "Perinatal arterial ischemic stroke (PAIS) occurs in newborns and infants. Estimated incidence approximately 2 per 100k live births (1:2,500 to 1:5,000 infants). Limited epidemiological data available; estimates based on neonatal stroke registries and cohort studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neonatal stroke registry data and pediatric stroke cohort studies",
+  "source_url": null,
+  "source_type": "registry"
+}

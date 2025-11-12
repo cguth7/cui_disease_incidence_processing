@@ -1,0 +1,19 @@
+{
+  "cui": "C4518375",
+  "cui_name": "Mucinous tubular and spindle cell carcinoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Renal Cell Carcinoma",
+  "reasoning": "Mucinous tubular and spindle cell carcinoma (MTSCC) is a rare renal cell carcinoma subtype, comprising <1% of RCC cases. Estimated incidence <0.05 per 100k based on case series and pathology reviews. Limited epidemiological data from population-based registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Srigley JR et al. (2013). WHO/ISUP classification of renal neoplasia. Am J Surg Pathol. 37(10):1463-1484",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/24025519/",
+  "source_type": "literature"
+}

@@ -1,0 +1,5 @@
+1. C1845987 - Neutropenia, Severe Congenital, X-Linked
+2. C4310743 - STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET
+3. C0033103 - Pretibial myxedema
+4. C0748607 - Recurrent seizure
+5. C0278882 - Stage III Cutaneous Melanoma AJCC v6

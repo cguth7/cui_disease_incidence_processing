@@ -1,0 +1,19 @@
+{
+  "cui": "C0265633",
+  "cui_name": "Congenital absence of tibia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tibial hemimelia (congenital absence of tibia) is one of the rarest congenital lower-limb deformities with incidence ~1 per 1,000,000 live births. Limited epidemiological data from case reports and registry studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet Database - Tibial Hemimelia",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=93322",
+  "source_type": "registry"
+}

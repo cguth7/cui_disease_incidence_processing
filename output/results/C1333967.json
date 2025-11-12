@@ -1,0 +1,19 @@
+{
+  "cui": "C1333967",
+  "cui_name": "Inflammatory pseudotumor of liver",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.38,
+  "is_subtype": false,
+  "parent_disease": "Hepatic Lesion",
+  "reasoning": "Inflammatory myofibroblastic tumor (IMT) of liver is extremely rare benign lesion with <50 cases reported in literature. Estimated <0.01 per 100k. Typically discovered incidentally on imaging. Low confidence due to limited epidemiological data; most information from case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Coffin CM et al. (2007). Inflammatory myofibroblastic tumor: clinicopathologic review. Am J Surg Pathol. 31(4):509-520",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17414096/",
+  "source_type": "literature"
+}

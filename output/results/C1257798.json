@@ -1,0 +1,19 @@
+{
+  "cui": "C1257798",
+  "cui_name": "Choledochal Cyst, Type IV",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Choledochal Cyst",
+  "reasoning": "Type IV (multiple intrahepatic and extrahepatic cysts) represents 5-10% of choledochal cyst cases. Incidence estimated <0.01 per 100k person-years. Confidence limited due to rarity and reliance on case series data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

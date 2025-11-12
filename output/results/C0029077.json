@@ -1,0 +1,19 @@
+{
+  "cui": "C0029077",
+  "cui_name": "Ophthalmia, Sympathetic",
+  "incidence_per_100k": 0.02,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1600,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Sympathetic ophthalmia is a rare autoimmune inflammation of the uvea, estimated at 0.01-0.05 per 100k incidence. No systematic epidemiological data available; estimate based on case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

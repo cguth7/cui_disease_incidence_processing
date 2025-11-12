@@ -1,0 +1,19 @@
+{
+  "cui": "C0155733",
+  "cui_name": "Atherosclerosis of aorta",
+  "incidence_per_100k": 28,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2240000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Atherosclerosis",
+  "reasoning": "Aortic atherosclerosis is a specific manifestation of atherosclerotic disease. Estimated incidence ~28 per 100k based on cardiovascular disease surveillance data, representing approximately 2.2% of all atherosclerotic events.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO 2005 Global Burden of Disease study, cardiovascular disease estimates",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

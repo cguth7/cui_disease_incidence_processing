@@ -1,0 +1,19 @@
+{
+  "cui": "C4014269",
+  "cui_name": "Atrial Fibrillation, Familial, 15",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Atrial Fibrillation",
+  "reasoning": "Extremely rare genetic subtype (familial AF type 15). <0.01 per 100k based on case reports of rare monogenic variants. Confidence limited by lack of systematic population-based epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

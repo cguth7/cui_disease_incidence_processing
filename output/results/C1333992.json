@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1333992",
+    "cui_name": "Hereditary Ovarian Carcinoma",
+    "incidence_per_100k": 2.5,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 200000,
+    "confidence": 0.72,
+    "is_subtype": true,
+    "parent_disease": "Ovarian Cancer",
+    "reasoning": "Hereditary ovarian cancer (primarily BRCA1/BRCA2-associated) accounts for approximately 5-10% of all ovarian cancers. Global ovarian cancer incidence is ~25-30 per 100k; hereditary cases represent ~2-3 per 100k person-years based on BRCA prevalence (1 in 300-500) and penetrance. Confidence moderate due to variation in BRCA screening coverage and genetic heterogeneity.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": "Estimated from epidemiological patterns in cancer registries; GLOBOCAN ovarian cancer data combined with BRCA prevalence estimates",
+    "source_url": null,
+    "source_type": "estimate"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "cui": "C4014767",
+  "cui_name": "HYPERLIPOPROTEINEMIA, TYPE ID",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Hyperlipoproteinemia",
+  "reasoning": "Type ID hyperlipoproteinemia (familial chylomicronemia) is a rare lipid disorder. Estimated incidence ~2-3 per 100k based on genetic screening studies, though clinical diagnosis rates are lower.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

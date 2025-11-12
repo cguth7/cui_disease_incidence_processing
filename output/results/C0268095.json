@@ -1,0 +1,19 @@
+{
+  "cui": "C0268095",
+  "cui_name": "Keshan disease",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Keshan disease is a selenium deficiency cardiomyopathy historically endemic in certain regions of China. Incidence has declined dramatically with selenium supplementation. Globally extremely rare, <0.1 per 100,000. No recent epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

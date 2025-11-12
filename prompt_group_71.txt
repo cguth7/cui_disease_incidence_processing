@@ -1,0 +1,5 @@
+1. C0015558 - Fallopian Tube Neoplasms
+2. C0008707 - Chronic osteomyelitis
+3. C1096452 - Neonatal Early-Onset Sepsis
+4. C1266138 - Benign cystic nephroma
+5. C0333160 - Air cyst

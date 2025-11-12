@@ -1,0 +1,19 @@
+{
+  "cui": "C3697776",
+  "cui_name": "Proliferative verrucous oral leukoplakia",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Oral Leukoplakia",
+  "reasoning": "Proliferative verrucous oral leukoplakia (PVOL) is a rare, aggressive oral cancer precursor. Estimated incidence <0.2 per 100k based on case series and limited epidemiological data. Diagnosis requires specific histopathological criteria, limiting epidemiological tracking.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

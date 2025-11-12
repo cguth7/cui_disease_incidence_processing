@@ -1,0 +1,19 @@
+{
+  "cui": "C3711384",
+  "cui_name": "Distal Hereditary Motor Neuropathy, Type II",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": 0.8,
+  "metric_type": "both",
+  "total_cases_per_year": 12000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Distal Hereditary Motor Neuropathy",
+  "reasoning": "dHMN type II is a specific genetic form of distal hereditary motor neuropathy. Incidence ~0.15 per 100k; prevalence ~0.8 per 100k based on neurology specialty registries and case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

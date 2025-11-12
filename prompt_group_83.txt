@@ -1,0 +1,5 @@
+1. C0339271 - Salzmann nodular dystrophy
+2. C1567742 - Alport Syndrome, X-Linked
+3. C1334634 - Mature B-Cell Non-Hodgkin Lymphoma
+4. C3178804 - Physical Anhedonia
+5. C1304191 - Autoimmune urticaria

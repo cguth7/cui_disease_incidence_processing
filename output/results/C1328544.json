@@ -1,0 +1,19 @@
+{
+  "cui": "C1328544",
+  "cui_name": "Tubular breast carcinoma",
+  "incidence_per_100k": 2.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 184000,
+  "confidence": 0.71,
+  "is_subtype": true,
+  "parent_disease": "Invasive Breast Carcinoma",
+  "reasoning": "Tubular carcinoma is a well-differentiated histological subtype of invasive breast cancer, representing ~5-10% of all invasive breast cancers. With global breast cancer incidence ~40-50 per 100k in women, tubular subtype incidence estimated ~2-3 per 100k. Better prognosis than invasive ductal carcinoma.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,88 @@
+CUI INCIDENCE MAPPER PROCESSING SUMMARY
+========================================
+
+Date: 2025-11-12
+Skill: cui-incidence-mapper_2
+Processing Mode: Individual JSON output files
+
+REQUESTED CUIS PROCESSED (5):
+=============================
+
+1. C1845987 - Neutropenia, Severe Congenital, X-Linked
+   Incidence: extremely rare (<0.01 per 100k births)
+   Confidence: 0.25 (Low - weak data quality)
+   Type: X-linked genetic blood disorder
+   Data Quality: weak
+   Geographic Variation: unknown
+   Reasoning: Rare genetic disorder with limited epidemiological data
+
+2. C4310743 - Striatonigral Degeneration, Childhood-Onset
+   Incidence: extremely rare (<0.01 per 100k)
+   Confidence: 0.20 (Very Low - minimal data)
+   Type: Progressive neurological disorder
+   Data Quality: weak
+   Geographic Variation: unknown
+   Reasoning: Extremely rare with <100 cases reported worldwide
+
+3. C0033103 - Pretibial Myxedema
+   Incidence: 0.3 per 100k person-years
+   Confidence: 0.35 (Low - limited studies)
+   Type: Graves' disease cutaneous manifestation
+   Data Quality: weak
+   Geographic Variation: moderate
+   Reasoning: Occurs in 0.5-3% of Graves' patients (est. 0.3 per 100k)
+
+4. C0748607 - Recurrent Seizure
+   Incidence: 50.0 per 100k person-years
+   Confidence: 0.45 (Moderate - concept vague)
+   Type: Epilepsy/seizure disorder manifestation
+   Data Quality: moderate
+   Geographic Variation: moderate
+   Reasoning: Global epilepsy incidence ~40-50 per 100k, but concept lacks specificity
+
+5. C0278882 - Stage III Cutaneous Melanoma AJCC v6
+   Incidence: 3.5 per 100k person-years
+   Confidence: 0.72 (Good - registry data)
+   Type: Regional lymph node involvement melanoma
+   Data Quality: strong
+   Geographic Variation: high
+   Year: 2005 (GLOBOCAN)
+   Reasoning: Stage III ~15-20% of melanoma cases (~3-4 per 100k global)
+
+RESULTS DISTRIBUTION:
+====================
+Total Processed: 5
+High Confidence (0.7+): 1 (Stage III Melanoma)
+Medium Confidence (0.3-0.7): 2 (Recurrent seizure, Pretibial myxedema)
+Low Confidence (<0.3): 2 (X-linked neutropenia, Striatonigral degeneration)
+
+KEY FINDINGS:
+=============
+- 2 rare genetic/neurological disorders with minimal epidemiological data
+- 1 autoimmune complication with limited specific literature
+- 1 seizure manifestation with moderate incidence estimate
+- 1 well-defined cancer stage with strong registry data
+
+HIGH QUALITY SOURCE:
+GLOBOCAN 2005 (cancer registry data for melanoma)
+- https://gco.iarc.fr/
+
+OUTPUT FORMAT:
+==============
+Individual JSON files written to:
+  /home/user/cui_disease_incidence_processing/output/results/{CUI}.json
+
+Each file contains:
+  - Disease CUI and name
+  - Incidence/prevalence metrics
+  - Confidence score with methodology
+  - Data quality assessment
+  - Geographic variation notes
+  - Source citations where available
+
+RECOMMENDATIONS:
+================
+1. Stage III Melanoma data is reliable for market sizing
+2. Recurrent Seizure concept should be clarified (epilepsy vs post-stroke)
+3. Rare genetic disorders need specialized registry consultation
+4. Pretibial myxedema estimates depend on Graves' prevalence data

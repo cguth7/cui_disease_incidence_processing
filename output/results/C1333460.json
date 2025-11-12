@@ -1,0 +1,19 @@
+{
+  "cui": "C1333460",
+  "cui_name": "Esophageal Melanoma",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Esophageal Cancer",
+  "reasoning": "Extremely rare esophageal malignancy. <2% of esophageal cancers are melanomas, estimated <0.1 per 100k globally.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

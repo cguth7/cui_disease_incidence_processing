@@ -1,0 +1,19 @@
+{
+  "cui": "C2987191",
+  "cui_name": "Pancreatic Intraductal Papillary Mucinous Neoplasm, Gastric-Type",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic neoplasms",
+  "reasoning": "IPMN represents ~5-10% of pancreatic cancers with global incidence ~10 per 100k. Gastric-type subtype is a specific histological variant with lower incidence (~0.8 per 100k). Limited epidemiological data for this specific subtype.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

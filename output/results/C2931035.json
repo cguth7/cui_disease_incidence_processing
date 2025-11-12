@@ -1,0 +1,19 @@
+{
+  "cui": "C2931035",
+  "cui_name": "Pulmonary alveolar proteinosis, congenital",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary Alveolar Proteinosis",
+  "reasoning": "Congenital form of PAP caused by genetic defects (GCSF-R or CSF2RA mutations). Extremely rare with fewer than 100 cases reported globally, estimated <0.05 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4524517",
+  "cui_name": "Cutaneous Squamous Cell Carcinoma of the Head and Neck",
+  "incidence_per_100k": 18.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1440000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Cutaneous Squamous Cell Carcinoma",
+  "reasoning": "Cutaneous SCC of head/neck region represents majority of cutaneous SCC cases. Global incidence ~18 per 100k, highest in fair-skinned, UV-exposed populations.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Alam M et al. (2001). SCC of skin and variants. J Am Acad Dermatol. 45(6):949-971",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11712035/",
+  "source_type": "literature"
+}

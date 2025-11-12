@@ -1,0 +1,19 @@
+{
+  "cui": "C1257799",
+  "cui_name": "Choledochal Cyst, Type V",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Choledochal Cyst",
+  "reasoning": "Type V (Caroli disease) is a rare subtype of congenital choledochal cyst with intrahepatic bile duct involvement. Estimated <0.1 per 100k globally based on case series and case reports. Limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0037650",
+  "cui_name": "Somatoform Disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 600,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 48000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Somatoform disorders are chronic mental health conditions better measured by prevalence than incidence. WHO/DSM estimates suggest 0.5-1% lifetime prevalence (~600 per 100k). Note: DSM-5 (2013) restructured this into Somatic Symptom Disorder and other categories. Metric switched to prevalence as appropriate for chronic psychiatric condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2000,
+  "source": "Kirmayer LJ et al. (2004). Somatization and psychologization: understanding cultural idioms of distress. In: Pincus HA, eds. Handbook of Psychiatric Measures. Arlington: American Psychiatric Publishing",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1837028",
+  "cui_name": "Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Severe combined immunodeficiency",
+  "reasoning": "Highly specific SCID subtype with defined genotype (autosomal recessive, specific cytokine signaling defect). Estimated at ~8-10% of all SCID cases based on genetic epidemiology studies, approximately 0.08 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Immunodeficiency disease registries and genetic studies",
+  "source_url": null,
+  "source_type": "registry"
+}

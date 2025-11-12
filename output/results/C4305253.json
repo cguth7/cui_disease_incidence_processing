@@ -1,0 +1,19 @@
+{
+  "cui": "C4305253",
+  "cui_name": "Congenital analbuminemia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital analbuminemia is an extremely rare genetic disorder with absence of serum albumin. Only approximately 100 cases reported worldwide; estimated <0.01 per 100k. Based on case report frequency only.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

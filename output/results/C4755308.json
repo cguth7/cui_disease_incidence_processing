@@ -1,0 +1,19 @@
+{
+  "cui": "C4755308",
+  "cui_name": "Familial cervical artery dissection",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Cervical artery dissection",
+  "reasoning": "Familial cervical artery dissection is a rare genetic subtype of cervical artery dissection, estimated at <0.1 per 100k based on case reports. Limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

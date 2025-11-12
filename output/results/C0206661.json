@@ -1,0 +1,19 @@
+{
+  "cui": "C0206661",
+  "cui_name": "Gonadoblastoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Gonadoblastoma is an extremely rare malignant gonadal tumor, predominantly in dysgenetic gonads or patients with XY gonadal dysgenesis. Estimated <0.01 per 100k population based on case reports, affecting <100 cases globally per year.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

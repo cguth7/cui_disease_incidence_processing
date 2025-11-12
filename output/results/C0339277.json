@@ -1,0 +1,19 @@
+{
+  "cui": "C0339277",
+  "cui_name": "Corneal Dystrophy, Juvenile Epithelial of Meesmann",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Corneal Dystrophy",
+  "reasoning": "Meesmann corneal dystrophy is a rare autosomal dominant inherited disorder affecting the corneal epithelium. Very rare condition with estimated <0.01 per 100k based on ophthalmology literature and case reports. Specific genetic subtype with limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

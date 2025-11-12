@@ -1,0 +1,19 @@
+{
+  "cui": "C1696701",
+  "cui_name": "Skin-picking",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1400,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 112000000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Body-Focused Repetitive Behavior",
+  "reasoning": "Skin-picking/excoriation disorder (dermatillomania) prevalence estimated at 1.4% of population based on community and clinical surveys. Incidence not well-defined for this chronic behavioral condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Odlaug BL et al. (2010). Prevalence and characteristics of excoriation disorder. J Clin Psychiatry. 71(4):460-466",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20021992/",
+  "source_type": "literature"
+}

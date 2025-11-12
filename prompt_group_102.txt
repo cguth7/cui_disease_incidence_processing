@@ -1,0 +1,5 @@
+1. C0280725 - Adult Cholangiocarcinoma
+2. C0677660 - Emotional problems
+3. C1333500 - Extragastrointestinal Gastrointestinal Stromal Tumor
+4. C2063326 - Right ventricular cardiomyopathy
+5. C0272241 - Complement abnormality

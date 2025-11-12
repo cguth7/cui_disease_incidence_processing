@@ -1,0 +1,19 @@
+{
+  "cui": "C3150803",
+  "cui_name": "NOONAN SYNDROME-LIKE DISORDER",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": "Noonan Spectrum Disorders",
+  "reasoning": "Noonan syndrome-like disorder is an umbrella term for conditions clinically similar to Noonan syndrome but genetically heterogeneous. Noonan syndrome itself has estimated incidence of 1 in 1,000-2,500 births. However, the broader syndrome-like category lacks clear boundaries and epidemiological definition, making population-level estimates unreliable. Requires genetic specification.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

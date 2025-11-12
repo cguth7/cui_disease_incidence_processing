@@ -1,0 +1,19 @@
+{
+  "cui": "C4014833",
+  "cui_name": "Immunodeficiency 26",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Immunodeficiency",
+  "reasoning": "Immunodeficiency 26 is a rare primary immunodeficiency disorder. Estimated <0.01 per 100k births based on case report frequency, but no systematic epidemiological registry data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

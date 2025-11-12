@@ -1,0 +1,19 @@
+{
+  "cui": "C4020787",
+  "cui_name": "Subcoronal hypospadias",
+  "incidence_per_100k": 10.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 840000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hypospadias",
+  "reasoning": "Subcoronal hypospadias is the most common anatomical variant of hypospadias, accounting for approximately 50-60% of all cases. Based on global hypospadias incidence of ~3.5 per 1000 male births (3500 per 100k), subcoronal variant estimated at ~10.5 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International birth defect surveillance and urological epidemiology data",
+  "source_url": null,
+  "source_type": "registry"
+}

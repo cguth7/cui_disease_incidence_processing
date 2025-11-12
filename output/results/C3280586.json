@@ -1,0 +1,19 @@
+{
+  "cui": "C3280586",
+  "cui_name": "Mannose-Binding Protein Deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 600000000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "MBL deficiency measured as prevalence of genetic variant. Genetic deficiency affects 5-10% of global population, higher in some regions. However, most affected individuals are asymptomatic and do not have increased infection risk due to immune redundancy.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Eisen DP et al. (2008). Mannose-binding lectin deficiency and invasive pneumococcal disease. Lancet Infect Dis. 8(5):299-306",
+  "source_url": null,
+  "source_type": "literature"
+}

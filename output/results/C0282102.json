@@ -1,0 +1,19 @@
+{
+  "cui": "C0282102",
+  "cui_name": "Chondrodysplasia punctata, X-linked dominant type",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Chondrodysplasia punctata",
+  "reasoning": "Rare X-linked dominant skeletal dysplasia. Estimated <0.05 per 100k births based on case report frequency. No systematic epidemiological studies; confidence limited by minimal available data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0014179",
+  "cui_name": "Endometritis",
+  "incidence_per_100k": 80.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Uterine Inflammation",
+  "reasoning": "Endometritis incidence varies with postpartum/postabortion complications. Estimated ~80 per 100k globally in reproductive-age women. Limited population-based registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Osada H et al. (2006). Uterine diseases. J Obstet Gynaecol Res. 32(1):55-68",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16499591/",
+  "source_type": "literature"
+}

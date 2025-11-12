@@ -1,0 +1,19 @@
+{
+  "cui": "C2585960",
+  "cui_name": "Heterozygous protein C deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Protein C deficiency",
+  "reasoning": "Heterozygous protein C deficiency affects ~1:200-1:500 individuals (5,000-20,000 per 100k among carriers). Reported as prevalence since it's a chronic genetic condition. Conservative estimate of ~500 per 100k based on carrier frequency in screened populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International Society on Thrombosis and Haemostasis epidemiological studies",
+  "source_url": "https://www.isth.org/",
+  "source_type": "literature"
+}

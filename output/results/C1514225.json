@@ -1,0 +1,19 @@
+{
+  "cui": "C1514225",
+  "cui_name": "Poorly Differentiated Neuroblastoma",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Specific histological subtype of neuroblastoma (most common pediatric cancer). Neuroblastoma global incidence ~10-15 per million children (~1.5 per 100k population-wide). Poorly differentiated represents intermediate prognosis subtype. Confidence limited by lack of 2005-specific histological subtype data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN and pediatric cancer registries",
+  "source_url": null,
+  "source_type": "registry"
+}

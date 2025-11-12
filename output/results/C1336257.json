@@ -1,0 +1,19 @@
+{
+  "cui": "C1336257",
+  "cui_name": "Stage 3 Neuroblastoma",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Neuroblastoma",
+  "reasoning": "Neuroblastoma overall incidence ~6-7 per 100k in children under age 5. Stage 3 neuroblastoma represents approximately 35-40% of cases at diagnosis, estimated ~2.5 per 100k. Staging distribution data from pediatric cancer registries; confidence moderate due to variation in staging classification systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric cancer registry data",
+  "source_url": null,
+  "source_type": "registry"
+}

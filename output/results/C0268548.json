@@ -1,0 +1,19 @@
+{
+  "cui": "C0268548",
+  "cui_name": "Atransferrinemia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Iron Metabolism Disorders",
+  "reasoning": "Atransferrinemia is an extremely rare autosomal recessive disorder characterized by complete or near-complete absence of serum transferrin. Fewer than 10 cases reported worldwide. Estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Beard JL et al. (1996). Systemic iron metabolism. Adv Food Nutr Res. 41:1-49",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/8791438/",
+  "source_type": "literature"
+}

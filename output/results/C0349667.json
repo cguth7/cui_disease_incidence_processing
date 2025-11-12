@@ -1,0 +1,19 @@
+{
+  "cui": "C0349667",
+  "cui_name": "Sarcoma of breast",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of breast",
+  "reasoning": "Breast sarcomas (phyllodes tumors, angiosarcoma, etc.) are rare, representing <1% of breast cancers. Estimated incidence approximately 0.3 per 100k globally. Limited epidemiological data; confidence capped at 0.4 due to rarity and sparse published incidence data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

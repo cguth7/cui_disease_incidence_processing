@@ -1,0 +1,19 @@
+{
+  "cui": "C0850572",
+  "cui_name": "Adenomatous polyp of colon",
+  "incidence_per_100k": 2500,
+  "prevalence_per_100k": 4000,
+  "metric_type": "both",
+  "total_cases_per_year": 200000000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Neoplasm",
+  "reasoning": "Adenomatous polyps detected at screening colonoscopy with prevalence 4000 per 100k in developed countries. Incidence of new polyp detection approximately 2500 per 100k annually in screened populations. Data primarily from developed country cancer registries and screening studies.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Colorectal cancer screening registries and population-based cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0268276",
+  "cui_name": "Juvenile GM 2 gangliosidosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "GM2 gangliosidosis",
+  "reasoning": "Juvenile-onset GM2 gangliosidosis (including Tay-Sachs and Sandhoff disease juvenile forms) is extremely rare. Combined incidence estimated <0.1 per 100k births. Limited epidemiological data; estimates based on case registry reports and prevalence studies of lysosomal storage disorders.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

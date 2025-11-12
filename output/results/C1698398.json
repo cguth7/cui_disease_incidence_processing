@@ -1,0 +1,19 @@
+{
+  "cui": "C1698398",
+  "cui_name": "Eosinophilic bronchitis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "Chronic bronchitis",
+  "reasoning": "Eosinophilic bronchitis is uncommon inflammatory airway disease, representing subset of chronic cough/bronchitis cases. Estimated incidence 0.5-1.0 per 100k based on clinic-based cohort studies. Limited population-based epidemiology; confidence constrained by sparse literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Brightling CE et al. (2002). Eosinophilic bronchitis. Am J Respir Crit Care Med. 165(1):4-5",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11779719/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0341503",
+  "cui_name": "Bacterial peritonitis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Bacterial peritonitis is typically a secondary infection rather than a primary disease entity. Spontaneous bacterial peritonitis (SBP) occurs in 10-30% of cirrhotic patients with ascites, but population-based incidence is difficult to quantify. Not tractable as standalone population-level metric.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

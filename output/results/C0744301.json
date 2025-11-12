@@ -1,0 +1,19 @@
+{
+  "cui": "C0744301",
+  "cui_name": "Gastric ulcer benign",
+  "incidence_per_100k": 50.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Peptic ulcer disease",
+  "reasoning": "Benign gastric ulcer incidence estimated at 50 per 100k person-years, a specific subtype of peptic ulcer disease. Data from epidemiological studies on ulcer prevalence, accounting for Helicobacter pylori prevalence decline.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2000,
+  "source": "Lanas A et al. (2006). Relationship between Helicobacter pylori infection and peptic ulcer disease. J Clin Gastroenterol. 40(4):312-320",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16633128/",
+  "source_type": "literature"
+}

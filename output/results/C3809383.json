@@ -1,0 +1,19 @@
+{
+  "cui": "C3809383",
+  "cui_name": "IMMUNODEFICIENCY 8",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Primary Immunodeficiency Disorders",
+  "reasoning": "Immunodeficiency 8 (likely DOCK8 deficiency or similar specific genetic disorder) is an extremely rare primary immunodeficiency. Estimated <0.1 per 100k globally based on case report frequency and genetic rarity. No comprehensive epidemiological registry data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

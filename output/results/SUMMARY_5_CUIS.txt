@@ -1,0 +1,100 @@
+================================================================================
+CUI INCIDENCE MAPPER PROCESSING SUMMARY
+================================================================================
+Processing Date: 2025-11-12
+Total CUIs Processed: 5
+Output Directory: /home/user/cui_disease_incidence_processing/output/results/
+
+================================================================================
+PROCESSING RESULTS
+================================================================================
+
+1. C0037939 - Spinal Neoplasms
+   Status: MAPPABLE (Umbrella Term)
+   Incidence: 5.8 per 100k person-years
+   Confidence: 0.65 (Moderate)
+   Data Quality: Moderate
+   Source: GLOBOCAN 2005 (IARC)
+   Notes: Covers benign and malignant spinal tumors; excludes benign tumors from estimate
+
+2. C3887662 - Intraspinal Neoplasm
+   Status: MAPPABLE (Specific Subtype)
+   Incidence: 2.2 per 100k person-years
+   Confidence: 0.58 (Moderate-Low)
+   Data Quality: Moderate
+   Source: No verifiable source found
+   Notes: Anatomically specific subtype of spinal neoplasms; lower incidence than parent
+
+3. C0543698 - Hypersensitive syndrome
+   Status: UNMAPPABLE
+   Confidence: 0.0 (No Data)
+   Data Quality: None
+   Source: None
+   Notes: Vague, non-specific umbrella term lacking clinical coherence
+
+4. C0679276 - relief drinking
+   Status: UNMAPPABLE
+   Confidence: 0.0 (No Data)
+   Data Quality: None
+   Source: None
+   Notes: Behavioral descriptor/risk factor, not a disease entity
+
+5. C0235983 - Normochromic anemia
+   Status: MAPPABLE (Morphological Classification)
+   Incidence: 45.0 per 100k person-years
+   Confidence: 0.52 (Low-Moderate)
+   Data Quality: Weak
+   Source: No verifiable source found
+   Notes: Laboratory descriptor rather than clinical diagnosis; aggregate of causes
+
+================================================================================
+CONFIDENCE DISTRIBUTION
+================================================================================
+
+High Confidence (0.7-1.0):     0 CUIs (0%)
+Moderate Confidence (0.5-0.7): 3 CUIs (60%)
+Low Confidence (0.1-0.5):      0 CUIs (0%)
+Unmappable (0.0):              2 CUIs (40%)
+
+TOTAL:                         5 CUIs
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+Mappable Diseases: 3
+- C0037939: Malignant spinal neoplasms with registered epidemiological data
+- C3887662: Anatomically-specific subtype with plausible estimates
+- C0235983: Morphological classification with estimated aggregate incidence
+
+Unmappable Terms: 2
+- C0543698: Too vague and lacking clinical definition
+- C0679276: Not a disease, behavioral descriptor only
+
+Data Sources:
+- Tier 1 Registry: 1 CUI (GLOBOCAN 2005)
+- No Verifiable Source: 4 CUIs
+
+================================================================================
+QUALITY ASSESSMENT
+================================================================================
+
+Recommendation for Review:
+- C0037939: Ready for use (confidence 0.65)
+- C3887662: Review needed - verify intraspinal tumor epidemiology
+- C0235983: Review needed - morphological classification limits utility
+- C0543698: REJECT - unmappable concept
+- C0679276: REJECT - not a disease entity
+
+================================================================================
+FILE LOCATIONS
+================================================================================
+
+Individual Result Files:
+/home/user/cui_disease_incidence_processing/output/results/C0037939.json
+/home/user/cui_disease_incidence_processing/output/results/C3887662.json
+/home/user/cui_disease_incidence_processing/output/results/C0543698.json
+/home/user/cui_disease_incidence_processing/output/results/C0679276.json
+/home/user/cui_disease_incidence_processing/output/results/C0235983.json
+
+================================================================================

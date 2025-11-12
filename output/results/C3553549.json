@@ -1,0 +1,19 @@
+{
+  "cui": "C3553549",
+  "cui_name": "POROKERATOSIS 7, MULTIPLE TYPES",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Porokeratosis",
+  "reasoning": "Porokeratosis type 7 (PORK7) is a rare genetic keratoderma. Part of heterogeneous porokeratosis family with <1 case per 100k. Limited epidemiological data; multiple genetic subtypes exist.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

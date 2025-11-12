@@ -1,0 +1,19 @@
+{
+  "cui": "C2748544",
+  "cui_name": "Spondyloepimetaphyseal Dysplasia Aggrecan Type",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Spondyloepimetaphyseal Dysplasia",
+  "reasoning": "Extremely rare genetic skeletal dysplasia caused by ACAN mutations. Fewer than 100 cases reported globally. Less than 0.01 per 100k birth incidence based on case frequency in literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gleghorn L et al. (2005). A mutation in the variable repeat region of the ACAN gene causes a form of spondyloepimetaphyseal dysplasia. Am J Hum Genet. 77(4):657-666",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16175510/",
+  "source_type": "literature"
+}

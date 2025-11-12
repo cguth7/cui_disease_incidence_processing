@@ -1,0 +1,19 @@
+{
+  "cui": "C0280962",
+  "cui_name": "Bone Marrow Suppression",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term describing reduced bone marrow function - symptom rather than specific disease. Encompasses aplastic anemia, leukopenia, thrombocytopenia, and various other conditions with vastly different etiologies and incidence rates. Too heterogeneous for meaningful estimation.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0521614",
+  "cui_name": "Gallstone pancreatitis",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Acute pancreatitis",
+  "reasoning": "Gallstone pancreatitis is the leading cause of acute pancreatitis in developed countries, accounting for ~40-50% of cases. Global acute pancreatitis incidence ~17-20 per 100k; gallstone-related represents approximately 40-50% of cases (~8.5 per 100k).",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

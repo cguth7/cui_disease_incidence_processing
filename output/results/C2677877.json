@@ -1,0 +1,19 @@
+{
+  "cui": "C2677877",
+  "cui_name": "Surfactant Metabolism Dysfunction, Pulmonary, 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Surfactant Metabolism Dysfunction",
+  "reasoning": "Rare genetic disorder of pulmonary surfactant metabolism (SMDP4). Extremely rare condition with limited epidemiological data, estimated <0.1 per 100k births based on case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

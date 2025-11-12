@@ -1,0 +1,5 @@
+1. C1611706 - Myosclerosis
+2. C0085692 - Hemorrhagic cystitis
+3. C0027663 - Neoplasms, Multiple Primary
+4. C1323099 - sympathomimetic disorder
+5. C1859648 - Asthma, Nasal Polyps, And Aspirin Intolerance

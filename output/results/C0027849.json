@@ -1,0 +1,19 @@
+{
+  "cui": "C0027849",
+  "cui_name": "Neuroleptic Malignant Syndrome",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Well-defined iatrogenic syndrome resulting from antipsychotic medication use. Global incidence estimated at 0.15-0.2 per 100k person-years with significant variation by antipsychotic class and prescribing patterns. Data primarily from clinical case reports and psychiatric hospital registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

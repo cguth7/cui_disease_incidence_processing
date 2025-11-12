@@ -1,0 +1,19 @@
+{
+  "cui": "C1832588",
+  "cui_name": "Autosomal recessive primary microcephaly",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Primary Microcephaly",
+  "reasoning": "Autosomal recessive primary microcephaly (ARPMEM) is a genetic condition with estimated global incidence 1-2 per 100k births, varying by population and consanguinity rates.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

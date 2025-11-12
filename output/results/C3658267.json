@@ -1,0 +1,19 @@
+{
+  "cui": "C3658267",
+  "cui_name": "Prostatic Neoplasms, Castration-Resistant",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Prostate cancer",
+  "reasoning": "Castration-resistant prostate cancer (CRPC) develops in ~10-15% of hormone-treated prostate cancer patients. Estimated ~3 per 100k men globally.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

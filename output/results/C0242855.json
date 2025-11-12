@@ -1,0 +1,19 @@
+{
+  "cui": "C0242855",
+  "cui_name": "Congenital atresia of pulmonary valve",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Congenital Heart Defects",
+  "reasoning": "Pulmonary atresia is a specific congenital heart defect affecting approximately 0.3-0.5 per 100k live births. Rare subset of congenital heart disease (accounts for ~3-4% of CHD cases). Limited population-based registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

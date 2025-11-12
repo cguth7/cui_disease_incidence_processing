@@ -1,0 +1,19 @@
+{
+  "cui": "C0796225",
+  "cui_name": "Mental Retardation, X-Linked 19",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "X-Linked Intellectual Disability",
+  "reasoning": "X-linked intellectual disability subtype (MRX19). Extremely rare genetic disorder, fewer than 100 families reported. Using prevalence metric for lifelong condition.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

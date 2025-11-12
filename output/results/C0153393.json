@@ -1,0 +1,19 @@
+{
+  "cui": "C0153393",
+  "cui_name": "Malignant neoplasm of superior wall of nasopharynx",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of nasopharynx",
+  "reasoning": "Nasopharyngeal cancer subtype by anatomical wall location. Superior wall is least common site (~8% of NPC). Global NPC incidence ~1.0 per 100k; superior wall estimate ~0.08 per 100k. Based on GLOBOCAN 2005 NPC data with anatomical distribution from clinical registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC); anatomical distribution from nasopharyngeal cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4505432",
+  "cui_name": "XMRV Infection",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "XMRV (Xenotropic Murine Leukemia Virus-Related Virus) was initially proposed as a pathogen associated with prostate cancer and ME/CFS. However, subsequent large-scale studies (2010-2012) failed to confirm XMRV detection in patient samples, and the virus's human pathogenicity remains unestablished. No reliable epidemiological data exists. Unmappable due to unproven human infectivity.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

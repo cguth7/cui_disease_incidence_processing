@@ -1,0 +1,19 @@
+{
+  "cui": "C0431664",
+  "cui_name": "Unilateral Cryptorchidism",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Cryptorchidism",
+  "reasoning": "Unilateral (one-sided) cryptorchidism represents majority of cryptorchidism cases. Global birth incidence estimated ~2-3 per 100k births. Limited epidemiological literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

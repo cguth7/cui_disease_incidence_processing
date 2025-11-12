@@ -1,0 +1,19 @@
+{
+  "cui": "C1291557",
+  "cui_name": "Deficiency of lyase",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term too broad to estimate meaningfully. 'Lyase deficiency' encompasses multiple distinct enzyme deficiencies (aldolase deficiency, fumarase deficiency, ATP citrate lyase deficiency, etc.) with vastly different clinical presentations and prevalence rates. Requires specification of which lyase enzyme.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

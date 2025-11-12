@@ -1,0 +1,19 @@
+{
+  "cui": "C0153500",
+  "cui_name": "Malignant neoplasm of heart",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primary cardiac malignancies are extremely rare (<0.3 per 100k), representing <1% of all cancers. Most cardiac tumors are secondary/metastatic. Cancer registry data (SEER, GLOBOCAN) includes these but with limited detail on primary vs secondary.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

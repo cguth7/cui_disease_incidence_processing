@@ -1,0 +1,19 @@
+{
+  "cui": "C1837658",
+  "cui_name": "Gross motor development delay",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 2000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 160000000,
+  "confidence": 0.4,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Developmental milestone delay in children; reported as prevalence, not incidence. Estimated ~2% of children globally show gross motor developmental delay based on pediatric developmental norms. Lower confidence due to lack of systematic epidemiological registries and geographic variation in assessment methods.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

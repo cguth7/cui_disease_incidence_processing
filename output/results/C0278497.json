@@ -1,0 +1,19 @@
+{
+  "cui": "C0278497",
+  "cui_name": "Malignant neoplasm of stomach stage III",
+  "incidence_per_100k": 4.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 320000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Malignant neoplasm of stomach",
+  "reasoning": "Stage III gastric cancer represents locally advanced disease. Global gastric cancer incidence ~10-15 per 100k. Stage III accounts for ~25-30% of cases. Estimated ~4 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

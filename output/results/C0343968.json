@@ -1,0 +1,19 @@
+{
+  "cui": "C0343968",
+  "cui_name": "Hepatosplenic schistosomiasis",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 15.0,
+  "metric_type": "both",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Schistosomiasis",
+  "reasoning": "Hepatosplenic schistosomiasis is chronic stage of schistosomiasis mansoni/japonicum with liver/spleen involvement. Incidence ~2.5 per 100k in endemic regions; prevalence ~15 per 100k due to chronic nature. Global estimate limited; primarily endemic in Sub-Saharan Africa and parts of Middle East/Asia.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2000,
+  "source": "WHO schistosomiasis control program estimates and endemic country surveys",
+  "source_url": null,
+  "source_type": "registry"
+}

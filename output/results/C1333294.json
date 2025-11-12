@@ -1,0 +1,19 @@
+{
+  "cui": "C1333294",
+  "cui_name": "ALK positive large B-cell lymphoma",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Diffuse Large B-cell Lymphoma",
+  "reasoning": "ALK-positive large B-cell lymphoma (ALK+ DLBCL) is an extremely rare lymphoma subtype. Estimated incidence ~0.08 per 100k based on rarity among DLBCL cases (<5 cases per 100 DLBCL). Low confidence due to limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Classification of Lymphoid Neoplasms; case series and registry data",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "literature"
+}

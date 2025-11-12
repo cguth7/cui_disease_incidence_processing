@@ -1,0 +1,19 @@
+{
+  "cui": "C1855126",
+  "cui_name": "3-Methylglutaconic Aciduria Type IV",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "3-Methylglutaconic Aciduria",
+  "reasoning": "Rare genetic mitochondrial/metabolic disorder. Type IV form represents Barth syndrome (TAZ gene mutations). Extremely rare <0.1 per 100k; primarily affects males. Limited epidemiological data; mostly case reports and familial studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

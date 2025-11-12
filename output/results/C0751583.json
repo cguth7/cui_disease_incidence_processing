@@ -1,0 +1,19 @@
+{
+  "cui": "C0751583",
+  "cui_name": "Epilepsy, Temporal Lobe",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 280000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Focal Epilepsy",
+  "reasoning": "Temporal lobe epilepsy (TLE) is the most common form of focal epilepsy, accounting for 40-60% of all focal epilepsy cases. Using global epilepsy prevalence of ~5-10 per 1000 (5,000-10,000 per 100k) with TLE representing ~40% of focal cases estimates prevalence at ~3,500 per 100k. Prevalence metric appropriate for chronic lifelong condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kwan P et al. (2009). Definition, classification, and unmet needs in epilepsy. Lancet. 373(9680):1900-1910",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19502015/",
+  "source_type": "literature"
+}

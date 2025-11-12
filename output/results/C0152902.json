@@ -1,0 +1,19 @@
+{
+  "cui": "C0152902",
+  "cui_name": "Tuberculosis of esophagus",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Tuberculosis",
+  "reasoning": "Tuberculosis of esophagus occurs in <1% of TB patients, primarily in immunocompromised populations. Global TB incidence is 100-150 per 100k, so esophageal TB estimated at ~0.8 per 100k. Data quality limited due to focus on rare TB complications.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO tuberculosis surveillance data and gastroenterology literature",
+  "source_url": null,
+  "source_type": "literature"
+}

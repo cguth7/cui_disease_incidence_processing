@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0003113",
+    "cui_name": "Anomia",
+    "incidence_per_100k": null,
+    "prevalence_per_100k": null,
+    "metric_type": null,
+    "total_cases_per_year": null,
+    "confidence": 0.0,
+    "is_subtype": false,
+    "parent_disease": "Aphasia",
+    "reasoning": "Anomia is a neuropsychological symptom of impaired naming ability, not a distinct disease entity. It is a manifestation of multiple conditions (stroke, dementia, traumatic brain injury, Broca's aphasia). As a symptom/finding rather than a disease, it cannot be meaningfully mapped to incidence rates.",
+    "data_quality": "none",
+    "geographic_variation": "unknown",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

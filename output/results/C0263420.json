@@ -1,0 +1,19 @@
+{
+  "cui": "C0263420",
+  "cui_name": "Hyperkeratosis lenticularis perstans",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Genodermatosis",
+  "reasoning": "Hyperkeratosis lenticularis perstans is a rare autosomal dominant skin condition characterized by persistent keratoderma. Estimated <0.01 per 100k based on scattered case reports in dermatology literature; no systematic epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

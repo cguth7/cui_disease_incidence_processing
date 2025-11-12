@@ -1,0 +1,19 @@
+{
+  "cui": "C4543758",
+  "cui_name": "Protracted Bronchitis Caused by Bacterium",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Chronic Bronchitis",
+  "reasoning": "Highly specific subtype of bronchitis with bacterial etiology and protracted/persistent course. This is a narrowly-defined condition with minimal epidemiological literature. Incidence data unavailable; would constitute a small subset of acute bronchitis cases.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

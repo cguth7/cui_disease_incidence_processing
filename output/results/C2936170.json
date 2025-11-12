@@ -1,0 +1,19 @@
+{
+  "cui": "C2936170",
+  "cui_name": "Patent Ductus Arteriosus Familial",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Patent Ductus Arteriosus",
+  "reasoning": "Familial PDA is a genetic subtype of PDA. Overall PDA incidence ~10-30 per 1000 live births (2000-3000 per 100k), but familial cases represent <10%. Estimated ~2 per 100k overall population.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

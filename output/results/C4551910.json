@@ -1,0 +1,19 @@
+{
+  "cui": "C4551910",
+  "cui_name": "Acute Inflammatory Demyelinating Polyneuropathy",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Guillain-Barr\u00e9 syndrome (GBS/AIDP) incidence from epidemiological studies ranges 0.6-2.4 per 100k, with global average ~1.5 per 100k. Data quality variable by country.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

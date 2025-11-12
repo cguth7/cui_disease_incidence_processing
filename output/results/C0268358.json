@@ -1,0 +1,19 @@
+{
+  "cui": "C0268358",
+  "cui_name": "Osteogenesis imperfecta, dominant perinatal lethal",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Osteogenesis imperfecta",
+  "reasoning": "Perinatal lethal form of OI is a severe subtype with only handful of cases reported globally. Estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

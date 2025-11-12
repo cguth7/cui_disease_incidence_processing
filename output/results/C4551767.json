@@ -1,0 +1,19 @@
+{
+  "cui": "C4551767",
+  "cui_name": "Protanopia",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": 8000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Color Vision Deficiency",
+  "reasoning": "Protanopia (red-blindness) is an X-linked recessive color vision deficiency affecting ~1% of males (~10,000 per 100k in males) and <0.01% of females. Global prevalence estimate ~0.8% of population (~8,000 per 100k). Population prevalence data from color vision epidemiology studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hunt DM et al. (1995). Molecular genetics of human color vision. Science. 267:1979-1981",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/7701322/",
+  "source_type": "literature"
+}

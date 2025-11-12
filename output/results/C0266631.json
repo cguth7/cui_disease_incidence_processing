@@ -1,0 +1,19 @@
+{
+  "cui": "C0266631",
+  "cui_name": "Accessory spleen",
+  "incidence_per_100k": 5000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.50,
+  "is_subtype": false,
+  "parent_disease": "Developmental Anomaly of Spleen",
+  "reasoning": "Accessory spleen is a common anatomical variant found in ~0.2-0.7% of population at autopsy or imaging, but not a disease requiring clinical intervention. Prevalence-based estimate: 0.2-0.7% = 2,000-7,000 per 100k population. Using midpoint ~5,000 per 100k. Moderate confidence as this is incidental finding, not disease incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

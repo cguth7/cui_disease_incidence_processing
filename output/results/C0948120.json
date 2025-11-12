@@ -1,0 +1,19 @@
+{
+  "cui": "C0948120",
+  "cui_name": "Hepatic siderosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Iron overload disorders",
+  "reasoning": "Hepatic siderosis is secondary iron overload in liver, typically from hemochromatosis (prevalence ~0.5-1 per 100k) or chronic transfusions. Reported as prevalence rather than incidence due to chronic nature. Estimated prevalence ~5 per 100k (includes secondary causes).",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

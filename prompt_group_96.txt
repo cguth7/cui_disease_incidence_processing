@@ -1,0 +1,5 @@
+1. C0007135 - Adenocarcinoma, Scirrhous
+2. C0153393 - Malignant neoplasm of superior wall of nasopharynx
+3. C0153396 - Malignant tumor of anterior wall of nasopharynx
+4. C0153395 - Malignant tumor of lateral wall of nasopharynx
+5. C0153394 - Malignant tumor of posterior wall of nasopharynx

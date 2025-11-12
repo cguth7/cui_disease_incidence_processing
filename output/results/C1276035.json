@@ -1,0 +1,19 @@
+{
+  "cui": "C1276035",
+  "cui_name": "Pena-Shokeir syndrome type I",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Pena-Shokeir syndrome",
+  "reasoning": "Rare fetal/neonatal lethal condition with multiple contractures, developmental abnormalities, and growth restriction. Autosomal recessive inheritance. Only handful of case reports, incidence <0.001 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

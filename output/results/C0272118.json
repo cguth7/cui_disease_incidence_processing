@@ -1,0 +1,19 @@
+{
+  "cui": "C0272118",
+  "cui_name": "Warm autoimmune hemolytic anemia",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Autoimmune hemolytic anemia",
+  "reasoning": "Warm AIHA (IgG-mediated) represents 70-80% of autoimmune hemolytic anemias. Estimated incidence ~1-2 per 100k person-years. Limited epidemiological data; estimate based on hematology literature and disease frequency studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

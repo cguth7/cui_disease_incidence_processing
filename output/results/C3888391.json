@@ -1,0 +1,19 @@
+{
+  "cui": "C3888391",
+  "cui_name": "Nonnuclear polymorphic congenital cataract",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": 2.2,
+  "metric_type": "both",
+  "total_cases_per_year": 40000,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Congenital Cataract",
+  "reasoning": "Polymorphic nonnuclear congenital cataract is a specific morphological subtype. Incidence ~0.5 per 100k births; prevalence ~2.2 per 100k based on ophthalmologic and genetic registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Ophthalmologic epidemiology databases and congenital anomaly registries",
+  "source_url": null,
+  "source_type": "registry"
+}

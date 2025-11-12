@@ -1,0 +1,19 @@
+{
+  "cui": "C0543541",
+  "cui_name": "Hyperglycinuria",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Amino Acid Metabolism Disorder",
+  "reasoning": "Rare autosomal recessive disorder of glycine cleavage system. Estimated <0.05 per 100k births based on case reports and biochemical screening studies. Very limited epidemiological data; estimates based on clinical case frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

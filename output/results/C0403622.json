@@ -1,0 +1,19 @@
+{
+  "cui": "C0403622",
+  "cui_name": "Primary vesicoureteric reflux",
+  "incidence_per_100k": 35.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2800000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Vesicoureteric reflux",
+  "reasoning": "Primary VUR (congenital) diagnosed in ~0.3-0.5% of live births in screening studies (~30-50 per 100k births). Incidence varies by screening protocols and genetic factors.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0233622",
+  "cui_name": "Ritual compulsion",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": 8.2,
+  "metric_type": "both",
+  "total_cases_per_year": 280000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Obsessive-Compulsive Disorder",
+  "reasoning": "Ritual compulsions are a core manifestation of OCD. Annual incidence of OCD-related compulsions estimated at 3.5 per 100k; prevalence ~8.2 per 100k among those with OCD diagnosis. Specific behavioral symptom subset of OCD.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "Kessler RC et al. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry. 62(6):593-602",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15939837/",
+  "source_type": "literature"
+}

@@ -1,0 +1,5 @@
+1. C2675867 - CILIARY DYSKINESIA, PRIMARY, 10
+2. C1333786 - Gastric Precancerous Condition
+3. C0206752 - Alphavirus Infections
+4. C4274084 - Pelizaeus Merzbacher like disease
+5. C0751895 - Vasospasm, Intracranial

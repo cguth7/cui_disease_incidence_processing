@@ -1,0 +1,19 @@
+{
+  "cui": "C1848526",
+  "cui_name": "Pontocerebellar Hypoplasia Type 2A",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Pontocerebellar Hypoplasia Type 2",
+  "reasoning": "PCH2A is an extremely rare autosomal recessive neurological disorder caused by mutations in TSEN54 gene (and others). Progressive neurodevelopmental disorder with hypoplasia of pons and cerebellum, variable severity. Fewer than 100 cases reported. Estimated <0.001 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

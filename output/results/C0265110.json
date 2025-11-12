@@ -1,0 +1,19 @@
+{
+  "cui": "C0265110",
+  "cui_name": "Cerebral Vasospasm",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": "Cerebrovascular Disease",
+  "reasoning": "Cerebral vasospasm is a complication/secondary condition, not a primary disease entity. Occurs in 30-40% of subarachnoid hemorrhage patients but no independent incidence data. Unmappable as primary diagnosis without specifying underlying cause.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

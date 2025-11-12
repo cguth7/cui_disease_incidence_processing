@@ -1,0 +1,19 @@
+{
+  "cui": "C0278716",
+  "cui_name": "Neuroendocrine carcinoma of lung",
+  "incidence_per_100k": 1.35,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 108000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Lung neoplasm",
+  "reasoning": "Lung neuroendocrine carcinomas represent 20-25% of lung malignancies. SEER database studies show incidence increased from 0.3 per 100k (1973) to 1.35 per 100k (2004). Large cell neuroendocrine carcinoma specifically ~0.3 per 100k, carcinoid tumors ~0.7-1.0 per 100k. Using overall pulmonary NEN incidence of ~1.35 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Incidence and Survival Outcomes in Patients with Lung Neuroendocrine Neoplasms in the United States - PMC8067543; SEER surveillance data 1973-2004",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8067543/",
+  "source_type": "registry"
+}

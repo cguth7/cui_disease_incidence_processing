@@ -1,0 +1,19 @@
+{
+  "cui": "C4302896",
+  "cui_name": "Hormone sensitive prostate cancer",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Prostate Cancer",
+  "reasoning": "Hormone-sensitive (androgen-responsive) prostate cancer represents approximately 70-75% of newly diagnosed prostate cancers. Global prostate cancer incidence is ~60 per 100k (GLOBOCAN estimates). Hormone-sensitive subset estimated at ~45 per 100k. Based on cancer registry data and androgen-sensitivity classification frequency in prostate cancer cohorts.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

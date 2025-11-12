@@ -1,0 +1,19 @@
+{
+  "cui": "C1969833",
+  "cui_name": "COPD, Severe Early-Onset",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": 85.0,
+  "metric_type": "both",
+  "total_cases_per_year": 960000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Chronic Obstructive Pulmonary Disease",
+  "reasoning": "Severe early-onset COPD represents ~2-3% of all COPD cases. Estimated incidence ~12 per 100k based on proportion of early-onset presentations in COPD registries. Prevalence data shows ~85 per 100k among COPD population.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "COPD epidemiological registry data and subtype analysis",
+  "source_url": null,
+  "source_type": "registry"
+}

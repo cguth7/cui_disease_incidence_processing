@@ -1,0 +1,19 @@
+{
+  "cui": "C0679408",
+  "cui_name": "Lesion of stomach",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pathological finding/descriptor rather than a specific disease entity. 'Lesion' is too generic and covers benign and malignant conditions with vastly different epidemiologies (ulcers, gastritis, gastric cancer, polyps).",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

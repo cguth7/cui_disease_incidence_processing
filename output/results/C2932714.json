@@ -1,0 +1,19 @@
+{
+  "cui": "C2932714",
+  "cui_name": "Pontocerebellar Hypoplasia Type 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Pontocerebellar Hypoplasia",
+  "reasoning": "Pontocerebellar hypoplasia type 2 (PCH2) is a rare autosomal recessive neurodevelopmental disorder with progressive neurological deterioration, characterized by hypoplasia of the pons and cerebellum. Has multiple genetic subtypes (2A, 2B, 2C). Total cases worldwide estimated <200. Incidence <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

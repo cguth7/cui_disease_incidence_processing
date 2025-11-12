@@ -1,0 +1,19 @@
+{
+  "cui": "C0393560",
+  "cui_name": "Vascular Dementia, Acute Onset",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Vascular Dementia",
+  "reasoning": "Acute-onset vascular dementia is a rare subtype. Estimated incidence ~0.3 per 100k person-years. Limited epidemiological data; most vascular dementia develops gradually. Confidence moderate due to rarity and diagnostic uncertainty.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

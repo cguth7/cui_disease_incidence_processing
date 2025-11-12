@@ -1,0 +1,19 @@
+{
+  "cui": "C1864124",
+  "cui_name": "Schizophrenia 8",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 750,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 60000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Schizophrenia prevalence approximately 0.75% globally (750 per 100k). Incidence estimates ~15 per 100k annually, but prevalence is primary metric for this chronic psychiatric condition.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "McGrath J et al. (2008). Schizophrenia: a concise overview of incidence, prevalence, and mortality. Epidemiol Rev. 30:67-76",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18794558/",
+  "source_type": "literature"
+}

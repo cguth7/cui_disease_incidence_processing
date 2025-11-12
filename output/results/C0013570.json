@@ -1,0 +1,19 @@
+{
+  "cui": "C0013570",
+  "cui_name": "Ecthyma, Contagious",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Bacterial Skin Infection",
+  "reasoning": "Contagious ecthyma (orf) is a rare zoonotic viral infection primarily affecting livestock and occupational workers. Estimated incidence ~2-3 per 100k in endemic regions (Australia, Middle East, Mediterranean), much lower in developed countries. Limited systematic epidemiological studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4324685",
+  "cui_name": "Hypertensive end-organ damage",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Hypertension",
+  "reasoning": "Hypertensive end-organ damage describes secondary complications of uncontrolled hypertension (renal dysfunction, left ventricular hypertrophy, retinopathy). This is a manifestation state rather than primary disease. Prevalence estimated at ~8.5% of global population with chronic hypertension complications, derived from hypertension prevalence data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

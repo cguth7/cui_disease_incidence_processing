@@ -1,0 +1,19 @@
+{
+  "cui": "C1328843",
+  "cui_name": "Autoimmune vasculitis",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for autoimmune vasculitis subtypes (polyarteritis nodosa, granulomatosis with polyangiitis, microscopic polyangiitis) combined ~8-9 per 100k. Umbrella term with heterogeneous etiologies.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

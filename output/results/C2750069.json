@@ -1,0 +1,19 @@
+{
+  "cui": "C2750069",
+  "cui_name": "Lipodystrophy, Congenital Generalized, Type 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Congenital Generalized Lipodystrophy",
+  "reasoning": "Very rare autosomal recessive genetic disorder affecting adipose tissue development. Type 4 is one of several genetic subtypes (caused by PLIN1 mutations). Estimated <100 cases worldwide; incidence <0.01 per 100k births. Limited epidemiological data from case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

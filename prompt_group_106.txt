@@ -1,0 +1,5 @@
+1. C2931459 - Lynch syndrome I (site-specific colonic cancer)
+2. C4698644 - Atypical scrapie
+3. C2987516 - Cervix Intraepithelial Neoplasia Grade 3 AJCC v7
+4. C0006144 - Breast Cyst
+5. C2712871 - Gout attack

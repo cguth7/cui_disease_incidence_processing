@@ -1,0 +1,19 @@
+{
+  "cui": "C4082171",
+  "cui_name": "Chronic Recurrent Multifocal Osteomyelitis",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": "Chronic Osteomyelitis",
+  "reasoning": "CRMO is a rare chronic inflammatory bone disease predominantly affecting children. Estimated incidence 0.5-1 per 1,000,000 births (~0.08 per 100k person-years). Often under-diagnosed due to rarity and diagnostic complexity.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Jansson A et al. (2007). Chronic recurrent multifocal osteomyelitis in children: a nation-wide survey. J Rheumatol. 34(5):1122-1126",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17407234/",
+  "source_type": "literature"
+}

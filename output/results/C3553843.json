@@ -1,0 +1,19 @@
+{
+  "cui": "C3553843",
+  "cui_name": "Hypogonadotropic hypogonadism",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 8.0,
+  "metric_type": "both",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hypogonadism",
+  "reasoning": "Hypogonadotropic hypogonadism (central hypogonadism) is a specific subtype with estimated incidence 2-3 per 100k. Prevalence around 8 per 100k based on hormone replacement therapy usage patterns. Limited epidemiological data available.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dandona P, Rosenberg MT. (2010). A practical guide to male hypogonadism in the primary care setting. Int J Clin Pract. 64(6):682-696",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20518949/",
+  "source_type": "literature"
+}

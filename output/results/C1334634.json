@@ -1,0 +1,19 @@
+{
+  "cui": "C1334634",
+  "cui_name": "Mature B-Cell Non-Hodgkin Lymphoma",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Non-Hodgkin Lymphoma",
+  "reasoning": "Mature B-cell NHL represents ~50-60% of all NHL cases. Global NHL incidence ~20-25 per 100k from GLOBOCAN; mature B-cell NHL estimated ~12 per 100k. Data from international lymphoma registries and WHO classification.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

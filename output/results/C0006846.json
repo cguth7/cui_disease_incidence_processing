@@ -1,0 +1,19 @@
+{
+  "cui": "C0006846",
+  "cui_name": "Cutaneous Candidiasis",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Candidiasis",
+  "reasoning": "Cutaneous candidiasis incidence estimated ~150 per 100k annually based on dermatology epidemiology. Common fungal infection affecting skin and mucous membranes. Prevalence varies by climate, humidity, and immunocompromise rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

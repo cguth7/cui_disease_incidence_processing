@@ -1,0 +1,19 @@
+{
+  "cui": "C0276138",
+  "cui_name": "Viral myocarditis",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Myocarditis",
+  "reasoning": "Acute myocarditis from viral etiology, reported incidence approximately 1-2 per 100k person-years based on epidemiological studies and cardiac registries. Viral myocarditis represents subset of all myocarditis cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cooper LT et al. (2007). The role of endomyocardial biopsy in the management of cardiovascular disease. Eur Heart J. 28(19):2319-2333",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17519275/",
+  "source_type": "literature"
+}

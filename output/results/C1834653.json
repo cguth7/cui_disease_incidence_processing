@@ -1,0 +1,19 @@
+{
+  "cui": "C1834653",
+  "cui_name": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Limb-Girdle Muscular Dystrophy",
+  "reasoning": "Autosomal dominant LGMD caused by LMNA gene mutations. Limb-girdle muscular dystrophy overall incidence ~0.5-1 per 100k; LGMD1B represents subset at ~0.05 per 100k. Limited population-based studies; estimate based on genetic databases and rare disease registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

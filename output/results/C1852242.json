@@ -1,0 +1,19 @@
+{
+  "cui": "C1852242",
+  "cui_name": "Nonarteritic anterior ischemic optic neuropathy (NAION)",
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 520000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Ischemic optic neuropathy",
+  "reasoning": "NAION is the specific clinical term for non-arteritic ischemic optic neuropathy. Acute ischemic event with incidence 2-10 per 100k person-years, estimate 6.5 per 100k. Higher confidence than parent term due to diagnostic specificity. Subtype distinguishes from arteritic (GCA-related) form.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

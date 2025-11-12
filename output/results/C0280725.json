@@ -1,0 +1,19 @@
+{
+  "cui": "C0280725",
+  "cui_name": "Adult Cholangiocarcinoma",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Cholangiocarcinoma",
+  "reasoning": "Bile duct cancer incidence ~1.2 per 100k globally from GLOBOCAN 2005. Adult-onset subtype represents majority of cases.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

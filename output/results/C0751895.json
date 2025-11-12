@@ -1,0 +1,19 @@
+{
+  "cui": "C0751895",
+  "cui_name": "Vasospasm, Intracranial",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Intracranial vasospasm primarily occurs as complication of subarachnoid hemorrhage (SAH), affecting 30-70% of SAH patients. SAH incidence ~7 per 100k. Approximately 30-40% of SAH patients develop symptomatic vasospasm, suggesting ~2.5 per 100k incidence for vasospasm-related morbidity.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

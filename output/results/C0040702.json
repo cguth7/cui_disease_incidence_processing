@@ -1,0 +1,19 @@
+{
+  "cui": "C0040702",
+  "cui_name": "Transient Tic Disorder",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": 12.0,
+  "metric_type": "both",
+  "total_cases_per_year": 400000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Tic Disorder",
+  "reasoning": "Transient tic disorder primarily affects children ages 4-12 with temporary tics lasting weeks to months. Incidence ~5 per 100k children; prevalence ~12 per 100k in pediatric populations. Limited population-based epidemiological studies; estimates based on clinical cohorts and child psychiatry surveys.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

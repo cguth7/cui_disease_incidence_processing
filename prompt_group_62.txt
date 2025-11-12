@@ -1,0 +1,5 @@
+1. C0037939 - Spinal Neoplasms
+2. C3887662 - Intraspinal Neoplasm
+3. C0543698 - Hypersensitive syndrome
+4. C0679276 - relief drinking
+5. C0235983 - Normochromic anemia

@@ -1,0 +1,19 @@
+{
+  "cui": "C1519653",
+  "cui_name": "Trisomy 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": "Chromosome abnormalities",
+  "reasoning": "Trisomy 4 is one of the rarest chromosomal abnormalities, typically incompatible with life and resulting in early miscarriage. Estimated <0.01 per 100k live births based on cytogenetic studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cytogenetic screening data from multiple studies",
+  "source_url": null,
+  "source_type": null
+}

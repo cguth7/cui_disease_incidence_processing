@@ -1,0 +1,70 @@
+=== GROUP 90 ===
+C4552673 - Stage I Ovarian Cancer AJCC v8
+C0278685 - Stage I Ovarian Cancer AJCC v6 and v7
+C1336748 - Thyroid Angiosarcoma
+C3266076 - Orofacial cleft
+C0341503 - Bacterial peritonitis
+
+=== GROUP 91 ===
+C3272399 - Gastric Neuroendocrine Tumor
+C1696701 - Skin-picking
+C1864124 - SCHIZOPHRENIA 8 (disorder)
+C4324356 - End stage lung disease
+C0023645 - Lichen planus follicularis
+
+=== GROUP 92 ===
+C2675867 - CILIARY DYSKINESIA, PRIMARY, 10
+C1333786 - Gastric Precancerous Condition
+C0206752 - Alphavirus Infections
+C4274084 - Pelizaeus Merzbacher like disease
+C0751895 - Vasospasm, Intracranial
+
+=== GROUP 93 ===
+C0271528 - Isosexual precocious puberty
+C3825276 - Stereotyped behavior (Psychiatry)
+C0398642 - Montreal platelet syndrome
+C1858712 - Spastic paraplegia 10, autosomal dominant
+C2675528 - Spastic Paraplegia 42, Autosomal Dominant
+
+=== GROUP 94 ===
+C0431890 - Hypoplasia of thumb
+C2931850 - Aase Smith syndrome 2
+C2675860 - Diamond-Blackfan Anemia 4
+C2675511 - Diamond-Blackfan Anemia 8
+C2675512 - Diamond-Blackfan Anemia 7
+
+=== GROUP 95 ===
+C3178805 - Heterotaxy Syndrome
+C0242855 - Congenital atresia of pulmonary valve
+C0454578 - Receptive aphasia (finding)
+C4303082 - Hyperinsulinism due to uncoupling protein 2 deficiency
+C0679401 - Vascular rupture
+
+=== GROUP 96 ===
+C0007135 - Adenocarcinoma, Scirrhous
+C0153393 - Malignant neoplasm of superior wall of nasopharynx
+C0153396 - Malignant tumor of anterior wall of nasopharynx
+C0153395 - Malignant tumor of lateral wall of nasopharynx
+C0153394 - Malignant tumor of posterior wall of nasopharynx
+
+=== GROUP 97 ===
+C3668943 - Fatty Acid Hydroxylase-Associated Neurodegeneration
+C3496228 - Leukodystrophy, Dysmyelinating, And Spastic Paraparesis With Or Without Dystonia
+C1389473 - Pelvic hypoplasia
+C1850040 - Pelviscapular dysplasia
+C1834653 - MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)
+
+=== GROUP 98 ===
+C4014269 - ATRIAL FIBRILLATION, FAMILIAL, 15
+C0024950 - Maxillary Diseases
+C0022682 - Kienbock Disease
+C0024689 - Mandibular Diseases
+C0857846 - Legionella pneumophila pneumonia
+
+=== GROUP 99 ===
+C0162275 - Ketonuria
+C4255079 - Familial Hyperekplexia
+C3715216 - RETINITIS PIGMENTOSA 66
+C3150803 - NOONAN SYNDROME-LIKE DISORDER WITH OR WITHOUT JUVENILE MYELOMONOCYTIC LEUKEMIA
+C0270970 - Reducing-body myopathy
+

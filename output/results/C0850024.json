@@ -1,0 +1,19 @@
+{
+  "cui": "C0850024",
+  "cui_name": "Gluten sensitivity",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.48,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Non-celiac gluten sensitivity (NCGS) is a chronic condition with estimated prevalence 3-6% in populations with reported gluten sensitivity. Using conservative estimate of 5% (5000 per 100k). Prevalence is appropriate metric for chronic gastrointestinal condition. Lower confidence due to diagnostic uncertainty and variability in case definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

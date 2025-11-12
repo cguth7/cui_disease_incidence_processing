@@ -1,0 +1,5 @@
+1. C0152027 - Sensory Disorders
+2. C0006160 - Brenner Tumor
+3. C0263420 - Hyperkeratosis lenticularis perstans
+4. C1410400 - Nontraumatic subarachnoid hemorrhage, unspecified
+5. C0240635 - Byzanthine arch palate

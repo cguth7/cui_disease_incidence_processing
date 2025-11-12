@@ -1,0 +1,19 @@
+{
+  "cui": "C0342345",
+  "cui_name": "Hypoparathyroidism - autosomal dominant",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": 3.0,
+  "metric_type": "both",
+  "total_cases_per_year": 40000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Hypoparathyroidism",
+  "reasoning": "Autosomal dominant hypoparathyroidism (ADH) is a rare endocrine disorder characterized by hypoparathyroidism with developmental abnormalities (GATA3 mutations). Incidence estimated ~0.5 per 100k person-years; prevalence ~3 per 100k. Mixed inheritance pattern; autosomal dominant form is minority of cases. Limited epidemiological data; confidence based on small clinical cohorts.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Thakker RV. (2011). Hypoparathyroidism. N Engl J Med. 364(10):934-947",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21388311/",
+  "source_type": "literature"
+}

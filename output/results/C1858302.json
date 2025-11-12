@@ -1,0 +1,19 @@
+{
+  "cui": "C1858302",
+  "cui_name": "Ectodermal dysplasia/skin fragility syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Ectodermal Dysplasia",
+  "reasoning": "Aggregate umbrella term covering multiple rare genetic ectodermal dysplasia subtypes with skin fragility (EDS, epidermolysis bullosa variants). Estimated <0.5 per 100k births combined, but highly heterogeneous group with limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

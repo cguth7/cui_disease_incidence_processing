@@ -1,0 +1,19 @@
+{
+  "cui": "C1857728",
+  "cui_name": "Hereditary Angioedema Type III",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": 1.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Angioedema",
+  "reasoning": "HAE Type III (formerly F12-related) is the rarest HAE subtype, prevalence ~1.5 per 100k. Often misdiagnosed or undiagnosed.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": 2016,
+  "source": "Cicardi M et al. (2018). Classification, diagnosis, and approach to treatment for angioedema. J Allergy Clin Immunol. 140(2):e1-e40",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/29579411/",
+  "source_type": "literature"
+}

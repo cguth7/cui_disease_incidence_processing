@@ -1,0 +1,19 @@
+{
+  "cui": "C0034219",
+  "cui_name": "Alveolar pyorrhea",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 25000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 2000000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Periodontitis",
+  "reasoning": "Alveolar pyorrhea is a severe form of periodontitis characterized by purulent inflammation and alveolar bone loss. As a chronic condition, prevalence is more appropriate than incidence. Estimated ~25% of global population affected (varies from 5-90% by region and definition). Conservative estimate of 25,000 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

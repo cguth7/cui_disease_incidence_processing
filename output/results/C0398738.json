@@ -1,0 +1,19 @@
+{
+  "cui": "C0398738",
+  "cui_name": "Leukocyte adhesion deficiency type 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Leukocyte adhesion deficiency",
+  "reasoning": "Rare autosomal recessive immunodeficiency; estimated 1-2 per million births globally (<0.02 per 100k). Data from case reports and immunodeficiency registries.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

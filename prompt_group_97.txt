@@ -1,0 +1,5 @@
+1. C3668943 - Fatty Acid Hydroxylase-Associated Neurodegeneration
+2. C3496228 - Leukodystrophy, Dysmyelinating, And Spastic Paraparesis With Or Without Dystonia
+3. C1389473 - Pelvic hypoplasia
+4. C1850040 - Pelviscapular dysplasia
+5. C1834653 - MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)

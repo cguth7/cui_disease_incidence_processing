@@ -1,0 +1,19 @@
+{
+  "cui": "C0858681",
+  "cui_name": "Vitiligo vulgaris",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": 1000,
+  "metric_type": "both",
+  "total_cases_per_year": 40000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Vitiligo",
+  "reasoning": "Vitiligo vulgaris incidence ~0.5 per 100k/year; prevalence ~1% (1000 per 100k) globally. Variable by ethnicity and geography.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dermatological epidemiology studies",
+  "source_url": null,
+  "source_type": "literature"
+}

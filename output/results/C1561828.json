@@ -1,0 +1,19 @@
+{
+  "cui": "C1561828",
+  "cui_name": "Anemia in CKD",
+  "incidence_per_100k": 800,
+  "prevalence_per_100k": 8000,
+  "metric_type": "both",
+  "total_cases_per_year": 640000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Anemia",
+  "reasoning": "Anemia in chronic kidney disease is common, affecting 30-50% of CKD patients depending on stage. Incidence of new-onset CKD-related anemia estimated at 800 per 100k among CKD population; overall prevalence ~8000 per 100k among all CKD patients globally. Data from nephrology registries and CKD cohort studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4024589",
+  "cui_name": "Aplasia/Hypoplasia of the mandible",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": false,
+  "parent_disease": "Craniofacial Dysostosis",
+  "reasoning": "Rare congenital mandibular anomaly, <0.05 per 100k births based on case reports and craniofacial registry data.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

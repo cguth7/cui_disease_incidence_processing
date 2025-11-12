@@ -1,0 +1,19 @@
+{
+  "cui": "C2721734",
+  "cui_name": "Methylenetetrahydrofolate reductase polymorphism",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 350000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "MTHFR polymorphism is a common genetic variant, not a disease phenotype. Heterozygous C677T polymorphism frequency ~30-35% globally; homozygous ~10%. No disease incidence applicable. Concept is fundamentally a genotype rather than a clinical disease or disorder requiring medical attention.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Frosst P et al. (1995). A candidate genetic risk factor for vascular disease: a common mutation in methylenetetrahydrofolate reductase. Nat Genet. 10(1):111-113",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/7647779/",
+  "source_type": "literature"
+}

@@ -1,0 +1,70 @@
+=== GROUP 100 ===
+C4014833 - IMMUNODEFICIENCY 26 WITH OR WITHOUT NEUROLOGIC ABNORMALITIES
+C0347390 - Skin Papilloma
+C1273070 - Left ventricular diastolic dysfunction
+C0341486 - Cystadenoma of pancreas
+C1561828 - Anemia in chronic kidney disease
+
+=== GROUP 101 ===
+C0744301 - gastric ulcer benign
+C3553843 - HYPOGONADOTROPIC HYPOGONADISM 10 WITH OR WITHOUT ANOSMIA
+C0002438 - Amebiasis
+C0013370 - Amebic colitis
+C0432268 - Osteopathia striata cranial sclerosis
+
+=== GROUP 102 ===
+C0280725 - Adult Cholangiocarcinoma
+C0677660 - Emotional problems
+C1333500 - Extragastrointestinal Gastrointestinal Stromal Tumor
+C2063326 - Right ventricular cardiomyopathy
+C0272241 - Complement abnormality
+
+=== GROUP 103 ===
+C4329281 - Advanced Malignant Solid Neoplasm
+C4305457 - Osteomalacia due to vitamin D deficiency
+C0031144 - Chronic peritoneal effusion (disorder)
+C0403814 - Congenital bilateral aplasia of vas deferens
+C4275075 - Atypical Werner syndrome
+
+=== GROUP 104 ===
+C0151476 - Hypochloremic alkalosis
+C0856554 - Hepatic cancer metastatic
+C3809383 - IMMUNODEFICIENCY 8
+C0038557 - Submandibular Gland Diseases
+C4551767 - Protanopia
+
+=== GROUP 105 ===
+C0155016 - Color Blindness, Red-Green
+C1839612 - MYOPIA 1, X-LINKED
+C4551635 - Deuteranopia
+C0155015 - Color Blindness, Red
+C1848200 - SUBCORTICAL BAND HETEROTOPIA, X-LINKED
+
+=== GROUP 106 ===
+C2931459 - Lynch syndrome I (site-specific colonic cancer)
+C4698644 - Atypical scrapie
+C2987516 - Cervix Intraepithelial Neoplasia Grade 3 AJCC v7
+C0006144 - Breast Cyst
+C2712871 - Gout attack
+
+=== GROUP 107 ===
+C0001752 - African swine fever
+C0276138 - Viral myocarditis
+C2748544 - Spondyloepimetaphyseal Dysplasia, Aggrecan Type
+C0264774 - Mitral and aortic incompetence
+C0155568 - Rheumatic aortic regurgitation
+
+=== GROUP 108 ===
+C3888044 - Nephrogenic Systemic Fibrosis
+C1970808 - Xeroderma Pigmentosum B-Cockayne Syndrome
+C0175713 - Aicardi's syndrome
+C0037917 - Spina Bifida Cystica
+C4014814 - MYOPATHY, CENTRONUCLEAR, 5
+
+=== GROUP 109 ===
+C2675526 - Neutropenia, Severe Congenital, Autosomal Recessive 4
+C1855020 - Acute necrotizing encephalopathy
+C0343968 - Hepatosplenic schistosomiasis
+C0851445 - Haematopoietic neoplasms (excl leukaemias and lymphomas)
+C0040702 - Transient Tic Disorder
+

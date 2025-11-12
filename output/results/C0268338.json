@@ -1,0 +1,19 @@
+{
+  "cui": "C0268338",
+  "cui_name": "Ehlers-Danlos Syndrome, Type IV",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Ehlers-Danlos Syndrome",
+  "reasoning": "Vascular EDS (Type IV) incidence estimated at 1 in 250,000 births (~0.4 per 100k). Well-defined genetic subtype with characteristic vascular fragility. Data from rare disease registries and genetic databases.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Malfait F et al. (2017). The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C. 175(1):8-26",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/28306229/",
+  "source_type": "literature"
+}

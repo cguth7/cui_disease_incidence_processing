@@ -1,0 +1,19 @@
+{
+  "cui": "C0342396",
+  "cui_name": "Idiopathic hypopituitarism",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": 4.2,
+  "metric_type": "both",
+  "total_cases_per_year": 120000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Hypopituitarism",
+  "reasoning": "Specific endocrine disorder with estimated prevalence 40-45 per million (4-4.5 per 100k) based on clinical case series. Incidence ~1.5 per 100k estimated from limited cohort studies. Data quality limited; most studies are single-center or registry-based.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

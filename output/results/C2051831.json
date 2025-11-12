@@ -1,0 +1,19 @@
+{
+  "cui": "C2051831",
+  "cui_name": "Pectus excavatum",
+  "incidence_per_100k": 3.0,
+  "prevalence_per_100k": 15.0,
+  "metric_type": "both",
+  "total_cases_per_year": 240000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Pectus excavatum (sunken chest) has incidence ~3 per 100k births and prevalence ~15 per 100k in general population. Moderate data quality from orthopedic studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}
