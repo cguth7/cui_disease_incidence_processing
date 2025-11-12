@@ -1,0 +1,7 @@
+{
+  "total_diseases": 967,
+  "high_confidence": 81,
+  "medium_confidence": 776,
+  "low_confidence": 110,
+  "output_file": "output/disease_incidence_data_rows_6001_7000.csv"
+}
