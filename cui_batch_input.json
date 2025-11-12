@@ -1,0 +1,9 @@
+{
+  "diseases": [
+    {"cui": "C0865573", "name": "Mitral disease"},
+    {"cui": "C0877055", "name": "Acute Generalized Exanthematous Pustulosis"},
+    {"cui": "C0877153", "name": "Neutropenic sepsis"},
+    {"cui": "C0878684", "name": "SHORT syndrome"},
+    {"cui": "C0917813", "name": "Spina Bifida, Open"}
+  ]
+}

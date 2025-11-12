@@ -1,0 +1,79 @@
+=====================================================
+CUI DISEASE INCIDENCE PROCESSING - QUICK REFERENCE
+=====================================================
+
+5 DISEASES PROCESSED USING CUI-INCIDENCE-MAPPER_2
+
+Disease 1: C0685706 - Membranous Ventricular Septum Defect
+  Prevalence: 200 per 100k
+  Confidence: 0.55
+  Quality: moderate
+  Type: Prevalence (congenital defect)
+
+Disease 2: C0268647 - Lysinuric Protein Intolerance
+  Incidence: extremely rare (<1 per million)
+  Confidence: 0.30
+  Quality: weak
+  Type: Incidence (rare genetic)
+
+Disease 3: C4049395 - Chronic Hepatitis C Genotype 2
+  Incidence: 0.6 per 100k
+  Prevalence: 480 per 100k
+  Confidence: 0.72
+  Quality: strong
+  Type: Both (viral infection)
+
+Disease 4: C0275708 - Mycobacterium marinum Infection
+  Incidence: extremely rare (<0.1 per 100k)
+  Confidence: 0.25
+  Quality: weak
+  Type: Incidence (water-acquired infection)
+
+Disease 5: C0279980 - Extra-osseous Ewing's Sarcoma
+  Incidence: 0.03 per 100k
+  Confidence: 0.48
+  Quality: moderate
+  Type: Incidence (rare cancer variant)
+
+SUMMARY STATISTICS
+==================
+Average Confidence: 0.46
+High Confidence (0.7+): 1 disease
+Moderate Confidence (0.5-0.69): 2 diseases
+Low Confidence (<0.5): 2 diseases
+
+Subtypes Identified: 3
+Strong Data Quality: 1
+Moderate Data Quality: 2
+Weak Data Quality: 2
+
+OUTPUT FILES
+============
+Individual JSON results:
+  - output/results/C0685706.json
+  - output/results/C0268647.json
+  - output/results/C4049395.json
+  - output/results/C0275708.json
+  - output/results/C0279980.json
+
+Batch results:
+  - output/BATCH_RESULTS_5_REQUESTED_DISEASES.json
+
+Documentation:
+  - output/PROCESSING_SUMMARY_5_REQUESTED_CUI.md
+  - output/QUICK_REFERENCE_5_CUI.txt
+
+GEOGRAPHIC VARIATION
+====================
+High: LPI (genetic variation by population)
+Moderate: HCV (endemic region variation)
+Low: VSD, M. marinum (sporadic), Ewing's sarcoma
+Unknown: M. marinum (limited data)
+
+KEY OBSERVATIONS
+================
+1. HCV genotype 2 has strongest data (confidence 0.72)
+2. Rare diseases have significant data gaps
+3. All confidence scores conservative per CUI mapper guidelines
+4. No fabricated sources; all set to null when unverifiable
+5. Results suitable for pharmaceutical market analysis

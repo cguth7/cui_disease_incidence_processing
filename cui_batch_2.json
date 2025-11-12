@@ -1,0 +1,9 @@
+{
+  "diseases": [
+    {"cui": "C3151405", "name": "CANDIDIASIS, FAMILIAL, 6"},
+    {"cui": "C3151434", "name": "RETINITIS PIGMENTOSA 60"},
+    {"cui": "C3151442", "name": "DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE, 3"},
+    {"cui": "C3151446", "name": "Nestor Guillermo progeria syndrome"},
+    {"cui": "C3151460", "name": "CILIARY DYSKINESIA, PRIMARY, 16"}
+  ]
+}
