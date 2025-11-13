@@ -1,0 +1,19 @@
+{
+  "cui": "C1333446",
+  "cui_name": "Hereditary spherocytosis",
+  "incidence_per_100k": 2.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 192000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Autosomal dominant hereditary hemolytic anemia with estimated incidence ~2-3 per 100k live births. Data from genetic registries and hematology literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Delaunay J et al. (2004). Hereditary spherocytosis, elliptocytosis, and other red cell membrane disorders. Hematology Am Soc Hematol Educ Program. 2004:22-56",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15728056/",
+  "source_type": "literature"
+}

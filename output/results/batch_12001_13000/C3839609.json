@@ -1,0 +1,19 @@
+{
+  "cui": "C3839609",
+  "cui_name": "Complex craniosynostosis",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Craniosynostosis",
+  "reasoning": "Complex craniosynostosis involves closure of multiple sutures and often includes other congenital anomalies. Estimated incidence ~0.5-1 per 100k live births based on congenital anomaly registries. Represents subset of all craniosynostosis cases (total ~3-5 per 100k births).",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Birth defect registries and craniofacial surgical literature",
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0040962",
+  "cui_name": "Tricuspid Valve Prolapse",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 1000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 80000000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Valve Prolapse",
+  "reasoning": "Tricuspid valve prolapse measured as prevalence, not incidence. Large echocardiographic study (N=118,000) reported 0.3% prevalence; other studies report 0.3-3.2% range (~300-3,200 per 100k). Using mid-range estimate 1% (1,000 per 100k). Diagnostic criteria not well-established historically; high variability in reported rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Characteristics and Significance of Tricuspid Valve Prolapse in a Large Multidecade Echocardiographic Study; Levy F et al. PMC7796941.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7796941/",
+  "source_type": "literature"
+}

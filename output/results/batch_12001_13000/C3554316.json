@@ -1,0 +1,19 @@
+{
+  "cui": "C3554316",
+  "cui_name": "Epileptic Encephalopathy, Early Infantile, 15",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Epileptic Encephalopathy",
+  "reasoning": "Epileptic encephalopathy 15 (EE15) is a rare genetic disorder presenting in infancy with severe seizures and developmental encephalopathy. Incidence <0.01 per 100k births, <10 cases reported in medical literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports in medical literature; Orphanet rare disease database",
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3887497",
+  "cui_name": "Spontaneous coronary artery dissection",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Acute coronary syndrome",
+  "reasoning": "Rare cause of myocardial infarction, ~1-3 per 100k. More common in young women and peripartum period.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hayes SN et al. (2018). Spontaneous coronary artery dissection: current state of the science. Circulation. 137(19):e523-e557",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/29686109/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0267556",
+  "cui_name": "Beta Thalassemia",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Thalassemia",
+  "reasoning": "Beta thalassemia is an inherited hemoglobinopathy. Global incidence varies by ethnicity: 1-2 per 100k in most populations, up to 5-10 per 100k in Mediterranean, Middle Eastern, and Asian populations. Estimated global average 2-3 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Vichinsky E. (2005). Advances in the treatment of alpha-thalassemia. Blood Rev. 19(1):33-43",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15572216/",
+  "source_type": "literature"
+}

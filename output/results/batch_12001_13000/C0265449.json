@@ -1,0 +1,19 @@
+{
+  "cui": "C0265449",
+  "cui_name": "Pallister-Killian syndrome",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Chromosomal Syndrome",
+  "reasoning": "Pallister-Killian syndrome (tetrasomy 12p) is a rare genetic disorder. Estimated incidence approximately 1 in 25,000 live births (0.4 per 100k). Characterized by facial dysmorphism, short limbs, and intellectual disability. Mosaicism pattern affects phenotypic variability.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet rare disease registry; clinical genetics literature",
+  "source_url": "https://www.orpha.net/en/disease/detail/884",
+  "source_type": "registry"
+}

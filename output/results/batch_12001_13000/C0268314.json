@@ -1,0 +1,19 @@
+{
+  "cui": "C0268314",
+  "cui_name": "Polyarteritis Nodosa",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Rare systemic vasculitis with estimated incidence ~0.5 per 100k person-years. Limited epidemiological data available; confidence reflects weak data quality and regional variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Guillevin L et al. (2005). Polyarteritis nodosa, microscopic polyangiitis and Churg-Strauss syndrome. Lancet. 365(9470):1641-1656",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15885296/",
+  "source_type": "literature"
+}

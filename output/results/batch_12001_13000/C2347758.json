@@ -1,0 +1,19 @@
+{
+  "cui": "C2347758",
+  "cui_name": "Childhood Grade III Meningioma",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Grade III Meningioma",
+  "reasoning": "Pediatric meningiomas are rare, representing <2% of childhood CNS tumors (~1-2 per million children per year). Grade III meningiomas in children are extremely uncommon, estimated at <0.05 per 100k children. Data quality limited.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric CNS tumor epidemiology, limited Grade III subtype stratification",
+  "source_url": null,
+  "source_type": "estimate"
+}

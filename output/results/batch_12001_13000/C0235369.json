@@ -1,0 +1,19 @@
+{
+  "cui": "C0235369",
+  "cui_name": "Spontaneous pneumothorax",
+  "incidence_per_100k": 18.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1440000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Primary spontaneous pneumothorax incidence ~18 per 100k person-years globally. Data from multiple epidemiological studies and healthcare registries. Incident condition with clear acute onset.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gupta D et al. (2000). Spontaneous pneumothorax: epidemiology and management. Eur Respir Rev. 10(76):58-67",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20879169/",
+  "source_type": "literature"
+}

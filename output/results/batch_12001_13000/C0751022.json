@@ -1,0 +1,19 @@
+{
+  "cui": "C0751022",
+  "cui_name": "Brain Stem Ischemia, Transient",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Transient Ischemic Attack",
+  "reasoning": "Brain stem TIAs represent ~10-15% of all TIA cases. Global TIA incidence ~300-400 per 100k; brain stem subset ~45 per 100k. Data from stroke registries with moderate geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "American Heart Association/American Stroke Association Guidelines, based on NIHSS and stroke registry data",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3695272",
+  "cui_name": "Oculocutaneous albinism type 6",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Oculocutaneous Albinism",
+  "reasoning": "OCA type 6 is rare, caused by SLC45A2 mutations. Incidence estimated <0.1 per 100k based on case reports and genetic epidemiology. Very limited population-based data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Oetting WS et al. (2003). Oculocutaneous Albinism Type 6 (OCA6). GeneReviews. University of Washington",
+  "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1424/",
+  "source_type": "literature"
+}

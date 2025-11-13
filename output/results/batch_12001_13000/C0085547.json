@@ -1,0 +1,19 @@
+{
+  "cui": "C0085547",
+  "cui_name": "Phenylketonuria, Maternal",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": 0.15,
+  "metric_type": "both",
+  "total_cases_per_year": 6400,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Phenylketonuria",
+  "reasoning": "Maternal PKU refers to pregnant women with PKU who are at risk for maternal PKU syndrome affecting fetal development. PKU incidence at birth is ~1 per 10,000-15,000 globally. Only a fraction of these are women of reproductive age with controlled PKU. Estimated ~0.08 per 100k person-years for clinical maternal PKU cases requiring intervention.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

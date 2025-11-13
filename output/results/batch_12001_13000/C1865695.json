@@ -1,0 +1,19 @@
+{
+  "cui": "C1865695",
+  "cui_name": "Axial spondylometaphyseal dysplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Skeletal dysplasia",
+  "reasoning": "Axial spondylometaphyseal dysplasia (SMDAX) is an extremely rare autosomal recessive skeletal dysplasia caused by CFAP410 mutations. Fewer than 100 cases reported worldwide with postnatal growth failure and rhizomelic short stature. Incidence estimated <0.01 per 100k births based on case report frequency and genetic population studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet SMDAX (ORPHA:168549), National Institutes of Health Genetic Testing Registry",
+  "source_url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C1865695/",
+  "source_type": "registry"
+}

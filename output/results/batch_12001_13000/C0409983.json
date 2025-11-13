@@ -1,0 +1,19 @@
+{
+  "cui": "C0409983",
+  "cui_name": "Secondary antiphospholipid syndrome",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Antiphospholipid syndrome",
+  "reasoning": "Secondary antiphospholipid syndrome occurs in 1-2% of patients with systemic lupus erythematosus and other autoimmune diseases. Given SLE prevalence of ~40 per 100k, estimated secondary APS incidence ~0.5 per 100k. Limited specific epidemiological studies on secondary APS as distinct entity from primary APS.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rheumatology literature on antiphospholipid syndrome epidemiology",
+  "source_url": null,
+  "source_type": "literature"
+}

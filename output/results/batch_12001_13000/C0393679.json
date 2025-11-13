@@ -1,0 +1,19 @@
+{
+  "cui": "C0393679",
+  "cui_name": "Amygdalo-Hippocampal Epilepsy",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Amygdalo-hippocampal epilepsy is a rare subtype of temporal lobe epilepsy with very limited epidemiological data. Estimated ~2 per 100k based on mesial temporal lobe epilepsy prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

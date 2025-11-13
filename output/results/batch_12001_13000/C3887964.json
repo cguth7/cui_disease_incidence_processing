@@ -1,0 +1,19 @@
+{
+  "cui": "C3887964",
+  "cui_name": "POLYCYSTIC KIDNEY DISEASE 3 WITH OR WITHOUT POLYCYSTIC LIVER DISEASE",
+  "incidence_per_100k": 13.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1040000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Dominant Polycystic Kidney Disease",
+  "reasoning": "PKD3 is a subtype of ADPKD with estimated incidence of ~12-14 per 100k person-years. Using midpoint estimate of 13 per 100k based on epidemiological studies of monogenic kidney diseases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Chronic Kidney Disease epidemiological data, genetic kidney disease incidence estimates",
+  "source_url": null,
+  "source_type": "estimate"
+}

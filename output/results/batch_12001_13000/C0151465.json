@@ -1,0 +1,19 @@
+{
+  "cui": "C0151465",
+  "cui_name": "Renal abscess",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Kidney infection",
+  "reasoning": "Renal abscess is a rare complication of upper UTI/pyelonephritis, estimated ~0.5 per 100k based on urological literature. Limited population-based incidence data.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Schlossberg D. (2015). Abscesses of the kidney and perinephric space. UpToDate",
+  "source_url": null,
+  "source_type": "literature"
+}

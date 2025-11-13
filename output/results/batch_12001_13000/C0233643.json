@@ -1,0 +1,19 @@
+{
+  "cui": "C0233643",
+  "cui_name": "Oral lichen planus",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": 200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 16000000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Lichen planus",
+  "reasoning": "Oral lichen planus is a chronic inflammatory condition of oral mucosa. Incidence low (~0.5 per 100k annually), but prevalence higher due to chronicity (~1-2% of population, approximately 200 per 100k). Prevalence metric more appropriate for this chronic condition. Higher prevalence in middle-aged and older adults.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Clinical epidemiology studies of oral lichen planus",
+  "source_url": null,
+  "source_type": "literature"
+}

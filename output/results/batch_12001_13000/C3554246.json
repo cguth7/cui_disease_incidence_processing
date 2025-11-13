@@ -1,0 +1,19 @@
+{
+  "cui": "C3554246",
+  "cui_name": "FOCAL FACIAL DERMAL DYSPLASIA 4",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Focal facial dermal dysplasia",
+  "reasoning": "Specific subtype of focal facial dermal dysplasia (FFDD4), caused by POLD1 mutations. Rarer than broader FFDD category with <20 cases reported. Estimated <0.01 per 100k births. Confidence higher than umbrella term due to genetic specificity, but limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

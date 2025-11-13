@@ -1,0 +1,19 @@
+{
+  "cui": "C0085615",
+  "cui_name": "Right Bundle Branch Block",
+  "incidence_per_100k": 50.0,
+  "prevalence_per_100k": 1000,
+  "metric_type": "both",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Bundle Branch Blocks",
+  "reasoning": "RBBB prevalence estimated at 0.5-1.0% of general population (5,000-10,000 per 100k). Annual incidence of new RBBB diagnoses approximately 50-60 per 100k person-years. Data from ECG surveillance studies and epidemiological surveys. RBBB is a cardiac conduction abnormality rather than a primary disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epidemiological survey data from cardiac registries and ECG prevalence studies",
+  "source_url": null,
+  "source_type": "estimate"
+}

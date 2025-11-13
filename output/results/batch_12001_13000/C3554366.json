@@ -1,0 +1,19 @@
+{
+  "cui": "C3554366",
+  "cui_name": "Charcot-Marie-Tooth disease axonal type 2Q",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.38,
+  "is_subtype": true,
+  "parent_disease": "Charcot-Marie-Tooth disease type 2",
+  "reasoning": "CMT disease type 2Q is a rare autosomal dominant form of axonal Charcot-Marie-Tooth disease associated with DHTKD1 gene mutations. While overall CMT incidence is 1-2.8 per 100k, type 2Q is much rarer, estimated <0.1 per 100k. Data based on genetic testing registries and neurological literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

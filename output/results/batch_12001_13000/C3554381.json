@@ -1,0 +1,19 @@
+{
+  "cui": "C3554381",
+  "cui_name": "Immunoglobulin A vasculitis with renal involvement",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Immunoglobulin A vasculitis",
+  "reasoning": "IgA vasculitis (Henoch-Sch\u00f6nlein purpura) with renal involvement incidence ~1-2 per 100k. Renal involvement increases severity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ozen S et al. (2018). EULAR recommendations for the management of IgA vasculitis. Ann Rheum Dis. 77(1):47-58",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/28851694/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1263887",
+  "cui_name": "Neoplasm of temporal lobe",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Brain and central nervous system neoplasm",
+  "reasoning": "Temporal lobe neoplasms represent a subset of intracranial tumors. Global brain tumor incidence approximately 10 per 100k; temporal lobe accounts for ~20-25% of intracranial tumors. Estimated temporal lobe neoplasm incidence ~2-3 per 100k. Significant variation by tumor type (glioblastoma vs lower-grade gliomas vs metastatic disease).",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

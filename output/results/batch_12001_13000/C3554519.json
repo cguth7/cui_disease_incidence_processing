@@ -1,0 +1,19 @@
+{
+  "cui": "C3554519",
+  "cui_name": "Necrobiotic xanthogranuloma",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Necrobiotic xanthogranuloma is an extremely rare granulomatous skin condition, often associated with monoclonal paraproteinemia. Estimated incidence <0.2 per 100k per year based on case report frequency. Very limited epidemiological data; mostly documented through dermatology case series and clinical reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

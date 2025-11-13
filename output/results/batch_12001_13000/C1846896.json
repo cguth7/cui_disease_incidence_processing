@@ -1,0 +1,19 @@
+{
+  "cui": "C1846896",
+  "cui_name": "CHARGE syndrome",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CHARGE syndrome (CHD7 mutations) is a rare genetic disorder affecting craniofacial, cardiac, ocular, and auditory development. Birth incidence estimated at 1 per 8,500-10,000 live births, approximately 1.0-1.2 per 100k. Data from genetic registries and case studies.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lalani SR et al. (2006). CHARGE syndrome: the phenotypic spectrum of mutations in CHD7. J Med Genet. 43(4):306-314",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16170021/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3163943",
+  "cui_name": "Reactive Arthritis",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000.0,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Reactive arthritis (post-infectious arthritis) estimated at 0.5-3 per 100k incidence, with considerable geographic variation. Limited epidemiological data in recent literature.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

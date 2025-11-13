@@ -1,0 +1,19 @@
+{
+  "cui": "C1319314",
+  "cui_name": "Transitional cell carcinoma of kidney",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Kidney cancer",
+  "reasoning": "Transitional cell carcinoma (urothelial carcinoma) of kidney/urinary tract has global incidence ~2-3 per 100k. This represents a significant portion of upper urinary tract malignancies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "GLOBOCAN 2020 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

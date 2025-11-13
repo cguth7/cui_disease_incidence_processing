@@ -1,0 +1,19 @@
+{
+  "cui": "C0278804",
+  "cui_name": "Ankylosing Spondylarthritis",
+  "incidence_per_100k": 7.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 560000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Spondyloarthritis",
+  "reasoning": "Ankylosing spondylitis (axial spondyloarthritis) incidence ~5-10 per 100k globally. Strong genetic component (HLA-B27). Higher prevalence in Northern European populations.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Sieper J et al. (2006). Axial spondyloarthritis. Lancet. 367(9521):1594-1603",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16997984/",
+  "source_type": "literature"
+}

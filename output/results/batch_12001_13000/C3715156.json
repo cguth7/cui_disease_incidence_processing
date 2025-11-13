@@ -1,0 +1,19 @@
+{
+  "cui": "C3715156",
+  "cui_name": "AMYOTROPHIC LATERAL SCLEROSIS 20",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Amyotrophic Lateral Sclerosis",
+  "reasoning": "ALS20 is a rare genetic subtype of ALS. Global ALS incidence approximately 2 per 100k; ALS20 represents a small fraction. Limited epidemiological data for specific genetic subtypes.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hardiman O et al. (2011). Amyotrophic lateral sclerosis. Lancet. 377(9769):942-955",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21296405/",
+  "source_type": "literature"
+}

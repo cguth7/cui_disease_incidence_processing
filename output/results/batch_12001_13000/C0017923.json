@@ -1,0 +1,19 @@
+{
+  "cui": "C0017923",
+  "cui_name": "Glycogen Storage Disease Type IV",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Glycogen Storage Diseases",
+  "reasoning": "Glycogen Storage Disease Type IV (Andersen disease) is extremely rare, estimated <0.1 per 100k based on case reports and genetic studies. Autosomal recessive inheritance limits incidence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Roach PJ et al. (2012). Glycogen storage diseases--acute complications and long-term complications. Enzymes. 32:141-168",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23443181/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4479651",
+  "cui_name": "Retinal dystrophy with or without macular staphyloma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Retinal dystrophy",
+  "reasoning": "Retinal dystrophy with macular staphyloma (RDMS) caused by CFAP410 mutations is extremely rare, documented primarily through case reports from consanguineous families. Cone-rod dystrophies generally have prevalence ~1/20,000-100,000, but RDMS with macular staphyloma phenotype is significantly rarer. Estimated incidence <0.001 per 100k based on genetic population studies and case report frequency.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "OMIM #617547 (Retinal Dystrophy with or without Macular Staphyloma)",
+  "source_url": "https://www.omim.org/entry/617547",
+  "source_type": "registry"
+}

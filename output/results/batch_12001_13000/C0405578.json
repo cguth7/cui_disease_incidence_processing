@@ -1,0 +1,19 @@
+{
+  "cui": "C0405578",
+  "cui_name": "Mitral valve regurgitation",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": 1200,
+  "metric_type": "both",
+  "total_cases_per_year": 640000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Mitral Valve Disease",
+  "reasoning": "Functional mitral regurgitation incidence ~8 per 100k person-years in developed countries. Prevalence much higher (~12% of population) due to chronic nature and multiple etiologies.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Vahanian A et al. (2012). Guidelines on the management of valvular heart disease. Eur Heart J. 33(19):2451-2496",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22922414/",
+  "source_type": "literature"
+}

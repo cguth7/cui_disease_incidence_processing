@@ -1,0 +1,19 @@
+{
+  "cui": "C0016049",
+  "cui_name": "Fibromatosis, Gingival",
+  "incidence_per_100k": 0.7,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 56000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Gingival Lesions",
+  "reasoning": "Hereditary gingival fibromatosis is a rare condition, estimated ~0.5-1.0 per 100k based on case reports and dental registry data. Predominant form is inherited as autosomal dominant.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dental literature case series and epidemiological studies",
+  "source_url": null,
+  "source_type": "literature"
+}

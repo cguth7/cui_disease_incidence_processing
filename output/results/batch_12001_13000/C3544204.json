@@ -1,0 +1,19 @@
+{
+  "cui": "C3544204",
+  "cui_name": "Borderline Mucinous Tumour of Ovary",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Ovarian Neoplasm",
+  "reasoning": "Borderline mucinous ovarian tumors are distinct from invasive ovarian cancer with lower incidence. Global incidence estimated ~0.5-1.0 per 100k based on cancer registry data. Confidence moderate due to variability in classification and reporting between registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4551967",
+  "cui_name": "Optic Nerve Disorder with Autosomal Dominant Inheritance",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": "Optic Nerve Diseases",
+  "reasoning": "Rare autosomal dominant optic neuropathy. Estimated incidence <1 per 100k based on genetic registry data. Includes conditions like autosomal dominant optic atrophy (OPA1). Limited epidemiological data available.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Alexander C et al. (2000). OPA1, encoding a dynamin-related GTPase, is mutated in autosomal dominant optic atrophy. Hum Mol Genet. 9(10):1461-1468",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10814726/",
+  "source_type": "literature"
+}

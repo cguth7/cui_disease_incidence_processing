@@ -1,0 +1,19 @@
+{
+  "cui": "C1832273",
+  "cui_name": "Systemic Sclerosis",
+  "incidence_per_100k": 2.0,
+  "prevalence_per_100k": 50,
+  "metric_type": "both",
+  "total_cases_per_year": 160000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Systemic sclerosis incidence approximately 2 per 100k person-years with prevalence around 50 per 100k population. Both metrics reported as literature documents both incidence and prevalence data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mayes MD et al. (2003). Prevalence, incidence, survival, and disease characteristics of systemic sclerosis in a large US population. Arthritis Rheum. 48(8):2246-2255",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12905479/",
+  "source_type": "literature"
+}

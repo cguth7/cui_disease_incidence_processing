@@ -1,0 +1,19 @@
+{
+  "cui": "C2973529",
+  "cui_name": "Leukocytoclastic vasculitis",
+  "incidence_per_100k": 0.75,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 60000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Small Vessel Vasculitis",
+  "reasoning": "Leukocytoclastic vasculitis is a specific small vessel vasculitis subtype. Estimated incidence ~0.5-1 per 100k based on dermatological and rheumatology literature. Limited population-based epidemiological data available; confidence capped at moderate due to sparse registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Dermatological and rheumatological literature reviews",
+  "source_url": null,
+  "source_type": "literature"
+}

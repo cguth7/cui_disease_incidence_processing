@@ -1,0 +1,19 @@
+{
+  "cui": "C0271454",
+  "cui_name": "Symptomatic Prolapse of Intervertebral Disc",
+  "incidence_per_100k": 58.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4640000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Intervertebral Disc Displacement",
+  "reasoning": "Symptomatic disc herniation/prolapse episodes. Incidence estimated at 50-60 per 100k based on primary care and occupational health studies. Confidence moderate due to variation in diagnostic criteria and reporting.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2006,
+  "source": "Koes BW et al. (2006). Diagnosis and treatment of sciatica. BMJ. 334:1313-1317",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16720619/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0426970",
+  "cui_name": "Abnormal hemoglobin",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 4000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 320000000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Abnormal hemoglobins include multiple distinct entities (sickle cell, thalassemia, etc). Using prevalence estimate of ~4% global population with some form of hemoglobinopathy from WHO data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2008,
+  "source": "Weatherall DJ. (2008). Hemoglobinopathies worldwide: present and future. Curr Mol Med. 8(7):592-599",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18991641/",
+  "source_type": "literature"
+}

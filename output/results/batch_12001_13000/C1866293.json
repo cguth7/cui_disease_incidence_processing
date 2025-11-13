@@ -1,0 +1,19 @@
+{
+  "cui": "C1866293",
+  "cui_name": "Premature ventricular contraction",
+  "incidence_per_100k": 85.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6800000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Cardiac Arrhythmias",
+  "reasoning": "PVCs are among the most common cardiac arrhythmias with incidence ~85 per 100k. Subtype of broader arrhythmia category. Data from cardiac epidemiology studies; moderate confidence due to variable definitions and detection rates.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Rademakers FE et al. (2008). Epidemiology of atrial fibrillation and flutter. Eur Heart J. 29(18):2237-2245",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18840615/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4014516",
+  "cui_name": "DIARRHEA 7, PROTEIN-LOSING ENTEROPATHY TYPE",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Congenital Diarrheal Disorder",
+  "reasoning": "Diarrhea 7 with protein-losing enteropathy is an extremely rare genetic diarrheal disorder. Part of the congenital diarrheal disease family caused by specific gene mutations. Incidence estimated <0.001 per 100k live births based on extremely limited case report data (<50 cases documented globally). Autosomal recessive inheritance.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

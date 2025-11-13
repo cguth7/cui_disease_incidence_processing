@@ -1,0 +1,19 @@
+{
+  "cui": "C0393681",
+  "cui_name": "Rhinencephalic Epilepsy",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Rhinencephalic (temporal lobe) epilepsy is a rare subtype with limited systematic data. Estimated ~1.5 per 100k based on temporal lobe epilepsy subset.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

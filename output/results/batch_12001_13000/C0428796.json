@@ -1,0 +1,19 @@
+{
+  "cui": "C0428796",
+  "cui_name": "Senile sclerosis of aortic cusp",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 640000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Aortic valve disease",
+  "reasoning": "Age-related aortic sclerosis affects ~8% of older adults based on echocardiographic studies. Reported as prevalence not incidence since it's a degenerative chronic condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "Nkomo VT et al. (2006). Burden of valvular heart diseases. Lancet. 368(9540):1005-1011",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16980116/",
+  "source_type": "literature"
+}

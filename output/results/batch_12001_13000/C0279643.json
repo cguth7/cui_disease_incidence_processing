@@ -1,0 +1,19 @@
+{
+  "cui": "C0279643",
+  "cui_name": "Cardiac arrhythmia",
+  "incidence_per_100k": 500,
+  "prevalence_per_100k": 2500,
+  "metric_type": "both",
+  "total_cases_per_year": 40000000,
+  "confidence": 0.8,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cardiac arrhythmias encompass multiple heart rhythm disorders. Incidence of clinically significant arrhythmias ~500 per 100k person-years globally; prevalence varies with age from <1% in young adults to >10% in elderly. Data from international arrhythmia registries and epidemiological surveys.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Camm AJ et al. (2012). 2012 focused update of the ESC Guidelines for atrial fibrillation. Eur Heart J. 33(21):2719-2747",
+  "source_url": null,
+  "source_type": "literature"
+}

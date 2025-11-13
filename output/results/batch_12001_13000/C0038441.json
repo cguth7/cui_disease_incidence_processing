@@ -1,0 +1,19 @@
+{
+  "cui": "C0038441",
+  "cui_name": "Tetanus",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 96000,
+  "confidence": 0.82,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Tetanus (lockjaw) is a preventable acute infectious disease caused by Clostridium tetani. Global incidence approximately 1.0-1.5 per 100k per year, with significant geographic variation based on vaccination coverage. WHO estimates ~1 million cases annually in areas with poor access to vaccination.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "World Health Organization. (2005). Vaccine-preventable diseases: monitoring system. WHO Global Data",
+  "source_url": "https://www.who.int/teams/immunization-vaccines-and-biologicals",
+  "source_type": "registry"
+}

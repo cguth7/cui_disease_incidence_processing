@@ -1,0 +1,19 @@
+{
+  "cui": "C1455780",
+  "cui_name": "Aortic valve sclerosis",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 7500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 600000000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Heart valve disease",
+  "reasoning": "Aortic sclerosis prevalence ~7.5% in adults \u226565 years from Framingham Heart Study. Chronic degenerative condition, measured as prevalence.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Stewart BF et al. (1997). Clinical factors associated with calcific aortic valve disease. J Am Coll Cardiol. 29(3):630-634",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/9060903/",
+  "source_type": "literature"
+}

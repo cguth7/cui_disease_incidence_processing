@@ -1,0 +1,19 @@
+{
+  "cui": "C0392439",
+  "cui_name": "Solitary pulmonary nodule",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Lung Neoplasm",
+  "reasoning": "Solitary pulmonary nodules (SPNs) are detected incidentally on imaging. Estimated incidence ~10-15 per 100k based on CT screening studies and surveillance data. Often represents early-stage lung cancer in high-risk populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lung cancer screening and imaging epidemiology studies",
+  "source_url": null,
+  "source_type": null
+}

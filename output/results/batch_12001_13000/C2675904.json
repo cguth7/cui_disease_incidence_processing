@@ -1,0 +1,19 @@
+{
+  "cui": "C2675904",
+  "cui_name": "Hypertensive chronic kidney disease",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Chronic Kidney Disease",
+  "reasoning": "Hypertensive CKD measured as prevalence rather than incidence. WHO 2005 estimates ~8.5% of global population with CKD stage 3-5 related to hypertension.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "World Health Organization (2005). Preventing chronic diseases: a vital investment",
+  "source_url": null,
+  "source_type": "registry"
+}

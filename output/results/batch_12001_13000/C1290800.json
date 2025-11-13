@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C1290800",
+    "cui_name": "Acute leukemia",
+    "incidence_per_100k": 3.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 256000,
+    "confidence": 0.78,
+    "is_subtype": true,
+    "parent_disease": "Leukemia",
+    "reasoning": "Acute leukemia (AML and ALL combined) global incidence approximately 3.2 per 100k person-years based on cancer registry data.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

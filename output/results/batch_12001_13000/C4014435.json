@@ -1,0 +1,19 @@
+{
+  "cui": "C4014435",
+  "cui_name": "Autism spectrum disorder due to AUTS2 deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Autism spectrum disorder",
+  "reasoning": "Rare syndromic form of ASD caused by AUTS2 gene deficiency. Characterized by intellectual disability and developmental delay. Estimated <0.01 per 100k; fewer than 100 cases described in literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

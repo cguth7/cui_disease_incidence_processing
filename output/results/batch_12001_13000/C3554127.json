@@ -1,0 +1,19 @@
+{
+  "cui": "C3554127",
+  "cui_name": "Myasthenia Gravis, Seronegative",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Myasthenia Gravis",
+  "reasoning": "Seronegative myasthenia gravis (anti-AChR and anti-MuSK negative) represents ~5-10% of MG cases. Total MG incidence ~15-20 per 100k, so seronegative ~1-2 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Vincent A et al. (2003). Seronegative myasthenia gravis: clinical features, antibodies, and prognosis. Ann N Y Acad Sci. 998:494-507",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14592914/",
+  "source_type": "literature"
+}

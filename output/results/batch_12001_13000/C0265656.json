@@ -1,0 +1,19 @@
+{
+  "cui": "C0265656",
+  "cui_name": "Congenital Hallux Valgus",
+  "incidence_per_100k": 20.0,
+  "prevalence_per_100k": 300,
+  "metric_type": "both",
+  "total_cases_per_year": 1600000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Hallux Valgus",
+  "reasoning": "Congenital hallux valgus (present at birth) represents approximately 5-10% of all hallux valgus cases. Estimated incidence at birth approximately 10-20 per 100k live births. Prevalence in pediatric population approximately 200-300 per 100k. Data from pediatric orthopedic surveys and congenital anomaly registries.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric orthopedic registries and congenital anomaly surveillance data",
+  "source_url": null,
+  "source_type": "estimate"
+}

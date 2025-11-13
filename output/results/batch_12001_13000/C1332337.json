@@ -1,0 +1,19 @@
+{
+  "cui": "C1332337",
+  "cui_name": "Allergic Rhinitis",
+  "incidence_per_100k": 250.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 20000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Allergic Diseases",
+  "reasoning": "Allergic rhinitis is extremely common, affecting 10-20% of the population. Global incidence estimated ~200-300 per 100k per year based on epidemiological surveys.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pawankar R et al. (2013). Allergic Rhinitis and its Impact on Asthma (ARIA) guidelines. Allergy. 68(3):321-329",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23409766/",
+  "source_type": "literature"
+}

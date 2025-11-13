@@ -1,0 +1,19 @@
+{
+  "cui": "C1258039",
+  "cui_name": "Henipavirus Infections",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Henipavirus infections (Nipah and Hendra viruses) are rare zoonotic emerging infectious diseases. Estimated incidence of 0.05 per 100k globally based on sporadic outbreak data and case reports. Significant geographic clustering in Southeast Asia and Australia.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

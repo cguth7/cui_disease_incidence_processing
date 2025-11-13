@@ -1,0 +1,19 @@
+{
+  "cui": "C0155164",
+  "cui_name": "Accidental Poisoning",
+  "incidence_per_100k": 8.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 664000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Accidental poisoning incidence varies by region. Global estimate ~8-10 per 100k person-years based on WHO injury surveillance data. Includes drug overdose, chemical exposure, and food poisoning cases.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO World Report on Road Traffic Injury Prevention and Global Burden of Disease (2005)",
+  "source_url": "https://www.who.int/",
+  "source_type": "registry"
+}

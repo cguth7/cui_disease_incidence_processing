@@ -1,0 +1,19 @@
+{
+  "cui": "C0848034",
+  "cui_name": "Cervical Intraepithelial Neoplasia",
+  "incidence_per_100k": 28.5,
+  "prevalence_per_100k": 150,
+  "metric_type": "both",
+  "total_cases_per_year": 2280000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Cervical Dysplasia",
+  "reasoning": "Cervical intraepithelial neoplasia (CIN) includes precancerous changes of the cervix (CIN1-3). Global incidence approximately 28-35 per 100k women, with prevalence around 150 per 100k based on screening data. HPV-16/18 are responsible for ~70% of cases. Incidence varies significantly based on HPV vaccination coverage and screening programs. CIN progression risk: CIN1 ~60% regression, CIN3 ~30% progression to invasive cancer.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Walboomers JM et al. (1999). Human papillomavirus is a necessary cause of invasive cervical cancer worldwide. J Pathol. 189(1):12-19",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/10451482/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0432562",
+  "cui_name": "Malignant lymphoma of spleen",
+  "incidence_per_100k": 1.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 144000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Lymphoma",
+  "reasoning": "Splenic lymphoma is a rare subtype of non-Hodgkin lymphoma. Global incidence estimated 1.5-2.0 per 100k based on lymphoma registry data. Represents ~2-3% of all lymphomas.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "SEER Cancer Statistics (2000-2005) and international lymphoma registries",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0399406",
+  "cui_name": "Unknown Disease C0399406",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "CUI C0399406 not found in UMLS epidemiological database. Cannot map to disease incidence without disease name and concept definition.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

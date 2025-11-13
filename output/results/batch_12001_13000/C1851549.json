@@ -1,0 +1,19 @@
+{
+  "cui": "C1851549",
+  "cui_name": "Benign Occipital Epilepsy",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Childhood Epilepsy",
+  "reasoning": "Benign occipital epilepsy of childhood (BOEC) incidence estimated at ~5.2 per 100k in childhood populations. Part of the benign focal childhood epilepsies with idiopathic occipital origin, generally self-limiting with excellent prognosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Based on pediatric epilepsy population-based registries and classification studies",
+  "source_url": null,
+  "source_type": "registry"
+}

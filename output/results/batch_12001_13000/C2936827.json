@@ -1,0 +1,19 @@
+{
+  "cui": "C2936827",
+  "cui_name": "Focal facial dermal dysplasia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term encompassing multiple subtypes of focal facial dermal dysplasia (FFDD1-4). Rare genetic condition affecting facial development with <200 cases reported globally. Estimated <0.1 per 100k births. Confidence capped at 0.28 due to phenotypic heterogeneity and limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3808964",
+  "cui_name": "MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 12",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Congenital muscular dystrophy-dystroglycanopathy",
+  "reasoning": "Extremely rare genetic disorder, congenital form of muscular dystrophy with dystroglycan pathway mutations. <100 cases worldwide estimated, <0.01 per 100k births. Limited epidemiological literature on specific Type A12 variant.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

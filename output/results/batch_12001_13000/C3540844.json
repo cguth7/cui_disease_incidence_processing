@@ -1,0 +1,19 @@
+{
+  "cui": "C3540844",
+  "cui_name": "Spastic Paraplegia 4, Autosomal Dominant",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.15,
+  "metric_type": "prevalence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Spastic Paraplegia",
+  "reasoning": "Rare genetic disorder (SPG4) with very limited prevalence data. Estimated <100 cases in most developed countries. Most data from case reports and small pedigree studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet rare disease database, genetic disorder registries",
+  "source_url": "https://www.orpha.net/",
+  "source_type": "registry"
+}

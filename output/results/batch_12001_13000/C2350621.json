@@ -1,0 +1,19 @@
+{
+  "cui": "C2350621",
+  "cui_name": "Eumycetoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Mycetoma",
+  "reasoning": "Eumycetoma (fungal mycetoma) estimated at ~0.3 per 100k globally, with higher rates in tropical/subtropical regions. WHO and dermatological literature suggest 1-7 cases per million, concentrated in endemic areas.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

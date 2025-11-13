@@ -1,0 +1,19 @@
+{
+  "cui": "C1842083",
+  "cui_name": "Abnormality of the ribs",
+  "incidence_per_100k": 2000,
+  "total_cases_per_year": 160000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate of rib abnormalities as umbrella term encompassing: accessory ribs (~500/100k), cervical ribs (~500/100k), fused ribs (~200/100k), bifid ribs (~100/100k), short ribs (~100/100k), other rib dysplasias (~600/100k). Total ~2000 per 100k. Low confidence due to heterogeneity and overlap with skeletal dysplasia syndromes.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null,
+  "prevalence_per_100k": null,
+  "metric_type": null
+}

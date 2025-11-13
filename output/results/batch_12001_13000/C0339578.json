@@ -1,0 +1,19 @@
+{
+  "cui": "C0339578",
+  "cui_name": "Corticosteroid-induced glaucoma",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Secondary glaucoma",
+  "reasoning": "Corticosteroid-induced glaucoma (CIOHT) incidence varies by route and context: ~2-8.4% post-cataract surgery, ~2% in VKC cases, ~18-36% of population are steroid responders. Estimated global incidence ~12.5 per 100k based on widespread corticosteroid use across multiple indications. Data quality limited by heterogeneous reporting by clinical context rather than population-level incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Steroid-induced glaucoma epidemiology review (2020)",
+  "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0039625720300242",
+  "source_type": "literature"
+}

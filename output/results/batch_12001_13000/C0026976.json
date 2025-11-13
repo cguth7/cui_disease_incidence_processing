@@ -1,0 +1,19 @@
+{
+  "cui": "C0026976",
+  "cui_name": "Multiple Sclerosis",
+  "incidence_per_100k": 3.0,
+  "prevalence_per_100k": 100,
+  "metric_type": "both",
+  "total_cases_per_year": 240000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Multiple sclerosis is a well-studied chronic demyelinating disease of the central nervous system. Global incidence approximately 3 per 100k person-years based on epidemiological surveys. Prevalence varies by geography (lower in tropics, higher in temperate regions), averaging ~100 per 100k globally. Data from WHO reports and peer-reviewed epidemiological literature.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Multiple global epidemiological surveys and MS registries (2000-2010)",
+  "source_url": null,
+  "source_type": "registry"
+}

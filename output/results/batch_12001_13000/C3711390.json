@@ -1,0 +1,19 @@
+{
+  "cui": "C3711390",
+  "cui_name": "9q22.3 Microdeletion",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": "Chromosome Microdeletion",
+  "reasoning": "9q22.3 microdeletion is a rare chromosomal abnormality with multiple congenital anomalies. Estimated <0.1 per 100k births. Fewer than 100 cases reported in medical literature. Often identified through chromosomal microarray testing in symptomatic children.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports and genomics literature; OMIM registry data",
+  "source_url": null,
+  "source_type": null
+}

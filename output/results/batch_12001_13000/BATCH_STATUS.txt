@@ -1,0 +1,11 @@
+Batch 12001-13000: Processed 390 diseases (39% of target 1000)
+Remaining: 610 diseases for future sessions
+
+Summary:
+- 390 CUI codes mapped to global incidence/prevalence data
+- Average confidence score: varies by disease rarity
+- Results consolidated into main disease_incidence_data.csv
+- Individual JSON files retained in output/results/batch_12001_13000/
+
+To continue: Process remaining 610 diseases from rows 12001-13000
+

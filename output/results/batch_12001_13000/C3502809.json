@@ -1,0 +1,19 @@
+{
+  "cui": "C3502809",
+  "cui_name": "Generalized Epilepsy with Febrile Seizures Plus",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Genetic Epilepsy",
+  "reasoning": "GEFS+ is a rare autosomal dominant genetic epilepsy syndrome. Estimated incidence ~1-2 per 100k based on prevalence studies of familial epilepsy. Limited 2005-specific epidemiological data; confidence limited by sparse registry coverage.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

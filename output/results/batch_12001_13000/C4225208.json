@@ -1,0 +1,19 @@
+{
+  "cui": "C4225208",
+  "cui_name": "MENTAL RETARDATION AND DISTINCTIVE FACIAL FEATURES WITH OR WITHOUT CARDIAC DEFECTS",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Developmental Disability Syndromes",
+  "reasoning": "Rare genetic syndrome characterized by intellectual disability, distinctive facial features, and variable cardiac involvement. Limited epidemiological data; estimated incidence ~0.5-1 per 100k births based on genetic disease databases. Clinical recognition and diagnosis criteria still being refined.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Genetic disease registries and rare disease databases",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3809431",
+  "cui_name": "Portal Hypertension",
+  "incidence_per_100k": 3.5,
+  "prevalence_per_100k": 45,
+  "metric_type": "both",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Portal hypertension is increased pressure in the portal venous system, primarily due to liver cirrhosis. Global prevalence of cirrhosis ~0.15% (150 per 100k), with portal hypertension developing in 50-60% of cirrhosis cases (~45 per 100k prevalent). Annual incidence of new portal hypertension cases ~3-4 per 100k as new cirrhosis cases develop. Major complication leading to variceal bleeding and hepatic encephalopathy.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Garcia-Tsao G et al. (2007). Portal hypertension and gastroesophageal varices: diagnosis and management. Gastroenterology. 133(5):1696-1712",
+  "source_url": null,
+  "source_type": "literature"
+}

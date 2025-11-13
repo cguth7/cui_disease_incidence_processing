@@ -1,0 +1,19 @@
+{
+  "cui": "C0431366",
+  "cui_name": "Congenital malformation of corpus callosum",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Congenital brain malformations",
+  "reasoning": "Corpus callosum malformations (agenesis/hypoplasia) occur in 0.5-2% of population, with clinical manifestation incidence ~0.8 per 100k live births. Often associated with other neural abnormalities.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Prenatal Diagnosis journals and birth defect registries",
+  "source_url": null,
+  "source_type": "literature"
+}

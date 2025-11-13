@@ -1,0 +1,19 @@
+{
+  "cui": "C3897938",
+  "cui_name": "Persistent Oligoarticular Juvenile Idiopathic Arthritis",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Juvenile Idiopathic Arthritis",
+  "reasoning": "Persistent oligoarticular JIA is a specific subtype of JIA characterized by arthritis affecting \u22644 joints. Global JIA incidence is approximately 1-4 per 100k children; oligoarticular form comprises 40-60% of JIA cases, estimated at 0.8 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International pediatric rheumatology registries",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0151864",
+  "cui_name": "Disorder of pregnancy",
+  "incidence_per_100k": 50000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000000000,
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Umbrella term for pregnancy complications. Aggregate BOTEC estimate summing major disorders: gestational diabetes (~15000), preeclampsia (~5000), gestational hypertension (~3000), placental disorders (~2000), infections (~5000), miscarriage (~20000) = ~50000 per 100k pregnancies. Heterogeneous category with significant overlap.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

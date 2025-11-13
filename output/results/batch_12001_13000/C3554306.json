@@ -1,0 +1,19 @@
+{
+  "cui": "C3554306",
+  "cui_name": "Hereditary breast and ovarian cancer",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Breast cancer",
+  "reasoning": "Hereditary BRCA-related breast and ovarian cancer accounts for ~5-10% of breast cancers. Global incidence ~0.8 per 100k for hereditary forms from family history studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "American Cancer Society and BRCA epidemiology studies",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0221011",
+  "cui_name": "Malignant Atrophic Papulosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Degos disease (malignant atrophic papulosis) is extremely rare, estimated <1 per million based on scattered case reports in dermatology literature. Limited systematic epidemiological studies available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Atallah C et al. (2005). Malignant Atrophic Papulosis: A Rare and Poorly Understood Disease. Case Rep Dermatol Med.",
+  "source_url": null,
+  "source_type": "literature"
+}

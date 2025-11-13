@@ -1,0 +1,19 @@
+{
+  "cui": "C0263325",
+  "cui_name": "Grover's disease",
+  "incidence_per_100k": 0.13,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 10400,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Grover's disease (transient acantholytic dermatosis) is a benign skin condition with limited epidemiological data. Estimated incidence ~0.1-0.15 per 100k based on dermatological case series. Weak data quality due to limited population-based studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dermatological literature (case-series based estimates)",
+  "source_url": null,
+  "source_type": "literature"
+}

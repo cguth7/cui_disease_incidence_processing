@@ -1,0 +1,19 @@
+{
+  "cui": "C4707866",
+  "cui_name": "Familial lambdoid synostosis",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Craniosynostosis",
+  "reasoning": "Familial lambdoid synostosis (closure of lambdoid suture with genetic predisposition). Lambdoid synostosis represents ~5% of craniosynostosis cases. Familial form estimated ~0.2-0.4 per 100k based on surgical series. Limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Craniofacial surgical case series and genetic databases",
+  "source_url": null,
+  "source_type": null
+}

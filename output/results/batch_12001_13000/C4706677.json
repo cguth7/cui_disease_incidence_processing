@@ -1,0 +1,19 @@
+{
+  "cui": "C4706677",
+  "cui_name": "Disease or syndrome of connective tissue and ligaments",
+  "incidence_per_100k": 850.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 68000000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Broad umbrella category for connective tissue diseases. Aggregate BOTEC estimate summing major conditions: systemic lupus erythematosus (6), rheumatoid arthritis (20), ankylosing spondylitis (4), systemic sclerosis (2), dermatomyositis (0.5), Ehlers-Danlos syndrome (1), ligament injuries/sprains (800+), tendinitis/tenosynovitis (15+). Total ~850 per 100k. Very heterogeneous with high overlap in acute musculoskeletal injuries.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

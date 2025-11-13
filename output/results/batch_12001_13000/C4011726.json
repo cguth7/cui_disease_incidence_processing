@@ -1,0 +1,19 @@
+{
+  "cui": "C4011726",
+  "cui_name": "Myopathy, tubular aggregate, 1",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Muscular dystrophy",
+  "reasoning": "Rare genetic myopathy caused by STIM1 gene mutations. Tubular aggregates are distinctive pathological feature. Estimated <0.01 per 100k; very limited case reports, no systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

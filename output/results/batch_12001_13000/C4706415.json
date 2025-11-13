@@ -1,0 +1,19 @@
+{
+  "cui": "C4706415",
+  "cui_name": "Spectrin-associated autosomal recessive cerebellar ataxia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Autosomal Recessive Cerebellar Ataxia",
+  "reasoning": "Extremely rare genetic cerebellar ataxia caused by SPTBN2 mutations. Fewer than 100 families documented worldwide, estimated <0.01 per 100k. Confidence limited by lack of systematic epidemiological studies and extremely small case numbers.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

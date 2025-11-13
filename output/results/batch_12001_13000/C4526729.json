@@ -1,0 +1,19 @@
+{
+  "cui": "C4526729",
+  "cui_name": "Polyurethane foam-related contact dermatitis",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Contact dermatitis",
+  "reasoning": "Specific occupational contact dermatitis subtype from polyurethane exposure. Limited epidemiological data, mainly from occupational health studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

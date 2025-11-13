@@ -1,0 +1,19 @@
+{
+  "cui": "C0263445",
+  "cui_name": "Malignant Neoplasm of Colon",
+  "incidence_per_100k": 25.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2000000,
+  "confidence": 0.89,
+  "is_subtype": true,
+  "parent_disease": "Colorectal Cancer",
+  "reasoning": "Colon cancer incidence from GLOBOCAN 2005: ~25 per 100k person-years globally. Well-established cancer with comprehensive registry data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

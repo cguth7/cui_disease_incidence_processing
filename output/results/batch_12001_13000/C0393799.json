@@ -1,0 +1,19 @@
+{
+  "cui": "C0393799",
+  "cui_name": "Miller Fisher Syndrome",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Guillain-Barré Syndrome",
+  "reasoning": "Extremely rare variant of GBS with estimated incidence 0.1-0.3 per 100k globally. Mid-range estimate 0.2 per 100k. High geographic variation: 1-7% of GBS cases in Western countries, 15-25% in Asian countries. Limited epidemiological data due to rarity.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Miller Fisher syndrome: an updated narrative review; PMC10484709 and Orphanet rare disease database.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484709/",
+  "source_type": "literature"
+}

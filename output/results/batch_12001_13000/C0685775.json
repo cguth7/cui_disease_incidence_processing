@@ -1,0 +1,19 @@
+{
+  "cui": "C0685775",
+  "cui_name": "Congenital absence of jaw",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Congenital craniofacial anomalies",
+  "reasoning": "Congenital mandibular/maxillary agenesis or agnathia is extremely rare, estimated at <1 per 100k births (approximately 0.5 per 100k). Many cases are part of hemifacial microsomia or Pierre Robin sequence. Limited population-based incidence data available from birth defect registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

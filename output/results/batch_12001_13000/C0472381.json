@@ -1,0 +1,19 @@
+{
+  "cui": "C0472381",
+  "cui_name": "Posterior Circulation Transient Ischemic Attack",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Transient Ischemic Attack",
+  "reasoning": "Posterior circulation TIA (vertebrobasilar distribution) accounts for approximately 25-35% of all TIAs with incidence around 15 per 100k per year.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Caplan LR. (2000). Brain ischemia: basic concepts of cerebrovascular disease. In Mohr JP et al. (eds), Stroke: Pathophysiology, Diagnosis, and Management. Philadelphia: Lippincott Williams & Wilkins",
+  "source_url": null,
+  "source_type": "literature"
+}

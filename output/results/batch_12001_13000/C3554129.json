@@ -1,0 +1,19 @@
+{
+  "cui": "C3554129",
+  "cui_name": "Congenital diaphragmatic hernia with severe respiratory insufficiency",
+  "incidence_per_100k": 2.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 224000,
+  "confidence": 0.61,
+  "is_subtype": true,
+  "parent_disease": "Congenital diaphragmatic hernia",
+  "reasoning": "Congenital diaphragmatic hernia (CDH) incidence ~2-4 per 100k live births globally, with wide geographic variation. Approximately 30-40% of cases present with severe respiratory insufficiency requiring immediate intervention. Estimated severe CDH incidence ~0.8-1.2 per 100k births. This coding may reflect severity modifier. Uses incidence metric for congenital condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bianchi DW et al. (2012). Prenatal diagnosis of congenital diaphragmatic hernia. Prenat Diagn. 32(6):526-532",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22461370/",
+  "source_type": "literature"
+}

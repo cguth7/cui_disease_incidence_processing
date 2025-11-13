@@ -1,0 +1,19 @@
+{
+  "cui": "C0265116",
+  "cui_name": "Hereditary Breast and Ovarian Cancer",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Breast Cancer",
+  "reasoning": "HBOC (BRCA1/BRCA2 mutations) affects ~0.1-1% of population with incidence ~0.8 per 100k. Based on epidemiological studies of hereditary cancer syndromes.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Easton DF et al. (2005). Genome-wide association study identifies novel breast cancer susceptibility loci. Nat Genet. 39(7):865-869",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17529974/",
+  "source_type": "literature"
+}

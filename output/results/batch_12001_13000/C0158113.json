@@ -1,0 +1,19 @@
+{
+  "cui": "C0158113",
+  "cui_name": "Hepatitis B virus infection",
+  "incidence_per_100k": 5.8,
+  "prevalence_per_100k": 2700,
+  "metric_type": "both",
+  "total_cases_per_year": 915000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Chronic HBV infection: prevalence ~2.7% globally (270 million infected). Annual incidence of new infections ~5-6 per 100k. Strong data from WHO 2024 Global Hepatitis Report.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2024,
+  "source": "WHO Global Hepatitis Report 2024 and CDC data",
+  "source_url": "https://www.who.int/teams/viral-hepatitis/hepatitis-b-and-d",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3809327",
+  "cui_name": "SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 14",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": 0.08,
+  "metric_type": "both",
+  "total_cases_per_year": 4000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Spinocerebellar Ataxia",
+  "reasoning": "Spinocerebellar ataxia type 14 (SCA14) is a rare autosomal recessive genetic neurological disorder. Spinocerebellar ataxias overall have incidence ~1-5 per 100k globally with significant geographic variation. SCA14 (autosomal recessive form) represents a small fraction of all SCA cases. Estimated ~0.05 per 100k based on family history data and genetic disease registries.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0086240",
+  "cui_name": "Epilepsy, Simple Partial",
+  "incidence_per_100k": 8.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Epilepsy",
+  "reasoning": "Simple partial seizures represent a seizure type rather than specific disease etiology. Estimated ~8 per 100k as subset of idiopathic focal epilepsy cases.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

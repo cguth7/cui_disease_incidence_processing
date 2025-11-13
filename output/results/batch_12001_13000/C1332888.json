@@ -1,0 +1,19 @@
+{
+  "cui": "C1332888",
+  "cui_name": "Abnormality of the chest",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Abnormality of the chest is an umbrella term too broad and non-specific to map meaningfully. Covers hundreds of distinct pathologies (structural, functional, neoplastic, infectious) with vastly different epidemiology. Requires specification of organ system and pathological process.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

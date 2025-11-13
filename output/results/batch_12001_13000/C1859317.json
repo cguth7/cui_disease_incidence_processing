@@ -1,0 +1,19 @@
+{
+  "cui": "C1859317",
+  "cui_name": "Malignant neoplasm of pancreas",
+  "incidence_per_100k": 12.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 984000,
+  "confidence": 0.88,
+  "is_subtype": true,
+  "parent_disease": "Pancreatic Cancer",
+  "reasoning": "Pancreatic cancer incidence from GLOBOCAN 2005: ~12.3 per 100k globally. Predominantly ductal adenocarcinoma. Strong data from cancer registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

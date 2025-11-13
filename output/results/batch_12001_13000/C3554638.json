@@ -1,0 +1,19 @@
+{
+  "cui": "C3554638",
+  "cui_name": "Epidermolysis Bullosa, Junctional",
+  "incidence_per_100k": 0.12,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 9600,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Epidermolysis Bullosa",
+  "reasoning": "Junctional epidermolysis bullosa is a rare genetic skin disorder with incidence approximately 0.1-0.2 per 100k live births. Subtype of EB with mutations in genes encoding hemidesmosomes.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Fine JD et al. (2014). Inherited epidermolysis bullosa: updated recommendations on diagnosis and classification. J Am Acad Dermatol. 70(6):1103-1126",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/24690439/",
+  "source_type": "literature"
+}

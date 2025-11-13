@@ -1,0 +1,19 @@
+{
+  "cui": "C0234974",
+  "cui_name": "Cervical cancer",
+  "incidence_per_100k": 15.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1240000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cervical cancer incidence approximately 15-16 per 100k women globally from GLOBOCAN 2005 data. Leading gynecological malignancy, with significant variation by HPV vaccination and screening status by region.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

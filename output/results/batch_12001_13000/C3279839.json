@@ -1,0 +1,19 @@
+{
+  "cui": "C3279839",
+  "cui_name": "MENTAL RETARDATION, AUTOSOMAL DOMINANT 7",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Intellectual disability",
+  "reasoning": "Autosomal dominant mental retardation 7 (AD MR 7) is an extremely rare genetic form of intellectual disability caused by dominant mutations. Very limited epidemiological data available. Estimated incidence <0.01 per 100k live births based on isolated case reports in medical genetics literature. Only handful of affected families documented worldwide.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

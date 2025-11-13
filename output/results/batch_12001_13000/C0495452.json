@@ -1,0 +1,19 @@
+{
+  "cui": "C0495452",
+  "cui_name": "Noninfective neonatal diarrhea",
+  "incidence_per_100k": 3000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 240000000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Neonatal diarrhea",
+  "reasoning": "Noninfective neonatal diarrhea (feeding-related, cow's milk protein sensitivity, etc.) estimated ~3,000 per 100k neonates. This is a subtype of neonatal diarrhea excluding infectious causes.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

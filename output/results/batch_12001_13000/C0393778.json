@@ -1,0 +1,19 @@
+{
+  "cui": "C0393778",
+  "cui_name": "Congenital Anosmia",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital anosmia (congenital absence of sense of smell) is a rare condition. Estimated incidence ~1 per 100k births based on congenital anomaly studies. Very limited specific epidemiological data; confidence limited by sparse registry coverage and heterogeneous definitions of congenital olfactory defects.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

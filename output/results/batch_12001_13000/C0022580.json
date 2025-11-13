@@ -1,0 +1,19 @@
+{
+  "cui": "C0022580",
+  "cui_name": "Pleurisy",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Acute inflammation of pleura, usually secondary to respiratory infections or autoimmune disease. Estimated incidence ~10-20 per 100k based on hospitalization rates and clinical studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hooper C et al. (2010). Pleural fluid investigation in the diagnosis of malignant effusions. Respirology. 15(2):230-240",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/20199640/",
+  "source_type": "literature"
+}

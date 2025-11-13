@@ -1,0 +1,19 @@
+{
+  "cui": "C3549874",
+  "cui_name": "Isolated Congenital Asplenia",
+  "incidence_per_100k": 0.12,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 9600,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Asplenia",
+  "reasoning": "Isolated congenital asplenia (without other cardiac malformations) is extremely rare, estimated 1-2 per 100,000 live births (~0.1-0.15 per 100k). More commonly associated with heterotaxy syndromes.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4285716",
+  "cui_name": "Melatonin deficiency",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3200,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 256000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Melatonin deficiency is typically associated with age-related decline, circadian rhythm disorders, and shift work sleep disorder. No systematic epidemiological incidence data. Prevalence estimate 3-5% of population based on sleep disorder prevalence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

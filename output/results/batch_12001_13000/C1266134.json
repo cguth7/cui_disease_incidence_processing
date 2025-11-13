@@ -1,0 +1,19 @@
+{
+  "cui": "C1266134",
+  "cui_name": "Spindle cell rhabdomyosarcoma",
+  "incidence_per_100k": 0.03,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2400,
+  "confidence": 0.5,
+  "is_subtype": true,
+  "parent_disease": "Rhabdomyosarcoma",
+  "reasoning": "Rare pediatric cancer subtype; spindle cell variant accounts for ~5% of rhabdomyosarcoma cases. Estimated incidence ~0.03 per 100k from SEER pediatric cancer data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

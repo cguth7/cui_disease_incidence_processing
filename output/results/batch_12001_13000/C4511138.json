@@ -1,0 +1,19 @@
+{
+  "cui": "C4511138",
+  "cui_name": "Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Mitochondrial disorder",
+  "reasoning": "Adult-onset chronic progressive external ophthalmoplegia (CPEO) with mitochondrial myopathy is a rare mitochondrial disorder. CPEO generally has estimated prevalence of ~1-5 per 100,000 population. Adult-onset form with specific mitochondrial myopathy phenotype is rarer than general CPEO, estimated incidence ~0.5 per 100k based on mitochondrial disorder population epidemiology. Documented in Orphanet with limited case series data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet: Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy (ORPHA:329336)",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=329336&lng=EN",
+  "source_type": "registry"
+}

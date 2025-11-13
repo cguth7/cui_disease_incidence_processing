@@ -1,0 +1,19 @@
+{
+  "cui": "C4288080",
+  "cui_name": "Sarcoma of connective tissue",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.71,
+  "is_subtype": true,
+  "parent_disease": "Soft Tissue Neoplasm",
+  "reasoning": "Soft tissue sarcomas (STS) global incidence ~3 per 100k per year. Well-documented cancer registry data from GLOBOCAN 2005. Includes leiomyosarcoma, liposarcoma, fibrosarcoma, synovial sarcoma, and other histological subtypes. Incidence varies by age and anatomical site.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

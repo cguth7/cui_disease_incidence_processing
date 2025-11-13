@@ -1,0 +1,19 @@
+{
+  "cui": "C0393675",
+  "cui_name": "Childhood Benign Occipital Epilepsy",
+  "incidence_per_100k": 3.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 240000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Idiopathic Focal Epilepsy",
+  "reasoning": "Childhood benign occipital epilepsy (CBOE) is a well-defined idiopathic focal epilepsy. Estimated ~3 per 100k based on pediatric focal epilepsy studies and IGE epidemiology.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Estimated from idiopathic focal epilepsy epidemiology",
+  "source_url": null,
+  "source_type": "estimate"
+}

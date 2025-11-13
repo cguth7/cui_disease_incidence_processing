@@ -1,0 +1,19 @@
+{
+  "cui": "C0152240",
+  "cui_name": "Septate Uterus",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": 3500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 280000000,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Septate uterus is a congenital uterine malformation affecting 1-3.5% of women (3,500 per 100k population). Prevalence metric used since this is a structural/anatomical abnormality present at birth. May present clinically during reproductive years.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Grimbizis GF et al. (2013). The Arianna classification and ASRM, ESHRE system for reporting congenital uterine anomalies. Fertil Steril. 99(1):146-158",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23131196/",
+  "source_type": "literature"
+}

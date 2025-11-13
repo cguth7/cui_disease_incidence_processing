@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C4075720",
+    "cui_name": "Non-alcoholic fatty liver disease",
+    "incidence_per_100k": 8.5,
+    "prevalence_per_100k": 25000,
+    "metric_type": "both",
+    "total_cases_per_year": 680000,
+    "confidence": 0.72,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "NAFLD incidence estimated at 8.5 per 100k person-years, but prevalence is much higher at ~25% globally. Reporting both metrics as available in literature.",
+    "data_quality": "strong",
+    "geographic_variation": "moderate",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

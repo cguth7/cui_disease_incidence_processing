@@ -1,0 +1,19 @@
+{
+  "cui": "C1333502",
+  "name": "extragonadal seminoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Germ Cell Tumor",
+  "reasoning": "Extragonadal seminoma represents ~10-15% of all germ cell tumors. Based on germ cell tumor incidence of ~2-3 per 100k, estimated ~0.3 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

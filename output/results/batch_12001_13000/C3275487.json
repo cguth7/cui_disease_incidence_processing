@@ -1,0 +1,19 @@
+{
+  "cui": "C3275487",
+  "cui_name": "X-linked cerebral-cerebellar-coloboma syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "X-linked genetic syndrome characterized by cerebellar vermis hypoplasia, ocular coloboma, and cerebral abnormalities. Only one family reported in literature (Van Royen-Kerkhof et al., 1998). Extremely rare with unknown incidence and prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

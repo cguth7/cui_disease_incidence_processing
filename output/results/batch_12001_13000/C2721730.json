@@ -1,0 +1,19 @@
+{
+  "cui": "C2721730",
+  "cui_name": "Burkholderia cenocepacia infection",
+  "incidence_per_100k": 0.05,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000,
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Burkholderia infection",
+  "reasoning": "Burkholderia cenocepacia is a Gram-negative bacterium that causes opportunistic infections, primarily in cystic fibrosis patients and immunocompromised individuals. Global incidence estimated <0.05 per 100k in general population, but much higher (5-10% prevalence) in CF populations. Limited population-based epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

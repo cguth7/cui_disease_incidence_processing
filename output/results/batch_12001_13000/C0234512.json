@@ -1,0 +1,19 @@
+{
+  "cui": "C0234512",
+  "cui_name": "Granuloma, Foreign-Body",
+  "incidence_per_100k": 5.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000,
+  "confidence": 0.62,
+  "is_subtype": false,
+  "parent_disease": "Granulomatous Diseases",
+  "reasoning": "Foreign body granuloma is a reactive histological finding from retained foreign materials. Incidence varies by context (skin, lung, GI). Estimated incidence ~3-8 per 100k based on dermatology and pathology studies. Confidence limited as diagnosis depends on specific clinical context.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mackie RM et al. (2001). Foreign body granulomas. In: Rook/Wilkinson/Ebling Textbook of Dermatology. 7th ed. London: Blackwell Science.",
+  "source_url": null,
+  "source_type": "literature"
+}

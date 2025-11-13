@@ -1,0 +1,19 @@
+{
+  "cui": "C4015695",
+  "cui_name": "Progressive supranuclear palsy",
+  "incidence_per_100k": 0.6,
+  "prevalence_per_100k": 6.4,
+  "metric_type": "both",
+  "total_cases_per_year": 48000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "PSP is a rare tauopathy with incidence ~0.6 per 100k person-years and prevalence ~6-7 per 100k. Based on neurodegenerative disease registries and prevalence studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "International Progressive Supranuclear Palsy Registry and epidemiological consensus estimates",
+  "source_url": null,
+  "source_type": "registry"
+}

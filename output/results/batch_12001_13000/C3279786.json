@@ -1,0 +1,19 @@
+{
+  "cui": "C3279786",
+  "cui_name": "Anhaptoglobinemia",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Hemolytic Anemia",
+  "reasoning": "Anhaptoglobinemia is an extremely rare congenital absence of haptoglobin, typically inherited as an autosomal recessive trait. Estimated <0.1 per 100k based on limited case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

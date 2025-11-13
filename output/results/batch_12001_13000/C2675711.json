@@ -1,0 +1,19 @@
+{
+  "cui": "C2675711",
+  "cui_name": "Metastatic Wilms tumor",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Wilms Tumor",
+  "reasoning": "Metastatic Wilms tumor is a subtype of Wilms tumor (nephroblastoma) presenting with distant metastases at diagnosis. Overall Wilms tumor incidence ~8-10 per 100k children globally; approximately 5-15% present with metastatic disease. Estimated metastatic Wilms tumor incidence ~0.15 per 100k children (0.01-0.02 per 100k general population).",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Coppes MJ et al. (1999). Wilms' tumor. Lancet. 349(9058):1149-1152",
+  "source_url": null,
+  "source_type": "literature"
+}

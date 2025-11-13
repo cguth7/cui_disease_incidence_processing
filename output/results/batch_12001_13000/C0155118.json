@@ -1,0 +1,19 @@
+{
+  "cui": "C0155118",
+  "cui_name": "Acute drug-induced liver injury",
+  "incidence_per_100k": 10.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 832000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Drug-induced liver injury",
+  "reasoning": "Acute DILI estimated at ~10-15 per million person-years from epidemiological studies. Confidence moderate due to variation in detection and reporting across healthcare systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Drug-induced liver injury surveillance data from multiple healthcare registries",
+  "source_url": null,
+  "source_type": "registry"
+}

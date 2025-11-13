@@ -1,0 +1,19 @@
+{
+  "cui": "C0270847",
+  "cui_name": "Benign Focal Epilepsy, Childhood",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Childhood Epilepsy",
+  "reasoning": "Benign focal childhood epilepsy (BFCE) incidence estimated at ~8.5 per 100k in childhood populations based on population-based epilepsy registries. This is a specific subtype of childhood-onset epilepsy with favorable prognosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Based on pediatric epilepsy registry data and population-based studies of childhood epilepsy",
+  "source_url": null,
+  "source_type": "registry"
+}

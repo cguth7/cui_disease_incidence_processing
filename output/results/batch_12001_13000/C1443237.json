@@ -1,0 +1,19 @@
+{
+  "cui": "C1443237",
+  "cui_name": "Systemic sclerosis",
+  "incidence_per_100k": 2.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 184000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Systemic sclerosis (scleroderma) incidence estimated at ~2.3 per 100k per year from longitudinal epidemiological studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Alamanos Y et al. (2003). Epidemiology of systemic sclerosis in northwest Greece 1981-2002. J Rheumatol. 30(12):2507-2512",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14719192/",
+  "source_type": "literature"
+}

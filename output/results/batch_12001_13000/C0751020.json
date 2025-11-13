@@ -1,0 +1,19 @@
+{
+  "cui": "C0751020",
+  "cui_name": "Transient Ischemic Attack, Vertebrobasilar Circulation",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Transient Ischemic Attack",
+  "reasoning": "Vertebrobasilar TIA represents posterior circulation events with incidence approximately 15 per 100k per year, accounting for 25-35% of all TIA presentations.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Flossmann E et al. (2007). Prognosis of vertebral artery dissection: prospective study of 86 cases. Stroke. 34(12):2955-2960",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14605318/",
+  "source_type": "literature"
+}

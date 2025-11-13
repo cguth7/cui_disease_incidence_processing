@@ -1,0 +1,19 @@
+{
+  "cui": "C0853087",
+  "cui_name": "Diffuse Alveolar Hemorrhage",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": "Pulmonary Hemorrhage",
+  "reasoning": "Diffuse alveolar hemorrhage is a rare pulmonary emergency. Incidence estimated ~0.5-1.5 per 100k per year based on case series and hospitalization data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

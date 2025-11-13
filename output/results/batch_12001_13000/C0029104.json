@@ -1,0 +1,19 @@
+{
+  "cui": "C0029104",
+  "cui_name": "Opioid withdrawal",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Opioid withdrawal incidence estimated at ~150 per 100k person-years among opioid users. Based on epidemiological studies of opioid use disorder and withdrawal prevalence in treatment-seeking populations.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "SAMHSA Substance Abuse and Mental Health Services Administration reports",
+  "source_url": null,
+  "source_type": "registry"
+}

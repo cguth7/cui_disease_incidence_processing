@@ -1,0 +1,19 @@
+{
+  "cui": "C1842362",
+  "cui_name": "HERMANSKY-PUDLAK SYNDROME 2",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": 0.2,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Hermansky-Pudlak Syndrome",
+  "reasoning": "Hermansky-Pudlak syndrome is rare autosomal recessive disorder affecting 1-2 per 500,000 to 1,000,000 globally. HPS2 (gene HPS2/AP3B1) represents a subset of HPS cases. Estimated prevalence ~0.2 per 100k in general population, with significant geographic clustering (much higher in Puerto Rican population ~1 per 1,800). Limited epidemiological data on HPS2-specific prevalence.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

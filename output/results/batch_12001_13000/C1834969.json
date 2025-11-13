@@ -1,0 +1,19 @@
+{
+  "cui": "C1834969",
+  "cui_name": "Acquired Resistance to Antiretroviral Drugs",
+  "incidence_per_100k": 12.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1024000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "HIV/AIDS Treatment Failure",
+  "reasoning": "Drug-resistant HIV develops in untreated or poorly adherent patients (~10-15% annually). With ~40 million living with HIV globally, estimated ~12-15 per 100k person-years. WHO surveillance data shows increasing resistance in resource-limited settings.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "WHO HIV Drug Resistance Fact Sheet (2005) and Bennett DE et al. (2004). The World Health Organization's Global Strategy for Prevention and Assessment of HIV Drug Resistance. Antivir Ther. 9(2):1-25",
+  "source_url": null,
+  "source_type": "literature"
+}

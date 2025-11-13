@@ -1,0 +1,19 @@
+{
+  "cui": "C1881600",
+  "cui_name": "Malignant Vipoma",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.35,
+  "is_subtype": true,
+  "parent_disease": "Vipoma",
+  "reasoning": "Malignant vipoma is an extremely rare neuroendocrine tumor. Vipomas represent 5-10% of pancreatic neuroendocrine tumors (~0.5-2 per 100k globally), and only a fraction are malignant. Estimated ~0.1 per 100k based on case report frequency and neuroendocrine tumor registries.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1861906",
+  "cui_name": "Hyperphagia",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 5000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hyperphagia (excessive appetite) is a symptom rather than a well-defined disease entity. Prevalence difficult to estimate as it varies by etiology (genetic, psychiatric, neurological). Estimated at 2-8% of population depending on definition and severity threshold. Conservative estimate ~5% (5,000 per 100k). Low confidence due to lack of standardized diagnostic criteria.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

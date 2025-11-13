@@ -1,0 +1,19 @@
+{
+  "cui": "C0700110",
+  "cui_name": "Carcinoma bone",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.6,
+  "is_subtype": false,
+  "parent_disease": "Bone neoplasm",
+  "reasoning": "Umbrella term covering bone carcinomas (osteosarcoma, Ewing's sarcoma, chondrosarcoma). Estimated global incidence ~0.3 per 100k combining major bone cancer types.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,5 +1,5 @@
 {
-  "total_diseases_processed": 8224,
+  "total_diseases_processed": 8614,
   "confidence_distribution": {
     "high (0.7-1.0)": 1201,
     "moderate (0.3-0.7)": 3110,
@@ -426,5 +426,10 @@
       "count": 16
     }
   ],
-  "average_confidence": 0.533
+  "average_confidence": 0.533,
+  "last_batch": "rows_12001_13000",
+  "last_batch_size": 390,
+  "batches_completed": [
+    "rows_12001_13000_partial_390"
+  ]
 }

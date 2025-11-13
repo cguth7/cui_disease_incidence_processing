@@ -1,0 +1,19 @@
+{
+  "cui": "C0280801",
+  "cui_name": "Grade III Meningioma",
+  "incidence_per_100k": 0.9,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 72000,
+  "confidence": 0.70,
+  "is_subtype": true,
+  "parent_disease": "Meningioma",
+  "reasoning": "Grade III meningiomas (atypical/malignant) represent approximately 8-12% of all meningiomas globally. Estimated at ~0.9 per 100k person-years based on total meningioma incidence of ~8-10 per 100k and grade distribution.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Meningioma histology grade distribution from neuro-oncology epidemiology",
+  "source_url": null,
+  "source_type": "estimate"
+}

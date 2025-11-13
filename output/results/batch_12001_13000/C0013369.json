@@ -1,0 +1,19 @@
+{
+  "cui": "C0013369",
+  "cui_name": "Dysentery",
+  "incidence_per_100k": 50.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Dysentery incidence estimated at ~50 per 100k globally, based on WHO epidemiological data for bacterial and parasitic diarrheal diseases. Significant geographic variation due to sanitation and hygiene differences.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Global Health Observatory disease burden estimates",
+  "source_url": null,
+  "source_type": "estimate"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0042237",
+  "cui_name": "Malignant Vaginal Neoplasm",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Vaginal cancer is rare, representing <0.5% of female genital cancers. GLOBOCAN 2005 estimates ~0.5 per 100k incidence globally (predominantly squamous cell carcinomas).",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

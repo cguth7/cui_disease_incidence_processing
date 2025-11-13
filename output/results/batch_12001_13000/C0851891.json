@@ -1,0 +1,19 @@
+{
+  "cui": "C0851891",
+  "cui_name": "Hepatic encephalopathy",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Complication of liver disease and cirrhosis. Incidence ~15-30 per 100k in cirrhotic patients. Global estimate ~15 per 100k population.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Vilstrup H et al. (2014). Hepatic encephalopathy in chronic liver disease: 2014 update. J Hepatol. 60(3):600-612",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/24095519/",
+  "source_type": "literature"
+}

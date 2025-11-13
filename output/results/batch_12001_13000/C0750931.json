@@ -1,0 +1,19 @@
+{
+  "cui": "C0750931",
+  "cui_name": "Arnold-Chiari Malformation, Type III",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Arnold-Chiari Malformation",
+  "reasoning": "Arnold-Chiari Malformation type III (rare form with occipital encephalocele). Total ACM incidence ~4-8 per 100k, type III represents ~5-10% of cases. Estimated incidence 0.3-0.5 per 100k based on neurological case series and birth defect registries. Often diagnosed prenatally or in infancy.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neurosurgical literature and birth defect surveillance",
+  "source_url": null,
+  "source_type": null
+}

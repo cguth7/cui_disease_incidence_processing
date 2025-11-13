@@ -1,0 +1,19 @@
+{
+  "cui": "C0032229",
+  "cui_name": "Placental Insufficiency",
+  "incidence_per_100k": 50.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": "Pregnancy Complications",
+  "reasoning": "Placental insufficiency occurs in approximately 5-10% of pregnancies. Estimated incidence ~40-60 per 100k births based on obstetric literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Lyall F et al. (2013). Placental insufficiency. Placenta. 34(6):445-450",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/23628341/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1336079",
+  "cui_name": "Congenital adrenal hyperplasia",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital adrenal hyperplasia (primarily 21-hydroxylase deficiency) incidence approximately 1-2 per 100k live births. Reported as incidence for this genetic condition with clear diagnosis at birth.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pang SY et al. (2005). Worldwide experience in newborn screening for classical congenital adrenal hyperplasia. J Inherit Metab Dis. 25(4):255-266",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15834196/",
+  "source_type": "literature"
+}

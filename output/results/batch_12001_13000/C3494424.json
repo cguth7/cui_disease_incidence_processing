@@ -1,0 +1,19 @@
+{
+  "cui": "C3494424",
+  "cui_name": "Spondylarthritis",
+  "incidence_per_100k": 5.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 440000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Spondylarthritis (including ankylosing spondylitis and related conditions) incidence estimated at 5-6 per 100k person-years globally. Reported as incidence metric for this acute/incident condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Reveille JD et al. (2005). Epidemiology of HLA-B27 and the seronegative spondyloarthropathies. Am J Med Sci. 329(2):90-98",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15711420/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1842464",
+  "cui_name": "Nablus mask-like facial syndrome",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Rare genetic syndromes",
+  "reasoning": "Nablus mask-like facial syndrome is an extremely rare autosomal recessive genetic disorder first described in Palestinian families. Fewer than 10 cases reported in medical literature worldwide, <0.01 per 100k. Confidence very low due to extreme rarity, minimal epidemiological data, and description limited to case reports.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

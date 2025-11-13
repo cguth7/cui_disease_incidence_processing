@@ -1,0 +1,19 @@
+{
+  "cui": "C0549315",
+  "cui_name": "Hydatidiform mole, benign",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Hydatidiform mole",
+  "reasoning": "Benign (non-malignant) hydatidiform mole incidence approximately 1 per 100k pregnancies globally. Data from obstetric registries and gynecology studies, with geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Sebire NJ et al. (2003). Hydatidiform mole: revised FIGO 2000 classification. Semin Reprod Med. 21(1):69-77",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12865112/",
+  "source_type": "literature"
+}

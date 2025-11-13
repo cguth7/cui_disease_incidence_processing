@@ -1,0 +1,19 @@
+{
+  "cui": "C0267925",
+  "cui_name": "Idiopathic Thrombocytopenic Purpura",
+  "incidence_per_100k": 3.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 264000.0,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "ITP incidence estimated at ~3-4 per 100k person-years. This is an immune-mediated condition with variable incidence based on diagnostic criteria applied.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Terrell DR et al. Epidemiology of thrombotic thrombocytopenic purpura and hemolytic uremic syndrome",
+  "source_url": null,
+  "source_type": "literature"
+}

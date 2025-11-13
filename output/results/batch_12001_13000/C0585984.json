@@ -1,0 +1,19 @@
+{
+  "cui": "C0585984",
+  "cui_name": "Laryngotracheomalacia",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 168000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": "Laryngeal Abnormalities",
+  "reasoning": "Laryngotracheomalacia is the most common congenital laryngeal abnormality. Incidence approximately 2-3 per 100k live births based on pediatric otolaryngology registries and neonatal surveillance data. Typically presents with stridor in infants.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pediatric otolaryngology surveillance and birth defect registries",
+  "source_url": null,
+  "source_type": "registry"
+}

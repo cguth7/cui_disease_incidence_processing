@@ -1,0 +1,19 @@
+{
+  "cui": "C0333457",
+  "cui_name": "Segmental demyelination",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 50,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Segmental demyelination is a pathological process (loss of myelin sheath in segments) seen in multiple demyelinating diseases including multiple sclerosis, Guillain-Barré syndrome, and hereditary demyelinating neuropathies. Prevalence estimated ~50 per 100k as composite of underlying demyelinating conditions. Umbrella term for pathological finding rather than specific disease, requiring specification of underlying condition.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

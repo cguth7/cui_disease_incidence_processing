@@ -1,0 +1,19 @@
+{
+  "cui": "C4545381",
+  "cui_name": "Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Myeloid and lymphoid neoplasm",
+  "reasoning": "PDGFRA-rearranged neoplasms include eosinophilia-associated disorders and other rare myeloid/lymphoid malignancies. Estimated incidence ~0.2 per 100k based on WHO classification data and reported case frequencies.",
+  "data_quality": "moderate",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues",
+  "source_url": null,
+  "source_type": "literature"
+}

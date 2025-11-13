@@ -1,0 +1,19 @@
+{
+  "cui": "C0948993",
+  "cui_name": "Congenital eye disorders (excl glaucoma)",
+  "incidence_per_100k": 48.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3840000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major congenital eye disorders: congenital cataracts (~10), retinopathy of prematurity and retinal disorders (~15), congenital nystagmus (~5), cortical visual impairment (~8), other ocular malformations (~10) = ~48 per 100k. Heterogeneous conditions with significant geographic variation due to differences in neonatal care.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": "estimate"
+}

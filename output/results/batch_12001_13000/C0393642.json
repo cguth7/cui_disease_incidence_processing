@@ -1,0 +1,19 @@
+{
+  "cui": "C0393642",
+  "cui_name": "Sepsis-Associated Encephalopathy",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Sepsis complications",
+  "reasoning": "Sepsis-associated encephalopathy occurs in 40-70% of septic patients. Estimated global sepsis incidence ~400-500 per 100k, with 30-40% developing encephalopathy yields ~120-200 per 100k. Using conservative estimate of 150 per 100k. Confidence limited by variability in sepsis incidence across regions and definition inconsistencies.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

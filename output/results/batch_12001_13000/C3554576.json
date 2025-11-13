@@ -1,0 +1,19 @@
+{
+  "cui": "C3554576",
+  "cui_name": "FACIAL DYSMORPHISM, IMMUNODEFICIENCY, LIVEDO, AND SHORT STATURE",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "This appears to be a rare genetic syndrome with multi-system involvement. Syndrome is not well-characterized in epidemiological literature; only isolated case reports exist. Incidence cannot be reliably estimated.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

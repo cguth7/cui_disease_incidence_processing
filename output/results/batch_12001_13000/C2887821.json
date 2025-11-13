@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C2887821",
+    "cui_name": "Hereditary hemorrhagic telangiectasia",
+    "incidence_per_100k": 0.4,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 32000,
+    "confidence": 0.45,
+    "is_subtype": false,
+    "parent_disease": null,
+    "reasoning": "Hereditary hemorrhagic telangiectasia (HHT) is a rare genetic vascular disorder with estimated incidence around 0.4-0.6 per 100k. Limited epidemiological data from case registries.",
+    "data_quality": "moderate",
+    "geographic_variation": "low",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

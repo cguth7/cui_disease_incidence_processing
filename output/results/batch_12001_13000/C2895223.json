@@ -1,0 +1,19 @@
+{
+  "cui": "C2895223",
+  "cui_name": "Abdominal Aortic Aneurysm with rupture",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Abdominal Aortic Aneurysm",
+  "reasoning": "Ruptured AAA has annual incidence of ~10-15 per 100k. WHO and cardiovascular epidemiology databases provide strong data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "WHO Global Burden of Disease 2010, cardiovascular epidemiology registry data",
+  "source_url": "https://www.who.int/healthinfo/global_burden_disease/en/",
+  "source_type": "registry"
+}

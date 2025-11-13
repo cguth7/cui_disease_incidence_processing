@@ -1,0 +1,19 @@
+{
+  "cui": "C0342634",
+  "cui_name": "Severe sepsis",
+  "incidence_per_100k": 75.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6000000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Sepsis",
+  "reasoning": "Severe sepsis incidence ~75 per 100k from ICU and hospital surveillance data. Represents critical subset of sepsis cases with organ dysfunction. Significant mortality (30-40%), major public health burden.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Martin GS et al. (2003). The epidemiology of sepsis in the United States from 1979 through 2000. N Engl J Med. 348(16):1546-1554",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12700374/",
+  "source_type": "literature"
+}

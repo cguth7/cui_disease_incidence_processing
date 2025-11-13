@@ -1,0 +1,19 @@
+{
+  "cui": "C0349620",
+  "cui_name": "Nontraumatic subdural hematoma",
+  "incidence_per_100k": 7.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Subdural hematoma",
+  "reasoning": "Nontraumatic subdural hematoma (spontaneous SDH) occurs primarily in elderly patients on anticoagulation or with coagulopathies. Estimated incidence ~5-10 per 100k person-years in general population, higher in elderly (>65 years). Uses incidence metric for acute neurological event.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ducruet AF et al. (2012). Epidemiology, clinical presentation, and prognosis of acute subdural hematoma. Neurosurg Clin N Am. 23(2):137-147",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/22440791/",
+  "source_type": "literature"
+}

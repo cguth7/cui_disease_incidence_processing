@@ -1,0 +1,19 @@
+{
+  "cui": "C0275911",
+  "cui_name": "Tuberculosis of intestines",
+  "incidence_per_100k": 4.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 320000,
+  "confidence": 0.40,
+  "is_subtype": true,
+  "parent_disease": "Tuberculosis",
+  "reasoning": "Extrapulmonary TB comprises ~20% of TB cases; intestinal TB is ~10% of extrapulmonary TB, thus ~2% of all TB. Global TB incidence varies 100-400+ per 100k depending on region. Estimated intestinal TB ~4 per 100k as global average. Limited specific epidemiological data for intestinal TB; confidence capped due to estimation method.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Intestinal and peritoneal tuberculosis: changing trends over 10 years and a review of 80 patients; Anand SS et al. (2011). PMC3211607.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3211607/",
+  "source_type": "literature"
+}

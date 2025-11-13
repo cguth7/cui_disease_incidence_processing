@@ -1,0 +1,19 @@
+{
+  "cui": "C3715164",
+  "cui_name": "Carcinoma of the lacrimal gland",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Lacrimal Gland Neoplasm",
+  "reasoning": "Lacrimal gland carcinoma is a rare orbital malignancy. Estimated incidence <1 per 100k globally, approximately 0.15 per 100k based on cancer registries. Represents <1% of orbital tumors. Primarily adenocarcinoma histology.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Cancer registries and ophthalmologic oncology databases",
+  "source_url": null,
+  "source_type": null
+}

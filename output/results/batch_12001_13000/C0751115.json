@@ -1,0 +1,19 @@
+{
+  "cui": "C0751115",
+  "cui_name": "Digestive Epilepsy",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Digestive epilepsy (seizures triggered by digestive/eating stimuli) is too obscure and poorly-defined as an epidemiological entity to map meaningfully. This appears to be a historical or rare classification not supported by modern epilepsy taxonomy. No population-based epidemiological studies available.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

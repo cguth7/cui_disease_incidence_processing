@@ -1,0 +1,19 @@
+{
+  "cui": "C0002985",
+  "cui_name": "Angina pectoris",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": 2500,
+  "metric_type": "both",
+  "total_cases_per_year": 200000000,
+  "confidence": 0.85,
+  "is_subtype": true,
+  "parent_disease": "Ischemic heart disease",
+  "reasoning": "Angina: both incidence (~2.5 new cases per 100k/year) and prevalence (~2.5% of adults). Chronic cardiac condition with acute symptom episodes. Major cardiovascular syndrome affecting 80+ million people globally.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Fox KM et al. (2006). Management of acute coronary syndromes. Eur Heart J. 27(16):1919-1958",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16882679/",
+  "source_type": "literature"
+}

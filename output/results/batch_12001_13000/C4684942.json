@@ -1,0 +1,19 @@
+{
+  "cui": "C4684942",
+  "cui_name": "Refractory Thyroid Gland Carcinoma",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Thyroid Gland Carcinoma",
+  "reasoning": "Refractory thyroid cancer represents a subset of thyroid cancer cases. Global thyroid cancer incidence ~1.5-2 per 100k. Refractory cases represent treatment-resistant malignancy, subtype of broader thyroid cancer category with GLOBOCAN data support.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

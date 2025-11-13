@@ -1,0 +1,19 @@
+{
+  "cui": "C3554608",
+  "cui_name": "Post-Liver Transplant Complications",
+  "incidence_per_100k": 15.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1216000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Liver Transplant Outcomes",
+  "reasoning": "Post-liver transplant complications (acute rejection, infection, recurrent hepatitis) occur in 40-60% of recipients in first year. With ~25,000 liver transplants annually worldwide, estimated ~15 per 100k person-years in transplant population.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "American Society of Transplantation clinical practice guidelines",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3897746",
+  "cui_name": "Disseminated intravascular coagulation (DIC) with sepsis",
+  "incidence_per_100k": 3.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 256000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Disseminated intravascular coagulation",
+  "reasoning": "DIC secondary to sepsis/infection is the most common cause of DIC in hospitalized patients. Incidence estimates 0.8-5% of ICU patients (~3 per 100k in general population when accounting for ICU admission risk). Uses incidence metric for acute coagulation disorder with sepsis.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gando S et al. (2016). Scientific Standardization Committee on DIC of the International Society on Thrombosis and Haemostasis. Thromb Res. 149:48-52",
+  "source_url": null,
+  "source_type": "literature"
+}

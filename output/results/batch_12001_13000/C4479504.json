@@ -1,0 +1,19 @@
+{
+  "cui": "C4479504",
+  "cui_name": "THROMBOCYTOPENIA, ANEMIA, AND MYELOFIBROSIS",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Myeloproliferative disorder",
+  "reasoning": "Thrombocytopenia, anemia, and myelofibrosis appears to be a rare genetic syndrome combining hematologic abnormalities. This is an extremely rare condition with very limited epidemiological data. Incidence estimated <0.01 per 100k based on isolated case reports in genetics literature. Primarily documented as familial cases in medical literature.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

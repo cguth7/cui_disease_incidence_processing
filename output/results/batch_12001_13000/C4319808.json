@@ -1,0 +1,19 @@
+{
+  "cui": "C4319808",
+  "cui_name": "Obesity - metabolic syndrome",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000000,
+  "confidence": 0.78,
+  "is_subtype": true,
+  "parent_disease": "Metabolic Syndrome",
+  "reasoning": "Obesity as component of metabolic syndrome is measured as prevalence, not incidence. Global obesity prevalence approximately 8-10% of adult population (8,500 per 100k). Strong geographic variation with higher prevalence in developed nations. WHO 2005 data and subsequent epidemiological surveys.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Kelly T et al. (2008). Global burden of obesity in 2005 and projections to 2030. Int J Obes. 32:1431-1437",
+  "source_url": null,
+  "source_type": "literature"
+}

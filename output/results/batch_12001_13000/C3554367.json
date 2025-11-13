@@ -1,0 +1,19 @@
+{
+  "cui": "C3554367",
+  "cui_name": "Systemic scleroderma",
+  "incidence_per_100k": 19.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1560000,
+  "confidence": 0.74,
+  "is_subtype": true,
+  "parent_disease": "Scleroderma",
+  "reasoning": "Systemic sclerosis (systemic scleroderma) global incidence ~19.5 per 100k per year. Well-documented autoimmune connective tissue disorder with clear diagnostic criteria (ACR/EULAR 2013). Incidence estimates from epidemiological studies in Europe and North America.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Chifflot H et al. (2008). Incidence and prevalence of systemic sclerosis: a systematic review. Semin Arthritis Rheum. 38(2):123-145",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18191990/",
+  "source_type": "literature"
+}

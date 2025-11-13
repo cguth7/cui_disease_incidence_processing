@@ -1,0 +1,19 @@
+{
+  "cui": "C1868889",
+  "cui_name": "Spastic paraplegia with thin corpus callosum",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Hereditary Spastic Paraplegia",
+  "reasoning": "HSP with thin corpus callosum (TCC) is a rare neurogenetic variant of hereditary spastic paraplegia. Birth incidence estimated <0.2 per 100k. Only dozens of families reported in literature. Low confidence due to rarity and limited epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gros-Louis F et al. (2007). Mutations in SACS encoding serine-threonine kinase SAC cause autosomal recessive spastic ataxia of Charlevoix-Saguenay type. Nat Genet. 39(4):481-488",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/17417632/",
+  "source_type": "literature"
+}

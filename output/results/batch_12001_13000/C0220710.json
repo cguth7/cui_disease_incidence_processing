@@ -1,0 +1,19 @@
+{
+  "cui": "C0220710",
+  "cui_name": "Medium-chain acyl-coenzyme A dehydrogenase deficiency",
+  "incidence_per_100k": 0.08,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 6400,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Fatty Acid Oxidation Disorders",
+  "reasoning": "MCAD deficiency is a rare autosomal recessive metabolic disorder. Incidence estimated 1 per 10,000-20,000 newborns globally, approximately 0.07-0.10 per 100k live births. Prevalence varies by region and screening practices.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Zytkovicz TH et al. (2001). Tandem mass spectrometric analysis for amino, acyl-carnitine, and organic acids in newborn screening. Clin Chem. 47(11):1945-1955",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11673367/",
+  "source_type": "literature"
+}

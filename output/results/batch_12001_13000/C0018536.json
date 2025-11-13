@@ -1,0 +1,19 @@
+{
+  "cui": "C0018536",
+  "cui_name": "Hallux Valgus",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": 4000,
+  "metric_type": "both",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Foot Deformities",
+  "reasoning": "Hallux valgus (bunion) prevalence estimated at 2-4% of adult population, higher in females. Global prevalence approximately 3,000-4,000 per 100k adults. Incidence of surgical correction and newly diagnosed cases approximately 150 per 100k person-years. Data from podiatric surveys and orthopedic registries with moderate geographic variation.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epidemiological surveys from orthopedic and podiatric literature",
+  "source_url": null,
+  "source_type": "estimate"
+}

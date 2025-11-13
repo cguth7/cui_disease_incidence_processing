@@ -1,0 +1,19 @@
+{
+  "cui": "C1836705",
+  "cui_name": "Familial pseudohyperkalemia",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": 2.0,
+  "metric_type": "both",
+  "total_cases_per_year": 160000,
+  "confidence": 0.55,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Familial pseudohyperkalemia (PSHK) is an asymptomatic condition presenting with falsely elevated plasma potassium levels after blood storage at cool temperatures. Caused by mutations in ABCB6 gene affecting ion transport across red cell membranes. Very rare, <15 kindreds reported, but the Arg723Gln substitution may affect ~1/500 Europeans. Estimated prevalence 2 per 100k in affected populations, incidence 0.1-0.2 per 100k.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet: Familial pseudohyperkalemia (ORD-90044); Limited case reports and genetic studies",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=90044",
+  "source_type": "registry"
+}

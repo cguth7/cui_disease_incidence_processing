@@ -1,0 +1,19 @@
+{
+  "cui": "C4055183",
+  "cui_name": "Contrast-Induced Nephropathy",
+  "incidence_per_100k": 35.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2800000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Drug-Induced Kidney Injury",
+  "reasoning": "CIN occurs in ~1-2% of all contrast-exposed patients. Estimated incidence ~35 per 100k among patients receiving iodinated contrast agents. Confidence limited by variability based on patient risk factors and contrast volume.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Mehran R et al. (2004). A simple risk score for prediction of contrast-induced nephropathy. J Am Coll Cardiol. 44(7):1393-1399",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15464318/",
+  "source_type": "literature"
+}

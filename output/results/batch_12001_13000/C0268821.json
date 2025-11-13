@@ -1,0 +1,19 @@
+{
+  "cui": "C0268821",
+  "cui_name": "Periosteal sarcoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Osteosarcoma",
+  "reasoning": "Periosteal osteosarcoma is a rare variant arising from the periosteum. Estimated incidence 0.1-0.2 per 100k per year based on bone tumor registries, representing 5-15% of all osteosarcomas. Age-dependent with peak incidence in adolescents.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Mirabello L et al. (2009). International osteosarcoma incidence patterns in children and adolescents. Int J Cancer. 125(1):229-234",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19330840/",
+  "source_type": "literature"
+}

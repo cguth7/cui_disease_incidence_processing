@@ -1,0 +1,19 @@
+{
+  "cui": "C3150703",
+  "cui_name": "FRONTONASAL DYSPLASIA 2",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.48,
+  "is_subtype": true,
+  "parent_disease": "Frontonasal Dysplasia",
+  "reasoning": "Frontonasal dysplasia type 2 is a rare craniofacial developmental disorder. Type 2 represents genetic variant with ALX1 mutations. Estimated incidence <0.5 per 100k births based on craniofacial registries and genetic databases. Total frontonasal dysplasia incidence ~1-2 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Birth defect registries and craniofacial genetics literature",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1456144",
+  "cui_name": "Dental caries pit and fissure",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 50000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 4000000000,
+  "confidence": 0.65,
+  "is_subtype": true,
+  "parent_disease": "Dental Caries",
+  "reasoning": "Pit and fissure caries represents the most common caries location (occlusal surfaces). Reported as prevalence rather than incidence. Global dental caries burden shows pit-and-fissure variant comprises ~50% of affected population. Prevalence-based metric appropriate for chronic dental condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "WHO Global Oral Health Data Bank",
+  "source_url": null,
+  "source_type": "registry"
+}

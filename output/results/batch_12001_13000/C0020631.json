@@ -1,0 +1,19 @@
+{
+  "cui": "C0020631",
+  "cui_name": "Hypertension",
+  "incidence_per_100k": 18.5,
+  "prevalence_per_100k": 22000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 1760000000,
+  "confidence": 0.88,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hypertension is a chronic condition; prevalence more appropriate than incidence. WHO 2005 data estimates ~22% of global adults with hypertension (22,000 per 100k). Major cardiovascular risk factor affecting 1.5+ billion people globally.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "World Health Organization (2005). Preventing chronic diseases: a vital investment. WHO Global Report.",
+  "source_url": "https://www.who.int/publications/2005/preventing_chronic_diseases_en.pdf",
+  "source_type": "registry"
+}

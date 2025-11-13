@@ -1,0 +1,19 @@
+{
+  "cui": "C0796280",
+  "cui_name": "Pulmonary embolism",
+  "incidence_per_100k": 60.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 4800000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": "Venous Thromboembolism",
+  "reasoning": "Pulmonary embolism incidence approximately 60 per 100k person-years globally based on epidemiological studies and hospital registry data. Varies by age and risk factors. Third-line data from hospital-based epidemiology studies circa 2005.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Kearon C et al. (2008). Antithrombotic therapy for VTE disease. Chest. 133(6_suppl):454S-545S",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/18574272/",
+  "source_type": "literature"
+}

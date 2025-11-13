@@ -1,0 +1,19 @@
+{
+  "cui": "C1853396",
+  "cui_name": "Primary lateral sclerosis juvenile",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Primary Lateral Sclerosis",
+  "reasoning": "Juvenile-onset PLS is an extremely rare neurodegenerative disease. PLS is a variant of ALS affecting upper motor neurons. Incidence estimated at 0.1-0.2 per 100k. Juvenile cases represent a small subset (<5% of PLS cases). Very limited epidemiological data; mostly documented through case reports and neuromuscular registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

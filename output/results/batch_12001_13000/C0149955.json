@@ -1,0 +1,19 @@
+{
+  "cui": "C0149955",
+  "cui_name": "Annular pancreas",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Congenital anomaly where pancreatic tissue encircles duodenum. Estimated incidence ~0.3-0.5 per 100k births based on autopsy and surgical series (~3-15 per 100,000 births in pediatric populations). Most cases asymptomatic; symptomatic cases require surgical intervention. Confidence limited by lack of large prospective studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

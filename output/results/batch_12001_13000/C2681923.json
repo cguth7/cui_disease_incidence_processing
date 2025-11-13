@@ -1,0 +1,19 @@
+{
+  "cui": "C2681923",
+  "name": "RETINITIS PIGMENTOSA 2 (disorder)",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Retinitis Pigmentosa",
+  "reasoning": "Retinitis Pigmentosa Type 2 is a rare genetic retinal disorder. Estimated <0.1 per 100k based on case reports and genetic epidemiology.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

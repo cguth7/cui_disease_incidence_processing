@@ -1,0 +1,19 @@
+{
+  "cui": "C0278984",
+  "cui_name": "Mucopolysaccharidosis Type II",
+  "incidence_per_100k": 0.34,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 27200,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Mucopolysaccharidosis",
+  "reasoning": "MPS II (Hunter syndrome) is an X-linked lysosomal storage disorder with incidence approximately 0.3-0.5 per 100k live births. Subtype of broader MPS category with specific enzymatic deficiency.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Neufeld EF et al. (2001). Lysosomal Storage Diseases. In: Scriver CR et al. (eds). The Metabolic and Molecular Bases of Inherited Disease. McGraw-Hill",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2608045",
+  "cui_name": "Trilateral Retinoblastoma",
+  "incidence_per_100k": 0.008,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 640,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Retinoblastoma",
+  "reasoning": "Rare pediatric cancer; trilateral retinoblastoma (bilateral + pineal tumor) occurs in ~5-10% of hereditary retinoblastoma cases. Estimated ~0.008 per 100k from cancer registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

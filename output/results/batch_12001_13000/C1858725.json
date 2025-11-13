@@ -1,0 +1,19 @@
+{
+  "cui": "C1858725",
+  "cui_name": "Waldenstr\u00f6m Macroglobulinemia",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.7,
+  "is_subtype": true,
+  "parent_disease": "Lymphoproliferative Disorders",
+  "reasoning": "Waldenstr\u00f6m macroglobulinemia is a rare lymphoid neoplasm. Incidence ~0.5-1.0 per 100k based on cancer registry data and hematology studies. More common in elderly populations.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Groves FD et al. (2003). Waldenstr\u00f6m macroglobulinemia incidence in the United States. Blood. 101(12):4753-4756",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/12586611/",
+  "source_type": "literature"
+}

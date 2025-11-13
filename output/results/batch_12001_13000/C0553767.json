@@ -1,0 +1,19 @@
+{
+  "cui": "C0553767",
+  "cui_name": "Congenital Cerebral Palsy",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.75,
+  "is_subtype": false,
+  "parent_disease": "Cerebral Palsy",
+  "reasoning": "Congenital cerebral palsy incidence approximately 2.5 per 100k births globally. Data from WHO perinatal epidemiology studies and birth cohorts.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Keogh JM et al. (2004). Trends in birth prevalence of cerebral palsy. Arch Dis Child. 89(12):1162-1166",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15557050/",
+  "source_type": "literature"
+}

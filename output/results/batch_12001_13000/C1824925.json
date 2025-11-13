@@ -1,0 +1,19 @@
+{
+  "cui": "C1824925",
+  "cui_name": "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 5,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary hypertension",
+  "reasoning": "CTEPH is a rare form of pulmonary hypertension developing after acute pulmonary embolism. Estimated incidence 0.5-1.0 per 100k; develops in ~2-4% of PE survivors. Prevalence estimated 5-10 per 100k in developed countries. Reports both incidence (new cases) and prevalence (existing burden).",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Pepke-Zaba J et al. (2011). Chronic thromboembolic pulmonary hypertension: Results from an international prospective registry. Circulation. 124(18):1973-1981",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21969010/",
+  "source_type": "literature"
+}

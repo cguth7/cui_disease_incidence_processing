@@ -1,0 +1,19 @@
+{
+  "cui": "C0037050",
+  "cui_name": "Smallpox",
+  "incidence_per_100k": 0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 0,
+  "confidence": 1.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Smallpox was declared eradicated by the World Health Organization in 1980. No cases have occurred naturally since 1977. Current incidence is zero globally. Virus samples are maintained only in authorized laboratory repositories.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "World Health Organization. (2005). Smallpox eradication declaration. WHO Records",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/smallpox",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2751431",
+  "cui_name": "Persistent trigeminal artery",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Vascular malformation",
+  "reasoning": "Rare embryological vascular anomaly. Incidence <0.5 per 100k based on angiography studies.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

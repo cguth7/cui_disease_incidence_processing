@@ -1,0 +1,19 @@
+{
+  "cui": "C0270254",
+  "cui_name": "Hydrops of Placenta",
+  "incidence_per_100k": 2.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 200000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hydrops of placenta is an obstetric finding involving fluid accumulation. Incidence estimated at ~2-3 per 100k pregnancies/births based on obstetric literature. Confidence limited by variability in diagnostic criteria, classification as placental pathology vs. fetal condition, and inconsistent reporting across regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

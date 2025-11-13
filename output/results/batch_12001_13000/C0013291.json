@@ -1,0 +1,19 @@
+{
+  "cui": "C0013291",
+  "cui_name": "Drug toxicity",
+  "incidence_per_100k": 5000.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 400000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Drug toxicity/adverse drug reactions (ADRs): aggregate BOTEC estimate summing major categories: hepatotoxicity (~1000), nephrotoxicity (~500), cardiotoxicity (~800), hematologic (~1000), dermatologic (~1500), GI (~100), etc. Total ~5000 per 100k population per year. Heterogeneous category heavily dependent on drug exposure, population, and detection/reporting rates. Low confidence due to aggregation and variable definitions.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

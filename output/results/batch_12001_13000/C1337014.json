@@ -1,0 +1,19 @@
+{
+  "cui": "C1337014",
+  "cui_name": "Grade I Chondrosarcoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Chondrosarcoma",
+  "reasoning": "Grade I chondrosarcoma (low-grade) is a histologically specific subtype of chondrosarcoma with estimated incidence of 0.15 per 100k. Global chondrosarcoma incidence from GLOBOCAN is approximately 0.5-0.8 per 100k; Grade I represents lower-grade tumors with better prognosis.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN and national cancer registries",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

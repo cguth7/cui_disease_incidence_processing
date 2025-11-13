@@ -1,0 +1,19 @@
+{
+  "cui": "C4072940",
+  "cui_name": "Lyme disease",
+  "incidence_per_100k": 7.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 560000.0,
+  "confidence": 0.72,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lyme disease incidence varies geographically. Global estimate ~7 per 100k in endemic areas. US reports approximately 10-20 per 100k in northeastern endemic regions.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CDC surveillance data and epidemiological studies",
+  "source_url": "https://www.cdc.gov/lyme/index.html",
+  "source_type": "registry"
+}

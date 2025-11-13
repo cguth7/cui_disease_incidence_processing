@@ -1,0 +1,19 @@
+{
+  "cui": "C4023317",
+  "cui_name": "Dichromacy",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 800,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 64000000,
+  "confidence": 0.7,
+  "is_subtype": false,
+  "parent_disease": "Color blindness",
+  "reasoning": "Dichromacy (red-green color blindness) reported as ~8% in males, ~0.4% in females. Global prevalence estimate ~800 per 100k population (weighted by sex). Congenital condition measured as prevalence, not incidence. Based on population genetics and ophthalmic epidemiology studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Population genetics studies of color vision deficiency",
+  "source_url": null,
+  "source_type": "literature"
+}

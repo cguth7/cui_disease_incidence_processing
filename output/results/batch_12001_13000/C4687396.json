@@ -1,0 +1,19 @@
+{
+  "cui": "C4687396",
+  "cui_name": "Benign Lichenoid Keratosis",
+  "incidence_per_100k": 15.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1216000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Keratosis",
+  "reasoning": "Benign lichenoid keratosis is a common, benign skin lesion. Incidence estimated at 10-20 per 100k per year globally, with higher rates in older adults and sun-exposed populations. Often misdiagnosed clinically; histological confirmation distinguishes from other keratoses.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

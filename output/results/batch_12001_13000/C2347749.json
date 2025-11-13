@@ -1,0 +1,19 @@
+{
+  "cui": "C2347749",
+  "cui_name": "Adult Grade III Meningioma",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Meningioma",
+  "reasoning": "Grade III meningiomas represent atypical/malignant meningiomas, accounting for ~8-10% of all meningiomas. Global meningioma incidence is ~8-10 per 100k; Grade III subset approximately 0.8 per 100k. Specific age-stratified incidence data for adult Grade III limited in epidemiological literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Meningioma epidemiology estimates based on tumor registry proportions",
+  "source_url": null,
+  "source_type": "estimate"
+}

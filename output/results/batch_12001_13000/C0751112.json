@@ -1,0 +1,19 @@
+{
+  "cui": "C0751112",
+  "cui_name": "Subclinical Seizure",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.15,
+  "is_subtype": true,
+  "parent_disease": "Seizure",
+  "reasoning": "Subclinical seizures (electrographic seizures without clinical manifestations) are difficult to quantify epidemiologically since they require continuous EEG monitoring. No systematic population-based incidence data available. Often identified in ICU settings or epilepsy monitoring but not tracked in general population surveillance.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

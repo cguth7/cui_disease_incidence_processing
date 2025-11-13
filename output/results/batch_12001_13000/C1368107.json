@@ -1,0 +1,19 @@
+{
+  "cui": "C1368107",
+  "cui_name": "Congenital toxoplasmosis",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Toxoplasmosis",
+  "reasoning": "Congenital toxoplasmosis incidence varies globally (0.5-15 per 100k live births depending on maternal seroprevalence). Global average estimated at ~1-2 per 100k births.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO and CDC surveillance data on congenital toxoplasmosis",
+  "source_url": null,
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C1861689",
+  "cui_name": "Inflammatory Bowel Disease - Crohn's Disease",
+  "incidence_per_100k": 6.5,
+  "prevalence_per_100k": 80,
+  "metric_type": "both",
+  "total_cases_per_year": 520000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Inflammatory Bowel Disease",
+  "reasoning": "Crohn's disease incidence ~6-8 per 100k person-years with prevalence ~80 per 100k in developed countries. Peak onset in 20-40 year age group. Based on multiple epidemiological studies and disease registries.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2004,
+  "source": "Loftus EV Jr. (2004). Clinical epidemiology of inflammatory bowel disease: Incidence, prevalence, and environmental influences. Gastroenterology. 126(6):1504-1517",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15168363/",
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C4302261",
+  "cui_name": "Substance use disorder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8700,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 696000000,
+  "confidence": 0.65,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Substance use disorders measured as prevalence (~8.7% global population affected per year). Wide variation by substance type and region.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "UNODC. (2012). World Drug Report. United Nations Office on Drugs and Crime",
+  "source_url": "https://www.unodc.org/documents/data-and-analysis/WDR2012/WDR_2012_booklet.pdf",
+  "source_type": "registry"
+}

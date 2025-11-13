@@ -1,0 +1,19 @@
+{
+  "cui": "C0272323",
+  "cui_name": "Moderate hereditary factor VIII deficiency disease",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": 2.5,
+  "metric_type": "both",
+  "total_cases_per_year": 24000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Hemophilia A",
+  "reasoning": "Hemophilia A (factor VIII deficiency) has well-documented prevalence of 1 in 5,000-10,000 males globally (~10-20 per 100k). Moderate severity represents ~25% of hemophilia A cases. Incidence of new diagnoses ~0.3 per 100k per year; prevalence of living cases ~2.5 per 100k. Data from hemophilia treatment registries, confidence moderate due to incomplete global data capture.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "World Federation of Hemophilia",
+  "source_url": null,
+  "source_type": "registry"
+}

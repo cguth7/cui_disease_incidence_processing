@@ -1,0 +1,19 @@
+{
+  "cui": "C4011454",
+  "cui_name": "Metabolic Dysfunction-Associated Fatty Liver Disease",
+  "incidence_per_100k": 2500.0,
+  "prevalence_per_100k": 25000.0,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 200000000.0,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "MAFLD prevalence ~25% of global population (25,000 per 100k). Incidence data less well documented; using prevalence as primary metric for this chronic condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Eslam M et al. (2020). MAFLD: A consensus-driven proposed nomenclature for metabolic associated fatty liver disease. Gastroenterology",
+  "source_url": null,
+  "source_type": "literature"
+}

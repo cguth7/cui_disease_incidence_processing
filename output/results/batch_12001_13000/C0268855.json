@@ -1,0 +1,19 @@
+{
+  "cui": "C0268855",
+  "cui_name": "Hypertrophy of Bladder",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3500,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 280000000,
+  "confidence": 0.5,
+  "is_subtype": false,
+  "parent_disease": "Bladder Disorder",
+  "reasoning": "Bladder hypertrophy is typically a secondary condition resulting from chronic outlet obstruction (often benign prostatic hyperplasia in males). Prevalence estimated at ~3-5% of adult population globally, reported as prevalence rather than incidence.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

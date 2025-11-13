@@ -1,0 +1,19 @@
+{
+  "cui": "C3889050",
+  "cui_name": "Renal artery stenosis with renovascular hypertension",
+  "incidence_per_100k": 2.1,
+  "prevalence_per_100k": 45,
+  "metric_type": "both",
+  "total_cases_per_year": 168000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Renovascular hypertension",
+  "reasoning": "Renal artery stenosis (RAS) causing hypertension: incidence ~2 per 100k in general population, prevalence higher at ~0.5-0.6% of hypertensives (~45 per 100k in this subpopulation). Reports both metrics: incidence of new cases and prevalence of condition burden. Atherosclerotic RAS increases with age.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Hirsch AT et al. (2012). ACC/AHA 2005 Practice Guidelines for the Management of Patients with Peripheral Arterial Disease. J Am Coll Cardiol. 47(6):1239-1312",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16750991/",
+  "source_type": "literature"
+}

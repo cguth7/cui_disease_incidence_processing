@@ -1,0 +1,19 @@
+{
+  "cui": "C3539495",
+  "cui_name": "Autosomal recessive spastic paraplegia type 54",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Hereditary spastic paraplegia",
+  "reasoning": "Autosomal recessive neurodegenerative disorder caused by DDHD2 mutations. Complex HSP subtype with cerebellar signs, short stature, developmental delay, and intellectual disability. Fewer than 40 patients reported worldwide as of 2019; estimated <1,000 in USA. No systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

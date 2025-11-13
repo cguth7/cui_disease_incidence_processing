@@ -1,0 +1,19 @@
+{
+  "cui": "C4025697",
+  "cui_name": "Gastrointestinal atresia",
+  "incidence_per_100k": 3.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 240000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Congenital gastrointestinal anomalies",
+  "reasoning": "GI atresia (esophageal/duodenal/intestinal atresia) is a congenital birth defect with estimated incidence of 2.5-3.5 per 100k births globally. Most common type is duodenal atresia. Data from birth defect registries and pediatric surgery literature.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2003,
+  "source": "Bianchi DW et al. (2012). Fetal diagnosis and therapy of congenital anomalies. In: Creasy and Resnik's Maternal-Fetal Medicine. Saunders Elsevier. Chapter 19",
+  "source_url": null,
+  "source_type": "literature"
+}

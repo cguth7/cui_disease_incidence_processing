@@ -1,0 +1,19 @@
+{
+  "cui": "C1456283",
+  "cui_name": "Keloid and hypertrophic scar",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": 150,
+  "metric_type": "both",
+  "total_cases_per_year": 360000,
+  "confidence": 0.68,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Keloid formation incidence ~4-5 per 100k person-years with higher rates in individuals of African descent (~15%). Prevalence higher in populations with increased keloid predisposition.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Bayat A et al. (2003). Keloid disease: clinical relevance and management. J Am Acad Dermatol. 49(5):655-664",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/14576342/",
+  "source_type": "literature"
+}

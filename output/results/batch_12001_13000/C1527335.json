@@ -1,0 +1,19 @@
+{
+  "cui": "C1527335",
+  "cui_name": "Transient Ischemic Attack, Anterior Circulation",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Transient Ischemic Attack",
+  "reasoning": "Anterior circulation TIA accounts for approximately 75% of TIAs with incidence around 45 per 100k globally. Based on epidemiological studies of cerebrovascular disease.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rothwell PM et al. (2004). Population-based study of event-rate, incidence, case fatality, and mortality for all acute vascular events in all age groups. Lancet. 363(9411):1925-1931",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15194252/",
+  "source_type": "literature"
+}

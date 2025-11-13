@@ -1,0 +1,19 @@
+{
+  "cui": "C4509113",
+  "cui_name": "Secondary Biliary Cirrhosis",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 5.2,
+  "metric_type": "both",
+  "total_cases_per_year": 64000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Biliary Cirrhosis",
+  "reasoning": "Secondary biliary cirrhosis incidence estimated at ~0.8 per 100k person-years based on cholestasis registries. Prevalence approximately 5.2 per 100k due to chronic nature.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

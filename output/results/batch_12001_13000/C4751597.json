@@ -1,0 +1,19 @@
+{
+  "cui": "C4751597",
+  "cui_name": "Underdevelopment of Hip",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Developmental Dysplasia of Hip",
+  "reasoning": "Hip dysplasia/underdevelopment is a common congenital condition. Birth incidence ~10-20 per 100k live births, varies by ethnicity and screening practices.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Larson CM et al. (2011). Developmental dysplasia of the hip. J Bone Joint Surg. 93(17):1692-1698",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/21915584/",
+  "source_type": "literature"
+}

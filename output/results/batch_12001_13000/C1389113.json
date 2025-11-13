@@ -1,0 +1,19 @@
+{
+  "cui": "C1389113",
+  "cui_name": "Generalized amyotrophy",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Generalized amyotrophy is a non-specific symptom rather than a discrete disease. Estimated incidence approximately 0.8 per 100k based on motor neuron disease epidemiology, but high uncertainty due to vague concept definition.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

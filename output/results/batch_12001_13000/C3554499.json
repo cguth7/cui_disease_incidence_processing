@@ -1,0 +1,19 @@
+{
+  "cui": "C3554499",
+  "cui_name": "Microcephalic primordial dwarfism due to ZNF335 deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Primordial Dwarfism",
+  "reasoning": "Microcephalic primordial dwarfism caused by ZNF335 deficiency is an extremely rare autosomal recessive disorder. Characterized by severe growth deficiency from birth with head circumference >9 standard deviations below normal. Typically fatal by age 1-2 years. Very few cases reported globally, estimated <0.01 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet rare disease database and NIH Genetic Testing Registry",
+  "source_url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C3554499/",
+  "source_type": "registry"
+}

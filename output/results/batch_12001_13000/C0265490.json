@@ -1,0 +1,19 @@
+{
+  "cui": "C0265490",
+  "cui_name": "Essential hypertension",
+  "incidence_per_100k": 120.0,
+  "prevalence_per_100k": 28000,
+  "metric_type": "both",
+  "total_cases_per_year": 9600000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Essential hypertension: incidence ~120 per 100k per year (new diagnoses), prevalence ~28% of global population (~28,000 per 100k). Chronic condition with both well-documented incidence and prevalence. Primary cause of hypertension (90-95% of cases). Strong epidemiological data from WHO and national surveys.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Kearney PM et al. (2005). Global burden of hypertension: analysis of worldwide data. Lancet. 365(9455):217-223",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15652604/",
+  "source_type": "literature"
+}

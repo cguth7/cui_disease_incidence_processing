@@ -1,0 +1,19 @@
+{
+  "cui": "C4725093",
+  "cui_name": "Guillain-Barr\u00e9 syndrome",
+  "incidence_per_100k": 1.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 88000,
+  "confidence": 0.85,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "GBS incidence ~1.0-1.3 per 100k person-years globally, higher in winter months and after infectious episodes. Acute condition with clear diagnostic criteria.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "van Doorn PA et al. (2016). Guillain-Barr\u00e9 syndrome: diagnosis, causes and management. Lancet Neurol. 15(11):1035-1047",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27286202/",
+  "source_type": "literature"
+}

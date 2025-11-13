@@ -1,0 +1,21 @@
+[
+  {
+    "cui": "C0684550",
+    "cui_name": "Neisseria meningitidis infection",
+    "incidence_per_100k": 1.2,
+    "prevalence_per_100k": null,
+    "metric_type": "incidence",
+    "total_cases_per_year": 96000,
+    "confidence": 0.65,
+    "is_subtype": true,
+    "parent_disease": "Meningitis",
+    "reasoning": "Meningococcal meningitis incidence varies globally from 0.5-3 per 100k depending on vaccination rates and surveillance. Estimated global average ~1.2 per 100k.",
+    "data_quality": "moderate",
+    "geographic_variation": "high",
+    "year_specific": false,
+    "data_year": null,
+    "source": null,
+    "source_url": null,
+    "source_type": null
+  }
+]

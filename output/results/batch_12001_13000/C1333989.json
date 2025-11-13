@@ -1,0 +1,19 @@
+{
+  "cui": "C1333989",
+  "cui_name": "Hereditary Meningioma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Meningioma",
+  "reasoning": "Hereditary meningioma is a genetic form of meningioma, representing approximately 5-10% of all meningiomas. Global meningioma incidence ~3 per 100k, hereditary form estimated 0.15-0.2 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

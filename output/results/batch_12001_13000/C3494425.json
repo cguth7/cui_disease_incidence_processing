@@ -1,0 +1,19 @@
+{
+  "cui": "C3494425",
+  "cui_name": "Mandibular Retroposition",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 10000,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 800000000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Dentofacial deformities",
+  "reasoning": "Mandibular retroposition (micrognathia spectrum) is a skeletal malocclusion affecting ~8-12% of population. Estimated prevalence ~10% or 100 per 1000. Chronic anatomical condition with origins in dental and skeletal development. High ethnic and geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

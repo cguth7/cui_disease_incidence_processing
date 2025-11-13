@@ -1,0 +1,19 @@
+{
+  "cui": "C1857252",
+  "cui_name": "2,4-Dienoyl-CoA Reductase Deficiency",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Mitochondrial Fatty Acid Oxidation Disorders",
+  "reasoning": "Extremely rare autosomal recessive mitochondrial disorder; fewer than 10 cases reported in medical literature. Incidence estimated <0.01 per 100k based on case reports. Insufficient epidemiological data for reliable incidence estimate.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C2609282",
+  "cui_name": "Reticular pseudodrusen",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 8.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Age-related macular degeneration",
+  "reasoning": "Reticular pseudodrusen (reticular-pattern dystrophy) is a manifestation of age-related macular degeneration, better measured by prevalence than incidence. Found in approximately 0.5-2% of adults age 50+, predominantly in those with AMD. Prevalence estimated at ~0.8-1% of adult population (~8-10 per 100k). Mostly detected on imaging studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

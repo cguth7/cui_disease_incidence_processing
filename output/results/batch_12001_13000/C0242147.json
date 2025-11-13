@@ -1,0 +1,19 @@
+{
+  "cui": "C0242147",
+  "cui_name": "Acute urinary tract infection",
+  "incidence_per_100k": 5500,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 440000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Global age-standardized incidence rate of UTIs 5,531.88 per 100,000 person-years (2021 GBD data). Incidence higher in women (5,000-10,000 per 100k) than men (60-80 per 100k). Estimates based on large epidemiological studies from multiple countries. Well-documented condition with robust surveillance data.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2021,
+  "source": "Epidemiological trends and predictions of urinary tract infections in the global burden of disease study 2021; Nature Scientific Reports.",
+  "source_url": "https://www.nature.com/articles/s41598-025-89240-5",
+  "source_type": "literature"
+}

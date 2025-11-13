@@ -1,0 +1,19 @@
+{
+  "cui": "C0749163",
+  "cui_name": "Renal infarction",
+  "incidence_per_100k": 0.007,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 560,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Renal infarction is a rare acute vascular event, often discovered incidentally or during workup for flank pain. Estimated incidence ~0.007 per 100k (approximately 1 case per 14 million person-years) based on imaging and autopsy studies. Likely underdiagnosed. No reliable epidemiological surveillance data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

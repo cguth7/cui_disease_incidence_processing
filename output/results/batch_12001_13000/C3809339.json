@@ -1,0 +1,19 @@
+{
+  "cui": "C3809339",
+  "cui_name": "Post-translational protein modification",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Post-translational protein modification is a cellular/molecular biology process, not a disease or disorder. This is a biochemical mechanism (phosphorylation, acetylation, glycosylation, etc.) not a mappable clinical condition. Cannot estimate disease incidence for a molecular process.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3508933",
+  "cui_name": "Chronic obstructive pulmonary disease exacerbation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Chronic obstructive pulmonary disease",
+  "reasoning": "COPD exacerbation is an acute event, not a primary disease entity. Cannot be meaningfully expressed as incidence per 100k population. Better conceptualized as event frequency within COPD patient population (average 2-3 exacerbations per year for moderate-severe COPD). Confidence very low due to inappropriate concept for incidence mapping.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

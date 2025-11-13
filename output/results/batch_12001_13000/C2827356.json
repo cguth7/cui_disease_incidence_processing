@@ -1,0 +1,19 @@
+{
+  "cui": "C2827356",
+  "cui_name": "Myeloid/Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA, PDGFRB, or FGFR1, or with PCM1-JAK2",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Myeloproliferative Neoplasms",
+  "reasoning": "Rare myeloid/lymphoid neoplasm with molecular rearrangements. Represents subset of myeloproliferative disorders with specific genetic aberrations (PDGFRA, PDGFRB, FGFR1, PCM1-JAK2). Estimated incidence <0.2 per 100k based on WHO classification and registry data from specialized hematologic centers.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO Classification of Myeloid Neoplasms and Acute Leukemias (2016/2022)",
+  "source_url": null,
+  "source_type": "registry"
+}

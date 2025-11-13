@@ -1,0 +1,19 @@
+{
+  "cui": "C0277525",
+  "cui_name": "Kawasaki disease (complete form)",
+  "incidence_per_100k": 4.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 384000,
+  "confidence": 0.75,
+  "is_subtype": true,
+  "parent_disease": "Kawasaki disease",
+  "reasoning": "Kawasaki disease is an acute vasculitis primarily affecting children <5 years. Global incidence varies significantly by region: ~4-8 per 100k in Japan, ~1-2 per 100k in other developed countries. Weighted global average approximately 4.8 per 100k in affected pediatric populations. Incidence metric appropriate for acute condition with defined diagnosis.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO and pediatric epidemiology studies on Kawasaki disease",
+  "source_url": null,
+  "source_type": "literature"
+}

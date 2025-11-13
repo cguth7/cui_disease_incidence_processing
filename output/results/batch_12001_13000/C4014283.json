@@ -1,0 +1,19 @@
+{
+  "cui": "C4014283",
+  "cui_name": "Infection by Vibrio parahaemolyticus",
+  "incidence_per_100k": 2.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 184000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Vibrio infection",
+  "reasoning": "Vibrio parahaemolyticus is a foodborne pathogen causing gastroenteritis. Global incidence estimated at 1-5 per 100k annually, highest in coastal regions and areas with high seafood consumption. Significant geographic variation; primarily reported in developed nations with surveillance systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Letchumanan V et al. (2014). Vibrio parahaemolyticus: a review on distribution, epidemiology, virulence and interaction with the immune system. Front Microbiol. 5:article 713",
+  "source_url": null,
+  "source_type": "literature"
+}

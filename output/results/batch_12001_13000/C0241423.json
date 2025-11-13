@@ -1,0 +1,19 @@
+{
+  "cui": "C0241423",
+  "cui_name": "Pulmonary sarcoidosis",
+  "incidence_per_100k": 2.4,
+  "prevalence_per_100k": 20,
+  "metric_type": "incidence",
+  "total_cases_per_year": 192000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Sarcoidosis",
+  "reasoning": "Pulmonary sarcoidosis is the most common form of systemic sarcoidosis. Global annual incidence estimated at 1-2.4 per 100k person-years based on epidemiological surveys. Higher incidence in African-Americans and Northern Europeans. Incidence preferred metric for sarcoidosis as it captures new diagnoses annually.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Estimated from epidemiological literature on sarcoidosis incidence studies",
+  "source_url": null,
+  "source_type": "literature"
+}

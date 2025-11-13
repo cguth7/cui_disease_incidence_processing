@@ -1,0 +1,19 @@
+{
+  "cui": "C0268117",
+  "cui_name": "Sepsis - Associated Lactic Acidosis",
+  "incidence_per_100k": 15.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000,
+  "confidence": 0.58,
+  "is_subtype": true,
+  "parent_disease": "Lactic Acidosis",
+  "reasoning": "Lactic acidosis complicating sepsis. Estimated incidence 10-20 per 100k based on ICU literature and sepsis surveillance data. High geographic variation due to healthcare infrastructure differences. Confidence moderate due to limited specific epidemiological registry data.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2001,
+  "source": "Angus DC et al. (2001). Epidemiology of severe sepsis in the United States. Crit Care Med. 29:1303-1310",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11445675/",
+  "source_type": "literature"
+}

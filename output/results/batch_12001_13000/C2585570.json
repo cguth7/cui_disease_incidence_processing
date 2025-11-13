@@ -1,0 +1,19 @@
+{
+  "cui": "C2585570",
+  "cui_name": "Benign Multiple Sclerosis",
+  "incidence_per_100k": 0.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 32000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Multiple Sclerosis",
+  "reasoning": "Benign MS is a subtype characterized by slow disease progression with minimal disability. Global MS incidence ~2-3 per 100k; benign form represents approximately 10-20% of cases. Estimated incidence ~0.4 per 100k. Confidence limited by imprecise proportion of benign cases and heterogeneous definitions across studies.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

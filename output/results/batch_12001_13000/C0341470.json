@@ -1,0 +1,19 @@
+{
+  "cui": "C0341470",
+  "cui_name": "Alcohol-induced chronic pancreatitis",
+  "incidence_per_100k": 4.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 360000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Chronic Pancreatitis",
+  "reasoning": "Alcohol-induced chronic pancreatitis accounts for approximately 60-70% of chronic pancreatitis cases. Global incidence of chronic pancreatitis ~7 per 100k, with alcohol-induced component estimated at 4-5 per 100k.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Gastroenterology epidemiological data, pancreatic disease registries",
+  "source_url": null,
+  "source_type": "estimate"
+}

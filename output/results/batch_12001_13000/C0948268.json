@@ -1,0 +1,19 @@
+{
+  "cui": "C0948268",
+  "cui_name": "Hemodynamic instability",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Hemodynamic instability is a physiological state or clinical finding, not a discrete disease entity. Cannot be meaningfully mapped to incidence rates without specifying the underlying cause (shock, sepsis, cardiac failure, etc.). Too vague and generic to estimate.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

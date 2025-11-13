@@ -1,0 +1,19 @@
+{
+  "cui": "C2242589",
+  "cui_name": "Coronaropathy",
+  "incidence_per_100k": 150,
+  "prevalence_per_100k": 3000,
+  "metric_type": "both",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.78,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Coronaropathy (coronary artery disease/pathology) is a major cardiovascular condition. Incidence of acute coronary events approximately 150-200 per 100k globally; prevalence of coronary artery disease approximately 3-5% (3000-5000 per 100k). Both metrics relevant given chronic nature with acute exacerbations.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "WHO cardiovascular disease epidemiology, global burden of disease estimates",
+  "source_url": null,
+  "source_type": "estimate"
+}

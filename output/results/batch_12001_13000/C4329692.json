@@ -1,0 +1,19 @@
+{
+  "cui": "C4329692",
+  "cui_name": "Craniotubular Hyperostosis",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Skeletal Dysplasia",
+  "reasoning": "Craniotubular hyperostosis is a rare genetic skeletal dysplasia with marked osteosclerosis. Estimated <0.05 per 100k births based on sparse case reports. Very limited epidemiological data; confidence reflects extremely rare condition with minimal population-based incidence studies.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

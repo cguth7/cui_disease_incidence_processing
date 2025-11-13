@@ -1,0 +1,19 @@
+{
+  "cui": "C0278801",
+  "cui_name": "Endometrial neoplasm malignant metastatic",
+  "incidence_per_100k": 8.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 680000,
+  "confidence": 0.82,
+  "is_subtype": true,
+  "parent_disease": "Endometrial cancer",
+  "reasoning": "Malignant metastatic endometrial cancer represents approximately 20-25% of endometrial cancer cases. Global endometrial cancer incidence ~35 per 100k from GLOBOCAN 2005, metastatic subset ~8.5 per 100k.",
+  "data_quality": "strong",
+  "geographic_variation": "moderate",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005 (IARC)",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0085933",
+  "cui_name": "Infections, Bunyavirus",
+  "incidence_per_100k": 45.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 3600000,
+  "confidence": 0.28,
+  "is_subtype": false,
+  "parent_disease": "Viral Infections",
+  "reasoning": "Aggregate BOTEC estimate summing major bunyavirus infections: Hantavirus (~5 per 100k in endemic regions, globally ~0.5), Crimean-Congo hemorrhagic fever (~2-3), Rift Valley fever (~10 in outbreak years, baseline ~1), Phlebovirus (~5), other bunyaviruses (~20-30). Conservative aggregate ~45 per 100k globally with high geographic variation.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

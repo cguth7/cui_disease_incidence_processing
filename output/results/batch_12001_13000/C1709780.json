@@ -1,0 +1,19 @@
+{
+  "cui": "C1709780",
+  "cui_name": "Pyloric Gland Adenoma",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.2,
+  "is_subtype": true,
+  "parent_disease": "Stomach Adenoma",
+  "reasoning": "Pyloric gland adenoma is an extremely rare benign gastric tumor. Fewer than 100 cases reported in literature. Estimated <0.05 per 100k based on sparse case reports.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

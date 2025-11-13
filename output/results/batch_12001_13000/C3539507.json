@@ -1,0 +1,19 @@
+{
+  "cui": "C3539507",
+  "cui_name": "Hereditary spastic paraplegia 56",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": true,
+  "parent_disease": "Hereditary spastic paraplegia",
+  "reasoning": "Autosomal recessive neurodegenerative disorder caused by CYP2U1 mutations, characterized by early-onset progressive lower-limb spasticity. Prevalence reported as <1 per 1,000,000. Approximately 23 documented cases worldwide. Limited epidemiological data available.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

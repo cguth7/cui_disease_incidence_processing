@@ -1,0 +1,19 @@
+{
+  "cui": "C1834703",
+  "cui_name": "Neuronopathy, distal hereditary motor, type 7A",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.32,
+  "is_subtype": true,
+  "parent_disease": "Distal hereditary motor neuropathy",
+  "reasoning": "Rare genetic neurological disorder associated with SLC5A7 gene mutations. Subtype of distal hereditary motor neuropathy type 7A with extremely limited population-based incidence data. Estimated <0.01 per 100k based on case reports and genetic testing registries.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

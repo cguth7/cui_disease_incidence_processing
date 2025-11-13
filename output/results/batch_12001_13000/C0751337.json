@@ -1,0 +1,19 @@
+{
+  "cui": "C0751337",
+  "cui_name": "X-Linked Emery-Dreifuss Muscular Dystrophy",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Emery-Dreifuss Muscular Dystrophy",
+  "reasoning": "X-linked form of EDMD, rare genetic disorder affecting mainly males. Estimated incidence ~0.1 per 100k based on rare genetic disorder prevalence patterns.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

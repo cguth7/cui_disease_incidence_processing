@@ -1,0 +1,19 @@
+{
+  "cui": "C0031887",
+  "cui_name": "Picornaviridae Infections",
+  "incidence_per_100k": 1850.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 148000000,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": "Viral Infections",
+  "reasoning": "Picornaviruses (enterovirus, coxsackievirus, poliovirus, rhinovirus) cause common infections. Aggregate incidence estimated ~1500-2500 per 100k annually, varying by age and season. Includes asymptomatic and symptomatic infections.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "CDC surveillance data and WHO virus epidemiology reports",
+  "source_url": null,
+  "source_type": null
+}

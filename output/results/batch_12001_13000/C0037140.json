@@ -1,0 +1,19 @@
+{
+  "cui": "C0037140",
+  "cui_name": "B Virus Infection",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Zoonotic Viral Infections",
+  "reasoning": "B virus (Herpesvirus simiae) is a rare zoonotic infection with sporadic human cases, primarily in laboratory workers and animal handlers. Fewer than 100 human cases documented globally. Estimated incidence <0.01 per 100k based on sparse case report literature.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

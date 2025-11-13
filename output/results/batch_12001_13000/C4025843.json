@@ -1,0 +1,19 @@
+{
+  "cui": "C4025843",
+  "cui_name": "Abnormality of refraction",
+  "incidence_per_100k": 35000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 2800000000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate summing major refractive error types: myopia (~22,000 per 100k), hyperopia (~8,000 per 100k), astigmatism (~5,000 per 100k), mixed errors (~2,500 per 100k). Total ~35,000 per 100k. Very broad aggregate with heterogeneous subcategories.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ophthalmology epidemiological estimates, refractive error prevalence studies",
+  "source_url": null,
+  "source_type": "estimate"
+}

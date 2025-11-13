@@ -1,0 +1,19 @@
+{
+  "cui": "C3809434",
+  "cui_name": "Systemic Sclerosis associated Pulmonary Arterial Hypertension",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": 2.5,
+  "metric_type": "both",
+  "total_cases_per_year": 200000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Pulmonary Arterial Hypertension",
+  "reasoning": "PAH associated with systemic sclerosis (SSc-PAH) is a serious complication of connective tissue disease. Systemic sclerosis affects ~50-300 per 100k. PAH develops in 8-12% of SSc patients. Estimated incidence of SSc-PAH ~0.8 per 100k, with prevalence among SSc patients ~2-3%. Higher mortality and morbidity than idiopathic PAH.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Coghlan JG et al. (2009). Pulmonary hypertension associated with connective tissue disease: the EuPHTEA registry. Eur Respir J. 33(3):535-543",
+  "source_url": null,
+  "source_type": "literature"
+}

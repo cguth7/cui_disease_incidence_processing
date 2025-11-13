@@ -1,0 +1,19 @@
+{
+  "cui": "C0155366",
+  "cui_name": "Vitreous degeneration",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.62,
+  "is_subtype": true,
+  "parent_disease": "Vitreous Disease",
+  "reasoning": "Vitreous degeneration includes posterior vitreous detachment and related age-related changes. Estimated incidence ~10-15 per 100k person-years in adults over 50, lower in younger populations. Age-dependent condition.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Ophthalmology epidemiology studies and eye disease registries",
+  "source_url": null,
+  "source_type": null
+}

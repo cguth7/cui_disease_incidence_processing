@@ -1,0 +1,19 @@
+{
+  "cui": "C4302263",
+  "cui_name": "Cryptogenic multifocal ulcerous stenosing enteritis",
+  "incidence_per_100k": 0.1,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 8000,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": "Inflammatory Bowel Disease",
+  "reasoning": "Cryptogenic multifocal ulcerous stenosing enteritis (CMUSE) is an extremely rare form of inflammatory bowel disease, estimated at <0.1-0.2 per 100k. Very limited epidemiological data available; mostly documented through case reports and small case series. Often misdiagnosed or grouped with Crohn's disease.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

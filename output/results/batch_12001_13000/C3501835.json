@@ -1,0 +1,19 @@
+{
+  "cui": "C3501835",
+  "cui_name": "alpha-1-Antitrypsin Deficiency, Autosomal Recessive",
+  "incidence_per_100k": 1.2,
+  "prevalence_per_100k": 25.0,
+  "metric_type": "both",
+  "total_cases_per_year": 96000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "alpha-1-Antitrypsin Deficiency",
+  "reasoning": "Alpha-1-antitrypsin (AAT) deficiency is an autosomal recessive genetic disorder affecting protease inhibitor production, causing progressive lung disease and liver cirrhosis. Incidence approximately 1-2 per 100k globally; prevalence around 25 per 100k in at-risk populations. Autosomal recessive inheritance pattern more common in Europeans.",
+  "data_quality": "moderate",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": 2010,
+  "source": "NHLBI COPD Facts: Alpha-1-Antitrypsin Deficiency (NIH); Stoller & Aboussouan (2005). Alpha1-antitrypsin deficiency. Lancet. 365:2225-36",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15978930/",
+  "source_type": "literature"
+}

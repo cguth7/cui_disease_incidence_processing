@@ -1,0 +1,19 @@
+{
+  "cui": "C3554415",
+  "cui_name": "Distal arthrogryposis type 5D",
+  "incidence_per_100k": "extremely rare",
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": "extremely rare",
+  "confidence": 0.3,
+  "is_subtype": true,
+  "parent_disease": "Distal Arthrogryposis",
+  "reasoning": "Distal arthrogryposis type 5D is a very rare genetic disorder characterized by congenital finger and toe contractures. Distal arthrogryposis group overall has incidence ~1 per 10,000 births. Type 5D is one specific subtype among multiple forms (5A-5F), representing <1% of distal arthrogryposis cases. Estimated <0.1 per 100k births.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0262974",
+  "cui_name": "Subacute dermatitis",
+  "incidence_per_100k": 5.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 416000,
+  "confidence": 0.52,
+  "is_subtype": true,
+  "parent_disease": "Dermatitis",
+  "reasoning": "Subacute dermatitis is a transient inflammatory condition of the skin. Estimated incidence 4-6 per 100k based on dermatology prevalence estimates. Often self-limited and underreported in healthcare systems.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Dermatology epidemiology reviews and clinic-based prevalence studies",
+  "source_url": null,
+  "source_type": null
+}

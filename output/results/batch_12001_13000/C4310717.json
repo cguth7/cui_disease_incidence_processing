@@ -1,0 +1,19 @@
+{
+  "cui": "C4310717",
+  "cui_name": "Epileptic encephalopathy, early infantile, 41",
+  "incidence_per_100k": 1.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 80000,
+  "confidence": 0.42,
+  "is_subtype": true,
+  "parent_disease": "Early infantile developmental and epileptic encephalopathy",
+  "reasoning": "Epileptic encephalopathy, early infantile, 41 (EIEE41) is an extremely rare genetic subtype of early infantile epileptic encephalopathy. General EIEE incidence estimated at 1 per 50,000-100,000 births. EIEE41 represents a specific genetic subtype among the 60+ identified EIEE types, estimated incidence <1 per 100,000 births based on genetic epidemiology. Limited epidemiological data available; estimate based on general EIEE incidence rates.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Orphanet Early infantile developmental and epileptic encephalopathy (ORPHA:1934), Epilepsy Foundation",
+  "source_url": "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&Expert=1934",
+  "source_type": "registry"
+}

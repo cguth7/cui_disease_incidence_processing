@@ -1,0 +1,19 @@
+{
+  "cui": "C0751021",
+  "cui_name": "Crescendo Transient Ischemic Attacks",
+  "incidence_per_100k": 12.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Transient Ischemic Attack",
+  "reasoning": "Crescendo TIAs (rapidly recurring TIAs) represent ~3-5% of TIA cases. Estimated ~12 per 100k based on stroke unit data. Limited systematic epidemiological data.",
+  "data_quality": "weak",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

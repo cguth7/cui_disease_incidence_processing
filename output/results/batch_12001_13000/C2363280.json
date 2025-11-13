@@ -1,0 +1,19 @@
+{
+  "cui": "C2363280",
+  "cui_name": "Cervical auricle (disorder)",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Cervical auricle is a rare congenital malformation of the first and second pharyngeal arches, presenting as an accessory auricle in the neck area. Estimated birth prevalence ~0.1-0.3% in Asian populations, much lower in Caucasian populations. Limited epidemiological data; mostly documented through pediatric surgical case series.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

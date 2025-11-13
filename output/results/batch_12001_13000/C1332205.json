@@ -1,0 +1,19 @@
+{
+  "cui": "C1332205",
+  "cui_name": "Adult Lymphocyte-Rich Classical Hodgkin Lymphoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.68,
+  "is_subtype": true,
+  "parent_disease": "Hodgkin Lymphoma",
+  "reasoning": "Adult Hodgkin Lymphoma incidence ~2-3 per 100k globally. Lymphocyte-rich classical variant is a specific subtype comprising ~5% of cases, estimated at ~0.15 per 100k. Confidence limited by subtype specificity.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "GLOBOCAN 2005, SEER Cancer Registry, WHO",
+  "source_url": "https://gco.iarc.fr/",
+  "source_type": "registry"
+}

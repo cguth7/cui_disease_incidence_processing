@@ -1,0 +1,19 @@
+{
+  "cui": "C0554021",
+  "cui_name": "Esophageal Atresia",
+  "incidence_per_100k": 2.4,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 192000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Esophageal Abnormalities",
+  "reasoning": "Esophageal atresia is a congenital anomaly with incidence approximately 2.4 per 100k live births. Commonly diagnosed via endoscopy and imaging in neonates.",
+  "data_quality": "strong",
+  "geographic_variation": "low",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "EUROCAT Congenital Anomaly Registry",
+  "source_url": "https://www.eurocat-network.eu/",
+  "source_type": "registry"
+}

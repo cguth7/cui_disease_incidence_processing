@@ -1,0 +1,19 @@
+{
+  "cui": "C2033037",
+  "cui_name": "Pancreatic Vipoma",
+  "incidence_per_100k": 0.15,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000,
+  "confidence": 0.4,
+  "is_subtype": true,
+  "parent_disease": "Vipoma",
+  "reasoning": "Pancreatic vipoma is an extremely rare neuroendocrine tumor producing vasoactive intestinal peptide (VIP). Pancreatic neuroendocrine tumors have incidence ~0.5-2 per 100k globally, vipomas represent ~5-10% of these. Estimated ~0.15 per 100k based on case report frequency and neuroendocrine tumor epidemiology. Most vipomas are pancreatic.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

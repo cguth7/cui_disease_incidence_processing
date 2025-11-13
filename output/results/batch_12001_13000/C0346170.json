@@ -1,0 +1,19 @@
+{
+  "cui": "C0346170",
+  "cui_name": "Serous cystadenoma of ovary",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": 3.5,
+  "metric_type": "prevalence",
+  "total_cases_per_year": 280000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Ovarian neoplasm",
+  "reasoning": "Serous cystadenoma is a benign ovarian tumor, best measured by prevalence rather than incidence. Estimated at 3-5% of ovarian tumors found on imaging; prevalence approximately 3.5 per 100k women of reproductive age. Limited epidemiological data; mostly detected incidentally on imaging.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

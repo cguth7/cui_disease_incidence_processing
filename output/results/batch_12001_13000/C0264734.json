@@ -1,0 +1,19 @@
+{
+  "cui": "C0264734",
+  "cui_name": "Atrial Dilatation",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.25,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Atrial dilatation is primarily a secondary cardiac finding rather than a primary disease entity. Often associated with valvular disease, hypertension, heart failure, and other underlying conditions. Cannot be reliably mapped to independent incidence/prevalence.",
+  "data_quality": "none",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C0024224",
+  "cui_name": "Lymphangitis",
+  "incidence_per_100k": 12,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 960000,
+  "confidence": 0.52,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Lymphangitis (inflammation of lymphatic vessels) is typically acute and infectious in nature. Estimated incidence ~10-15 per 100k person-years based on clinical observations and hospital discharge data, though precise epidemiological data is limited. Incidence varies with geographic region and prevalence of underlying lymphatic disease.",
+  "data_quality": "weak",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

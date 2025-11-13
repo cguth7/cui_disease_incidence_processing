@@ -1,0 +1,19 @@
+{
+  "cui": "C0235840",
+  "cui_name": "Neonatal diarrhea",
+  "incidence_per_100k": 15000,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1200000000,
+  "confidence": 0.35,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate umbrella term combining infectious (viral, bacterial, parasitic) and noninfective neonatal diarrhea. Estimated ~15,000 per 100k globally based on neonatal infection rates, though this encompasses heterogeneous etiologies.",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

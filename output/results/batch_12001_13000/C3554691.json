@@ -1,0 +1,19 @@
+{
+  "cui": "C3554691",
+  "cui_name": "Pneumonia, Aspiration",
+  "incidence_per_100k": 18.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1480000,
+  "confidence": 0.72,
+  "is_subtype": true,
+  "parent_disease": "Pneumonia",
+  "reasoning": "Aspiration pneumonia incidence estimated at ~18-20 per 100k per year globally. Represents subset of all pneumonia cases, primarily in elderly and patients with dysphagia. Incidence varies with population age structure and healthcare quality.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Marik PE. (2001). Aspiration pneumonitis and aspiration pneumonia. N Engl J Med. 344(9):665-671",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11236774/",
+  "source_type": "literature"
+}

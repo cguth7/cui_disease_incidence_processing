@@ -1,0 +1,19 @@
+{
+  "cui": "C0877854",
+  "cui_name": "Urachus anomaly",
+  "incidence_per_100k": 0.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 40000,
+  "confidence": 0.58,
+  "is_subtype": false,
+  "parent_disease": "Congenital Urinary Tract Abnormalities",
+  "reasoning": "Urachal anomalies (remnants of embryologic connection between bladder and umbilicus) are rare congenital findings. Estimated at <1 per 100k births. Often asymptomatic and detected incidentally on imaging or during surgery for other conditions.",
+  "data_quality": "weak",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Case reports and congenital anomaly registries",
+  "source_url": null,
+  "source_type": null
+}

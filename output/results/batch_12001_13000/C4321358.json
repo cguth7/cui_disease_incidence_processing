@@ -1,0 +1,19 @@
+{
+  "cui": "C4321358",
+  "cui_name": "Unknown Disease C4321358",
+  "incidence_per_100k": null,
+  "prevalence_per_100k": null,
+  "metric_type": null,
+  "total_cases_per_year": null,
+  "confidence": 0.0,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "UMLS CUI C4321358 could not be mapped to a specific disease entity. Without verifiable source data or clear medical concept definition, this CUI is unmappable. Access to UMLS Metathesaurus Browser required for concept resolution.",
+  "data_quality": "none",
+  "geographic_variation": "unknown",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

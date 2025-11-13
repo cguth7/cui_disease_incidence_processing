@@ -1,0 +1,13 @@
+{
+  "batch_id": "batch_12001_13000_partial",
+  "total_processed": 5,
+  "timestamp": "2025-11-13T06:56:47.707672",
+  "cuis_processed": [
+    "C0158662",
+    "C3809165",
+    "C1266134",
+    "C2608045",
+    "C0700110"
+  ],
+  "output_directory": "/home/user/cui_disease_incidence_processing/output/results/batch_12001_13000"
+}

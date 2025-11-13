@@ -1,0 +1,19 @@
+{
+  "cui": "C1868677",
+  "cui_name": "Photoparoxysmal Response 1",
+  "incidence_per_100k": 0.8,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 64000,
+  "confidence": 0.45,
+  "is_subtype": false,
+  "parent_disease": "Electro-Clinical Syndrome",
+  "reasoning": "Photoparoxysmal response (PPR) is an abnormal EEG response to intermittent photic stimulation. Estimated in 3-10% of people with epilepsy (~0.5-0.8 per 100k). Genetically heterogeneous condition. Can occur as isolated EEG finding or with overt photosensitive seizures.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Epilepsy and EEG literature; NIH Genetic Testing Registry",
+  "source_url": "https://www.ncbi.nlm.nih.gov/gtr/conditions/C1868677/",
+  "source_type": "registry"
+}

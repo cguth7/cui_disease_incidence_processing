@@ -1,0 +1,19 @@
+{
+  "cui": "C3808876",
+  "cui_name": "Non-Small Cell Lung Cancer - Adenocarcinoma Type",
+  "incidence_per_100k": 16.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1320000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Non-Small Cell Lung Cancer",
+  "reasoning": "NSCLC adenocarcinoma is the most common histological type. Global incidence approximately 16-17 per 100k. Data from GLOBOCAN 2005 and international cancer registries show significant variation by geographic region and smoking prevalence.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "Parkin DM et al. (2005). Global cancer statistics, 2002. CA Cancer J Clin. 55(2):74-108",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/15761078/",
+  "source_type": "literature"
+}

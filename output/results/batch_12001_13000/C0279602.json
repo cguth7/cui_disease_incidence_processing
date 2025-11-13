@@ -1,0 +1,19 @@
+{
+  "cui": "C0279602",
+  "cui_name": "Fibroblastic osteosarcoma",
+  "incidence_per_100k": 0.3,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 24000,
+  "confidence": 0.6,
+  "is_subtype": true,
+  "parent_disease": "Osteosarcoma",
+  "reasoning": "Fibroblastic type is most common histological variant of osteosarcoma, ~0.3 per 100k globally. Peak incidence in adolescents/young adults. Limited subtype-specific epidemiological data.",
+  "data_quality": "moderate",
+  "geographic_variation": "low",
+  "year_specific": false,
+  "data_year": 2005,
+  "source": "Mirabello L et al. (2009). Osteosarcoma incidence and survival rates from 1973 to 2004. Cancer. 115(7):1531-1543",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/19197972/",
+  "source_type": "literature"
+}

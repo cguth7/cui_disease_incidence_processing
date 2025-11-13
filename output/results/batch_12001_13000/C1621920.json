@@ -1,0 +1,19 @@
+{
+  "cui": "C1621920",
+  "cui_name": "Intermediate Maple Syrup Urine Disease",
+  "incidence_per_100k": 0.2,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 16000,
+  "confidence": 0.45,
+  "is_subtype": true,
+  "parent_disease": "Maple Syrup Urine Disease",
+  "reasoning": "Intermediate MSUD is a rare autosomal recessive metabolic disorder with an estimated incidence of 0.2 per 100k globally (ranging from 0.1-0.3 depending on population). Classified as specific subtype of MSUD (intermediate form, between classic and intermittent forms).",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rare disease registries and metabolic screening studies",
+  "source_url": null,
+  "source_type": "registry"
+}

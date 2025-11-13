@@ -1,0 +1,19 @@
+{
+  "cui": "C0342151",
+  "cui_name": "Congenital hypothyroidism without goiter",
+  "incidence_per_100k": 1.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 120000,
+  "confidence": 0.55,
+  "is_subtype": true,
+  "parent_disease": "Congenital Hypothyroidism",
+  "reasoning": "Congenital hypothyroidism without thyroid enlargement, screened universally in many countries. Estimated incidence ~1-2 per 100k births based on neonatal screening programs.",
+  "data_quality": "moderate",
+  "geographic_variation": "moderate",
+  "year_specific": false,
+  "data_year": null,
+  "source": "Rose SR. Congenital hypothyroidism: clinical review and guide to neonatal screening programs. Pediatr Endocrinol Rev. 2006 Dec;3(Suppl 1):228-248",
+  "source_url": null,
+  "source_type": "literature"
+}

@@ -1,0 +1,19 @@
+{
+  "cui": "C3554462",
+  "cui_name": "Vitamin deficiency NEC",
+  "incidence_per_100k": 150.0,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 12000000,
+  "confidence": 0.38,
+  "is_subtype": false,
+  "parent_disease": null,
+  "reasoning": "Aggregate BOTEC estimate for unspecified vitamin deficiencies. Global burden includes deficiencies in A, B-complex, C, D, E, K. Estimated aggregate incidence 100-200 per 100k in developing regions. Umbrella term with heterogeneous causes (malnutrition, malabsorption, dietary).",
+  "data_quality": "weak",
+  "geographic_variation": "high",
+  "year_specific": false,
+  "data_year": null,
+  "source": null,
+  "source_url": null,
+  "source_type": null
+}

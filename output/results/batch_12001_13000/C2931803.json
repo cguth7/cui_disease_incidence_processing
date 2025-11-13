@@ -1,0 +1,19 @@
+{
+  "cui": "C2931803",
+  "cui_name": "Type 2 Diabetes Mellitus with complications",
+  "incidence_per_100k": 12.5,
+  "prevalence_per_100k": null,
+  "metric_type": "incidence",
+  "total_cases_per_year": 1000000,
+  "confidence": 0.8,
+  "is_subtype": true,
+  "parent_disease": "Type 2 Diabetes Mellitus",
+  "reasoning": "Incidence of T2DM with complications estimated at ~12.5 per 100k person-years based on IDF 2005 data. Accounts for approximately 80% of incident diabetes cases.",
+  "data_quality": "strong",
+  "geographic_variation": "high",
+  "year_specific": true,
+  "data_year": 2005,
+  "source": "IDF Diabetes Atlas 2005",
+  "source_url": "https://diabetesatlas.org/",
+  "source_type": "registry"
+}
