@@ -1,0 +1,46 @@
+{
+  "batch_info": {
+    "rows_processed": "12001-13000",
+    "total_diseases": 999,
+    "unique_cuis": 999,
+    "csv_rows": 999,
+    "processing_date": "2025-11-12"
+  },
+  "mapping_results": {
+    "mappable_diseases": 918,
+    "mappable_percentage": 91.9,
+    "unmappable_diseases": 81,
+    "unmappable_percentage": 8.1,
+    "average_confidence": 0.384
+  },
+  "confidence_distribution": {
+    "strong": 76,
+    "moderate": 395,
+    "weak": 447,
+    "none": 81
+  },
+  "data_quality": {
+    "weak": 551,
+    "moderate": 293,
+    "strong": 52,
+    "none": 103
+  },
+  "metric_types": {
+    "incidence": 724,
+    "prevalence": 112,
+    "": 142,
+    "both": 21
+  },
+  "disease_classification": {
+    "subtypes": 595,
+    "subtype_percentage": 59.6,
+    "independent": 404,
+    "independent_percentage": 40.4
+  },
+  "notes": [
+    "Successfully processed 999 diseases from rows 12001-13000",
+    "1 duplicate CUI (C3809008) resulted in 999 unique diseases",
+    "Average confidence of 0.384 reflects disease rarity distribution",
+    "Processing completed with comprehensive epidemiological mapping"
+  ]
+}
